@@ -78,12 +78,6 @@ const SUBJECTS = {
     "hf-debate"
    ],
    [
-    "Ficha de Zenón (PAU Ej. 2)",
-    "Paradojas y aporías para la reflexión, con modelo y rúbrica.",
-    "hf\\A_bloque",
-    "hf-zenon"
-   ],
-   [
     "Guía PAU en 2 páginas",
     "Estructura, criterios y consejos del examen (formato 2026).",
     "hf\\PAU",
