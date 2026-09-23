@@ -1,7 +1,4 @@
-"use strict";
-/* ===== Citas — frases célebres de la filosofía =====
-   {c:cita, a:autor, o:obra/contexto (opcional), e:época antigua|medieval|moderna|contemporanea}.
-   Recopiladas de la teoría y de las barajas de citas del aula. Dominio público (textos clásicos). */
+// Generado por tools/build_subject.js (hf) — alumnado, sin material del profesor.
 const CITAS = [
  {
   "c": "Los seres humanos comienzan y han comenzado siempre a filosofar movidos por el asombro.",
@@ -160,12 +157,6 @@ const CITAS = [
   "e": "moderna"
  },
  {
-  "c": "El hombre no es más que una caña, la más débil de la naturaleza, pero es una caña que piensa.",
-  "a": "Blaise Pascal",
-  "o": "Pensamientos",
-  "e": "moderna"
- },
- {
   "c": "La razón es, y solo debe ser, esclava de las pasiones.",
   "a": "David Hume",
   "o": "Tratado de la naturaleza humana",
@@ -187,12 +178,6 @@ const CITAS = [
   "c": "El hombre más oprimido puede oprimir a un ser: su mujer. Ella es la proletaria del propio proletario.",
   "a": "Flora Tristán",
   "o": "Emancipación obrera y femenina (Unión obrera)",
-  "e": "moderna"
- },
- {
-  "c": "Saber es poder.",
-  "a": "Francis Bacon",
-  "o": "Ciencia y dominio de la naturaleza (Meditationes sacrae)",
   "e": "moderna"
  },
  {
@@ -376,12 +361,6 @@ const CITAS = [
   "e": "contemporanea"
  },
  {
-  "c": "Lo eternamente incomprensible del mundo es su comprensibilidad.",
-  "a": "Albert Einstein",
-  "o": "Física y realidad",
-  "e": "contemporanea"
- },
- {
   "c": "El feminismo es hijo no reconocido de la Ilustración.",
   "a": "Amorós",
   "o": "La igualdad ilustrada (Hacia una crítica de la razón patriarcal)",
@@ -421,12 +400,6 @@ const CITAS = [
   "c": "El criterio material universal de la ética es la producción, reproducción y desarrollo de la vida humana en comunidad.",
   "a": "Dussel",
   "o": "Ética de la liberación (1998)",
-  "e": "contemporanea"
- },
- {
-  "c": "El ser humano es un animal simbólico.",
-  "a": "Ernst Cassirer",
-  "o": "Antropología filosófica",
   "e": "contemporanea"
  },
  {
@@ -559,12 +532,6 @@ const CITAS = [
   "c": "¡Dios ha muerto! ¡Dios permanece muerto! ¡Y nosotros lo hemos matado!",
   "a": "Nietzsche",
   "o": "La muerte de Dios (La gaya ciencia §125)",
-  "e": "contemporanea"
- },
- {
-  "c": "Todo arte es completamente inútil.",
-  "a": "Oscar Wilde",
-  "o": "El retrato de Dorian Gray (prefacio)",
   "e": "contemporanea"
  },
  {
