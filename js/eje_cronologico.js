@@ -9,7 +9,8 @@ const EJE_CRONOLOGICO = {
   "siglos": "Siglos",
   "evento": "Acontecimiento que lo abre",
   "reps": "Representantes",
-  "leyenda": "Acontecimientos que marcan el paso de un periodo a otro"
+  "leyenda": "Acontecimientos que marcan el paso de un periodo a otro",
+  "desliza": "Desliza para ver todo el eje →"
  },
  "ticks": [
   {
@@ -84,6 +85,7 @@ const EJE_CRONOLOGICO = {
    "name": "Filosofía medieval",
    "bar": "#A966A3",
    "ink": "#8A4B84",
+   "dk": "#C48ABF",
    "start": 476,
    "end": 1492,
    "siglos": "s. V – XV",
@@ -113,7 +115,8 @@ const EJE_CRONOLOGICO = {
   {
    "name": "Filosofía del Renacimiento",
    "bar": "#E94E35",
-   "ink": "#CC3A22",
+   "ink": "#B83220",
+   "dk": "#F07A66",
    "start": 1492,
    "end": 1600,
    "siglos": "s. XV – XVI",
