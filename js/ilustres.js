@@ -13,6 +13,9 @@ const ILUSTRES = {
    "Ilíada",
    "Odisea"
   ],
+  "anecdota": "<p>Una leyenda antigua cuenta que, ya anciano, Homero se encontró en la isla de Íos con unos muchachos que volvían de pescar. Les preguntó qué habían cogido y ellos respondieron con un acertijo: «Lo que atrapamos lo dejamos; lo que no atrapamos lo llevamos encima». El poeta que lo sabía todo sobre dioses y héroes no supo resolverlo. La respuesta eran los piojos que se habían quitado sentados en la playa. Ya Heráclito aludía a esta historia para burlarse de quienes confían en la sabiduría de los poetas: hasta el más grande de los griegos se dejó engañar por lo que tenía delante.</p>",
+  "fuente": "Vida de Homero atribuida a Heródoto; Certamen de Homero y Hesíodo; Heráclito, fragmento sobre Homero y los piojos",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -34,6 +37,9 @@ const ILUSTRES = {
    "Teogonía",
    "Los trabajos y los días"
   ],
+  "anecdota": "<p>Hesíodo cuenta en <em>Los trabajos y los días</em> que viajó a Calcis, en Eubea, para participar en los juegos fúnebres en honor de Anfidamante, y que ganó con un himno un trípode que dedicó a las Musas del Helicón. Siglos después, la tradición convirtió ese certamen en un duelo con el mismísimo Homero. Según el <em>Certamen de Homero y Hesíodo</em>, el público prefería a Homero, pero el rey que presidía los juegos dio el premio a Hesíodo: era justo que venciera quien cantaba la agricultura y la paz, y no quien cantaba la guerra y las matanzas.</p>",
+  "fuente": "Hesíodo, Los trabajos y los días; Certamen de Homero y Hesíodo",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -54,6 +60,9 @@ const ILUSTRES = {
   "obras": [
    "Elegías (fragmentos)"
   ],
+  "anecdota": "<p>Heródoto relata que Solón, durante sus viajes, visitó en Sardes a Creso, el rey de Lidia, famoso por sus riquezas. Tras enseñarle sus tesoros, Creso le preguntó quién era el hombre más feliz que había conocido, esperando oír su propio nombre. Solón citó a un ateniense sencillo, Telo, que vio crecer a sus hijos y murió con honor defendiendo su ciudad. Y añadió que a nadie se le puede llamar feliz mientras vive, porque la fortuna cambia. Creso lo despidió con desprecio, aunque más tarde, tras perder su reino, recordaría sus palabras. La cronología hace dudar de que el encuentro fuera real.</p>",
+  "fuente": "Heródoto, Historias I",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -72,6 +81,9 @@ const ILUSTRES = {
   "idea": "Considerado el primer filósofo, buscó un principio natural común a todas las cosas, el arjé, y afirmó que ese principio es el agua.",
   "bio": "<p>Tales vivió en Mileto, una próspera ciudad comercial de Jonia, en la costa de la actual Turquía, entre finales del siglo VII y mediados del VI a. C. Los griegos lo contaron entre los Siete Sabios. Según la tradición fue un sabio práctico: viajó a Egipto, donde habría aprendido geometría y astronomía, predijo el eclipse de sol del año 585 a. C. y aconsejó a los jonios en asuntos políticos. No dejó nada escrito, o nada se conserva; lo conocemos sobre todo por Aristóteles y por anécdotas de difícil comprobación.</p>\n<p>Se le considera el <strong>primer filósofo</strong> porque intentó explicar la naturaleza (<strong>physis</strong>) sin recurrir a los dioses. Se preguntó por el <strong>arjé</strong>, el principio común del que proceden todas las cosas, y respondió que es el <strong>agua</strong>. Según Aristóteles, pudo llegar a esa idea al observar que todo lo vivo necesita humedad. Lo decisivo no es la respuesta, sino el método: busca causas naturales, argumenta y deja su tesis abierta a la crítica. También se le atribuye la idea de que todo está lleno de dioses, es decir, de que la materia está animada.</p>\n<p>Con Tales empieza la escuela de Mileto, continuada por Anaximandro y Anaxímenes, que discutieron su respuesta y propusieron otros principios. Su figura simboliza el paso del <strong>mito al logos</strong>: frente al Océano divino de Homero, elige un principio observable. La tradición le atribuye además el teorema geométrico que lleva su nombre, aunque esa autoría es dudosa.</p>",
   "obras": [],
+  "anecdota": "<p>Aristóteles cuenta que a Tales le reprochaban su pobreza, como si la filosofía no sirviera para nada. Para demostrar lo contrario, gracias a sus conocimientos de astronomía previó en invierno que la siguiente cosecha de aceituna sería excelente. Con el poco dinero que tenía alquiló por adelantado todas las prensas de aceite de Mileto y de Quíos, a bajo precio porque nadie más pujaba. Cuando llegó la cosecha y todos las necesitaban, las realquiló al precio que quiso y ganó una fortuna. Así mostró que los filósofos podrían enriquecerse fácilmente si quisieran, pero que su interés está en otra parte.</p>",
+  "fuente": "Aristóteles, Política I",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -90,6 +102,9 @@ const ILUSTRES = {
   "idea": "El principio de todas las cosas no es ningún elemento concreto, sino el ápeiron, algo ilimitado e indeterminado del que surgen y al que vuelven los contrarios.",
   "bio": "<p>Anaximandro nació en Mileto hacia el 610 a. C. y fue discípulo o compañero de Tales. Se le atribuyen el primer mapa del mundo conocido, un modelo del cosmos y la introducción en Grecia del gnomon, una varilla que sirve de reloj de sol. Escribió un libro en prosa, uno de los primeros de la literatura griega, pero no se conserva: solo ha llegado hasta nosotros un fragmento breve, citado por autores posteriores.</p>\n<p>Rechazó que el <strong>arjé</strong> fuera un elemento concreto como el agua. Según una noticia antigua, fue el primero en usar ese término. Si uno de los elementos fuera ilimitado, destruiría a los demás; por eso el principio tiene que ser el <strong>ápeiron</strong>: lo ilimitado, indefinido o indeterminado, eterno e indestructible. De él se separan los contrarios (caliente y frío, seco y húmedo), que luchan entre sí y vuelven a él. En su fragmento, ese proceso se describe como una <strong>justicia</strong> cósmica: las cosas pagan su injusticia según el orden del tiempo, lo que introduce la idea de <strong>necesidad</strong>.</p>\n<p>Anaximandro dio un paso hacia la abstracción: el principio ya no se ve ni se toca, solo se piensa. Anaxímenes, su sucesor, volvió a un elemento observable, el aire. También sostuvo que la Tierra permanece en el centro del cosmos sin apoyarse en nada y que los primeros seres humanos procedían de animales acuáticos, ideas audaces para su época.</p>",
   "obras": [],
+  "anecdota": "<p>Cicerón recoge una noticia sorprendente: Anaximandro advirtió a los espartanos de que se acercaba un terremoto y les aconsejó abandonar sus casas y pasar la noche en el campo, armados. Poco después, según el relato, la ciudad se vino abajo y una parte del monte Taigeto se desprendió. Cicerón lo menciona al discutir si es posible adivinar el futuro, y lo presenta no como una profecía, sino como el fruto de la observación de la naturaleza. Sea cierta o no, la historia encaja con la imagen de Anaximandro como un investigador que buscaba causas naturales para todo lo que ocurre.</p>",
+  "fuente": "Cicerón, Sobre la adivinación I",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -126,6 +141,9 @@ const ILUSTRES = {
   "idea": "La esencia de la realidad es el número: el universo es un orden armónico y matemático, y el alma inmortal debe purificarse a lo largo de sucesivas reencarnaciones.",
   "bio": "<p>Pitágoras nació en la isla de Samos, frente a la costa de Jonia, hacia el 570 a. C. Hacia el 530 a. C. emigró al sur de Italia, la Magna Grecia, y fundó en Crotona una comunidad a la vez religiosa, científica y política. No escribió nada, y sus seguidores le atribuían todos sus descubrimientos, por lo que es difícil separar lo que pensó él de lo que desarrollaron los pitagóricos. Según la tradición, fue el primero en llamarse filósofo, amante del saber, y no sabio.</p>\n<p>Los pitagóricos descubrieron que las notas musicales corresponden a proporciones numéricas y generalizaron la idea: el <strong>número</strong> es el principio de todas las cosas y el universo es un <strong>cosmos</strong>, un orden armónico de estructura matemática. Enseñaron también el <strong>dualismo</strong> de alma y cuerpo y la <strong>metempsícosis</strong> o reencarnación, tomada del orfismo: el alma es inmortal, está presa en el cuerpo como en una cárcel y debe purificarse mediante la música, el estudio y la vida contemplativa. Ordenaron la realidad en una tabla de opuestos jerarquizados.</p>\n<p>Su influencia en <strong>Platón</strong> es decisiva: la matemática como modelo de conocimiento verdadero, la inmortalidad del alma, la purificación y la división de la realidad en un polo superior y otro inferior pasan a la teoría de las Ideas y a obras como el <em>Fedón</em>. El teorema que lleva su nombre ya lo conocían en la práctica los babilonios, aunque la tradición atribuye a su escuela una demostración.</p>",
   "obras": [],
+  "anecdota": "<p>Un contemporáneo de Pitágoras, el poeta Jenófanes, se burló de su creencia en la reencarnación con una escena que se ha conservado. Cuenta que Pitágoras pasaba junto a un cachorro al que estaban apaleando y, conmovido, gritó: «¡Para, deja de pegarle! Es el alma de un amigo mío; la he reconocido al oír su voz». Aunque es una caricatura, es uno de los testimonios más antiguos sobre Pitágoras, y confirma que ya en vida se le asociaba con la doctrina de la <strong>transmigración</strong> de las almas, también entre animales, que explica que los pitagóricos rechazaran comer carne.</p>",
+  "fuente": "Jenófanes, fragmento citado por Diógenes Laercio, Vidas VIII",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -147,6 +165,9 @@ const ILUSTRES = {
    "Elegías (fragmentos)",
    "Silos (fragmentos)"
   ],
+  "anecdota": "<p>Aristóteles cuenta que los habitantes de Elea preguntaron a Jenófanes si debían ofrecer sacrificios a Leucótea, una mujer mortal convertida en diosa marina según el mito, y a la vez llorarla en sus ritos fúnebres. Jenófanes les respondió con un argumento que no dejaba salida: si la consideraban una diosa, no debían llorarla, porque los dioses no mueren; y si la consideraban una mujer mortal, no debían ofrecerle sacrificios. La respuesta resume su crítica a la religión tradicional: aplicar la razón a los mitos revela sus contradicciones.</p>",
+  "fuente": "Aristóteles, Retórica II",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -168,6 +189,9 @@ const ILUSTRES = {
   "obras": [
    "Sobre la naturaleza (fragmentos)"
   ],
+  "anecdota": "<p>Aristóteles relata que unos visitantes llegaron a casa de Heráclito con ganas de conocer al célebre sabio. Lo encontraron calentándose junto al horno de la cocina y se quedaron parados en la puerta, sorprendidos por un lugar tan humilde. Heráclito les animó a entrar: «Pasad, que también aquí hay dioses». Aristóteles usa la anécdota para defender el estudio de los animales más modestos, porque en todas las cosas naturales hay algo admirable. Encaja con el pensamiento de Heráclito: el fuego y el logos divino están presentes en todo, también en lo más cotidiano.</p>",
+  "fuente": "Aristóteles, Partes de los animales I",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -189,6 +213,9 @@ const ILUSTRES = {
   "obras": [
    "Sobre la naturaleza (poema, fragmentos)"
   ],
+  "anecdota": "<p>Parménides no fue solo un pensador abstracto. Según varias fuentes antiguas, redactó las leyes de su ciudad, Elea, y sus conciudadanos quedaron tan satisfechos que cada año los magistrados juraban respetar las leyes de Parménides. Plutarco lo menciona para responder a quienes acusaban a los filósofos de no servir para la vida práctica, y Estrabón atribuye al buen gobierno de Elea, obra de Parménides y Zenón, que la ciudad resistiera frente a sus vecinos. Así, el filósofo del ser inmóvil dejó también una huella muy concreta en la <strong>polis</strong>.</p>",
+  "fuente": "Plutarco, Contra Colotes; Estrabón, Geografía VI; Diógenes Laercio, Vidas IX",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -210,6 +237,9 @@ const ILUSTRES = {
   "obras": [
    "Sobre la naturaleza (fragmentos)"
   ],
+  "anecdota": "<p>Se cuenta que Anaxágoras descuidó la fortuna de su familia para dedicarse a estudiar la naturaleza, y dejó que sus tierras se convirtieran en pasto de ovejas. Cuando alguien le reprochó que no se preocupara por su patria, señaló el cielo y respondió: «Me preocupo muchísimo por mi patria». En otra ocasión le preguntaron para qué merecía la pena haber nacido, y contestó: «Para contemplar el cielo y el orden de todo el universo». Aristóteles recoge esta última respuesta como ejemplo de una vida entregada al conocimiento.</p>",
+  "fuente": "Diógenes Laercio, Vidas II; Aristóteles, Ética eudemia I",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -231,6 +261,9 @@ const ILUSTRES = {
    "Sobre la naturaleza (fragmentos)",
    "Purificaciones (fragmentos)"
   ],
+  "anecdota": "<p>Diógenes Laercio cuenta que en Agrigento soplaban unos vientos tan fuertes que arruinaban las cosechas. Empédocles mandó despellejar asnos y fabricar con su piel unos odres que colocó en las colinas y los desfiladeros para atrapar el viento. Cuando el viento amainó, sus conciudadanos empezaron a llamarlo «el que detiene los vientos». La historia, recogida de historiadores antiguos, mezcla técnica y magia, como la propia figura de Empédocles, que en sus versos prometía a sus discípulos enseñarles a calmar las tempestades y a dominar las fuerzas de la naturaleza.</p>",
+  "fuente": "Diógenes Laercio, Vidas VIII",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -252,6 +285,9 @@ const ILUSTRES = {
    "Sobre los dioses (fragmentos)",
    "La verdad (fragmentos)"
   ],
+  "anecdota": "<p>Aulo Gelio relata que un joven, Evatlo, pactó con Protágoras que le pagaría sus clases de retórica cuando ganara su primer juicio. Terminó los estudios, pero no se dedicó a los tribunales ni pagó. Protágoras lo demandó y le planteó un dilema: si él ganaba el juicio, Evatlo tendría que pagar por sentencia; si ganaba Evatlo, tendría que pagar por el pacto. El alumno respondió con el dilema contrario: si ganaba, no pagaría por sentencia; si perdía, tampoco, porque aún no habría ganado ningún juicio. Los jueces, se dice, aplazaron la decisión. Es una muestra perfecta del arte de defender una tesis y su contraria.</p>",
+  "fuente": "Aulo Gelio, Noches áticas V; Diógenes Laercio, Vidas IX",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -274,6 +310,9 @@ const ILUSTRES = {
    "Encomio de Helena",
    "Defensa de Palamedes"
   ],
+  "anecdota": "<p>Gorgias era famoso por su capacidad de improvisar. Según Filóstrato, entraba en el teatro de Atenas y retaba al público: «Proponed un tema», y hablaba de él al instante, sin preparación. Platón hace referencia a esta costumbre al comienzo de su <em>Gorgias</em>, donde el sofista presume de poder responder a cualquier pregunta. Su éxito le hizo tan rico que dedicó en el santuario de Delfos una estatua de sí mismo dorada. Para Platón, ese brillo resumía el peligro de la retórica: deslumbrar al público sin preocuparse de la verdad.</p>",
+  "fuente": "Filóstrato, Vidas de los sofistas I; Platón, Gorgias; Pausanias, Descripción de Grecia X",
+  "tradicion": false,
   "block": "ant",
   "subjects": [
    "hf"
@@ -292,6 +331,9 @@ const ILUSTRES = {
   "idea": "Quien conoce de verdad el bien obra bien; por eso la tarea filosófica es examinar la propia vida y buscar, dialogando, definiciones universales.",
   "bio": "<p>Sócrates nació en Atenas, hijo de un escultor y de una comadrona, y vivió el esplendor y la crisis de la democracia ateniense en tiempos de Pericles y de la guerra del Peloponeso. Sirvió como soldado y pasó la vida conversando en el ágora. No escribió nada: lo conocemos por su discípulo <strong>Platón</strong>, por Jenofonte y por la comedia <em>Las nubes</em> de Aristófanes. En el 399 a. C. fue acusado de impiedad y de corromper a la juventud, y murió bebiendo cicuta.</p>\n<p>Comparte con los sofistas el interés por el ser humano y la vida en la polis, pero se opone a ellos: no cobra, prefiere el diálogo al discurso y combate el relativismo. Parte de reconocer la propia ignorancia y busca <strong>definiciones universales</strong> de conceptos como la justicia o la valentía. Su método tiene dos partes: la <strong>ironía</strong>, que lleva al interlocutor a descubrir que no sabe, y la <strong>mayéutica</strong>, que le ayuda a alumbrar la verdad por sí mismo. En ética defiende el <strong>intelectualismo moral</strong>: el mal se comete por ignorancia.</p>\n<p>Sócrates marca el giro de la filosofía hacia el ser humano, hasta el punto de que a los pensadores anteriores se les llama presocráticos. Platón recoge su búsqueda de lo universal y la convierte en la teoría de las Ideas, y de su círculo salen también cínicos y cirenaicos.</p>",
   "obras": [],
+  "anecdota": "<p>Según la <em>Apología</em> de Platón, un amigo de Sócrates, Querefonte, preguntó al oráculo de Delfos si había alguien más sabio que Sócrates, y la sacerdotisa respondió que no. Sócrates quedó desconcertado, porque sabía que no era sabio, y decidió comprobarlo interrogando a políticos, poetas y artesanos que tenían fama de saber. Descubrió que todos creían saber lo que no sabían. Concluyó que el oráculo tenía razón en un sentido: él era el más sabio solo porque reconocía su ignorancia. Desde entonces vio en ese examen de los demás una misión encomendada por el dios.</p>",
+  "fuente": "Platón, Apología de Sócrates; Jenofonte, Apología",
+  "tradicion": false,
   "block": "ant",
   "subjects": [
    "hf"
@@ -315,6 +357,9 @@ const ILUSTRES = {
   "idea": "Una mujer podía dominar la palabra y el pensamiento político tanto como los varones, y enseñar retórica a los ciudadanos más influyentes de Atenas.",
   "bio": "<p>Aspasia nació en Mileto, una ciudad griega de la costa de Jonia, y se trasladó a Atenas, donde vivió como extranjera residente. Fue la compañera de <strong>Pericles</strong>, con quien tuvo un hijo, y su casa se convirtió en un lugar de encuentro de políticos, artistas y filósofos. Como en la Atenas clásica solo los varones libres eran ciudadanos, su presencia en la vida pública fue excepcional y le valió también ataques y burlas de los comediógrafos.</p>\n<p>No se conserva ningún escrito suyo: sabemos de ella por testimonios de otros autores, como Platón, Jenofonte y Plutarco, lo que obliga a separar los datos de la leyenda. Estas fuentes la presentan como una oradora brillante y una maestra de <strong>retórica</strong>, el arte de persuadir. En el <em>Menéxeno</em> de Platón, Sócrates la llama su maestra y le atribuye un discurso fúnebre; según la tradición, incluso habría ayudado a Pericles a preparar sus discursos.</p>\n<p>Aspasia aparece en el temario como ejemplo de las pocas mujeres que lograron un lugar en la filosofía antigua. Su figura muestra los límites de la democracia ateniense, que excluía a las mujeres de la <strong>isonomía</strong> y la isegoría, y la dificultad de recuperar un pensamiento femenino del que apenas quedan huellas. Se la relaciona con Sócrates y con el ambiente de los sofistas.</p>",
   "obras": [],
+  "anecdota": "<p>En un diálogo perdido del socrático Esquines, del que Cicerón conservó un fragmento, Aspasia interroga a la esposa de Jenofonte: si su vecina tuviera joyas mejores que las suyas, ¿preferiría las de la vecina? Sí, responde. ¿Y si tuviera mejores vestidos? También. ¿Y si tuviera un marido mejor que el suyo? La mujer se queda callada. Aspasia hace luego lo mismo con Jenofonte y concluye que cada uno debe esforzarse por ser el mejor cónyuge posible. Cicerón cita la escena como ejemplo de razonamiento por inducción: el mismo método que se atribuye a Sócrates.</p>",
+  "fuente": "Esquines de Esfeto, Aspasia (fragmento transmitido por Cicerón, Sobre la invención retórica I)",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -333,6 +378,9 @@ const ILUSTRES = {
   "idea": "Todo lo que existe está formado por átomos indivisibles que se mueven en el vacío; sus choques y combinaciones explican todos los cambios de la naturaleza.",
   "bio": "<p>Demócrito nació en Abdera, una colonia griega de Tracia, y fue contemporáneo de Sócrates, aunque por su pensamiento se le incluye entre los presocráticos. Fue discípulo de <strong>Leucipo</strong>, con quien comparte la teoría atómica. Según la tradición, viajó mucho y llegó a una edad muy avanzada. Escribió numerosas obras sobre física, ética, matemáticas o música, pero todas se han perdido: solo conservamos fragmentos citados por otros autores.</p>\n<p>Su teoría responde al problema del cambio planteado por Parménides. La realidad está formada por <strong>átomos</strong> (del griego «indivisible»): partículas eternas e inmutables que solo se diferencian por su forma, tamaño y posición. Se mueven en el <strong>vacío</strong>, que Demócrito identifica con el no-ser y considera tan real como el ser, porque sin él no habría ni movimiento ni multiplicidad. Todo ocurre de forma mecánica, por necesidad, sin intervención de una mente ordenadora. Incluso el alma sería un conjunto de átomos muy finos, por lo que su postura es un <strong>materialismo</strong> completo. En ética propone una vida serena y moderada.</p>\n<p>Epicuro retomó su atomismo como base de su física y de su ética, y el poeta romano Lucrecio lo divulgó. Platón y Aristóteles lo criticaron. En la Edad Moderna, la ciencia recuperó la idea de átomo, y hoy se le cita como precursor del monismo materialista, frente al dualismo de Platón o Descartes.</p>",
   "obras": [],
+  "anecdota": "<p>La tradición recuerda a Demócrito como «el filósofo que ríe»: se reía de las preocupaciones y ambiciones humanas, que le parecían ridículas, frente a Heráclito, que lloraba por ellas. Unas cartas antiguas atribuidas a Hipócrates, que no son auténticas, cuentan que sus vecinos de Abdera creyeron que había enloquecido y llamaron al célebre médico para curarlo. Hipócrates lo encontró estudiando la anatomía de unos animales, conversó con él y concluyó que Demócrito era el más cuerdo de la ciudad. La leyenda refleja su ideal de <strong>serenidad</strong> ante los asuntos humanos.</p>",
+  "fuente": "Séneca, Sobre la ira II; Cartas pseudohipocráticas",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -351,6 +399,9 @@ const ILUSTRES = {
   "idea": "Las leyes de cada ciudad son convenciones humanas, variables y cambiables, distintas de las leyes naturales, que son universales y valen igual para todos.",
   "bio": "<p>Hipias nació en Élide, la región del Peloponeso donde se celebraban los Juegos Olímpicos, y fue contemporáneo de Sócrates. Su ciudad lo envió en varias ocasiones como embajador, y aprovechaba sus viajes para dar lecciones y conferencias cobrando por ellas, como los demás <strong>sofistas</strong>. Era famoso por su saber enciclopédico: enseñaba matemáticas, astronomía, música, historia y poesía, y presumía de una memoria prodigiosa. Sus obras se han perdido; lo conocemos sobre todo por los diálogos de Platón <em>Hipias mayor</em>, <em>Hipias menor</em> y <em>Protágoras</em>, que lo retratan con cierta ironía.</p>\n<p>Su aportación más importante al temario es la distinción entre <strong>physis</strong> y <strong>nomos</strong>. Las leyes naturales son inmutables y universales; las leyes establecidas por los seres humanos, en cambio, son convenciones que varían de una comunidad a otra. Si las leyes son convención, pueden cambiarse. En el <em>Protágoras</em>, Platón le hace decir que la ley es un tirano que obliga a muchas cosas contrarias a la naturaleza, y que los seres humanos son parientes por naturaleza, no por ley.</p>\n<p>Esta idea abre un debate central en la filosofía política: si las normas son naturales o pactadas. Su convencionalismo enlaza con el relativismo de Protágoras, y Sócrates y Platón lo combatieron buscando una justicia universal. La idea de un parentesco natural entre todos los seres humanos anticipa el cosmopolitismo de cínicos y estoicos.</p>",
   "obras": [],
+  "anecdota": "<p>En el <em>Hipias menor</em>, Platón hace recordar a Sócrates una aparición célebre de Hipias en los Juegos Olímpicos. El sofista presumió ante todos de que cuanto llevaba encima lo había hecho él mismo: el anillo y el sello que tallaba, el frasco del aceite, el rascador para el baño, las sandalias, el manto y la túnica, e incluso el cinturón bordado. Además traía poemas, tragedias y discursos de su propia cosecha. Platón lo cuenta con ironía, pero la escena retrata bien el ideal de saber enciclopédico y autosuficiente del que Hipias se enorgullecía.</p>",
+  "fuente": "Platón, Hipias menor",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -369,6 +420,9 @@ const ILUSTRES = {
   "idea": "La virtud basta para ser feliz; para alcanzarla hay que llevar una vida austera, dominar los placeres y no depender de riquezas ni honores.",
   "bio": "<p>Antístenes nació en Atenas. Fue primero alumno del sofista Gorgias, del que aprendió retórica, y después se convirtió en uno de los discípulos más fieles de <strong>Sócrates</strong>: según Platón, estuvo presente en su muerte. Enseñó en el gimnasio del Cinosargo, en las afueras de Atenas. Escribió muchas obras, pero todas se han perdido y solo quedan fragmentos y testimonios.</p>\n<p>Tomó de Sócrates la idea de que la virtud se puede enseñar y la exageró: la virtud basta para la felicidad, y todo lo demás (riqueza, fama, placer) es indiferente o dañino. Por eso defendía una vida austera y el <strong>autodominio</strong>. La tradición lo considera fundador del <strong>cinismo</strong>, que Diógenes de Sinope llevó al extremo, y así aparece en el temario, aunque algunos historiadores discuten ese vínculo directo.</p>",
   "obras": [],
+  "anecdota": "<p>Diógenes Laercio cuenta que Antístenes recorría cada día a pie unos cuarenta estadios, más de siete kilómetros, desde el Pireo hasta Atenas para escuchar a Sócrates. Imitaba la austeridad de su maestro hasta el extremo, y solía llevar un manto viejo y roto, con el lado agujereado bien a la vista. Un día Sócrates se dio cuenta y le dijo: «A través de los agujeros de tu manto veo tu vanidad». La anécdota muestra el riesgo de convertir la pobreza en espectáculo, algo que los cínicos posteriores llevarían todavía más lejos.</p>",
+  "fuente": "Diógenes Laercio, Vidas VI",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -392,6 +446,9 @@ const ILUSTRES = {
    "Banquete",
    "Fedro"
   ],
+  "anecdota": "<p>Diógenes Laercio cuenta que el joven Platón tenía ambiciones literarias: escribía poemas y tragedias. Se disponía a presentar una tragedia a concurso cuando escuchó a Sócrates hablar ante el teatro de Dioniso. Quedó tan impresionado que arrojó sus versos al fuego, parodiando un verso de Homero: «Ven aquí, Hefesto, que Platón te necesita». Desde entonces se dedicó a la filosofía. Sin embargo, no dejó de ser un gran escritor: sus diálogos, con personajes, escenas y mitos, conservan mucho del arte dramático que parecía abandonar.</p>",
+  "fuente": "Diógenes Laercio, Vidas III",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -421,6 +478,9 @@ const ILUSTRES = {
   "idea": "Para ser libre y feliz hay que necesitar lo mínimo, vivir conforme a la naturaleza y despreciar las convenciones sociales, la riqueza y el poder.",
   "bio": "<p>Diógenes nació en Sinope, una colonia griega a orillas del mar Negro. Según la tradición, tuvo que marcharse de su ciudad tras un escándalo por falsificación de moneda en el que estaba implicado su padre, y se instaló en Atenas, donde habría seguido las enseñanzas de Antístenes. Pasó sus últimos años en Corinto. Casi todo lo que sabemos de él procede de anécdotas recogidas siglos después por Diógenes Laercio, que conviene leer como tradición y no como historia segura. No se conserva ninguna de las obras que se le atribuyen.</p>\n<p>Es la figura más representativa del <strong>cinismo</strong>, nombre que viene del griego <em>kynos</em>, «perro», porque los cínicos vivían sin pudor ni convenciones, como los perros. Su ideal es la <strong>autarquía</strong>, la autosuficiencia: cuanto menos se necesita, más libre y feliz se es. Por eso rechazaba la riqueza, la fama y el poder como necesidades artificiales y defendía vivir conforme a la naturaleza. La tradición cuenta que vivía en una gran tinaja, que buscaba con una lámpara «un hombre» en pleno día y que pidió a Alejandro Magno que se apartara porque le tapaba el sol. Cuando le preguntaban de dónde era, respondía que era ciudadano del mundo.</p>\n<p>Su discípulo Crates fue maestro de Zenón de Citio, y los estoicos heredaron del cinismo el ideal de autosuficiencia y el <strong>cosmopolitismo</strong>. Su crítica provocadora de las convenciones ha inspirado a pensadores posteriores.</p>",
   "obras": [],
+  "anecdota": "<p>Diógenes Laercio relata que Platón había definido al ser humano como «un animal bípedo sin plumas», y la definición tuvo éxito en la Academia. Diógenes desplumó un gallo, lo llevó a la escuela y lo soltó ante todos diciendo: «Aquí tenéis al hombre de Platón». Según el relato, a la definición se le añadió después «de uñas anchas». La escena resume el estilo cínico: en lugar de discutir con largos argumentos, Diógenes ridiculiza con un gesto la filosofía abstracta y muestra que las definiciones pueden alejarse mucho de la realidad.</p>",
+  "fuente": "Diógenes Laercio, Vidas VI",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -444,6 +504,9 @@ const ILUSTRES = {
    "Política",
    "Acerca del alma"
   ],
+  "anecdota": "<p>A la muerte de Alejandro Magno, en el 323 a. C., creció en Atenas la hostilidad contra los macedonios y contra quienes se relacionaban con ellos. Aristóteles, antiguo preceptor de Alejandro, fue acusado de impiedad, como Sócrates décadas antes. Según las biografías antiguas, decidió marcharse a Calcis y explicó que no quería que los atenienses pecaran dos veces contra la filosofía. La frase, quizá embellecida por la tradición, compara su situación con la condena de Sócrates y muestra que prefería salvar su vida y su trabajo antes que convertirse en mártir.</p>",
+  "fuente": "Eliano, Historias curiosas III; biografías antiguas de Aristóteles",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -470,6 +533,9 @@ const ILUSTRES = {
   "idea": "A toda afirmación puede oponerse otra igual de convincente; por eso el sabio suspende el juicio y así alcanza la tranquilidad del alma.",
   "bio": "<p>Pirrón nació en Elis, en el Peloponeso, y según las fuentes antiguas fue pintor antes de dedicarse a la filosofía. Acompañó a Alejandro Magno en su expedición a Oriente y llegó hasta la India, donde, según la tradición, conoció a los sabios ascetas que los griegos llamaban gimnosofistas. De vuelta en su ciudad llevó una vida sencilla y fue muy respetado. No escribió nada: conocemos su pensamiento por su discípulo Timón de Fliunte y, sobre todo, por autores posteriores como Sexto Empírico.</p>\n<p>Pirrón es el fundador del <strong>escepticismo</strong>, la postura que duda de que podamos alcanzar un conocimiento seguro. No sabemos cómo son las cosas en sí mismas; solo cómo se nos aparecen, y a cada razón se le puede oponer otra con la misma fuerza. Por eso el sabio practica la <strong>epojé</strong> o suspensión del juicio: no afirma ni niega nada. De esa actitud nace la <strong>ataraxia</strong>, la paz interior, porque quien no se aferra a ninguna opinión no sufre por defenderla. Como las demás escuelas helenísticas, su objetivo último es práctico: vivir con serenidad.</p>\n<p>El escepticismo antiguo, recuperado en el Renacimiento a través de Sexto Empírico, influyó en Montaigne y fue el adversario que <strong>Descartes</strong> quiso vencer: la duda cartesiana es metódica, un instrumento para llegar a la certeza, mientras que la de Pirrón es un fin. También se relaciona con el escepticismo moderno de Hume.</p>",
   "obras": [],
+  "anecdota": "<p>Diógenes Laercio relata que Pirrón viajaba en barco cuando estalló una tempestad. Mientras sus compañeros se desesperaban, él señaló un cerdito que seguía comiendo tranquilamente en la cubierta y les dijo que el sabio debía mantenerse tan imperturbable como aquel animal. Otras anécdotas de la misma fuente exageran su indiferencia, hasta decir que sus amigos tenían que apartarlo de los carros y los precipicios, aunque ya en la Antigüedad se discutía su veracidad. El cerdito, en cambio, ilustra bien el ideal escéptico de la <strong>ataraxia</strong>, la calma que nace de no aferrarse a ninguna opinión.</p>",
+  "fuente": "Diógenes Laercio, Vidas IX",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -493,6 +559,9 @@ const ILUSTRES = {
    "Carta a Heródoto",
    "Máximas capitales"
   ],
+  "anecdota": "<p>Séneca cuenta que en la puerta del Jardín de Epicuro podía leerse una invitación: «Forastero, aquí estarás bien; aquí el bien supremo es el placer». Pero quien entraba esperando un banquete encontraba a un anfitrión amable que le ofrecía pan y agua. El propio Epicuro, en una carta citada por Diógenes Laercio, pide a un amigo que le envíe un tarrito de queso para poder darse un festín cuando quisiera. Ambas escenas desmienten la imagen de Epicuro como un vividor: para él, el placer está en la sencillez y en la ausencia de dolor.</p>",
+  "fuente": "Séneca, Cartas a Lucilio 21; Diógenes Laercio, Vidas X",
+  "tradicion": false,
   "block": "ant",
   "subjects": [
    "hf"
@@ -511,6 +580,9 @@ const ILUSTRES = {
   "idea": "El universo está ordenado por una razón divina; el sabio acepta el destino, domina sus pasiones y solo se preocupa de lo que depende de él.",
   "bio": "<p>Zenón nació en Citio, en la isla de Chipre, y se dedicó al comercio como su padre. Según la tradición, un naufragio lo llevó a Atenas, donde descubrió la filosofía leyendo sobre Sócrates. Allí fue discípulo del cínico <strong>Crates</strong> y de otros maestros. Hacia el 300 a. C. empezó a enseñar en la <strong>Stoa Poikile</strong> (el «pórtico pintado») del ágora, y de ese pórtico recibe su nombre la escuela estoica. Escribió varias obras, entre ellas una <em>República</em>, pero todas se han perdido y solo quedan fragmentos.</p>\n<p>Para Zenón, el universo está gobernado por el <strong>logos</strong>, una razón divina que lo ordena todo, de modo que nada ocurre por azar: todo sucede según el destino. La sabiduría consiste en vivir conforme a la naturaleza y a la razón, aceptando lo que no depende de nosotros. El sabio alcanza la <strong>apatía</strong>, que no es indiferencia, sino ausencia de las pasiones que perturban, y con ella la paz interior. Como todos participamos del mismo logos, todos los seres humanos somos ciudadanos de un único mundo: es el <strong>cosmopolitismo</strong>.</p>\n<p>Tomó del cinismo la austeridad y la idea de autosuficiencia, pero las integró en un sistema con física y lógica. Crisipo desarrolló después la doctrina, y en Roma la continuaron Séneca, Epicteto y Marco Aurelio. El estoicismo influyó en el pensamiento cristiano y en la idea moderna de derechos universales.</p>",
   "obras": [],
+  "anecdota": "<p>Diógenes Laercio relata que el cínico Crates, primer maestro de Zenón, quiso curarlo de su timidez y de su excesivo sentido del ridículo. Le dio una olla de lentejas y le ordenó llevarla por el Cerámico, un barrio concurrido de Atenas. Al ver que Zenón intentaba esconderla, Crates rompió la olla de un golpe con su bastón, y las lentejas se le derramaron por encima. Mientras Zenón huía avergonzado, Crates le gritó: «¿Por qué huyes? No te ha pasado nada terrible». Era una lección cínica que el estoicismo conservaría: no dejarse dominar por la opinión ajena.</p>",
+  "fuente": "Diógenes Laercio, Vidas VII",
+  "tradicion": true,
   "block": "ant",
   "subjects": [
    "hf"
@@ -553,6 +625,9 @@ const ILUSTRES = {
   "obras": [
    "Enéadas"
   ],
+  "anecdota": "<p>Porfirio cuenta que Plotino parecía avergonzarse de tener cuerpo, y por eso se negó siempre a posar para un retrato. Cuando su discípulo Amelio se lo pidió, respondió: ¿no basta con cargar la imagen con que la naturaleza nos ha envuelto, para encima dejar una imagen de esa imagen? Amelio no se rindió: llevó a sus clases a un pintor, Carterio, que lo observó durante varias sesiones y lo pintó de memoria. La negativa encaja con su filosofía: lo sensible es solo un reflejo pálido de la verdadera realidad.</p>",
+  "fuente": "Porfirio, Vida de Plotino",
+  "tradicion": false,
   "block": "ant",
   "subjects": [
    "hf"
@@ -577,6 +652,9 @@ const ILUSTRES = {
    "Sobre la Trinidad",
    "Sobre el libre albedrío"
   ],
+  "anecdota": "<p>En el verano de 386, en un jardín de Milán, Agustín lloraba bajo una higuera, desgarrado entre su deseo de cambiar de vida y su incapacidad para hacerlo. De pronto oyó desde una casa vecina una voz infantil que repetía una especie de cantinela: <strong>«Toma y lee, toma y lee»</strong>. Lo interpretó como una orden divina, abrió al azar las cartas de san Pablo que tenía a mano y leyó un pasaje que invitaba a dejar los excesos. Él mismo lo relata en sus <em>Confesiones</em> como el instante decisivo de su conversión.</p>",
+  "fuente": "Agustín de Hipona, Confesiones VIII",
+  "tradicion": false,
   "block": "med",
   "subjects": [
    "hf"
@@ -597,6 +675,9 @@ const ILUSTRES = {
   "idea": "Unió la filosofía neoplatónica con la enseñanza de las matemáticas y la astronomía, entendiendo el estudio racional del cosmos como camino hacia la sabiduría.",
   "bio": "<p>Hipatia nació en Alejandría, el gran centro científico y cultural del mundo helenístico, hacia mediados del siglo IV; la fecha exacta es discutida. Era hija del matemático y astrónomo Teón, que la formó. Llegó a dirigir la escuela neoplatónica de la ciudad, donde enseñó a alumnos paganos y cristianos, entre ellos Sinesio de Cirene, obispo más tarde, cuyas cartas son una de las principales fuentes sobre ella. Tuvo gran prestigio público y trato con las autoridades de la ciudad.</p>\n<p>Fue matemática, astrónoma y filósofa. Siguió la línea del <strong>neoplatonismo</strong>, que unía la razón filosófica con una búsqueda casi religiosa de lo divino, y consideraba las matemáticas un paso hacia ese conocimiento superior. Según las fuentes antiguas, escribió comentarios a obras de matemáticos como Diofanto y Apolonio, y colaboró con su padre en la edición de textos astronómicos de Ptolomeo. <strong>No se conserva ninguna obra suya</strong>, por lo que conocemos su pensamiento solo a través de testimonios de otros autores.</p>\n<p>En el año 415, en medio de graves tensiones políticas y religiosas, fue asesinada por una turba de cristianos. Su muerte se ha convertido en símbolo del <strong>fin de la filosofía pagana</strong> y del mundo clásico, y del tránsito hacia la Edad Media. Hoy es también un referente del papel de la <strong>mujer en la ciencia</strong>, a menudo invisibilizado, junto a figuras como Marie Curie o Rosalind Franklin.</p>",
   "obras": [],
+  "anecdota": "<p>El filósofo Damascio cuenta que Hipatia se ponía el manto de los filósofos, el tribon, y recorría el centro de Alejandría explicando en público a Platón, a Aristóteles o a cualquier otro pensador a quien quisiera escucharla. El historiador Sócrates Escolástico añade que los magistrados de la ciudad acudían a consultarla y que ella se presentaba ante reuniones de hombres con total naturalidad. En una época en que el saber se encerraba en las escuelas, Hipatia llevó la filosofía a la calle.</p>",
+  "fuente": "Damascio, Vida de Isidoro (fragmentos en la Suda); Sócrates Escolástico, Historia eclesiástica VII",
+  "tradicion": false,
   "block": "ant",
   "subjects": [
    "hf"
@@ -619,6 +700,9 @@ const ILUSTRES = {
    "Proslogion (1077-1078)",
    "Por qué Dios se hizo hombre"
   ],
+  "anecdota": "<p>Según su biógrafo y secretario Eadmero, Anselmo buscaba un único argumento que bastara para probar la existencia de Dios. La idea lo obsesionaba tanto que le quitaba el apetito, el sueño y hasta la concentración en los rezos, y llegó a pensar que era una tentación. Una noche, durante los maitines, la encontró por fin. La escribió en unas tablillas de cera, que se extraviaron; la copió en otras, que aparecieron rotas en el suelo. Al final la hizo pasar a pergamino: así nació el <em>Proslogion</em>.</p>",
+  "fuente": "Eadmero, Vida de san Anselmo",
+  "tradicion": false,
   "block": "med",
   "subjects": [
    "hf"
@@ -642,6 +726,9 @@ const ILUSTRES = {
    "Ética o Conócete a ti mismo",
    "Diálogo entre un filósofo, un judío y un cristiano"
   ],
+  "anecdota": "<p>Recién llegado a París, el joven Abelardo se hizo alumno de Guillermo de Champeaux, el maestro más famoso de la ciudad y defensor de un realismo extremo sobre los universales. Pronto empezó a contradecirle en plena clase, y a veces parecía ganar la discusión. Según su propio relato, acabó obligando a Guillermo a corregir su tesis, y muchos estudiantes abandonaron al maestro para seguir al discípulo. Lo cuenta él mismo en la <em>Historia de mis desgracias</em>, un testimonio valioso pero, lógicamente, poco imparcial.</p>",
+  "fuente": "Pedro Abelardo, Historia de mis desgracias",
+  "tradicion": false,
   "block": "med",
   "subjects": [
    "hf"
@@ -665,6 +752,9 @@ const ILUSTRES = {
    "Causas y remedios",
    "Ordo Virtutum"
   ],
+  "anecdota": "<p>En 1178, ya octogenaria, Hildegarda permitió enterrar en su monasterio a un joven noble que había estado excomulgado, porque, según ella, se había reconciliado con la Iglesia antes de morir. Las autoridades de Maguncia le ordenaron desenterrarlo y ella se negó. Como castigo, el convento quedó bajo interdicto y las monjas no pudieron cantar el oficio divino. Hildegarda protestó en una carta a los prelados en la que defendía la música como eco de la armonía del paraíso. El castigo se levantó poco antes de su muerte.</p>",
+  "fuente": "Carta de Hildegarda a los prelados de Maguncia; Vida de santa Hildegarda",
+  "tradicion": false,
   "block": "med",
   "subjects": [
    "hf"
@@ -688,6 +778,9 @@ const ILUSTRES = {
    "Comentarios a Aristóteles",
    "Libro de las generalidades de la medicina"
   ],
+  "anecdota": "<p>Averroes contó a un discípulo cómo conoció al califa almohade Abu Yaqub Yusuf, gracias al filósofo Ibn Tufayl. Nada más saludarlo, el califa le preguntó qué pensaban los filósofos sobre el cielo: ¿era eterno o había sido creado? Averroes, asustado, fingió no saber nada de filosofía. Entonces el califa se puso a discutir el asunto con Ibn Tufayl, citando a Platón y Aristóteles, hasta que el joven se tranquilizó y habló. Salió de allí con regalos y, poco después, con el encargo de explicar a Aristóteles.</p>",
+  "fuente": "Al-Marrakushi, Historia de los almohades (Kitab al-Muyib)",
+  "tradicion": false,
   "block": "med",
   "subjects": [
    "hf"
@@ -710,6 +803,9 @@ const ILUSTRES = {
    "Suma contra los gentiles",
    "El ente y la esencia"
   ],
+  "anecdota": "<p>Se cuenta que, cuando estudiaba en Colonia con Alberto Magno, Tomás era tan corpulento y callado que sus compañeros lo apodaron «el buey mudo de Sicilia». Un día, tras escucharlo defender con brillantez una cuestión difícil, Alberto dijo a sus alumnos que ellos lo llamaban buey mudo, pero que sus mugidos se oirían en el mundo entero. La escena procede de las biografías escritas para su canonización, con un tono ejemplar, pero retrata bien al pensador reservado que acabaría escribiendo la <em>Suma teológica</em>.</p>",
+  "fuente": "Guillermo de Tocco, Historia de santo Tomás de Aquino",
+  "tradicion": true,
   "block": "med",
   "subjects": [
    "hf"
@@ -735,6 +831,9 @@ const ILUSTRES = {
    "Quodlibetos",
    "Diálogo"
   ],
+  "anecdota": "<p>Según la tradición, cuando Ockham huyó de Aviñón y se puso bajo la protección del emperador Luis de Baviera, le propuso un trato: «Defiéndeme con la espada, que yo te defenderé con la pluma». La frase no aparece en sus obras y probablemente es posterior, pero resume bien lo que ocurrió: en Múnich, Ockham dedicó sus últimos años a escribir tratados políticos contra el poder temporal del papa y a favor de la independencia del emperador. El lógico se convirtió así en polemista político.</p>",
+  "fuente": "Frase atribuida por la tradición posterior; no consta en sus escritos",
+  "tradicion": true,
   "block": "med",
   "subjects": [
    "hf"
@@ -759,6 +858,9 @@ const ILUSTRES = {
    "Del arte de la guerra (1521)",
    "La mandrágora"
   ],
+  "anecdota": "<p>Desterrado en su finca de Sant'Andrea in Percussina, Maquiavelo describió su rutina a su amigo Francesco Vettori. De día cazaba tordos, charlaba con leñadores y jugaba a las cartas en la taberna entre gritos y peleas. Al caer la noche, se quitaba la ropa sucia de barro, se ponía sus trajes de corte y entraba en su estudio a «conversar» con los antiguos, que le respondían con generosidad. De esas conversaciones, añadía, estaba saliendo un opúsculo sobre los principados: <em>El príncipe</em>.</p>",
+  "fuente": "Maquiavelo, carta a Francesco Vettori del 10 de diciembre de 1513",
+  "tradicion": false,
   "block": "ren",
   "subjects": [
    "hf"
@@ -780,6 +882,9 @@ const ILUSTRES = {
   "obras": [
    "Sobre las revoluciones de las esferas celestes (1543)"
   ],
+  "anecdota": "<p>Copérnico retrasó durante décadas la publicación de su gran obra, hasta que su joven discípulo Rheticus lo convenció. Según una carta de su amigo Tiedemann Giese, el primer ejemplar impreso llegó a sus manos el mismo día de su muerte. El libro, además, traía una sorpresa: un prólogo sin firma, añadido por el teólogo Andreas Osiander, que presentaba el heliocentrismo como una simple hipótesis para facilitar los cálculos. Décadas después, Kepler reveló quién lo había escrito.</p>",
+  "fuente": "Carta de Tiedemann Giese a Rheticus (1543)",
+  "tradicion": true,
   "block": "ren",
   "subjects": [
    "hf"
@@ -805,6 +910,9 @@ const ILUSTRES = {
    "A la nobleza cristiana de la nación alemana (1520)",
    "La voluntad esclava (1525)"
   ],
+  "anecdota": "<p>En julio de 1505, el joven estudiante de derecho Martín Lutero volvía a Erfurt cuando, cerca de la aldea de Stotternheim, le sorprendió una tormenta y un rayo cayó muy cerca de él. Aterrado, gritó: «¡Ayúdame, santa Ana, y me haré monje!». Cumplió su promesa pocas semanas después, contra la voluntad de su padre, e ingresó en el convento de los agustinos de Erfurt. El propio Lutero recordó muchas veces esta escena, que marcó el comienzo de su búsqueda religiosa.</p>",
+  "fuente": "Testimonios del propio Lutero (Charlas de sobremesa)",
+  "tradicion": false,
   "block": "ren",
   "subjects": [
    "hf"
@@ -826,6 +934,9 @@ const ILUSTRES = {
   "obras": [
    "Institución de la religión cristiana (1536)"
   ],
+  "anecdota": "<p>En 1536, Calvino solo pensaba pasar una noche en Ginebra, de camino a Estrasburgo, donde quería dedicarse tranquilamente al estudio. Pero el predicador Guillaume Farel, que intentaba implantar allí la Reforma, se enteró y fue a buscarlo. Cuando Calvino se negó a quedarse, Farel le advirtió solemnemente que Dios maldeciría su retiro y sus estudios si abandonaba aquella tarea. Calvino, según su propio relato, quedó tan sobrecogido que renunció a su viaje. Ginebra ya no se separaría de su nombre.</p>",
+  "fuente": "Calvino, prefacio al Comentario de los Salmos",
+  "tradicion": false,
   "block": "ren",
   "subjects": [
    "hf"
@@ -848,6 +959,9 @@ const ILUSTRES = {
    "Diálogo sobre los dos máximos sistemas del mundo (1632)",
    "Discursos y demostraciones matemáticas sobre dos nuevas ciencias (1638)"
   ],
+  "anecdota": "<p>Según su discípulo y biógrafo Vincenzo Viviani, un Galileo de apenas diecinueve años observaba en la catedral de Pisa una lámpara que oscilaba colgada del techo. Tomándose el pulso como reloj, comprobó que cada oscilación duraba lo mismo, tanto si el balanceo era amplio como si era pequeño. Así habría descubierto el isocronismo del péndulo. La historia quizá esté embellecida, pero muestra lo que haría de él un pionero: medir los fenómenos cotidianos en lugar de confiar en las autoridades.</p>",
+  "fuente": "Vincenzo Viviani, Relato histórico de la vida de Galileo",
+  "tradicion": true,
   "block": "ren",
   "subjects": [
    "hf"
@@ -871,6 +985,9 @@ const ILUSTRES = {
    "Astronomía nueva (1609)",
    "La armonía del mundo (1619)"
   ],
+  "anecdota": "<p>En julio de 1595, mientras daba clase en Graz, Kepler dibujaba en la pizarra las conjunciones de Júpiter y Saturno. Al trazar triángulos dentro de un círculo, vio aparecer otro círculo interior, y le pareció que la proporción entre ambos recordaba a la de las órbitas de esos planetas. De ahí saltó a una idea audaz: las distancias de los planetas se explicarían encajando los cinco sólidos regulares unos dentro de otros. La teoría era falsa, pero esa fe en un orden matemático lo guió hasta sus leyes.</p>",
+  "fuente": "Kepler, El secreto del universo (Mysterium cosmographicum), prefacio",
+  "tradicion": false,
   "block": "ren",
   "subjects": [
    "hf"
@@ -892,6 +1009,9 @@ const ILUSTRES = {
   "obras": [
    "Sobre el movimiento del corazón y de la sangre en los animales (1628)"
   ],
+  "anecdota": "<p>John Aubrey cuenta que, en la batalla de Edgehill (1642), la primera de la guerra civil inglesa, Harvey tenía a su cargo a los hijos del rey Carlos I. Para protegerlos se retiró con ellos junto a un seto y, mientras a su alrededor se combatía, sacó un libro del bolsillo y se puso a leer tranquilamente. Solo cambió de sitio cuando una bala de cañón cayó demasiado cerca. La anécdota, tal vez exagerada, retrata al investigador absorto en el estudio incluso en medio del caos.</p>",
+  "fuente": "John Aubrey, Vidas breves",
+  "tradicion": true,
   "block": "ren",
   "subjects": [
    "hf"
@@ -915,6 +1035,9 @@ const ILUSTRES = {
    "Leviatán (1651)",
    "Sobre el cuerpo (1655)"
   ],
+  "anecdota": "<p>Según su amigo John Aubrey, Hobbes tenía ya unos cuarenta años cuando encontró, en la biblioteca de un caballero, los <em>Elementos</em> de Euclides abiertos por el teorema de Pitágoras. Al leer el enunciado exclamó que aquello era imposible. Leyó la demostración, que remitía a otra proposición anterior, y esta a otra, y así sucesivamente, hasta quedar convencido. Desde entonces se enamoró de la geometría. Aquel método, que parte de principios claros y avanza paso a paso, fue el que quiso aplicar a la política.</p>",
+  "fuente": "John Aubrey, Vidas breves",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -940,6 +1063,9 @@ const ILUSTRES = {
    "Los principios de la filosofía (1644)",
    "Las pasiones del alma (1649)"
   ],
+  "anecdota": "<p>En el invierno de 1619, Descartes, entonces soldado, quedó detenido en un pueblo de Alemania por el frío. Pasó el día entero encerrado en una habitación caldeada por una estufa, sin nadie que lo distrajera, entregado a sus pensamientos. Allí concibió la idea de que las obras hechas por un solo arquitecto son más perfectas que las remendadas por muchos, y decidió reconstruir todo su saber desde los cimientos. Según su biógrafo Baillet, esa misma noche tuvo tres sueños que interpretó como una llamada a esa tarea.</p>",
+  "fuente": "Descartes, Discurso del método II; Adrien Baillet, Vida de Descartes",
+  "tradicion": false,
   "block": "ren",
   "subjects": [
    "hf"
@@ -965,6 +1091,9 @@ const ILUSTRES = {
   "obras": [
    "Correspondencia con Descartes (1643–1649)"
   ],
+  "anecdota": "<p>En 1644, Descartes publicó sus <em>Principios de la filosofía</em>, su obra más sistemática, y se la dedicó a Isabel, que entonces tenía veinticinco años. En la dedicatoria afirmaba que no había conocido a nadie que entendiera tan bien como ella todos sus escritos: muchos dominaban la metafísica y otros las matemáticas, pero solo ella comprendía por igual ambas partes. Viniendo de un autor tan exigente, era un reconocimiento extraordinario a la joven princesa que se había atrevido a señalar los puntos débiles de su dualismo.</p>",
+  "fuente": "Descartes, dedicatoria de los Principios de la filosofía (1644)",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -987,6 +1116,9 @@ const ILUSTRES = {
    "Ética demostrada según el orden geométrico (1677)",
    "Tratado de la reforma del entendimiento (1677)"
   ],
+  "anecdota": "<p>En agosto de 1672, una multitud enfurecida asesinó en La Haya a los hermanos De Witt, líderes de la república holandesa a quienes Spinoza admiraba. Indignado, el filósofo, siempre tan sereno, quiso salir a colgar junto al lugar un cartel con las palabras latinas <em>ultimi barbarorum</em>, «los peores de los bárbaros». Su casero, temiendo que lo mataran también a él, cerró la puerta con llave y no le dejó salir. Spinoza se lo contó años después a Leibniz, que lo anotó.</p>",
+  "fuente": "Leibniz, notas de su conversación con Spinoza (1676)",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1010,6 +1142,9 @@ const ILUSTRES = {
    "Ensayo sobre el entendimiento humano (1690)",
    "Dos tratados sobre el gobierno civil (1690)"
   ],
+  "anecdota": "<p>Hacia 1671, cinco o seis amigos se reunían en la habitación de Locke para discutir cuestiones filosóficas; según uno de ellos, James Tyrrell, sobre la moral y la religión revelada. Pronto se encontraron atascados, sin avanzar hacia ninguna solución. Locke pensó entonces que antes de lanzarse a esas preguntas había que examinar primero las capacidades de nuestro entendimiento y averiguar qué objetos puede conocer y cuáles no. Aquella intuición de una tarde tardó casi veinte años en convertirse en su <em>Ensayo sobre el entendimiento humano</em>.</p>",
+  "fuente": "Locke, «Epístola al lector» del Ensayo sobre el entendimiento humano",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1057,6 +1192,9 @@ const ILUSTRES = {
    "Principios matemáticos de la filosofía natural (1687)",
    "Óptica (1704)"
   ],
+  "anecdota": "<p>En 1665 la peste cerró la Universidad de Cambridge y Newton volvió a la granja familiar de Woolsthorpe, donde pasó meses de enorme creatividad. Sesenta años después, tomando el té bajo unos manzanos con su amigo William Stukeley, le contó que allí mismo, en una situación parecida, la caída de una manzana le había sugerido la idea de la gravitación: ¿por qué cae siempre en vertical, hacia el centro de la Tierra? Newton no mencionó ningún golpe en la cabeza, y probablemente embelleció el recuerdo.</p>",
+  "fuente": "William Stukeley, Memorias de la vida de Sir Isaac Newton",
+  "tradicion": true,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1082,6 +1220,9 @@ const ILUSTRES = {
    "Teodicea (1710)",
    "Monadología (1714)"
   ],
+  "anecdota": "<p>El padre de Leibniz, profesor en Leipzig, murió cuando él tenía seis años. Hacia los ocho, el niño consiguió que le dejaran entrar en la biblioteca paterna, hasta entonces cerrada para él. Allí encontró un Tito Livio ilustrado y, ayudándose de los grabados y del contexto, aprendió latín prácticamente solo. Pronto devoraba a los clásicos, a los padres de la Iglesia y a los escolásticos. Él mismo lo recordaría en sus notas autobiográficas: fue el origen de una curiosidad universal que abarcó casi todas las ciencias.</p>",
+  "fuente": "Notas autobiográficas de Leibniz",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1105,6 +1246,9 @@ const ILUSTRES = {
    "Tratado sobre los principios del conocimiento humano (1710)",
    "Tres diálogos entre Hilas y Filonús (1713)"
   ],
+  "anecdota": "<p>James Boswell cuenta que en 1763, al salir de la iglesia, conversaba con el escritor Samuel Johnson sobre el ingenioso argumento de Berkeley para negar la existencia de la materia. Boswell comentó que era imposible refutarlo. Johnson dio entonces una fuerte patada a una piedra grande y exclamó: «¡Así lo refuto!». La respuesta se hizo célebre, aunque en realidad no refuta nada: Berkeley nunca negó que sintamos la dureza de la piedra, sino que exista algo material más allá de esas percepciones.</p>",
+  "fuente": "James Boswell, Vida de Samuel Johnson",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1149,6 +1293,9 @@ const ILUSTRES = {
    "Tratado sobre la tolerancia (1763)",
    "Diccionario filosófico (1764)"
   ],
+  "anecdota": "<p>En 1729, el matemático La Condamine descubrió un fallo en una lotería organizada por el gobierno francés: los premios superaban lo que costaba comprar todos los billetes. Voltaire se unió a él y a otros socios, compraron billetes en masa durante meses y ganaron una fortuna. Con ese dinero, bien invertido después, Voltaire se hizo rico e independiente. No necesitó protectores ni pensiones, y esa independencia económica le permitió escribir con una libertad que pocos autores de su tiempo podían permitirse.</p>",
+  "fuente": "Biografías de Voltaire, a partir de testimonios de la época",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1170,6 +1317,9 @@ const ILUSTRES = {
    "Historia natural del alma (1745)",
    "El hombre máquina (1748)"
   ],
+  "anecdota": "<p>En noviembre de 1751, La Mettrie acudió a un banquete en casa del embajador francés en Berlín, lord Tyrconnell, a quien había tratado como médico. Poco después cayó enfermo y murió en pocos días; Voltaire y otros testigos atribuyeron el mal a un paté de trufas que habría comido en exceso. Sus enemigos se burlaron de aquel final tan poco filosófico, pero el propio Federico II escribió su elogio fúnebre y lo hizo leer en la Academia de Berlín. Era un gesto insólito: un rey defendía en público la memoria del autor más escandaloso de su tiempo.</p>",
+  "fuente": "Cartas de Voltaire desde Berlín; Federico II, Elogio de La Mettrie",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1193,6 +1343,9 @@ const ILUSTRES = {
    "Investigación sobre los principios de la moral (1751)",
    "Diálogos sobre la religión natural (1779)"
   ],
+  "anecdota": "<p>Se cuenta que Hume, ya corpulento y famoso por su escepticismo religioso, se cayó en una zanja cenagosa al atajar por una zona en obras de Edimburgo. Una vecina que pasaba lo reconoció como «Hume el ateo» y se negó a sacarlo de allí hasta que rezase el padrenuestro y el credo. Él, con su buen humor habitual, los recitó sin protestar, y ella le tendió la mano. La escena resume bien su carácter: tenía ideas incómodas para su época, pero todos sus contemporáneos destacaban su trato afable y su falta de rencor.</p>",
+  "fuente": "Tradición de Edimburgo, recogida en biografías de Hume (E. C. Mossner, The Life of David Hume)",
+  "tradicion": true,
   "block": "ren",
   "subjects": [
    "hf"
@@ -1217,6 +1370,9 @@ const ILUSTRES = {
    "El contrato social (1762)",
    "Emilio, o De la educación (1762)"
   ],
+  "anecdota": "<p>En el verano de 1749, Rousseau caminaba desde París hasta el castillo de Vincennes para visitar a su amigo Diderot, que estaba allí preso. Para descansar, hojeaba el <em>Mercure de France</em>, y en él leyó la pregunta de un concurso de la Academia de Dijon: si el progreso de las ciencias y las artes había mejorado las costumbres. Según contó él mismo, sintió una especie de iluminación repentina, tuvo que sentarse bajo un árbol y se encontró llorando. De aquel momento nació su primer <em>Discurso</em> y, con él, la idea que recorre toda su obra.</p>",
+  "fuente": "Rousseau, Confesiones, libro VIII; Segunda carta a Malesherbes (1762)",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1241,6 +1397,9 @@ const ILUSTRES = {
    "El sobrino de Rameau",
    "Jacques el fatalista"
   ],
+  "anecdota": "<p>Hacia 1765, Diderot necesitaba dinero para dotar a su hija y decidió vender su biblioteca, su bien más preciado. La emperatriz Catalina II de Rusia, admiradora de los ilustrados, la compró por una buena suma, pero con una condición generosa: Diderot conservaría los libros en París mientras viviera y cobraría un sueldo como su bibliotecario. Cuando el pago se retrasó, la zarina le adelantó cincuenta años de salario de una vez. En 1773, Diderot viajó a San Petersburgo para agradecérselo y conversó largamente con ella sobre política y reformas.</p>",
+  "fuente": "Correspondencia de Diderot; testimonios de la época (Grimm, Correspondance littéraire)",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1262,6 +1421,9 @@ const ILUSTRES = {
    "Tratado de dinámica (1743)",
    "Discurso preliminar de la Enciclopedia (1751)"
   ],
+  "anecdota": "<p>El bebé abandonado en las escaleras de Saint-Jean-le-Rond fue criado por la mujer de un vidriero, y D'Alembert, ya célebre académico, siguió viviendo en su modesta casa hasta pasados los cuarenta años. Según la tradición, su madre biológica, la aristócrata Madame de Tencin, intentó reconocerlo cuando se hizo famoso, y él respondió que su única madre era la vidriera. Sea o no exacta la frase, D'Alembert siempre mostró gratitud a quien lo había cuidado, y su éxito se convirtió en un ejemplo ilustrado: el mérito podía más que el nacimiento.</p>",
+  "fuente": "Condorcet, Elogio de D'Alembert; tradición biográfica",
+  "tradicion": true,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1283,6 +1445,9 @@ const ILUSTRES = {
    "Teoría de los sentimientos morales (1759)",
    "La riqueza de las naciones (1776)"
   ],
+  "anecdota": "<p>Adam Smith era famoso por sus despistes. Sus contemporáneos lo describían hablando solo por la calle y moviendo los labios como si discutiera con alguien invisible. Se cuenta que una mañana salió al jardín en bata, sumido en sus pensamientos, y siguió caminando hasta llegar a otra localidad, a varios kilómetros, donde lo despertaron las campanas de la iglesia. Otra historia asegura que, mientras explicaba la división del trabajo durante la visita a una curtiduría, cayó en una de las cubas. Son relatos exagerados, pero reflejan al pensador absorto que imaginaban sus vecinos.</p>",
+  "fuente": "Dugald Stewart, Account of the Life and Writings of Adam Smith (sobre sus despistes); anécdotas de la tradición escocesa",
+  "tradicion": true,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1306,6 +1471,9 @@ const ILUSTRES = {
    "Crítica de la razón práctica (1788)",
    "Crítica del juicio (1790)"
   ],
+  "anecdota": "<p>Según la tradición, los vecinos de Königsberg ponían en hora sus relojes cuando veían pasar a Kant en su paseo diario de la tarde, siempre a la misma hora y por el mismo recorrido. Solo una vez, se cuenta, faltó a la cita: los días en que se quedó en casa absorto leyendo el <em>Emilio</em> de Rousseau, recién publicado. La anécdota quizá esté adornada, pero la admiración era real: Kant tenía en su estudio un único retrato, el de Rousseau, y reconocía que él le había enseñado a respetar la dignidad de cualquier ser humano.</p>",
+  "fuente": "Tradición biográfica; sobre sus costumbres, biografías de Borowski, Jachmann y Wasianski",
+  "tradicion": true,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1332,6 +1500,9 @@ const ILUSTRES = {
    "Introducción a los principios de la moral y la legislación (1789)",
    "Panóptico (1791)"
   ],
+  "anecdota": "<p>Bentham quiso ser útil incluso después de morir. En su testamento dispuso que su cuerpo se usara para la enseñanza de la anatomía y que después su esqueleto, vestido con su ropa y sentado en su silla, se conservara como un «autoicono». Así se hizo: hoy puede verse en una vitrina del University College de Londres, aunque la cabeza es de cera. Circula la leyenda de que asiste a las reuniones del consejo de la universidad con la anotación «presente, pero sin voto». Detrás de la excentricidad había una idea utilitarista: un cadáver también puede servir al bien común.</p>",
+  "fuente": "Testamento de Bentham; University College London",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1353,6 +1524,9 @@ const ILUSTRES = {
   "obras": [
    "Declaración de los derechos de la mujer y de la ciudadana (1791)"
   ],
+  "anecdota": "<p>En diciembre de 1792, cuando la Convención se disponía a juzgar a Luis XVI, Olympe de Gouges escribió a los diputados para ofrecerse como defensora del rey, junto al abogado Malesherbes. No era monárquica: defendía que el rey fuera juzgado, pero no ejecutado, y pensaba que una república fuerte no necesitaba derramar su sangre. La Convención rechazó su oferta alegando, entre otras cosas, que era mujer. El episodio muestra su independencia de criterio y su valentía, que acabaron por enfrentarla con los jacobinos.</p>",
+  "fuente": "Carta de Olympe de Gouges a la Convención (diciembre de 1792)",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1375,6 +1549,9 @@ const ILUSTRES = {
    "Vindicación de los derechos del hombre (1790)",
    "Vindicación de los derechos de la mujer (1792)"
   ],
+  "anecdota": "<p>En 1795, Mary Wollstonecraft emprendió un viaje poco común para una mujer de su tiempo: recorrió Suecia, Noruega y Dinamarca para resolver un asunto comercial de su pareja, acompañada solo por su hija pequeña y una niñera. De esa experiencia nacieron sus <em>Cartas escritas en Suecia, Noruega y Dinamarca</em>, donde mezcla la descripción de paisajes con reflexiones sobre la sociedad y la condición de las mujeres. El libro tuvo mucho éxito, y William Godwin confesó más tarde que, al leerlo, se había enamorado de su autora.</p>",
+  "fuente": "Wollstonecraft, Cartas escritas en Suecia, Noruega y Dinamarca; William Godwin, Memorias de la autora de «Vindicación de los derechos de la mujer»",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1398,6 +1575,9 @@ const ILUSTRES = {
    "Enciclopedia de las ciencias filosóficas (1817)",
    "Fundamentos de la filosofía del derecho (1821)"
   ],
+  "anecdota": "<p>En octubre de 1806, Hegel estaba en Jena terminando la <em>Fenomenología del espíritu</em> cuando las tropas de Napoleón ocuparon la ciudad, la víspera de la famosa batalla. Ese día escribió a su amigo Niethammer que había visto pasar al emperador a caballo, «esa alma del mundo», y que era una sensación extraordinaria contemplar a un individuo que, concentrado en un punto, dominaba el mundo. Se cuenta que tuvo que enviar las últimas páginas del manuscrito entre el caos de la guerra. Para Hegel, la historia universal parecía avanzar ante sus propios ojos.</p>",
+  "fuente": "Carta de Hegel a Niethammer, 13 de octubre de 1806",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1422,6 +1602,9 @@ const ILUSTRES = {
    "Discurso sobre el espíritu positivo (1844)",
    "Sistema de política positiva (1851-1854)"
   ],
+  "anecdota": "<p>En su madurez, Comte practicó lo que él llamaba «higiene cerebral»: decidió dejar de leer periódicos, revistas y libros de otros autores para que las ideas ajenas no perturbaran la elaboración de su propio sistema. Solo se permitía releer unos pocos clásicos, como poetas que le servían de descanso. La costumbre sorprendió incluso a sus admiradores, porque el fundador de una filosofía basada en los hechos se aislaba de las novedades de su tiempo. Muestra la ambición de Comte: construir él solo una síntesis completa de todas las ciencias.</p>",
+  "fuente": "Testimonios del propio Comte y de sus discípulos",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1444,6 +1627,9 @@ const ILUSTRES = {
    "Tesis provisionales para la reforma de la filosofía (1842)",
    "Principios de la filosofía del futuro (1843)"
   ],
+  "anecdota": "<p>En 1850, Feuerbach escribió una reseña de un libro de divulgación sobre la alimentación del fisiólogo Jacob Moleschott. En ella dejó una frase que se haría célebre gracias a un juego de palabras alemán: <em>Der Mensch ist, was er isst</em>, «el hombre es lo que come» (en alemán, «es» y «come» suenan casi igual). Con ese chiste serio resumía su materialismo: el ser humano no es un espíritu desencarnado, sino un ser concreto, sensible y dependiente de sus condiciones materiales. Sus críticos vieron en ello una vulgarización; él, una defensa del cuerpo frente al idealismo.</p>",
+  "fuente": "Feuerbach, reseña de la obra de Moleschott sobre la alimentación (1850)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1467,6 +1653,9 @@ const ILUSTRES = {
    "El utilitarismo (1863)",
    "El sometimiento de la mujer (1869)"
   ],
+  "anecdota": "<p>En 1865, durante su campaña para el Parlamento, Mill se reunió con un público de trabajadores. Un adversario había difundido un cartel con una frase de uno de sus libros, donde decía que las clases trabajadoras, aunque se avergonzaban de mentir, solían ser mentirosas. Le preguntaron si la había escrito, y Mill respondió sin dudar: «Sí, la escribí». Según su <em>Autobiografía</em>, el público estalló en aplausos, porque valoraba que un candidato no intentara esquivar la pregunta. Mill ganó el escaño y lo usó para defender, entre otras causas, el voto de las mujeres.</p>",
+  "fuente": "John Stuart Mill, Autobiografía",
+  "tradicion": false,
   "block": "mod",
   "subjects": [
    "hf"
@@ -1490,6 +1679,9 @@ const ILUSTRES = {
    "El origen de las especies (1859)",
    "El origen del hombre (1871)"
   ],
+  "anecdota": "<p>De estudiante en Cambridge, Darwin era un apasionado coleccionista de escarabajos. En su <em>Autobiografía</em> recuerda que un día arrancó la corteza de un árbol y encontró dos ejemplares raros; cogió uno con cada mano, y en ese momento vio un tercero, de una especie nueva que no quería perder. Sin pensarlo, se metió en la boca uno de los que tenía en la mano. El insecto soltó un líquido ácido que le quemó la lengua, lo escupió y perdió el tercero. Aquella curiosidad sin límites fue la que después alimentó su viaje en el <em>Beagle</em>.</p>",
+  "fuente": "Charles Darwin, Autobiografía",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1513,6 +1705,9 @@ const ILUSTRES = {
    "Manifiesto comunista (1848)",
    "El capital (1867)"
   ],
+  "anecdota": "<p>En sus últimos años, Marx vio con disgusto cómo algunos socialistas franceses que se llamaban «marxistas» simplificaban sus ideas hasta convertirlas en un dogma. Según relató Engels en una carta de 1882, Marx comentó ante ellos con ironía: «Lo único seguro es que yo no soy marxista». La frase muestra que Marx no quería que su obra se repitiera como una doctrina cerrada, sino que se usara como un método para analizar críticamente la sociedad. Paradójicamente, tras su muerte el «marxismo» se convirtió en una de las ideologías más influyentes del siglo XX.</p>",
+  "fuente": "Carta de Engels a Eduard Bernstein (1882)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1537,6 +1732,9 @@ const ILUSTRES = {
    "Campos, fábricas y talleres (1899)",
    "El apoyo mutuo (1902)"
   ],
+  "anecdota": "<p>En 1876, Kropotkin estaba encerrado en la fortaleza de San Pedro y San Pablo de San Petersburgo y, enfermo, fue trasladado al hospital militar de la prisión. Allí sus compañeros prepararon una fuga minuciosa: durante el paseo en el patio, un violinista tocaba desde una casa cercana como señal de que el camino estaba libre. Kropotkin se quitó la pesada bata de preso, echó a correr hasta la puerta y saltó a un carruaje que lo esperaba. Días después huyó de Rusia y comenzó un largo exilio en Europa.</p>",
+  "fuente": "Piotr Kropotkin, Memorias de un revolucionario",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1560,6 +1758,9 @@ const ILUSTRES = {
    "Así habló Zaratustra (1883-1885)",
    "La genealogía de la moral (1887)"
   ],
+  "anecdota": "<p>En 1882, con la vista cada vez más débil, Nietzsche compró una de las primeras máquinas de escribir, una curiosa «bola de escribir» danesa con las teclas dispuestas sobre una semiesfera. La usó durante unas semanas y llegó a teclear con ella algunas cartas y poemas breves, hasta que el aparato se estropeó. A su amigo Heinrich Köselitz, que notaba su estilo aún más conciso, le respondió que nuestras herramientas de escritura también colaboran en nuestros pensamientos. La frase anticipa una reflexión muy actual sobre cómo la técnica transforma nuestra forma de pensar.</p>",
+  "fuente": "Carta de Nietzsche a Heinrich Köselitz (febrero de 1882)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1585,6 +1786,9 @@ const ILUSTRES = {
    "El yo y el ello (1923)",
    "El malestar en la cultura (1930)"
   ],
+  "anecdota": "<p>En mayo de 1933, los nazis quemaron en Berlín y otras ciudades alemanas los libros de autores que consideraban enemigos, entre ellos los de Freud. Según su biógrafo Ernest Jones, Freud comentó con amarga ironía: «¡Cuánto hemos progresado! En la Edad Media me habrían quemado a mí; hoy se conforman con quemar mis libros». No podía imaginar entonces que el nazismo llegaría mucho más lejos. Cinco años después, la anexión de Austria le obligó a abandonar Viena. La frase muestra su lucidez y su humor ante la barbarie.</p>",
+  "fuente": "Ernest Jones, Vida y obra de Sigmund Freud",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1608,6 +1812,9 @@ const ILUSTRES = {
    "La agonía del cristianismo (1925)",
    "San Manuel Bueno, mártir (1931)"
   ],
+  "anecdota": "<p>Unamuno tenía una afición inesperada: hacer pajaritas de papel. Las doblaba en tertulias, en cafés y en casa, y llegó a tomárselas tan en serio como para inventar una disciplina, la <strong>cocotología</strong>, a la que dedicó un tratado burlesco al final de su novela <em>Amor y pedagogía</em> (1902). Con falsa solemnidad científica clasificaba y analizaba las pajaritas, como si fueran especies animales. Era una forma de reírse de la pedantería de quienes creen que todo puede reducirse a sistema, algo muy propio de un pensador que desconfiaba de las abstracciones.</p>",
+  "fuente": "Unamuno, Amor y pedagogía (1902), «Apuntes para un tratado de cocotología»",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1631,6 +1838,9 @@ const ILUSTRES = {
    "La política como vocación (1919)",
    "Economía y sociedad (1922)"
   ],
+  "anecdota": "<p>En enero de 1919, con Alemania derrotada y Múnich en plena agitación revolucionaria, una asociación de estudiantes invitó a Weber a hablarles de política. Muchos jóvenes esperaban oír que la revolución traería un mundo nuevo. Weber les ofreció justo lo contrario: una reflexión sobria sobre el poder, la responsabilidad y los límites de las buenas intenciones. Terminó comparando la política con <strong>perforar lenta y tenazmente tablas duras</strong>, un trabajo que exige pasión y mesura a la vez. Esa conferencia, <em>La política como vocación</em>, es el texto donde distingue la ética de la convicción y la de la responsabilidad.</p>",
+  "fuente": "Weber, La política como vocación (conferencia de 1919); Marianne Weber, biografía de Max Weber",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1653,6 +1863,9 @@ const ILUSTRES = {
    "Los problemas de la filosofía (1912)",
    "Historia de la filosofía occidental (1945)"
   ],
+  "anecdota": "<p>En 1902 Gottlob Frege estaba a punto de publicar el segundo volumen de su gran obra, donde fundaba la aritmética en la lógica. Entonces recibió una carta de un joven Russell, muy respetuosa, que le planteaba una dificultad: el conjunto de todos los conjuntos que no se contienen a sí mismos, ¿se contiene o no? Cualquier respuesta lleva a contradicción. Frege respondió con gran honestidad que aquello hacía tambalear sus cimientos y añadió un apéndice reconociéndolo. La <strong>paradoja de Russell</strong> obligó a repensar los fundamentos de las matemáticas y está en el origen de los <em>Principia Mathematica</em>.</p>",
+  "fuente": "Correspondencia entre Russell y Frege (1902); Frege, apéndice al vol. II de Las leyes fundamentales de la aritmética",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1676,6 +1889,9 @@ const ILUSTRES = {
    "La refutación del idealismo (1903)",
    "Defensa del sentido común (1925)"
   ],
+  "anecdota": "<p>En 1939, ante la Academia Británica, Moore ofreció la que presentó como una prueba de la existencia del mundo exterior. Levantó una mano y dijo, más o menos: «Aquí hay una mano». Luego levantó la otra: «Y aquí hay otra». Por tanto, concluyó, existen al menos dos objetos externos. Muchos oyentes lo tomaron por una broma, pero Moore hablaba en serio: estaba más seguro de tener manos que de cualquier premisa de un argumento escéptico. El gesto resume su defensa del <strong>sentido común</strong> frente a las filosofías que lo ponen en duda.</p>",
+  "fuente": "Moore, «Prueba del mundo exterior» (1939)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1719,6 +1935,9 @@ const ILUSTRES = {
    "El tema de nuestro tiempo (1923)",
    "La rebelión de las masas (1930)"
   ],
+  "anecdota": "<p>En noviembre de 1930 Ortega publicó en el diario <em>El Sol</em> un artículo, «El error Berenguer», que terminaba con una frase latina convertida en consigna: «Delenda est Monarchia», la monarquía debe ser destruida. Meses después llegó la Segunda República, y Ortega fue elegido diputado. Pero pronto le decepcionó el rumbo de la nueva política y, en septiembre de 1931, escribió otro artículo con un lamento que se hizo igual de famoso: <strong>«¡No es esto, no es esto!»</strong>. Las dos frases muestran su idea del intelectual que interviene en la vida pública sin renunciar a juzgarla.</p>",
+  "fuente": "Ortega y Gasset, «El error Berenguer» (El Sol, 1930) y «Un aldabonazo» (Crisol, 1931)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1739,6 +1958,9 @@ const ILUSTRES = {
   "obras": [
    "El lenguaje (1921)"
   ],
+  "anecdota": "<p>En el verano de 1915 Sapir trabajó en San Francisco con Ishi, un hombre considerado el último hablante de yahi, una lengua indígena de California. Ishi había vivido oculto con su pequeño grupo durante décadas y, tras quedarse solo, se había instalado en el museo de antropología de la Universidad de California. Durante semanas Sapir anotó con él palabras, relatos y estructuras gramaticales para que la lengua no se perdiera. La escena resume el trabajo de Sapir: documentar lenguas amenazadas convencido de que cada una encierra una manera única de organizar el mundo.</p>",
+  "fuente": "Testimonios de Alfred Kroeber y documentación del museo de antropología de la Universidad de California; Theodora Kroeber, Ishi en dos mundos",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1760,6 +1982,9 @@ const ILUSTRES = {
    "Tractatus logico-philosophicus (1921)",
    "Investigaciones filosóficas (1953)"
   ],
+  "anecdota": "<p>En 1929, al volver a Cambridge, Wittgenstein necesitaba un doctorado para poder enseñar, y presentó como tesis el <em>Tractatus</em>, ya famoso. Sus examinadores fueron nada menos que Russell y Moore. El examen fue casi una charla entre viejos amigos, hasta que Wittgenstein, al terminar, les dio una palmada en el hombro y les dijo que no se preocuparan, que sabía que nunca lo entenderían. Moore escribió en su informe que la obra era un trabajo de genio que, en cualquier caso, cumplía los requisitos para el doctorado.</p>",
+  "fuente": "Testimonios recogidos en la biografía de Ray Monk, Ludwig Wittgenstein. El deber de un genio",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1783,6 +2008,9 @@ const ILUSTRES = {
    "El origen de la obra de arte",
    "Carta sobre el humanismo (1947)"
   ],
+  "anecdota": "<p>En 1924 Heidegger empezó en Marburgo un curso sobre Aristóteles de una forma que sus alumnos no olvidaron. En lugar de repasar la biografía del filósofo, la despachó en una sola frase: Aristóteles nació, trabajó y murió. Lo que importaba no era la vida anecdótica del autor, sino su pensamiento. Aquellas clases, intensas y exigentes, dieron a Heidegger fama de «rey secreto» de la filosofía entre los estudiantes alemanes, antes incluso de publicar <em>Ser y tiempo</em>. Entre quienes lo escuchaban en Marburgo estaban Hannah Arendt y Hans-Georg Gadamer.</p>",
+  "fuente": "Heidegger, curso de Marburgo de 1924 (Conceptos fundamentales de la filosofía aristotélica); testimonios de sus alumnos, como Arendt",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1805,6 +2033,9 @@ const ILUSTRES = {
    "La superación de la metafísica mediante el análisis lógico del lenguaje (1932)",
    "Sintaxis lógica del lenguaje (1934)"
   ],
+  "anecdota": "<p>De adolescente, Carnap aprendió por su cuenta el <strong>esperanto</strong>, la lengua artificial creada para facilitar el entendimiento entre pueblos. En 1908 asistió en Dresde a un congreso mundial de esperantistas y le impresionó ver a gente de muchos países conversando con fluidez en un idioma inventado. Según contó en su autobiografía intelectual, aquella experiencia le convenció de que una lengua construida podía funcionar como una natural. Más tarde dedicaría buena parte de su filosofía a diseñar lenguajes lógicos precisos, capaces de expresar el conocimiento científico sin ambigüedades.</p>",
+  "fuente": "Carnap, «Autobiografía intelectual», en P. A. Schilpp (ed.), The Philosophy of Rudolf Carnap",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1827,6 +2058,9 @@ const ILUSTRES = {
    "Dialéctica de la Ilustración (1944, con Adorno)",
    "Crítica de la razón instrumental (1947)"
   ],
+  "anecdota": "<p>El filósofo marxista Georg Lukács dedicó a Horkheimer, Adorno y sus colegas de Fráncfort una pulla que se hizo célebre. En 1962 escribió que se habían instalado en el «Gran Hotel Abismo»: un hotel lujoso, con todas las comodidades, asomado al borde del precipicio, desde el que contemplaban la catástrofe del mundo entre buenas comidas y obras de arte. Lukács les reprochaba criticar la sociedad sin comprometerse con la acción política. La broma resume un debate de fondo sobre la <strong>teoría crítica</strong>: si basta con pensar críticamente o hace falta transformar la realidad.</p>",
+  "fuente": "Lukács, prólogo de 1962 a Teoría de la novela",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1847,6 +2081,9 @@ const ILUSTRES = {
   "obras": [
    "Lenguaje, pensamiento y realidad (1956)"
   ],
+  "anecdota": "<p>Su trabajo como inspector de incendios dio a Whorf uno de sus ejemplos favoritos. En un almacén observó que los trabajadores tenían cuidado cerca de los bidones de gasolina llenos, pero fumaban tranquilamente junto a los que llevaban la etiqueta «vacíos». Sin embargo, esos bidones estaban llenos de vapores inflamables, mucho más peligrosos. La palabra «vacío», que sugiere ausencia de riesgo, guiaba la conducta más que la realidad física. Whorf usó casos así para defender que el lenguaje condiciona cómo percibimos las situaciones y cómo actuamos en ellas.</p>",
+  "fuente": "Whorf, «La relación del pensamiento y el comportamiento habituales con el lenguaje» (1939)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1891,6 +2128,9 @@ const ILUSTRES = {
    "La miseria del historicismo (1957)",
    "Conjeturas y refutaciones (1963)"
   ],
+  "anecdota": "<p>El 25 de octubre de 1946 Popper dio una charla en el Club de Ciencias Morales de Cambridge, presidido por Wittgenstein. Popper defendió que existen problemas filosóficos genuinos; Wittgenstein sostenía que solo hay enigmas del lenguaje. La discusión se acaloró y, según varios testigos, Wittgenstein agitó un atizador de chimenea mientras hablaba. Popper contó que, cuando le pidieron un ejemplo de regla moral, respondió: «No amenazar con atizadores a los conferenciantes invitados». Los asistentes no se ponen de acuerdo sobre lo que ocurrió exactamente, y algunos niegan esa versión. El enfrentamiento duró apenas diez minutos.</p>",
+  "fuente": "Popper, Búsqueda sin término (autobiografía); testimonios de los asistentes a la sesión",
+  "tradicion": true,
   "block": "con",
   "subjects": [
    "hf"
@@ -1914,6 +2154,9 @@ const ILUSTRES = {
    "Dialéctica negativa (1966)",
    "Teoría estética (1970)"
   ],
+  "anecdota": "<p>Durante su exilio en California, Adorno se hizo amigo de Thomas Mann, que vivía cerca y estaba escribiendo <em>Doktor Faustus</em>, la novela de un compositor que pacta con el diablo. Mann sabía que necesitaba a alguien que entendiera de verdad la música moderna, y Adorno, discípulo de Alban Berg, se convirtió en su consejero: le explicaba la música dodecafónica e incluso le describía obras imaginarias del protagonista. El propio Mann reconoció esa colaboración en un libro sobre la génesis de la novela. Para Adorno, la música seria era una forma de conocimiento de su época.</p>",
+  "fuente": "Thomas Mann, Los orígenes del Doktor Faustus (1949)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1937,6 +2180,9 @@ const ILUSTRES = {
    "Persona y democracia (1958)",
    "Claros del bosque (1977)"
   ],
+  "anecdota": "<p>María Zambrano vivió buena parte de su exilio junto a su hermana Araceli, y ambas acogían a numerosos gatos, a los que ella tenía un cariño enorme. En Roma, a mediados de los años sesenta, una denuncia de vecinos por los gatos acabó con una orden para que abandonaran el país. Las hermanas se trasladaron entonces a una casa aislada en La Pièce, en el Jura francés, cerca de Suiza, donde vivieron años de gran soledad y escritura. Allí maduraron algunas de sus obras más personales, como <em>Claros del bosque</em>.</p>",
+  "fuente": "Testimonios biográficos y correspondencia de María Zambrano",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1960,6 +2206,9 @@ const ILUSTRES = {
    "El existencialismo es un humanismo (1946)",
    "Crítica de la razón dialéctica (1960)"
   ],
+  "anecdota": "<p>Simone de Beauvoir relata una escena de 1933 en un bar de Montparnasse. Raymond Aron, que volvía de estudiar en Berlín, señaló su vaso de cóctel de albaricoque y le dijo a Sartre que, si era fenomenólogo, podía hablar de aquel cóctel y eso sería filosofía. Sartre, según Beauvoir, casi palideció de emoción: era justo lo que buscaba, una filosofía que partiera de las cosas concretas tal como las vivimos. Poco después se fue a Berlín a estudiar a Husserl, y de ahí nació su existencialismo.</p>",
+  "fuente": "Simone de Beauvoir, La plenitud de la vida (La force de l'âge)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -1984,6 +2233,9 @@ const ILUSTRES = {
    "Eichmann en Jerusalén (1963)",
    "Verdad y política (1967)"
   ],
+  "anecdota": "<p>En 1964 Arendt concedió una larga entrevista a la televisión alemana, con el periodista Günter Gaus. Fumando con calma, habló del exilio, del nazismo y de su oficio. Cuando Gaus le preguntó qué le quedaba de la Europa anterior a Hitler, respondió que le quedaba la <strong>lengua materna</strong>: el alemán, en el que se sabía de memoria muchos poemas y que nunca había perdido pese a vivir en Estados Unidos. La lengua, dijo, no se había vuelto loca. La entrevista se sigue viendo hoy como un retrato de su independencia de pensamiento.</p>",
+  "fuente": "Entrevista con Günter Gaus, «Zur Person» (ZDF, 1964)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2007,6 +2259,9 @@ const ILUSTRES = {
    "Los mandarines (1954)",
    "La vejez (1970)"
   ],
+  "anecdota": "<p>En 1929, junto a la fuente Médicis de los jardines de Luxemburgo, en París, Beauvoir le expuso a Sartre la teoría moral que había ido construyendo. Él la desmontó durante horas, pieza a pieza. Beauvoir, acostumbrada a ser la mejor de su clase, reconoció que ya no estaba segura de lo que pensaba, ni siquiera de si pensaba. Lejos de desanimarse, lo vivió como un estímulo: había encontrado a alguien con quien discutir de igual a igual. Así lo cuenta en sus memorias, y así empezó un diálogo filosófico que duró cincuenta años.</p>",
+  "fuente": "Simone de Beauvoir, Memorias de una joven formal (1958)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2028,6 +2283,9 @@ const ILUSTRES = {
    "Sobre los números computables (1936)",
    "Maquinaria computacional e inteligencia (1950)"
   ],
+  "anecdota": "<p>En mayo de 1926, cuando Turing iba a empezar su primer curso en el internado de Sherborne, una huelga general paralizó los trenes en Gran Bretaña. En lugar de esperar, el muchacho de trece años cogió su bicicleta y recorrió unos cien kilómetros desde Southampton, parando a dormir en una posada por el camino. La hazaña llamó tanto la atención que la recogió la prensa local. Anticipa rasgos que lo acompañaron siempre: independencia, tenacidad y afición por las largas distancias, pues de adulto fue un corredor de fondo de nivel casi olímpico.</p>",
+  "fuente": "Andrew Hodges, Alan Turing: The Enigma; prensa local de 1926",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2051,6 +2309,9 @@ const ILUSTRES = {
    "Tiempo y narración (1983-1985)",
    "Sí mismo como otro (1990)"
   ],
+  "anecdota": "<p>Durante sus cinco años como prisionero de guerra en Alemania, Ricoeur no dejó de hacer filosofía. En el campo, junto con otros oficiales como Mikel Dufrenne, organizó cursos y lecturas para sus compañeros, una especie de universidad improvisada. Allí mismo tradujo al francés las <em>Ideas</em> de Husserl, escribiendo a lápiz en los márgenes del único ejemplar que tenía porque le faltaba papel. Esa traducción, publicada después de la guerra, lo dio a conocer como uno de los grandes especialistas franceses en fenomenología.</p>",
+  "fuente": "Ricoeur, Autobiografía intelectual (Réflexion faite)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2074,6 +2335,9 @@ const ILUSTRES = {
    "El derecho de gentes (1999)",
    "La justicia como equidad: una reformulación (2001)"
   ],
+  "anecdota": "<p>Al terminar la guerra, Rawls formó parte de las tropas de ocupación en Japón y pasó en tren junto a las ruinas de Hiroshima, pocas semanas después de la bomba atómica. Aquella visión no lo abandonó. Cincuenta años más tarde, en 1995, publicó el artículo «Cincuenta años después de Hiroshima», donde sostuvo que el bombardeo de ciudades llenas de civiles había sido un grave error moral, aunque lo ordenara un gobierno democrático. Para Rawls, también en la guerra hay límites que la justicia no permite cruzar.</p>",
+  "fuente": "Thomas Pogge, John Rawls: su vida y su teoría de la justicia; J. Rawls, «Fifty Years after Hiroshima», Dissent (1995)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2098,6 +2362,9 @@ const ILUSTRES = {
    "La condición posmoderna (1979)",
    "La diferencia (1983)"
   ],
+  "anecdota": "<p>En 1985 Lyotard hizo algo poco habitual para un filósofo: fue comisario de una gran exposición en el Centro Pompidou de París, titulada <em>Les Immatériaux</em> («Los inmateriales»). En lugar de cuadros colgados en orden, el público recorría un laberinto de espacios en penumbra, con auriculares que emitían textos distintos según la zona, y se encontraba con pantallas, objetos sintéticos y nuevas tecnologías de la información. No había un recorrido único ni una conclusión: la exposición quería que el visitante viviera en su propio cuerpo la condición posmoderna, sin un gran relato que lo guiara.</p>",
+  "fuente": "Exposición Les Immatériaux (Centro Pompidou, 1985) y su catálogo",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2144,6 +2411,9 @@ const ILUSTRES = {
    "Vigilar y castigar (1975)",
    "Historia de la sexualidad (1976-1984)"
   ],
+  "anecdota": "<p>En noviembre de 1971 la televisión holandesa sentó frente a frente a Foucault y a Noam Chomsky para debatir sobre la naturaleza humana. Chomsky defendió que existe una naturaleza humana, con capacidades innatas como el lenguaje, y que en ella puede apoyarse una idea de justicia. Foucault desconfió: para él, conceptos como naturaleza humana o justicia se han formado dentro de nuestra sociedad y sirven también para ejercer el poder. Los dos se trataron con cortesía, pero apenas se pusieron de acuerdo. El debate se convirtió en un clásico.</p>",
+  "fuente": "Debate televisado Chomsky-Foucault (Eindhoven, 1971), publicado como La naturaleza humana: justicia versus poder",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2166,6 +2436,9 @@ const ILUSTRES = {
    "Aspectos de la teoría de la sintaxis (1965)",
    "Los guardianes de la libertad (1988, con E. S. Herman)"
   ],
+  "anecdota": "<p>Con solo diez años, Chomsky escribió su primer artículo en el periódico de su escuela de Filadelfia. El tema no era infantil: la caída de Barcelona en manos de las tropas de Franco, a comienzos de 1939, y la expansión del fascismo por Europa. El propio Chomsky ha recordado muchas veces este texto. La guerra civil española lo marcó desde niño: más tarde se acercó a las ideas anarquistas y admiró las colectividades de Cataluña y Aragón, que consideró uno de los grandes experimentos de autogestión del siglo XX.</p>",
+  "fuente": "Testimonio del propio Chomsky en entrevistas; R. Barsky, Noam Chomsky: una vida de discrepancia",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2189,6 +2462,9 @@ const ILUSTRES = {
    "Teoría de la acción comunicativa (1981)",
    "El discurso filosófico de la modernidad (1985)"
   ],
+  "anecdota": "<p>En 1953, con 24 años y recién doctorado, Habermas leyó la reedición de un curso de Heidegger de 1935, <em>Introducción a la metafísica</em>, donde seguía hablando de la «verdad interna y grandeza» del movimiento nacionalsocialista, sin una sola palabra de rectificación. Indignado, publicó un artículo en el <em>Frankfurter Allgemeine Zeitung</em> exigiendo explicaciones al filósofo más admirado de Alemania. Heidegger nunca respondió de verdad. Aquel texto anuncia al Habermas de toda su vida: un intelectual que interviene en el debate público y cree que ninguna autoridad está por encima de la discusión.</p>",
+  "fuente": "J. Habermas, «Pensar con Heidegger contra Heidegger», Frankfurter Allgemeine Zeitung (1953)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2213,6 +2489,9 @@ const ILUSTRES = {
    "Las hormigas (1990, con B. Hölldobler)",
    "La conquista social de la Tierra (2012)"
   ],
+  "anecdota": "<p>A los siete años, pescando en un muelle de Florida, el pequeño Edward tiró con demasiada fuerza del sedal y la aleta espinosa de un pez le hirió el ojo derecho, que acabó perdiendo casi por completo. Con el izquierdo, en cambio, veía de cerca con gran detalle. Él mismo contó que por eso dejó de fijarse en aves y mamíferos, difíciles de observar a distancia, y se centró en los seres pequeños que podía examinar sosteniéndolos cerca de la cara. Así empezó su pasión por las hormigas.</p>",
+  "fuente": "E. O. Wilson, El naturalista (autobiografía, 1994)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2258,6 +2537,9 @@ const ILUSTRES = {
    "Cultura y simulacro (1981)",
    "La guerra del Golfo no ha tenido lugar (1991)"
   ],
+  "anecdota": "<p>En la película <em>Matrix</em> (1999), el protagonista, Neo, esconde discos pirata en un ejemplar vaciado de <em>Cultura y simulacro</em>, el libro de Baudrillard. Los directores pidieron a los actores que lo leyeran antes del rodaje, e incluso invitaron al filósofo a colaborar en las secuelas. Baudrillard declinó. En una entrevista de 2004 explicó que la película lo había malinterpretado: <em>Matrix</em> separa claramente un mundo falso de uno real al que se puede escapar, mientras que para él lo inquietante es que esa frontera ya no existe.</p>",
+  "fuente": "Película Matrix (1999); entrevista a Baudrillard en Le Nouvel Observateur (2004)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2281,6 +2563,9 @@ const ILUSTRES = {
    "Márgenes de la filosofía (1972)",
    "Espectros de Marx (1993)"
   ],
+  "anecdota": "<p>A finales de 1981 Derrida viajó a Praga para dar un seminario clandestino a intelectuales disidentes del régimen comunista checoslovaco. Al salir, la policía lo detuvo en el aeropuerto: afirmaron haber encontrado droga en su maleta, que en realidad habían colocado ellos mismos. Pasó una noche en la cárcel y fue acusado de tráfico de estupefacientes. La protesta del Gobierno francés, con el presidente Mitterrand al frente, logró su liberación y expulsión del país. El filósofo de la sospecha sobre los textos acabó siendo víctima de un expediente fabricado.</p>",
+  "fuente": "Benoît Peeters, Derrida (biografía, 2010); prensa de la época",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2372,6 +2657,9 @@ const ILUSTRES = {
    "Sin fines de lucro (2010)",
    "Crear capacidades (2011)"
   ],
+  "anecdota": "<p>Antes de dedicarse a la filosofía, la joven Martha quiso ser actriz. Dejó sus estudios universitarios para trabajar durante un tiempo en una compañía de teatro de repertorio que recorría el país representando obras clásicas. Después volvió a la universidad y se centró en la lengua y la literatura griegas, en la Universidad de Nueva York. Aquella pasión por la tragedia no desapareció: en <em>La fragilidad del bien</em> estudia a Sófocles y Eurípides para mostrar que la literatura también enseña a pensar la vida moral.</p>",
+  "fuente": "Perfil de R. Aviv en The New Yorker (2016) y entrevistas",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2395,6 +2683,9 @@ const ILUSTRES = {
    "Vida precaria (2004)",
    "La fuerza de la no violencia (2020)"
   ],
+  "anecdota": "<p>Butler ha contado que, con unos catorce años, hablaba tanto en las clases de la escuela hebrea de su sinagoga en Cleveland que el rabino decidió imponerle como castigo unas tutorías individuales. El supuesto castigo resultó un regalo: en aquellas sesiones de ética judía el rabino le propuso leer y discutir a filósofos como Spinoza y otros pensadores de la tradición. Allí empezó su interés por la filosofía y por preguntas que nunca ha abandonado, como la relación entre la ética, la violencia y la comunidad.</p>",
+  "fuente": "Testimonio de Judith Butler en entrevistas",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2418,6 +2709,9 @@ const ILUSTRES = {
    "Psicopolítica (2014)",
    "La expulsión de lo distinto (2016)"
   ],
+  "anecdota": "<p>El crítico de la vida digital prefiere la tierra a las pantallas. Durante tres primaveras y tres veranos, Han cultivó un jardín en Berlín y lo convirtió en libro: <em>Loa a la tierra</em> (2018). Cuenta que aprendió los nombres de las flores, que plantaba incluso en invierno y que el jardín le enseñó a esperar, a cuidar y a aceptar ritmos que no se pueden acelerar. Frente a la prisa y la autoexplotación que describe en sus ensayos, trabajar con las manos en la tierra le parece una forma de recuperar el tiempo.</p>",
+  "fuente": "Byung-Chul Han, Loa a la tierra. Un viaje al jardín (2018)",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
@@ -2461,6 +2755,9 @@ const ILUSTRES = {
    "La mente consciente (1996)",
    "Reality+ (2022)"
   ],
+  "anecdota": "<p>En 1998, tras un congreso en Bremen, el neurocientífico Christof Koch apostó con Chalmers una caja de buen vino: Koch creía que en veinticinco años se habría encontrado en el cerebro la señal neuronal que explica la conciencia; Chalmers, que no. En 2023, en un congreso sobre la conciencia celebrado en Nueva York, se revisó la apuesta. Los experimentos no habían resuelto la cuestión, así que Koch reconoció la derrota y pagó. Chalmers no ganó por demostrar su dualismo, sino porque el problema difícil seguía abierto.</p>",
+  "fuente": "Crónicas del congreso de la Association for the Scientific Study of Consciousness (Nueva York, 2023), entre ellas la de Nature",
+  "tradicion": false,
   "block": "con",
   "subjects": [
    "hf"
