@@ -361,6 +361,12 @@ const CITAS = [
   "e": "contemporanea"
  },
  {
+  "c": "Lo eternamente incomprensible del mundo es su comprensibilidad.",
+  "a": "Albert Einstein",
+  "o": "Física y realidad",
+  "e": "contemporanea"
+ },
+ {
   "c": "El feminismo es hijo no reconocido de la Ilustración.",
   "a": "Amorós",
   "o": "La igualdad ilustrada (Hacia una crítica de la razón patriarcal)",

@@ -24,6 +24,7 @@
 <link rel="stylesheet" href="css/parejas.css">
 <link rel="stylesheet" href="css/juegos.css">
 <link rel="stylesheet" href="css/retratos.css">
+<link rel="stylesheet" href="css/ilustres.css">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Historia de la Filosofía · 2.º de Bachillerato">
 <meta property="og:description" content="El taller de Historia de la Filosofía de 2.º de Bachillerato en una página: teoría, textos, esquemas, tarjetas y práctica de la PAU (disertación y comentario).">
@@ -46,6 +47,7 @@
           <button data-view="tarjetas">Tarjetas</button>
           <button data-view="cuestionarios">Cuestionarios</button>
           <button data-view="glosario">Glosario</button>
+          <button data-view="ilustres">Ilustres</button>
           <button data-view="citas">Frases</button>
         </div>
       </div>
@@ -283,6 +285,16 @@
     <div class="glolist" id="glolist"></div>
   </section>
 
+  <!-- ILUSTRES -->
+  <section class="view" id="ilustres">
+    <p class="eyebrow">Referencia</p>
+    <h1 class="title">Ilustres</h1>
+    <p class="lead">Las biografías de los pensadores que aparecen en la teoría, de los presocráticos a hoy: quiénes fueron, qué pensaron y en qué temas los estudiamos. Filtra por <strong>época</strong> o busca por nombre, obra o idea.</p>
+    <div class="filterbar" id="ilufilter" role="group" aria-label="Filtrar ilustres"></div>
+    <div class="ilu-count" id="ilucount"></div>
+    <div id="ilubox"></div>
+  </section>
+
   <!-- CITAS -->
   <section class="view" id="citas">
     <p class="eyebrow">Referencia</p>
@@ -417,6 +429,8 @@
 <script src="js/infografiasview.js"></script>
 <script src="js/glosario.js"></script>
 <script src="js/glosarioview.js"></script>
+<script src="js/ilustres.js"></script>
+<script src="js/ilustresview.js"></script>
 <script src="js/parejasview.js"></script>
 <script src="js/juego_aristoteles.js"></script>
 <script src="js/aristotelesview.js"></script>
