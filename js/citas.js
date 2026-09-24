@@ -407,7 +407,8 @@ const CITAS = [
   "c": "La mente no tiene sexo.",
   "a": "Poulain de la Barre",
   "o": "La mente no tiene sexo (De l’égalité des deux sexes)",
-  "e": "moderna"
+  "e": "moderna",
+  "img": "media/retratos/citas/poulain.jpg"
  },
  {
   "c": "Pienso, luego existo.",
@@ -469,7 +470,9 @@ const CITAS = [
   "c": "La Ilustración es totalitaria.",
   "a": "Adorno & Horkheimer",
   "o": "Razón instrumental (Dialéctica de la Ilustración)",
-  "e": "contemporanea"
+  "e": "contemporanea",
+  "id": "adorno",
+  "img": "media/retratos/ilustres/adorno.jpg"
  },
  {
   "c": "Lo eternamente incomprensible del mundo es su comprensibilidad.",
