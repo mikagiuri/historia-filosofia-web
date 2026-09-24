@@ -64,26 +64,7 @@ const SUBJECTS = {
   "kick": "2.º de Bachillerato · Bloques A, B y C",
   "color": "var(--hf)",
   "intro": "De la filosofía antigua a la contemporánea: teoría de los 27 temas, materiales de aula y los cinco textos de la PAU (Platón, Descartes, Kant, Nietzsche y Beauvoir), en la pestaña «Lecturas».",
-  "mats": [
-   [
-    "Paquete de apoyo T3-T5",
-    "Mito/logos, presocráticos, sofistas y Sócrates: fe de erratas, flashcards y actividades.",
-    "hf\\A_bloque",
-    "hf-paquete-t3t5"
-   ],
-   [
-    "Ficha de debate",
-    "«¿Convencer o buscar la verdad?»: sofistas frente a Sócrates, con Aspasia.",
-    "hf\\A_bloque",
-    "hf-debate"
-   ],
-   [
-    "Guía PAU en 2 páginas",
-    "Estructura, criterios y consejos del examen (formato 2026).",
-    "hf\\PAU",
-    "hf-guia-pau"
-   ]
-  ],
+  "mats": [],
   "tools": [
    [
     "Teoría (bloque A)",
@@ -134,6 +115,11 @@ const SUBJECTS = {
     "Citas · contemporánea",
     "tarjetas",
     "citasC"
+   ],
+   [
+    "Guía y práctica de la PAU",
+    "pau",
+    ""
    ]
   ]
  }

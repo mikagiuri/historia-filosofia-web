@@ -1,7 +1,7 @@
 "use strict";
 /* ===== «Rayuela filosófica» (Historia de la Filosofía 2.º) — datos =====
    Idea y grafo del profesor (12-2025): «El camino de la filosofía» / «Metro filosófico»
-   (ORDEZKAPENAK\…\BATX 2 FH 2 Eba Gam\El_camino_de_la_filosofia_COMPLETO.docx). Diseño: docs/13_diseno_narrativa_marco_HF.md.
+   (documento original: ver docs/13_diseno_narrativa_marco_HF.md, que es también el diseño).
    Red 1 (de Sócrates a Descartes). Enlaces revisados el 24-09-2026: 46.2 iba a una página 37 inexistente (→ 47);
    43, 44, 45 y 47 no tenían entrada (→ 7.2, 6.1, 9.3 y 46.2); 3.1 lleva al Jardín (48); 41.3 → 46.
    Sin bucles (24-09, v2): la red siempre avanza hacia los finales; 43.2→40, 93.1→10, 41.1→5, 91.1→5, 45.2→46,
