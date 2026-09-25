@@ -2,7 +2,7 @@
 /* ===== «Rayuela filosófica» (Historia de la Filosofía 2.º) — datos =====
    Idea y grafo del profesor (12-2025): «El camino de la filosofía» / «Metro filosófico»
    (documento original: ver docs/13_diseno_narrativa_marco_HF.md, que es también el diseño).
-   Red 1 (de Sócrates a Descartes). Enlaces revisados el 24-09-2026: 46.2 iba a una página 37 inexistente (→ 47);
+   Red 1 (de Sócrates a Descartes) y Red 2 (25-09: los modernos, de Galileo a Mill; transbordos desde 5, 7 y 9 como 4.ª opción con "red": 2). Enlaces revisados el 24-09-2026: 46.2 iba a una página 37 inexistente (→ 47);
    43, 44, 45 y 47 no tenían entrada (→ 7.2, 6.1, 9.3 y 46.2); 3.1 lleva al Jardín (48); 41.3 → 46.
    Sin bucles (24-09, v2): la red siempre avanza hacia los finales; 43.2→40, 93.1→10, 41.1→5, 91.1→5, 45.2→46,
    92.1→10, 94.2→10, 90.1→F, 90.2→B. Validar con: node tools/validar_rayuela.js (comprueba también que no haya ciclos)
@@ -22,7 +22,8 @@ const RAYUELA_HF = {
   { "id": "l-contradiccion", "nombre": "Contradicciones", "color": "#d23a2b" }
  ],
  "redes": [
-  { "n": 1, "nombre": "Red 1 · De Sócrates a Descartes", "abre": "2026-09-01" }
+  { "n": 1, "nombre": "Red 1 · De Sócrates a Descartes", "abre": "2026-09-01" },
+  { "n": 2, "nombre": "Red 2 · Los modernos: de Galileo a Mill", "abre": "2026-09-25" }
  ],
  "estaciones": {
   "1": {
@@ -81,7 +82,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "Un alma que usa un cuerpo, como un piloto su nave.", "to": "10", "marca": "m-alma-separada" },
     { "t": "Una unidad: el alma es la forma del cuerpo vivo.", "to": "10", "marca": "m-alma-forma" },
-    { "t": "Solo un cuerpo: materia bien organizada.", "to": "94", "marca": "m-solo-cuerpo" }
+    { "t": "Solo un cuerpo: materia bien organizada.", "to": "94", "marca": "m-solo-cuerpo" },
+    { "t": "Quiero saber cómo pueden relacionarse el alma y el cuerpo, si son tan distintos.", "to": "52", "marca": "m-problema-union", "red": 2 }
    ],
    "temas": ["hf-antropologia", "hf-metafisica"], "autores": [{ "id": "platon" }, { "id": "aristoteles" }, { "id": "descartes" }]
   },
@@ -105,7 +107,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "Entro: participar para mejorar las leyes es parte de vivir bien.", "to": "40", "marca": "m-participar" },
     { "t": "Me aparto de la ciudad y de sus convenciones: me basta con poco.", "to": "43", "marca": "m-apartarse" },
-    { "t": "Entro, pero sé que la política es solo lucha por el poder.", "to": "93", "marca": "m-solo-poder" }
+    { "t": "Entro, pero sé que la política es solo lucha por el poder.", "to": "93", "marca": "m-solo-poder" },
+    { "t": "Quiero entender el poder tal como es, no como debería ser.", "to": "56", "marca": "m-poder-real", "red": 2 }
    ],
    "temas": ["hf-politica"], "autores": [{ "id": "socrates" }, { "id": "platon" }, { "id": "aristoteles" }]
   },
@@ -129,7 +132,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "De la razón, como en las matemáticas: de lo claro y distinto.", "to": "46", "marca": "m-razon" },
     { "t": "De los sentidos, pero ordenados por la razón.", "to": "41", "marca": "m-sentidos-razon" },
-    { "t": "De ninguna de las dos: solo la fe da certeza.", "to": "45", "marca": "m-solo-fe" }
+    { "t": "De ninguna de las dos: solo la fe da certeza.", "to": "45", "marca": "m-solo-fe" },
+    { "t": "Antes de fiarme de nada, quiero saber de dónde vienen nuestras ideas.", "to": "11", "marca": "m-origen-ideas", "red": 2 }
    ],
    "temas": ["hf-racionalismo"], "autores": [{ "id": "descartes" }, { "id": "aristoteles" }, { "id": "hume" }]
   },
@@ -317,6 +321,201 @@ const RAYUELA_HF = {
    ],
    "choque": ["m-solo-cuerpo", "m-cogito", "m-inmortal", "m-alma-separada", "m-alma-forma"],
    "temas": ["hf-metafisica", "hf-antropologia"], "autores": [{ "id": "democrito" }, { "id": "descartes" }]
+  },
+  "11": {
+   "tipo": "pregunta", "red": 2, "linea": "l-conocimiento", "xy": [13.6, 12.8],
+   "titulo": "El origen de las ideas",
+   "texto": "Siglo XVII. La ciencia nueva de Galileo y de Newton cambia la imagen del mundo, y los filósofos se preguntan de dónde sale lo que sabemos. Descartes confía en la razón; Locke dice que al nacer la mente es una hoja en blanco.",
+   "pregunta": "¿De dónde vienen nuestras ideas?",
+   "opciones": [
+    { "t": "Algunas nacen con nosotros: la razón las encuentra en sí misma.", "to": "13", "marca": "m-innatismo" },
+    { "t": "Todas vienen de la experiencia: la mente es una hoja en blanco.", "to": "12", "marca": "m-tabula-rasa" },
+    { "t": "Me da igual de dónde vengan: lo que importa es comprobarlas con experimentos.", "to": "50", "marca": "m-experimento" }
+   ],
+   "temas": ["hf-modernidad", "hf-racionalismo"], "autores": [{ "id": "descartes" }, { "id": "locke" }, { "id": "galileo" }]
+  },
+  "12": {
+   "tipo": "pregunta", "red": 2, "linea": "l-conocimiento", "xy": [13.2, 10.4],
+   "titulo": "La causa y el efecto",
+   "texto": "Una bola de billar golpea a otra y la segunda se mueve. Lo has visto mil veces. Pero ¿has visto alguna vez la causa, esa fuerza que obliga a la segunda bola a moverse? ¿O solo has visto que una cosa sigue a la otra?",
+   "pregunta": "¿Qué ves cuando ves una causa?",
+   "opciones": [
+    { "t": "La conexión misma: la causa produce el efecto necesariamente.", "to": "97", "marca": "m-causa-necesaria" },
+    { "t": "Solo que una cosa sigue a otra; la necesidad la pone mi costumbre.", "to": "51", "marca": "m-habito" },
+    { "t": "No lo sé, pero la ciencia funciona, y con eso me basta.", "to": "16", "marca": "m-funciona" }
+   ],
+   "temas": ["hf-racionalismo"], "autores": [{ "id": "hume" }]
+  },
+  "13": {
+   "tipo": "pregunta", "red": 2, "linea": "l-alma", "xy": [16.8, 12.8],
+   "titulo": "La sustancia",
+   "texto": "Si la razón puede conocer cómo es el mundo, la siguiente pregunta es de qué está hecho. Los modernos la llamaron sustancia: lo que existe por sí mismo, sin depender de otra cosa.",
+   "pregunta": "¿De qué está hecho todo lo que existe?",
+   "opciones": [
+    { "t": "De dos cosas distintas: la mente, que piensa, y la materia, que ocupa lugar.", "to": "52", "marca": "m-dualismo" },
+    { "t": "De una sola sustancia infinita: Dios o, lo que es lo mismo, la Naturaleza.", "to": "53", "marca": "m-monismo" },
+    { "t": "Solo de materia en movimiento: también el pensamiento.", "to": "14", "marca": "m-materialismo" }
+   ],
+   "temas": ["hf-metafisica"], "autores": [{ "id": "descartes" }, { "id": "spinoza" }, { "id": "hobbes" }]
+  },
+  "14": {
+   "tipo": "pregunta", "red": 2, "linea": "l-ciudad", "xy": [14, 6.2],
+   "titulo": "El estado de naturaleza",
+   "texto": "Imagina que mañana desaparecen el Estado, la policía y las leyes. Hobbes, Locke y Rousseau hicieron este mismo experimento mental para explicar por qué obedecemos a un gobierno.",
+   "pregunta": "¿Cómo sería la vida sin Estado?",
+   "opciones": [
+    { "t": "Una guerra de todos contra todos: una vida solitaria, pobre, brutal y corta.", "to": "15", "marca": "m-guerra-todos" },
+    { "t": "Tendríamos derechos naturales —vida, libertad, propiedad—, pero nadie que los protegiera.", "to": "15", "marca": "m-derechos-naturales" },
+    { "t": "Seríamos más libres y más felices: es la sociedad la que nos corrompe.", "to": "54", "marca": "m-bondad-natural" }
+   ],
+   "temas": ["hf-contrato"], "autores": [{ "id": "hobbes" }, { "id": "locke" }, { "id": "rousseau" }]
+  },
+  "15": {
+   "tipo": "pregunta", "red": 2, "linea": "l-ciudad", "xy": [14.6, 4.2],
+   "titulo": "El contrato social",
+   "texto": "Para salir del estado de naturaleza, las personas hacen un pacto: ceden algo a cambio de vivir en paz. La cuestión es qué ceden y a quién.",
+   "pregunta": "¿Qué poder debe tener el gobierno?",
+   "opciones": [
+    { "t": "Todo el poder, en manos de un soberano: mejor un amo que el caos.", "to": "96", "marca": "m-absolutismo" },
+    { "t": "Un poder limitado y dividido, que respete nuestros derechos.", "to": "FO", "marca": "m-poder-limitado" },
+    { "t": "El poder es del pueblo: las leyes deben expresar la voluntad general.", "to": "FP", "marca": "m-voluntad-general" }
+   ],
+   "temas": ["hf-contrato"], "autores": [{ "id": "hobbes" }, { "id": "locke" }, { "id": "rousseau" }]
+  },
+  "16": {
+   "tipo": "pregunta", "red": 2, "linea": "l-felicidad", "xy": [16.8, 5],
+   "titulo": "El tranvía",
+   "texto": "Un tranvía sin frenos va directo hacia cinco personas atadas a la vía. Tú estás junto a una palanca: si la accionas, el tranvía se desvía hacia otra vía donde hay una sola persona.",
+   "pregunta": "¿Accionas la palanca?",
+   "opciones": [
+    { "t": "Sí: lo correcto es lo que produce más felicidad para el mayor número.", "to": "55", "marca": "m-mayor-numero" },
+    { "t": "No: hay cosas que no se le hacen a nadie, aunque salgan las cuentas.", "to": "FO", "marca": "m-derechos" },
+    { "t": "Depende: no todos los placeres ni todas las vidas se miden igual.", "to": "55", "marca": "m-calidad" }
+   ],
+   "temas": ["hf-utilitarismo"], "autores": [{ "id": "bentham" }, { "id": "mill" }]
+  },
+  "50": {
+   "tipo": "vida", "red": 2, "linea": "l-cosmos", "xy": [15.6, 11.8],
+   "titulo": "Galileo ante la Inquisición",
+   "texto": "Roma, 1633. Galileo tiene casi setenta años. Sus observaciones con el telescopio apoyan que la Tierra gira alrededor del Sol, y la Inquisición lo obliga a arrodillarse y renegar de ello. Él abjura y pasa el resto de su vida recluido en su casa. La leyenda dice que, al levantarse, murmuró: «Y sin embargo, se mueve».",
+   "pregunta": "¿Qué habrías hecho tú?",
+   "opciones": [
+    { "t": "Abjurar: salvo la vida y sigo investigando en silencio.", "to": "56", "marca": "m-prudencia" },
+    { "t": "Mantenerme firme: la verdad de la ciencia no se negocia.", "to": "12", "marca": "m-verdad-ciencia" },
+    { "t": "Obedecer: la autoridad tiene derecho a decidir qué se enseña.", "to": "96", "marca": "m-autoridad" }
+   ],
+   "temas": ["hf-modernidad"], "autores": [{ "id": "galileo" }]
+  },
+  "51": {
+   "tipo": "vida", "red": 2, "linea": "l-conocimiento", "xy": [12.8, 7.8],
+   "titulo": "Hume y el backgammon",
+   "texto": "Edimburgo, 1739. Hume ha llevado la duda tan lejos que ya no sabe si puede fiarse de nada: ni de las causas, ni del mundo, ni de su propio yo. Confiesa que entonces cena, juega una partida de backgammon, charla con sus amigos, y a las tres o cuatro horas sus especulaciones le parecen frías y ridículas.",
+   "pregunta": "¿Qué te parece?",
+   "opciones": [
+    { "t": "Sensato: la naturaleza nos hace creer, aunque la razón no pueda demostrarlo.", "to": "FL", "marca": "m-naturalismo" },
+    { "t": "Tramposo: si no puede probar nada, que no afirme nada.", "to": "FD", "marca": "m-escepticismo-total" },
+    { "t": "Me interesa más cómo vivimos juntos que lo que podemos saber.", "to": "14", "marca": "m-vida-comun" }
+   ],
+   "temas": ["hf-racionalismo"], "autores": [{ "id": "hume" }]
+  },
+  "52": {
+   "tipo": "vida", "red": 2, "linea": "l-alma", "xy": [17.8, 10.6],
+   "titulo": "Isabel de Bohemia escribe a Descartes",
+   "texto": "La Haya, 1643. Isabel de Bohemia, una princesa exiliada de veinticuatro años, escribe a Descartes una pregunta que él no sabe responder bien: si el alma no ocupa lugar ni tiene extensión, ¿cómo puede mover el cuerpo? Descartes habla de la glándula pineal; ella no queda convencida.",
+   "pregunta": "¿Quién tiene razón?",
+   "opciones": [
+    { "t": "Isabel: algo falla si alma y cuerpo son sustancias tan distintas.", "to": "53", "marca": "m-critica-dualismo" },
+    { "t": "Descartes: son dos sustancias, aunque no sepamos cómo se unen.", "to": "10", "marca": "m-dualismo-firme" },
+    { "t": "Ninguno: si el alma no explica nada, solo queda la materia.", "to": "14", "marca": "m-materialismo" }
+   ],
+   "temas": ["hf-metafisica", "hf-racionalismo"], "autores": [{ "id": "isabel" }, { "id": "descartes" }]
+  },
+  "53": {
+   "tipo": "vida", "red": 2, "linea": "l-dios", "xy": [16.2, 9],
+   "titulo": "Spinoza pule lentes",
+   "texto": "Ámsterdam, 1656. La comunidad judía expulsa a Spinoza, con veintitrés años, por sus ideas sobre Dios. Se gana la vida puliendo lentes para microscopios y telescopios. En 1673 le ofrecen una cátedra en Heidelberg y la rechaza: teme perder la libertad de filosofar.",
+   "pregunta": "¿Qué te parece su elección?",
+   "opciones": [
+    { "t": "La entiendo: ser libre es comprender por qué ocurren las cosas, no tener un cargo.", "to": "FM", "marca": "m-libertad-necesidad" },
+    { "t": "Admiro su libertad de pensar: defendería la tolerancia para todos.", "to": "15", "marca": "m-tolerancia" },
+    { "t": "Si todo ocurre por necesidad, nadie es responsable de nada.", "to": "16", "marca": "m-determinismo" }
+   ],
+   "temas": ["hf-metafisica"], "autores": [{ "id": "spinoza" }]
+  },
+  "54": {
+   "tipo": "vida", "red": 2, "linea": "l-ciudad", "xy": [15.6, 7.2],
+   "titulo": "Rousseau camino de Vincennes",
+   "texto": "Afueras de París, 1749. Rousseau va a pie a visitar a su amigo Diderot, encarcelado en Vincennes. Por el camino lee en un periódico la pregunta de un concurso: ¿han mejorado las ciencias y las artes las costumbres? Tiene que sentarse bajo un árbol, conmovido: el ser humano es bueno por naturaleza y la sociedad lo corrompe.",
+   "pregunta": "¿Qué sacas de su intuición?",
+   "opciones": [
+    { "t": "Que hay que refundar la sociedad desde la voluntad de todos.", "to": "15", "marca": "m-refundar" },
+    { "t": "Que exagera: la ciencia y las artes también nos han hecho mejores.", "to": "16", "marca": "m-progreso" },
+    { "t": "Que, si la sociedad corrompe, lo mejor es vivir aparte.", "to": "FC", "marca": "m-aparte" }
+   ],
+   "temas": ["hf-contrato", "hf-ilustracion"], "autores": [{ "id": "rousseau" }]
+  },
+  "55": {
+   "tipo": "vida", "red": 2, "linea": "l-felicidad", "xy": [17.8, 7.2],
+   "titulo": "La crisis de Mill",
+   "texto": "Londres, 1826. John Stuart Mill tiene veinte años. Su padre y Bentham lo han educado desde niño para calcular la mayor felicidad para el mayor número. Un día se pregunta: si todas las reformas que deseas se cumplieran ahora mismo, ¿serías feliz? Y la respuesta es no. Cae en una depresión de la que le saca la poesía de Wordsworth.",
+   "pregunta": "¿Qué aprende Mill?",
+   "opciones": [
+    { "t": "Que la felicidad sigue siendo el criterio, pero hay placeres más altos que otros.", "to": "FQ", "marca": "m-placeres-superiores" },
+    { "t": "Que por la felicidad de la mayoría se puede sacrificar a quien haga falta.", "to": "98", "marca": "m-sacrificio" },
+    { "t": "Que la libertad de cada uno importa más que cualquier suma de felicidad.", "to": "FO", "marca": "m-libertad-individual" }
+   ],
+   "temas": ["hf-utilitarismo"], "autores": [{ "id": "mill" }, { "id": "bentham" }]
+  },
+  "56": {
+   "tipo": "vida", "red": 2, "linea": "l-ciudad", "xy": [12.6, 5],
+   "titulo": "Maquiavelo en el exilio",
+   "texto": "San Casciano, cerca de Florencia, 1513. Maquiavelo ha perdido su cargo, ha sido torturado y vive desterrado. De día discute en la taberna; de noche se pone ropa de gala y conversa con los antiguos en sus libros. Así escribe El príncipe: a un gobernante le conviene más ser temido que amado.",
+   "pregunta": "¿Qué piensas de su consejo?",
+   "opciones": [
+    { "t": "Tiene razón: en política cuenta el resultado, no la moral.", "to": "14", "marca": "m-realismo-politico" },
+    { "t": "Describe bien el poder, pero hay que ponerle límites.", "to": "15", "marca": "m-limites" },
+    { "t": "Es inmoral: un gobernante debe ser justo antes que eficaz.", "to": "16", "marca": "m-moral-politica" }
+   ],
+   "temas": ["hf-contrato"], "autores": [{ "id": "maquiavelo" }]
+  },
+  "96": {
+   "tipo": "contradiccion", "red": 2, "linea": "l-contradiccion", "xy": [13, 2.8],
+   "titulo": "Contradicción: libertad o soberano absoluto",
+   "texto": "Defiendes la libertad, los derechos o la bondad natural del ser humano y, a la vez, un poder sin límites. Locke se lo reprochaba a Hobbes: si el soberano puede hacer lo que quiera, ¿de qué nos protege el contrato? Sería como huir de los zorros para refugiarse en la guarida de un león.",
+   "pregunta": "¿Cómo sales de aquí?",
+   "opciones": [
+    { "t": "Corrijo: el poder debe estar limitado.", "to": "FO" },
+    { "t": "Mantengo que el orden va antes que la libertad.", "to": "FN" },
+    { "t": "Que el soberano sea el pueblo entero.", "to": "FP" }
+   ],
+   "choque": ["m-derechos-naturales", "m-bondad-natural", "m-refundar", "m-absolutismo", "m-autoridad", "m-limites", "m-tolerancia"],
+   "temas": ["hf-contrato"], "autores": [{ "id": "hobbes" }, { "id": "locke" }]
+  },
+  "97": {
+   "tipo": "contradiccion", "red": 2, "linea": "l-contradiccion", "xy": [14.8, 9.2],
+   "titulo": "Contradicción: experiencia y necesidad",
+   "texto": "Dices que todo lo que sabes viene de la experiencia, pero también que ves la necesidad de las causas. Hume lo señaló: la experiencia solo muestra que una cosa sigue a otra, nunca que tenga que seguirla. O la necesidad no viene de la experiencia, o no la vemos.",
+   "pregunta": "¿Cómo sales de aquí?",
+   "opciones": [
+    { "t": "Acepto que la necesidad la pone la costumbre.", "to": "51" },
+    { "t": "Acepto que algunas ideas no vienen de la experiencia.", "to": "13" },
+    { "t": "Me quedo sin certezas: no puedo saber nada seguro.", "to": "FD" }
+   ],
+   "choque": ["m-tabula-rasa", "m-causa-necesaria", "m-verdad-ciencia"],
+   "temas": ["hf-racionalismo"], "autores": [{ "id": "hume" }, { "id": "locke" }]
+  },
+  "98": {
+   "tipo": "contradiccion", "red": 2, "linea": "l-contradiccion", "xy": [17.4, 2.8],
+   "titulo": "Contradicción: la mayoría o los derechos",
+   "texto": "Hablas de derechos, de libertad o de tolerancia y, a la vez, aceptas sacrificar a cualquiera si así gana la mayoría. Mill intentó conciliarlo en Sobre la libertad: solo se puede limitar la libertad de alguien para evitar que dañe a otros.",
+   "pregunta": "¿Cómo sales de aquí?",
+   "opciones": [
+    { "t": "Acepto el principio de Mill: la libertad, salvo que dañe a otros.", "to": "FQ" },
+    { "t": "Pongo los derechos por delante de cualquier cálculo.", "to": "FO" },
+    { "t": "Mantengo que solo cuenta la suma de felicidad.", "to": "FQ" }
+   ],
+   "choque": ["m-sacrificio", "m-mayor-numero", "m-derechos-naturales", "m-poder-limitado", "m-tolerancia", "m-libertad-individual", "m-derechos"],
+   "temas": ["hf-utilitarismo"], "autores": [{ "id": "mill" }]
   }
  },
  "terminales": {
@@ -396,6 +595,48 @@ const RAYUELA_HF = {
    "abierto": "Si solo somos materia, ¿qué es la conciencia? ¿Y la libertad?",
    "reflexion": "¿Somos solo nuestro cuerpo?",
    "autores": [{ "id": "democrito" }, { "id": "epicuro" }, { "id": "hobbes" }], "temas": ["hf-preso", "hf-metafisica"]
+  },
+  "L": {
+   "xy": [12.8, 0.9], "titulo": "Empirista",
+   "texto": "Todo lo que sabes viene de la experiencia, y la experiencia no da certezas absolutas: la causalidad es un hábito y el yo, un haz de percepciones. Locke empezó el camino; Hume lo llevó hasta el final.",
+   "abierto": "Si la ciencia se basa en la costumbre, ¿por qué funciona tan bien?",
+   "reflexion": "¿Puede la experiencia darnos un conocimiento seguro?",
+   "autores": [{ "id": "locke" }, { "id": "hume" }], "temas": ["hf-racionalismo"]
+  },
+  "M": {
+   "xy": [13.8, 0.9], "titulo": "Dios o la Naturaleza",
+   "texto": "Para ti todo es una sola realidad —Dios o la Naturaleza— y todo ocurre por necesidad. Como Spinoza, crees que ser libre no es hacer lo que quieres, sino comprender por qué ocurren las cosas.",
+   "abierto": "Si todo es necesario, ¿tiene sentido premiar o castigar?",
+   "reflexion": "¿Somos libres o está todo determinado?",
+   "autores": [{ "id": "spinoza" }], "temas": ["hf-metafisica"]
+  },
+  "N": {
+   "xy": [14.8, 0.9], "titulo": "El Leviatán",
+   "texto": "Sin un poder fuerte, la vida sería una guerra de todos contra todos. Prefieres ceder tu libertad a un soberano a cambio de seguridad. Es la respuesta de Hobbes al miedo, y tiene algo del realismo de Maquiavelo.",
+   "abierto": "¿Quién nos protege del soberano?",
+   "reflexion": "¿Está justificado renunciar a la libertad a cambio de seguridad?",
+   "autores": [{ "id": "hobbes" }, { "id": "maquiavelo" }], "temas": ["hf-contrato"]
+  },
+  "O": {
+   "xy": [15.8, 0.9], "titulo": "Liberal",
+   "texto": "Crees que tenemos derechos anteriores al Estado —vida, libertad, propiedad— y que el poder debe estar limitado y dividido para protegerlos. Es la línea de Locke y, en el siglo XIX, de Mill.",
+   "abierto": "¿Qué pasa con quienes no tienen propiedad ni poder para hacer valer sus derechos?",
+   "reflexion": "¿Cuáles deben ser los límites del poder del Estado?",
+   "autores": [{ "id": "locke" }, { "id": "mill" }], "temas": ["hf-contrato", "hf-utilitarismo"]
+  },
+  "P": {
+   "xy": [16.8, 0.9], "titulo": "La voluntad general",
+   "texto": "Para ti el poder es del pueblo: una ley solo es legítima si expresa la voluntad general. Como Rousseau, crees que la sociedad puede corromper, pero también que un buen contrato nos hace ciudadanos libres.",
+   "abierto": "¿Qué pasa con la minoría que no está de acuerdo con la voluntad general?",
+   "reflexion": "¿Qué hace legítima una ley?",
+   "autores": [{ "id": "rousseau" }], "temas": ["hf-contrato"]
+  },
+  "Q": {
+   "xy": [17.8, 0.9], "titulo": "Utilitarista",
+   "texto": "Juzgas las acciones por sus consecuencias: lo correcto es lo que produce más felicidad para el mayor número. Como Mill, distingues placeres superiores e inferiores, y pones un límite: no dañar a otros.",
+   "abierto": "¿Se puede sacrificar a una persona si así se salva a muchas?",
+   "reflexion": "¿Deben juzgarse las acciones solo por sus consecuencias?",
+   "autores": [{ "id": "bentham" }, { "id": "mill" }], "temas": ["hf-utilitarismo"]
   }
  }
 };
