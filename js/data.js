@@ -13190,5 +13190,3903 @@ const QUIZZES = {
     "fb": "El tema presenta el liberalismo y el utilitarismo como las bases teóricas del capitalismo, que Adam Smith une."
    }
   ]
+ },
+ "hf-c18-banco": {
+  "name": "T18 · El proyecto ilustrado: potencia y límites de la razón (banco ampliado)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "Kant define la Ilustración como la salida de la «minoría de edad». ¿Qué entiende por esa minoría de edad?",
+    "o": [
+     "Ser incapaz de usar la propia inteligencia sin la guía de otro.",
+     "La etapa histórica anterior a la ciencia moderna y a la imprenta.",
+     "La falta de derechos políticos de quienes no tienen propiedades.",
+     "La ignorancia natural de quien todavía no ha estudiado ciencias."
+    ],
+    "a": 0,
+    "fb": "Para Kant, la minoría de edad no es cuestión de edad ni de estudios: es no atreverse a pensar por uno mismo y depender de la guía de otro."
+   },
+   {
+    "q": "¿Por qué la teoría dice que la Ilustración no es solo un periodo histórico, sino también una actitud?",
+    "o": [
+     "Porque es confiar en la razón para librarse de prejuicios y autoridad.",
+     "Porque abarca todos los siglos de la Edad Moderna sin distinción alguna.",
+     "Porque fue ante todo un estilo artístico que se extendió por toda Europa.",
+     "Porque se reduce a un programa de reformas fiscales de los reyes."
+    ],
+    "a": 0,
+    "fb": "La Ilustración es una actitud: la confianza en que la razón libera de prejuicios, superstición y autoridad ciega y guía hacia el progreso."
+   },
+   {
+    "q": "¿Qué significa que la razón ilustrada sea empírica y analítica?",
+    "o": [
+     "Que deduce todo a partir de ideas innatas, sin recurrir a la experiencia.",
+     "Que se apoya en la revelación para interpretar correctamente los hechos.",
+     "Que parte de los hechos observables y los descompone para entenderlos.",
+     "Que renuncia a explicar la realidad y se limita a describir sentimientos."
+    ],
+    "a": 2,
+    "fb": "La razón ilustrada es empírica y analítica: parte de los hechos, a diferencia de un racionalismo que deduce desde ideas innatas."
+   },
+   {
+    "q": "La razón ilustrada es crítica. ¿Qué somete a examen?",
+    "o": [
+     "Solo las creencias religiosas, dejando intacta la política.",
+     "La religión, la política, la ciencia e incluso a sí misma.",
+     "Solo las ideas de sus adversarios, nunca sus propios principios.",
+     "Solo la ciencia, porque la religión queda fuera de su alcance."
+    ],
+    "a": 1,
+    "fb": "La crítica ilustrada no deja nada fuera: examina religión, política y ciencia, y también los límites de la propia razón."
+   },
+   {
+    "q": "¿Qué pretendía la Enciclopedia de Diderot y D'Alembert?",
+    "o": [
+     "Recoger los dogmas de la Iglesia para defenderlos de la crítica.",
+     "Reunir los textos clásicos griegos para imitarlos con fidelidad.",
+     "Sistematizar todo el saber al servicio del progreso social.",
+     "Clasificar los saberes útiles para la nobleza y la vida cortesana."
+    ],
+    "a": 2,
+    "fb": "La Enciclopedia expresa el optimismo ilustrado: ordenar todo el conocimiento para ponerlo al servicio del progreso de la sociedad."
+   },
+   {
+    "q": "¿Qué consecuencia tiene para la Ilustración la visión mecanicista de la naturaleza que ofrece Newton?",
+    "o": [
+     "Que la naturaleza pasa a verse como un organismo con fines propios.",
+     "Que los fenómenos dependen de la intervención continua de Dios.",
+     "Que el universo se vuelve imprevisible y carece de leyes fijas.",
+     "Que Dios deja de ser necesario para explicar los fenómenos."
+    ],
+    "a": 3,
+    "fb": "Si el universo está regido por leyes, como muestra la física de Newton, los fenómenos se explican sin recurrir a Dios."
+   },
+   {
+    "q": "¿Qué distingue al ciudadano del súbdito según el pensamiento político ilustrado?",
+    "o": [
+     "Que paga impuestos al Estado, mientras que el súbdito está exento.",
+     "Que pertenece a la nobleza, mientras que el súbdito es un plebeyo.",
+     "Que obedece la ley por miedo, mientras que el súbdito lo hace por fe.",
+     "Que participa en el poder y lo legitima, en vez de obedecer ciegamente."
+    ],
+    "a": 3,
+    "fb": "El súbdito obedece ciegamente; el ciudadano participa en el poder y es quien lo legitima."
+   },
+   {
+    "q": "Según Locke, ¿qué relación hay entre los derechos naturales y el Estado?",
+    "o": [
+     "El Estado concede los derechos y puede retirarlos si quiere.",
+     "Los derechos dependen de la costumbre de cada pueblo concreto.",
+     "Los derechos derivan de la voluntad del monarca.",
+     "Los derechos son previos al Estado, que debe respetarlos."
+    ],
+    "a": 3,
+    "fb": "Los derechos naturales se tienen por nacer y son anteriores al Estado; por eso el Estado no los crea, sino que debe protegerlos."
+   },
+   {
+    "q": "¿Qué quiere decir Olympe de Gouges con que si la mujer puede «subir al cadalso» debe poder «subir a la tribuna»?",
+    "o": [
+     "Que quien responde ante la ley debe poder participar también en política.",
+     "Que la pena de muerte debe abolirse por igual para hombres y mujeres.",
+     "Que la mujer debe conquistar primero la educación y luego los derechos civiles.",
+     "Que las mujeres deben renunciar a la política para evitar la violencia."
+    ],
+    "a": 0,
+    "fb": "Gouges señala la incoherencia: a la mujer se le exigen las mismas responsabilidades ante la ley, pero se le niegan los derechos políticos."
+   },
+   {
+    "q": "¿Qué significa la tesis de Wollstonecraft de que «la razón no tiene sexo»?",
+    "o": [
+     "Que las mujeres razonan de otro modo, pero igual de válido.",
+     "Que la razón es una facultad humana común a hombres y mujeres.",
+     "Que la razón debe librarse de las emociones de ambos sexos.",
+     "Que la razón es neutral porque no trata asuntos sociales."
+    ],
+    "a": 1,
+    "fb": "Para Wollstonecraft la razón no es masculina: es una facultad humana, sin género, que todas las personas pueden desarrollar."
+   },
+   {
+    "q": "¿Qué modelo educativo defiende Mary Wollstonecraft?",
+    "o": [
+     "Una educación diferenciada según las funciones naturales.",
+     "Una educación privada solo para las mujeres de clase alta.",
+     "Una educación igualitaria y pública para ambos sexos.",
+     "Una educación de las mujeres centrada en el arte de agradar."
+    ],
+    "a": 2,
+    "fb": "Frente a la educación diferenciada de Rousseau, Wollstonecraft pide la misma educación, igualitaria y pública, para hombres y mujeres."
+   },
+   {
+    "q": "Además de la educación, ¿qué otra condición reclama Wollstonecraft para la emancipación de la mujer?",
+    "o": [
+     "El acceso de las mujeres al sacerdocio.",
+     "La creación de escuelas solo para niñas.",
+     "La independencia económica de la mujer.",
+     "El retorno libre a la vida doméstica."
+    ],
+    "a": 2,
+    "fb": "Wollstonecraft defiende la misma educación para ambos sexos y la independencia económica de la mujer."
+   },
+   {
+    "q": "¿Qué aporía plantea la teoría al final del tema?",
+    "o": [
+     "Cómo puede la razón llegar a conocer las cosas tal como son en sí.",
+     "Cómo conciliar el deísmo con las leyes de la física de Newton.",
+     "Cómo una razón universal pudo excluir a la mitad de la humanidad.",
+     "Cómo el progreso técnico pudo desembocar en guerras mundiales."
+    ],
+    "a": 2,
+    "fb": "Si la razón es universal y los derechos son naturales, resulta paradójico que la Ilustración dejara fuera a las mujeres."
+   },
+   {
+    "q": "¿Qué pensaban sobre las mujeres la mayoría de los ilustrados, como Rousseau, Voltaire o Kant?",
+    "o": [
+     "Que estaban destinadas por naturaleza a la vida doméstica.",
+     "Que debían recibir la misma educación pública que los hombres.",
+     "Que podían votar, pero no ocupar cargos públicos de gobierno.",
+     "Que su inferioridad era cultural y se corregiría con el tiempo."
+    ],
+    "a": 0,
+    "fb": "La mayoría de los ilustrados consideraban a la mujer destinada por naturaleza al hogar; de esa incoherencia nace la primera ola feminista."
+   },
+   {
+    "q": "¿Por qué la teoría presenta la Ilustración como la culminación de la Modernidad?",
+    "o": [
+     "Porque cierra la Modernidad con una vuelta a la autoridad de la fe.",
+     "Porque lleva al máximo la confianza moderna en una razón autónoma.",
+     "Porque sustituye la razón por el sentimiento como guía de la vida.",
+     "Porque abandona la ciencia natural para ocuparse de política."
+    ],
+    "a": 1,
+    "fb": "La Ilustración lleva a su plenitud la confianza moderna en la razón: la humanidad decide por fin salir de su minoría de edad."
+   },
+   {
+    "q": "¿En qué se oponen Rousseau (Emilio) y Wollstonecraft sobre la desigualdad entre los sexos?",
+    "o": [
+     "Rousseau la cree artificial; Wollstonecraft, natural pero injusta.",
+     "Rousseau la cree natural y necesaria; Wollstonecraft, artificial.",
+     "Ambos la creen natural, pero Wollstonecraft quiere suavizarla.",
+     "Ambos la creen cultural, pero discrepan sobre cómo corregirla."
+    ],
+    "a": 1,
+    "fb": "Para Rousseau la desigualdad es natural y necesaria; para Wollstonecraft es artificial, fruto de la falta de educación."
+   },
+   {
+    "q": "¿Qué emparejamiento entre autor e idea política es correcto?",
+    "o": [
+     "Montesquieu: división de poderes; Rousseau: soberanía popular.",
+     "Locke: soberanía popular; Montesquieu: derechos naturales.",
+     "Rousseau: división de poderes; Locke: soberanía popular.",
+     "Montesquieu: soberanía popular; Locke: división de poderes."
+    ],
+    "a": 0,
+    "fb": "Locke defiende los derechos naturales previos al Estado, Montesquieu la división de poderes y Rousseau la soberanía popular."
+   },
+   {
+    "q": "¿Qué tienen en común Olympe de Gouges y Mary Wollstonecraft?",
+    "o": [
+     "Creen que la desigualdad entre sexos es natural pero injusta.",
+     "Rechazan la razón ilustrada por considerarla un invento masculino.",
+     "Reclaman para las mujeres los derechos proclamados universales.",
+     "Proponen una educación distinta para cada sexo según su función."
+    ],
+    "a": 2,
+    "fb": "Ambas son la primera ola feminista: toman en serio la universalidad ilustrada y exigen que incluya también a las mujeres."
+   },
+   {
+    "q": "¿Qué relación guarda la Declaración de los Derechos de la Mujer (1791) con la Declaración de 1789?",
+    "o": [
+     "La rechaza entera por ser obra de hombres.",
+     "La traduce al inglés para difundirla fuera.",
+     "La resume para usarla en escuelas de niñas.",
+     "La parafrasea para incluir en ella a la mujer."
+    ],
+    "a": 3,
+    "fb": "Olympe de Gouges reescribe la Declaración de 1789 siguiendo su texto, pero incluyendo expresamente a la mujer."
+   },
+   {
+    "q": "¿En qué se diferencia el deísmo de la religión revelada tradicional?",
+    "o": [
+     "Mantiene los dogmas, pero rechaza la autoridad del clero.",
+     "Niega que exista cualquier principio racional del mundo.",
+     "Acepta los milagros, pero niega el alma inmortal.",
+     "Prescinde del Dios personal, los dogmas y los milagros."
+    ],
+    "a": 3,
+    "fb": "El deísmo es una religión racional: sin dogmas ni milagros y con un principio racional en lugar de un Dios personal."
+   },
+   {
+    "q": "¿Qué une la defensa ilustrada de la libertad en Kant y en Voltaire?",
+    "o": [
+     "Ambos defienden la religión oficial: Kant, por moral; Voltaire, por orden público y paz.",
+     "Ambos rechazan imponer creencias: Kant, por la libre conciencia; Voltaire, por tolerancia.",
+     "Ambos piden un gobierno fuerte: Kant, para educar al pueblo; Voltaire, contra el fanatismo.",
+     "Ambos limitan la libertad de expresión: Kant, a los sabios; Voltaire, a los no creyentes."
+    ],
+    "a": 1,
+    "fb": "Kant defiende la libertad de conciencia y de expresión, y Voltaire la tolerancia religiosa frente al fanatismo."
+   },
+   {
+    "q": "Un chico repite en todo lo que dice su influencer favorito, sin pararse nunca a pensar por su cuenta. ¿Cómo lo describiría Kant?",
+    "o": [
+     "Como alguien que sigue en la minoría de edad por falta de valor.",
+     "Como un ciudadano que legitima el poder con su propia opinión.",
+     "Como un deísta que rechaza toda autoridad que no sea racional.",
+     "Como un ejemplo de razón empírica que parte siempre de hechos."
+    ],
+    "a": 0,
+    "fb": "Depender de la guía de otro sin atreverse a pensar por uno mismo es, para Kant, permanecer en la minoría de edad."
+   },
+   {
+    "q": "En un debate, alguien defiende una idea «porque siempre se ha dicho así» y se niega a que se discuta. ¿Qué actitud, contraria a la Ilustración, muestra?",
+    "o": [
+     "Deísmo.",
+     "Mecanicismo.",
+     "Dogmatismo.",
+     "Empirismo."
+    ],
+    "a": 2,
+    "fb": "El dogmatismo consiste en aceptar verdades sin someterlas a crítica, justo lo contrario de la razón crítica ilustrada."
+   },
+   {
+    "q": "Una persona cree que el universo tiene un origen racional, pero no acepta milagros, dogmas ni un Dios que intervenga en su vida. ¿Con qué postura encaja?",
+    "o": [
+     "Con el fanatismo.",
+     "Con el deísmo.",
+     "Con el ateísmo.",
+     "Con el dogmatismo."
+    ],
+    "a": 1,
+    "fb": "El deísmo admite un principio racional del universo, pero rechaza dogmas, milagros y un Dios personal; no es ateísmo."
+   },
+   {
+    "q": "Un juez trata a un acusado como inocente mientras no se demuestre lo contrario. ¿Qué texto ilustrado recogió ese principio como ley?",
+    "o": [
+     "El artículo de Kant titulado ¿Qué es la Ilustración?",
+     "El Emilio de Rousseau, dedicado a la educación.",
+     "La Declaración de Derechos del Hombre de 1789.",
+     "La Enciclopedia de Diderot y D'Alembert."
+    ],
+    "a": 2,
+    "fb": "La Declaración de 1789 convierte la razón ilustrada en ley e incluye, entre otros, la presunción de inocencia."
+   },
+   {
+    "q": "En un país, quien hace las leyes no puede ser a la vez quien las aplica ni quien juzga su cumplimiento. ¿Qué pensador ilustrado lo inspira?",
+    "o": [
+     "Rousseau.",
+     "Montesquieu.",
+     "Voltaire.",
+     "Diderot."
+    ],
+    "a": 1,
+    "fb": "La división de poderes es la aportación de Montesquieu al nuevo orden político ilustrado."
+   },
+   {
+    "q": "Un profesor afirma que las chicas son peores en matemáticas «por naturaleza» y que no merece la pena que se esfuercen. ¿Qué le respondería Wollstonecraft?",
+    "o": [
+     "Que esa diferencia es cultural y se debe a una educación desigual.",
+     "Que tiene razón, pero que las chicas destacan en otras materias.",
+     "Que esa diferencia es natural, aunque la ley deba compensarla.",
+     "Que las matemáticas son un saber masculino que conviene evitar."
+    ],
+    "a": 0,
+    "fb": "Wollstonecraft sostiene que la supuesta debilidad de la razón femenina no es natural, sino cultural, por falta de una educación igual."
+   },
+   {
+    "q": "Un documental explica los eclipses y las mareas solo mediante leyes físicas, sin mencionar ninguna intervención divina. ¿Qué rasgo ilustrado refleja?",
+    "o": [
+     "La visión mecanicista de la naturaleza.",
+     "La defensa de la tolerancia religiosa.",
+     "La crítica a la desigualdad de sexos.",
+     "La teoría de la soberanía popular."
+    ],
+    "a": 0,
+    "fb": "Siguiendo a Newton, los ilustrados ven un universo regido por leyes, en el que Dios no hace falta para explicar los fenómenos."
+   },
+   {
+    "q": "¿A quién corresponde la tesis «la razón no tiene sexo»?",
+    "o": [
+     "A Olympe de Gouges.",
+     "A Jean-Jacques Rousseau.",
+     "A Immanuel Kant.",
+     "A Mary Wollstonecraft."
+    ],
+    "a": 3,
+    "fb": "Es la tesis central de la Vindicación de los derechos de la mujer (1792), de Mary Wollstonecraft."
+   },
+   {
+    "q": "¿Quién escribió que «si la mujer tiene derecho a subir al cadalso, debe tener igualmente el de subir a la tribuna»?",
+    "o": [
+     "Mary Wollstonecraft.",
+     "Voltaire.",
+     "Olympe de Gouges.",
+     "Montesquieu."
+    ],
+    "a": 2,
+    "fb": "La frase pertenece a la Declaración de los Derechos de la Mujer (1791), de Olympe de Gouges."
+   },
+   {
+    "q": "¿Qué ilustrado destacó por defender la tolerancia religiosa contra el fanatismo?",
+    "o": [
+     "Locke.",
+     "Voltaire.",
+     "Rousseau.",
+     "D'Alembert."
+    ],
+    "a": 1,
+    "fb": "La teoría asocia a Voltaire con la tolerancia religiosa frente al fanatismo."
+   },
+   {
+    "q": "¿Quiénes impulsaron el proyecto de la Enciclopedia?",
+    "o": [
+     "Voltaire y Rousseau.",
+     "Diderot y D'Alembert.",
+     "Locke y Montesquieu.",
+     "Kant y Wollstonecraft."
+    ],
+    "a": 1,
+    "fb": "La Enciclopedia es obra de Diderot y D'Alembert, que quisieron sistematizar todo el saber al servicio del progreso."
+   },
+   {
+    "q": "¿Con qué forma de poder rompen políticamente los ilustrados?",
+    "o": [
+     "Con el absolutismo.",
+     "Con la democracia.",
+     "Con la república.",
+     "Con el parlamentarismo."
+    ],
+    "a": 0,
+    "fb": "Los ilustrados rompen con el absolutismo y proclaman la libertad, la igualdad y los derechos naturales."
+   },
+   {
+    "q": "¿Qué circunstancia histórica explica la Declaración de los Derechos de la Mujer de Olympe de Gouges?",
+    "o": [
+     "La Reforma protestante y las guerras de religión que dividieron Europa.",
+     "La Revolución industrial inglesa y el trabajo femenino en las nuevas fábricas.",
+     "La restauración de la monarquía absoluta tras la caída de Napoleón.",
+     "La Revolución francesa, cuya Declaración de 1789 excluía a las mujeres."
+    ],
+    "a": 3,
+    "fb": "Gouges escribe en 1791, en plena Revolución francesa, para corregir una Declaración de 1789 que excluía a la mujer; fue guillotinada en 1793."
+   },
+   {
+    "q": "¿Qué avance científico alimentó la confianza ilustrada en una naturaleza ordenada y comprensible?",
+    "o": [
+     "La biología de Darwin, con la evolución de las especies.",
+     "La astronomía de Ptolomeo, con la Tierra en el centro.",
+     "La física de Aristóteles, con los lugares naturales.",
+     "La física de Newton, con un universo regido por leyes."
+    ],
+    "a": 3,
+    "fb": "La física de Newton mostró un universo regido por leyes, base de la visión mecanicista y del optimismo ilustrado."
+   }
+  ]
+ },
+ "hf-c19-banco": {
+  "name": "T19 · La filosofía crítica de Kant y el problema de la metafísica (banco ampliado)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "¿Qué tipo de proyecto filosófico es el criticismo de Kant?",
+    "o": [
+     "Una defensa de que la razón puede conocer todo lo real sin límites",
+     "Una reducción de todo conocimiento a sensaciones e impresiones",
+     "Un examen crítico de los límites y alcances de la propia razón humana",
+     "Una crítica de la sociedad para transformarla mediante la acción"
+    ],
+    "a": 2,
+    "fb": "El criticismo analiza los límites y alcances de la razón: qué puede conocer y qué queda fuera de su alcance."
+   },
+   {
+    "q": "Las tres preguntas de Kant (¿qué puedo conocer?, ¿qué debo hacer?, ¿qué puedo esperar?) se resumen, según él, en una sola. ¿Cuál?",
+    "o": [
+     "¿Qué es el hombre?",
+     "¿Qué es el ser?",
+     "¿Qué es la felicidad?",
+     "¿Qué es la verdad?"
+    ],
+    "a": 0,
+    "fb": "Para Kant las tres preguntas confluyen en «¿qué es el hombre?», porque todas tratan de las capacidades y límites del ser humano."
+   },
+   {
+    "q": "¿Qué dos corrientes de su época intenta superar Kant en la Crítica de la razón pura?",
+    "o": [
+     "El idealismo y el positivismo",
+     "El marxismo y el existencialismo",
+     "La escolástica y el nominalismo",
+     "El racionalismo y el empirismo"
+    ],
+    "a": 3,
+    "fb": "Kant se enfrenta al racionalismo (Descartes) y al empirismo (Hume) y propone una síntesis de ambos. El idealismo y el positivismo vienen después de él."
+   },
+   {
+    "q": "Según Kant, ¿cuál es el defecto principal del racionalismo al estilo de Descartes?",
+    "o": [
+     "Que desemboca en el escepticismo sobre el mundo externo",
+     "Que resulta dogmático al deducirlo todo a priori de la razón",
+     "Que reduce el conocimiento a la costumbre y el hábito",
+     "Que desprecia las matemáticas como modelo de saber"
+    ],
+    "a": 1,
+    "fb": "El racionalismo cree que todo se deduce a priori de la razón sin examinar sus límites: por eso Kant lo considera dogmático."
+   },
+   {
+    "q": "Según Kant, ¿a qué conduce el empirismo de Hume si se lleva hasta el final?",
+    "o": [
+     "Al dogmatismo metafísico",
+     "Al escepticismo",
+     "Al idealismo trascendental",
+     "Al innatismo"
+    ],
+    "a": 1,
+    "fb": "Si todo viene de la experiencia, no hay conocimiento necesario y universal: el empirismo acaba en el escepticismo."
+   },
+   {
+    "q": "Kant dice que alguien lo «despertó del sueño dogmático». Según la teoría, ¿quién fue?",
+    "o": [
+     "Descartes",
+     "Rousseau",
+     "Newton",
+     "Hume"
+    ],
+    "a": 3,
+    "fb": "Fue Hume: su empirismo hizo ver a Kant que la razón no puede afirmar sin más lo que va más allá de la experiencia."
+   },
+   {
+    "q": "¿En qué consiste la «revolución copernicana» de Kant?",
+    "o": [
+     "El objeto se ajusta a las estructuras del sujeto",
+     "El sujeto debe adaptarse pasivamente al objeto conocido",
+     "La Tierra deja de ser el centro del saber filosófico",
+     "La experiencia sustituye por completo a la razón pura"
+    ],
+    "a": 0,
+    "fb": "Kant invierte el planteamiento tradicional: no es el sujeto quien se adapta al objeto, sino el objeto el que se ajusta a las estructuras del sujeto."
+   },
+   {
+    "q": "¿Por qué Kant compara su propuesta con la de Copérnico?",
+    "o": [
+     "Porque, como Copérnico, fundamenta la filosofía en la astronomía",
+     "Porque demuestra que el universo físico es infinito",
+     "Porque invierte la relación habitual entre sujeto y objeto",
+     "Porque sostiene que el conocimiento sigue el orden de los astros"
+    ],
+    "a": 2,
+    "fb": "Igual que Copérnico cambió el punto de vista en astronomía, Kant lo cambia en el conocimiento: el objeto se ajusta al sujeto, y no al revés."
+   },
+   {
+    "q": "Según Kant, el conocimiento necesita dos condiciones. ¿Cuáles son?",
+    "o": [
+     "Ideas innatas y demostración deductiva",
+     "Impresiones sensibles y hábito o costumbre",
+     "Fe revelada y razón natural",
+     "Materia a posteriori y forma a priori"
+    ],
+    "a": 3,
+    "fb": "El conocimiento une la materia, que viene de la experiencia (a posteriori), y la forma, que impone el sujeto (a priori)."
+   },
+   {
+    "q": "En el acto de conocer, ¿qué aporta el sujeto según Kant?",
+    "o": [
+     "La materia, que recibe de la experiencia",
+     "La forma, que impone a priori",
+     "Las ideas innatas creadas por Dios",
+     "Las impresiones que dejan los objetos"
+    ],
+    "a": 1,
+    "fb": "El sujeto aporta la forma a priori (espacio, tiempo, categorías); la materia procede de la experiencia."
+   },
+   {
+    "q": "«Todo conocimiento comienza con la experiencia, pero no todo procede de ella». ¿Qué quiere decir Kant?",
+    "o": [
+     "Que la experiencia basta por sí sola para conocer",
+     "Que la razón conoce sin necesitar la experiencia",
+     "Que la experiencia da la materia y el sujeto pone la forma",
+     "Que la experiencia engaña y hay que desconfiar de ella"
+    ],
+    "a": 2,
+    "fb": "La experiencia es el punto de partida (la materia), pero el sujeto pone la forma a priori que la organiza."
+   },
+   {
+    "q": "¿Qué afirma el idealismo trascendental de Kant?",
+    "o": [
+     "Que conocemos los fenómenos, no las cosas en sí",
+     "Que solo existen las ideas en la mente, no la materia",
+     "Que conocemos las cosas tal como son en sí",
+     "Que las ideas proceden de las impresiones"
+    ],
+    "a": 0,
+    "fb": "El idealismo trascendental sostiene que solo conocemos los fenómenos, la realidad tal como se nos aparece, y no las cosas en sí."
+   },
+   {
+    "q": "¿Qué es el noúmeno para Kant?",
+    "o": [
+     "La realidad en sí, que está fuera de la experiencia posible",
+     "La realidad tal como se nos aparece en la experiencia",
+     "Un concepto puro del entendimiento, como la causalidad",
+     "Una idea innata que la razón capta con claridad"
+    ],
+    "a": 0,
+    "fb": "El noúmeno es la realidad en sí, incognoscible. La realidad tal como aparece es el fenómeno."
+   },
+   {
+    "q": "¿Por qué el noúmeno es incognoscible según Kant?",
+    "o": [
+     "Porque Dios lo oculta a la razón humana",
+     "Porque cambia continuamente, como decía Heráclito",
+     "Porque está fuera de la experiencia posible",
+     "Porque es una simple ilusión de los sentidos"
+    ],
+    "a": 2,
+    "fb": "Solo conocemos lo que se da en la experiencia; el noúmeno queda fuera de ella y por eso no puede conocerse."
+   },
+   {
+    "q": "El fenómeno es la realidad tal como se nos aparece. ¿Qué la organiza, según Kant?",
+    "o": [
+     "Las ideas innatas que Dios pone en la mente",
+     "El espacio, el tiempo y las categorías",
+     "La costumbre de asociar impresiones",
+     "Las formas eternas del mundo inteligible"
+    ],
+    "a": 1,
+    "fb": "El fenómeno está organizado por las formas a priori (espacio y tiempo) y por las categorías del entendimiento."
+   },
+   {
+    "q": "¿Qué son el espacio y el tiempo para Kant?",
+    "o": [
+     "Propiedades de las cosas en sí mismas",
+     "Conceptos que sacamos de la experiencia",
+     "Categorías del entendimiento, como la sustancia",
+     "Formas a priori previas a la experiencia"
+    ],
+    "a": 3,
+    "fb": "Espacio y tiempo son formas a priori: estructuras que el sujeto pone antes de toda experiencia. No son categorías ni propiedades de las cosas en sí."
+   },
+   {
+    "q": "Según Kant, ¿qué son las categorías, como la causalidad o la sustancia?",
+    "o": [
+     "Impresiones sensibles repetidas por el hábito",
+     "Formas a priori de la sensibilidad",
+     "Conceptos puros del entendimiento",
+     "Propiedades reales de las cosas en sí"
+    ],
+    "a": 2,
+    "fb": "Las categorías son conceptos puros del entendimiento que organizan los fenómenos; las formas de la sensibilidad son el espacio y el tiempo."
+   },
+   {
+    "q": "¿Por qué, según Kant, la metafísica no puede ser ciencia?",
+    "o": [
+     "Porque sus temas son falsos y deben abandonarse",
+     "Porque la razón es incapaz de conocer nada",
+     "Porque carece de un método matemático riguroso",
+     "Porque sus objetos no se dan en la experiencia"
+    ],
+    "a": 3,
+    "fb": "Dios, el alma o el mundo como totalidad no pueden demostrarse por la experiencia, y solo conocemos fenómenos. Kant no dice que esos temas sean falsos."
+   },
+   {
+    "q": "Según Kant, ¿cuál de estos objetos NO puede conocerse científicamente?",
+    "o": [
+     "La caída de los cuerpos",
+     "El alma inmortal",
+     "Las propiedades del triángulo",
+     "La dilatación de los metales"
+    ],
+    "a": 1,
+    "fb": "El alma es un objeto de la metafísica y no se da en la experiencia; la física y las matemáticas, en cambio, sí son ciencia."
+   },
+   {
+    "q": "Para Kant, ¿qué saberes son posibles como ciencia?",
+    "o": [
+     "La física y las matemáticas",
+     "La metafísica y la teología",
+     "La física y la metafísica",
+     "Las matemáticas y la teología"
+    ],
+    "a": 0,
+    "fb": "La ciencia (física, matemáticas) es posible porque trata de fenómenos; la metafísica clásica queda fuera del conocimiento."
+   },
+   {
+    "q": "¿En qué coincide Kant con el empirismo?",
+    "o": [
+     "En que ambos niegan que haya algo a priori",
+     "En que ambos consideran la metafísica una ciencia",
+     "En que ambos acaban en el escepticismo",
+     "En que ambos parten de la experiencia"
+    ],
+    "a": 3,
+    "fb": "Para Kant todo conocimiento comienza con la experiencia, como decía el empirismo; pero a diferencia de este, admite formas a priori."
+   },
+   {
+    "q": "¿En qué se diferencia Kant del racionalismo?",
+    "o": [
+     "Kant limita la razón al ámbito de la experiencia",
+     "Kant niega que haya conocimiento a priori alguno",
+     "Kant deduce todo el saber de ideas innatas",
+     "Kant reduce el conocimiento a impresiones sensibles"
+    ],
+    "a": 0,
+    "fb": "El racionalismo cree que la razón lo deduce todo a priori; Kant sostiene que solo conocemos lo que se da en la experiencia, aunque con formas a priori."
+   },
+   {
+    "q": "A diferencia de Hume, Kant sostiene que…",
+    "o": [
+     "todo conocimiento procede de la experiencia",
+     "la causalidad es solo un hábito psicológico",
+     "la causalidad es una categoría a priori del sujeto",
+     "la metafísica puede demostrar la existencia de Dios"
+    ],
+    "a": 2,
+    "fb": "Para Kant la causalidad es una categoría del entendimiento, algo que pone el sujeto, y no algo que venga de la experiencia."
+   },
+   {
+    "q": "Según la teoría, ¿qué corrientes posteriores abre la autocrítica kantiana de la razón?",
+    "o": [
+     "La escolástica, el nominalismo y la mística",
+     "El idealismo, el positivismo y la fenomenología",
+     "El racionalismo, el empirismo y el deísmo",
+     "El estoicismo, el cinismo y el escepticismo"
+    ],
+    "a": 1,
+    "fb": "La crítica kantiana de la razón abre el camino al idealismo, al positivismo y a la fenomenología."
+   },
+   {
+    "q": "Un profesor explica a Kant así: «Imaginad que llevamos unas gafas azules que no podemos quitarnos nunca: todo lo veremos azul». ¿Qué idea ilustra?",
+    "o": [
+     "Que los sentidos nos engañan y hay que confiar solo en la razón",
+     "Que solo conocemos las cosas a través de las formas del sujeto",
+     "Que el color es una idea innata puesta por Dios",
+     "Que la realidad en sí misma es de color azul"
+    ],
+    "a": 1,
+    "fb": "Las gafas representan las formas a priori: conocemos las cosas como se nos aparecen a través de ellas (fenómenos), nunca como son en sí."
+   },
+   {
+    "q": "Una científica afirma que nunca sabremos cómo es el universo «en sí», sino solo cómo aparece a nuestros sentidos y conceptos. ¿Qué distinción kantiana está usando?",
+    "o": [
+     "Materia y espíritu",
+     "Razón y fe",
+     "Sustancia y accidente",
+     "Fenómeno y noúmeno"
+    ],
+    "a": 3,
+    "fb": "Distingue el fenómeno (la realidad tal como aparece) del noúmeno (la realidad en sí, incognoscible)."
+   },
+   {
+    "q": "Un alumno dice: «Si no puedo verlo ni medirlo, no puedo saber científicamente si Dios existe». ¿Con qué tesis kantiana encaja?",
+    "o": [
+     "La metafísica no puede ser ciencia",
+     "La razón demuestra a priori que Dios existe",
+     "Todo procede de las ideas innatas",
+     "El alma es una forma a priori"
+    ],
+    "a": 0,
+    "fb": "Para Kant, Dios no puede demostrarse por la experiencia; por eso la metafísica no puede ser ciencia."
+   },
+   {
+    "q": "Dos amigas discuten: una dice que todo lo sabemos por experiencia; la otra, que todo lo deduce la razón. ¿Qué les respondería Kant?",
+    "o": [
+     "Que tiene razón la primera, como sostenía el empirista Hume",
+     "Que tiene razón la segunda, como defendía Descartes",
+     "Que hacen falta la experiencia y las formas a priori",
+     "Que ninguna de las dos puede saber nada con certeza"
+    ],
+    "a": 2,
+    "fb": "Kant propone una síntesis: el conocimiento necesita la materia que da la experiencia y la forma a priori que pone el sujeto."
+   },
+   {
+    "q": "Cualquier persona, en cualquier cultura, percibe los objetos situados en el espacio y sucediéndose en el tiempo. ¿Cómo lo explicaría Kant?",
+    "o": [
+     "Porque espacio y tiempo son formas a priori",
+     "Porque todos lo hemos aprendido por costumbre",
+     "Porque espacio y tiempo existen en las cosas en sí",
+     "Porque es una convención social que podría ser otra"
+    ],
+    "a": 0,
+    "fb": "Espacio y tiempo son formas a priori, comunes a todo sujeto y previas a la experiencia: por eso todos percibimos así."
+   },
+   {
+    "q": "Ante cualquier suceso, buscamos espontáneamente su causa. Para Kant, esto se debe a que…",
+    "o": [
+     "la causalidad es un hábito sacado de la experiencia",
+     "conocemos directamente las causas de las cosas en sí",
+     "la causalidad es una categoría a priori del entendimiento",
+     "Dios ha creado el mundo siguiendo leyes causales"
+    ],
+    "a": 2,
+    "fb": "La causalidad es una categoría, un concepto puro del entendimiento con el que el sujeto organiza los fenómenos."
+   },
+   {
+    "q": "«Dos cosas llenan el ánimo de admiración y respeto: el cielo estrellado sobre mí y la ley moral en mí». ¿De quién es y de qué obra?",
+    "o": [
+     "De Kant, en la Crítica de la razón pura",
+     "De Kant, en la Crítica de la razón práctica",
+     "De Descartes, en las Meditaciones metafísicas",
+     "De Rousseau, en el Emilio"
+    ],
+    "a": 1,
+    "fb": "Es de Kant, en la Crítica de la razón práctica, la obra dedicada a la moral (¿qué debo hacer?)."
+   },
+   {
+    "q": "¿Qué tesis es propia de Kant, y no de Descartes ni de Hume?",
+    "o": [
+     "Todo conocimiento procede de la experiencia",
+     "Todo se deduce a priori de la razón",
+     "Existen ideas innatas puestas por Dios",
+     "Solo conocemos fenómenos, no cosas en sí"
+    ],
+    "a": 3,
+    "fb": "Es el idealismo trascendental kantiano; que todo proceda de la experiencia es la tesis empirista, y la deducción a priori, la racionalista."
+   },
+   {
+    "q": "¿Qué problema filosófico de su época intenta resolver Kant en la Crítica de la razón pura?",
+    "o": [
+     "El choque entre racionalismo dogmático y empirismo escéptico",
+     "La lucha entre la Iglesia y la ciencia heliocéntrica",
+     "La crisis de la democracia ateniense tras la guerra",
+     "La explotación obrera de la Revolución Industrial"
+    ],
+    "a": 0,
+    "fb": "Kant busca una salida entre el racionalismo, que era dogmático, y el empirismo, que conducía al escepticismo."
+   },
+   {
+    "q": "Según la teoría, ¿qué ventaja tiene que la razón se someta a su propia crítica?",
+    "o": [
+     "Permite demostrar la inmortalidad del alma",
+     "Convierte la metafísica en una ciencia",
+     "Marca sus límites y evita nuevos dogmatismos",
+     "Elimina la necesidad de la experiencia"
+    ],
+    "a": 2,
+    "fb": "La autocrítica de la razón marca sus límites y así evita caer en nuevos dogmatismos."
+   },
+   {
+    "q": "¿Cuál NO es una de las preguntas que orientan la filosofía de Kant?",
+    "o": [
+     "¿Qué puedo conocer?",
+     "¿Qué debo hacer?",
+     "¿Qué puedo esperar?",
+     "¿Qué es el ser?"
+    ],
+    "a": 3,
+    "fb": "Las tres preguntas kantianas son qué puedo conocer, qué debo hacer y qué puedo esperar, resumidas en qué es el hombre."
+   }
+  ]
+ },
+ "hf-c20-banco": {
+  "name": "T20 · Éticas de la felicidad y éticas del deber: Kant frente al utilitarismo (banco ampliado)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "¿Qué dos motores de la conducta humana pone Bentham en la base de su ética?",
+    "o": [
+     "La razón pura y la voluntad libre de inclinación",
+     "El miedo a la muerte y el deseo de poder",
+     "La búsqueda natural del placer y la huida del dolor",
+     "La simpatía natural y el respeto a la ley"
+    ],
+    "a": 2,
+    "fb": "Según Bentham buscamos el placer y evitamos el dolor; por eso una acción es correcta si aumenta el placer o reduce el dolor de los afectados."
+   },
+   {
+    "q": "¿Para qué sirve el cálculo hedónico de Bentham?",
+    "o": [
+     "Para medir el placer y el dolor que causa una acción",
+     "Para separar los placeres superiores de los inferiores",
+     "Para comprobar si una máxima puede universalizarse",
+     "Para saber qué deseos son naturales y necesarios"
+    ],
+    "a": 0,
+    "fb": "El cálculo hedónico es el método de Bentham para medir placer y dolor según criterios como la intensidad, la duración, la certeza o la extensión."
+   },
+   {
+    "q": "¿Por qué se dice que el utilitarismo de Bentham es cuantitativo?",
+    "o": [
+     "Porque mide el bien por la riqueza material lograda",
+     "Porque cuenta los deberes que cumple cada persona",
+     "Porque reduce la moral a normas fáciles de codificar",
+     "Porque solo cuenta la cantidad de placer, no su tipo"
+    ],
+    "a": 3,
+    "fb": "Para Bentham solo importa la cantidad de placer; será Mill quien añada la calidad de los placeres."
+   },
+   {
+    "q": "¿Cuál de estos NO es uno de los criterios del cálculo hedónico que recoge la teoría?",
+    "o": [
+     "La intensidad del placer",
+     "La calidad del placer",
+     "La duración del placer",
+     "La extensión del placer"
+    ],
+    "a": 1,
+    "fb": "Intensidad, duración, certeza y extensión son criterios de Bentham; la calidad de los placeres es la aportación de Mill."
+   },
+   {
+    "q": "¿Qué placeres considera Mill superiores?",
+    "o": [
+     "Los más intensos y duraderos",
+     "Los intelectuales y los morales",
+     "Los que comparte más gente",
+     "Los físicos, por ser más seguros"
+    ],
+    "a": 1,
+    "fb": "Mill distingue placeres superiores (intelectuales, morales) e inferiores (físicos), y valora más los primeros."
+   },
+   {
+    "q": "¿Qué quiere decir Mill al afirmar que es mejor ser un ser humano insatisfecho que un cerdo satisfecho?",
+    "o": [
+     "Que la felicidad no tiene ningún valor moral frente al deber",
+     "Que el sufrimiento es el único camino hacia la vida virtuosa",
+     "Que el placer físico ha de medirse con mucho más cuidado",
+     "Que los placeres superiores valen más aunque den menos satisfacción"
+    ],
+    "a": 3,
+    "fb": "La frase expresa la idea de calidad: los placeres intelectuales y morales valen más que los físicos, aunque den menos satisfacción inmediata."
+   },
+   {
+    "q": "¿En qué consiste la buena voluntad para Kant?",
+    "o": [
+     "En la intención de actuar por deber, no por interés",
+     "En el deseo sincero de hacer felices a los demás",
+     "En el hábito de obrar según las virtudes clásicas",
+     "En obedecer sin discutir las leyes del propio Estado"
+    ],
+    "a": 0,
+    "fb": "La buena voluntad, lo único bueno sin restricciones, es la intención de actuar por deber, no por interés ni por inclinación."
+   },
+   {
+    "q": "¿Por qué se dice que la ética de Kant es formal?",
+    "o": [
+     "Porque se apoya solo en normas escritas y oficiales",
+     "Porque propone una lista cerrada de virtudes morales",
+     "Porque señala qué forma debe tener la norma, no su contenido",
+     "Porque mide cómo se reparten los placeres entre todos"
+    ],
+    "a": 2,
+    "fb": "Una ética formal no dice qué hay que hacer, sino qué forma debe tener la norma: la del imperativo categórico."
+   },
+   {
+    "q": "¿Qué pide la formulación kantiana del «reino de los fines»?",
+    "o": [
+     "Obrar como si legisláramos para una comunidad de seres racionales",
+     "Buscar siempre la mayor felicidad para el mayor número de personas",
+     "Obedecer las leyes que el soberano dicta para el bien de su reino",
+     "Usar los fines de cada individuo como medios para el bien común"
+    ],
+    "a": 0,
+    "fb": "La tercera formulación del imperativo categórico pide obrar como si legisláramos para una comunidad de seres racionales."
+   },
+   {
+    "q": "¿Qué lugar ocupa la felicidad en la ética de Kant?",
+    "o": [
+     "Es el fin que da valor a todo acto",
+     "Se mide por sus placeres superiores",
+     "Es secundaria frente a la justicia",
+     "Es contraria a cualquier moral"
+    ],
+    "a": 2,
+    "fb": "Para Kant la moralidad depende de la intención y del deber; la felicidad queda en segundo plano frente a la justicia."
+   },
+   {
+    "q": "¿Qué rechaza Joxe Azurmendi de la ética moderna?",
+    "o": [
+     "Que los valores dependan del contexto histórico",
+     "Que haya que juzgar las situaciones caso por caso",
+     "Que las consecuencias cuenten en el juicio moral",
+     "Que Dios o la razón puedan fundar una ética universal"
+    ],
+    "a": 3,
+    "fb": "Azurmendi rechaza los fundamentos absolutos: ni Dios ni la razón pueden fundamentar una ética universal."
+   },
+   {
+    "q": "Según Azurmendi, ¿qué ocurre con los valores dentro de cada comunidad?",
+    "o": [
+     "Pierden cualquier tipo de validez real",
+     "Adquieren una validez casi absoluta",
+     "Valen solo si los vota la mayoría social",
+     "Se deducen de una razón universal única"
+    ],
+    "a": 1,
+    "fb": "Los valores son relativos al contexto, pero dentro de cada comunidad adquieren una validez casi absoluta; por eso su relativismo es «relativo»."
+   },
+   {
+    "q": "Siguiendo a Max Weber, ¿qué combina la ética que propone Azurmendi?",
+    "o": [
+     "La ley universal kantiana y el reino de los fines racionales",
+     "Los placeres superiores y los placeres inferiores de Mill",
+     "La ley natural y la voluntad revelada de Dios creador",
+     "La ética de la convicción y la de la responsabilidad"
+    ],
+    "a": 3,
+    "fb": "Azurmendi une la ética de la convicción (principios) y la de la responsabilidad (consecuencias), como proponía Weber."
+   },
+   {
+    "q": "¿Qué objeta Azurmendi a principios como «toda violencia es condenable»?",
+    "o": [
+     "Que, al ser absolutos, impiden distinguir caso por caso",
+     "Que se basan en el placer y olvidan el deber moral kantiano",
+     "Que no pueden convertirse en una ley universal para todos",
+     "Que contradicen lo que opina la mayoría de la sociedad"
+    ],
+    "a": 0,
+    "fb": "Frente a los principios absolutos, Azurmendi exige una ética capaz de distinguir caso por caso."
+   },
+   {
+    "q": "¿Cuál de estas NO es una formulación del imperativo categórico?",
+    "o": [
+     "La de la ley universal de la máxima",
+     "La del fin en sí mismo",
+     "La mayor felicidad para el mayor número",
+     "La del reino de los fines racionales"
+    ],
+    "a": 2,
+    "fb": "«La mayor felicidad para el mayor número» es el principio de utilidad del utilitarismo; las otras tres son las formulaciones de Kant."
+   },
+   {
+    "q": "¿Qué añade Mill al utilitarismo de Bentham?",
+    "o": [
+     "El deber como fundamento moral",
+     "La calidad de los placeres",
+     "El cálculo exacto del placer",
+     "La renuncia a todo placer físico"
+    ],
+    "a": 1,
+    "fb": "Mill mantiene el principio de la mayor felicidad, pero añade la calidad: no todos los placeres valen lo mismo."
+   },
+   {
+    "q": "En la comparación entre Kant y el utilitarismo, ¿cómo entiende el utilitarismo la validez de las normas?",
+    "o": [
+     "Relativa a la situación concreta",
+     "Como principios absolutos y fijos",
+     "Como mandatos revelados por Dios",
+     "Como costumbres de la tradición"
+    ],
+    "a": 0,
+    "fb": "El cuadro comparativo opone los principios absolutos de Kant a la validez relativa a la situación del utilitarismo."
+   },
+   {
+    "q": "¿Qué pareja de términos corresponde, en este orden, a la ética de Kant y al utilitarismo?",
+    "o": [
+     "Teleológica y deontológica",
+     "Consecuencialista y formal",
+     "Hedonista y consecuencialista",
+     "Deontológica y consecuencialista"
+    ],
+    "a": 3,
+    "fb": "La ética de Kant es deontológica (juzga por el deber) y el utilitarismo es consecuencialista o teleológica (juzga por los resultados)."
+   },
+   {
+    "q": "Según el cuadro comparativo, ¿cómo ven Kant y el utilitarismo al ser humano?",
+    "o": [
+     "Kant, como medio útil; el utilitarismo, como fin en sí mismo",
+     "Los dos lo ven como un fin que nunca puede ser un medio",
+     "Kant, como fin en sí; el utilitarismo, como posible medio",
+     "Los dos lo ven como un ser que solo busca su propio placer"
+    ],
+    "a": 2,
+    "fb": "Para Kant el ser humano es fin en sí mismo; para el utilitarismo puede ser medio para el bienestar general."
+   },
+   {
+    "q": "¿En qué coinciden Bentham y Mill?",
+    "o": [
+     "En medir solo la cantidad de placer",
+     "En el principio de mayor felicidad",
+     "En separar placeres altos y bajos",
+     "En fundar la moral en el deber"
+    ],
+    "a": 1,
+    "fb": "Ambos son utilitaristas y comparten el principio de la mayor felicidad; difieren en si cuenta solo la cantidad o también la calidad."
+   },
+   {
+    "q": "Frente a Bentham, ¿qué diría Kant de una acción que produce mucho placer a mucha gente?",
+    "o": [
+     "Que es buena solo si el placer es de tipo intelectual",
+     "Que es buena porque beneficia al mayor número",
+     "Que eso no la hace buena si no se hace por deber",
+     "Que es mala, porque todo placer corrompe la voluntad"
+    ],
+    "a": 2,
+    "fb": "Para Kant la moralidad no depende de las consecuencias, sino de la intención y del cumplimiento del deber."
+   },
+   {
+    "q": "¿En qué se parece la propuesta de Azurmendi al utilitarismo?",
+    "o": [
+     "En que también atiende a las consecuencias",
+     "En que mide el placer con un cálculo exacto",
+     "En que busca principios válidos en todo caso",
+     "En que distingue placeres altos y bajos"
+    ],
+    "a": 0,
+    "fb": "Azurmendi incluye la ética de la responsabilidad, que atiende a las consecuencias, aunque la combina con la de la convicción."
+   },
+   {
+    "q": "Un ayuntamiento decide dónde construir un hospital sumando cuántas personas se beneficiarán y cuánto sufrimiento evitará. ¿Qué enfoque aplica?",
+    "o": [
+     "El imperativo categórico de Kant",
+     "El cálculo utilitarista de Bentham",
+     "El relativismo de Azurmendi",
+     "La ética de la convicción"
+    ],
+    "a": 1,
+    "fb": "Sumar beneficiados y dolor evitado es aplicar el principio de utilidad y el cálculo de placer y dolor de Bentham."
+   },
+   {
+    "q": "Un tendero cobra el precio justo a todos, pero solo porque teme perder clientes si le pillan engañando. Según Kant, su acción…",
+    "o": [
+     "tiene pleno valor moral, pues cumple la norma",
+     "es inmoral, porque persigue el placer propio",
+     "es moral si aumenta la felicidad de todos",
+     "es conforme al deber, pero no por deber"
+    ],
+    "a": 3,
+    "fb": "Actuar conforme al deber por interés es legal, pero no moral; solo actuar por deber tiene valor moral para Kant."
+   },
+   {
+    "q": "Alguien quiere mentir para salir de un apuro y se pregunta: «¿Y si todo el mundo mintiera cuando le conviene?». ¿Qué está aplicando?",
+    "o": [
+     "La fórmula del fin en sí mismo",
+     "El cálculo hedónico de Bentham",
+     "El principio de mayor felicidad",
+     "La formulación de la ley universal"
+    ],
+    "a": 3,
+    "fb": "Preguntarse si la máxima podría valer para todos es aplicar la formulación de la ley universal del imperativo categórico."
+   },
+   {
+    "q": "Una empresa paga sueldos ínfimos y ve a sus empleados solo como piezas para ganar dinero. ¿Qué principio vulnera más directamente?",
+    "o": [
+     "Tratar a la humanidad como fin y no solo como medio",
+     "Medir con cuidado la intensidad de cada placer",
+     "Preferir los placeres superiores a los inferiores",
+     "Respetar la validez de los valores de cada comunidad"
+    ],
+    "a": 0,
+    "fb": "Usar a las personas solo como instrumentos vulnera la formulación del fin en sí mismo, base de la dignidad."
+   },
+   {
+    "q": "Un estudiante prefiere leer un buen libro, aunque le divierta menos que ver vídeos cortos, porque cree que es un placer más valioso. ¿Qué autor lo respaldaría mejor?",
+    "o": [
+     "Bentham",
+     "Kant",
+     "Mill",
+     "Azurmendi"
+    ],
+    "a": 2,
+    "fb": "Mill distingue placeres superiores e inferiores: un placer intelectual vale más aunque dé menos satisfacción inmediata."
+   },
+   {
+    "q": "Una asamblea vecinal debate si una protesta con cortes de calle está justificada y decide sopesar el caso concreto, sus principios y sus consecuencias. ¿Con qué postura encaja?",
+    "o": [
+     "El formalismo ético de Kant",
+     "El relativismo relativo de Azurmendi",
+     "El utilitarismo cuantitativo de Bentham",
+     "El utilitarismo cualitativo de Mill"
+    ],
+    "a": 1,
+    "fb": "Azurmendi pide distinguir caso por caso combinando principios (convicción) y consecuencias (responsabilidad)."
+   },
+   {
+    "q": "Una persona devuelve una cartera perdida sin esperar recompensa, aunque nadie la vería quedársela, solo porque es lo que debe hacer. ¿Qué ética encarna?",
+    "o": [
+     "La ética kantiana del deber",
+     "El utilitarismo cualitativo de Mill",
+     "El utilitarismo cuantitativo de Bentham",
+     "El relativismo relativo de Azurmendi"
+    ],
+    "a": 0,
+    "fb": "Actuar por deber, sin interés ni inclinación, es lo que Kant llama buena voluntad."
+   },
+   {
+    "q": "«Es mejor ser un ser humano insatisfecho que un cerdo satisfecho.» ¿De quién es esta frase?",
+    "o": [
+     "Bentham",
+     "Mill",
+     "Immanuel Kant",
+     "Azurmendi"
+    ],
+    "a": 1,
+    "fb": "La frase es de Mill y resume su utilitarismo cualitativo."
+   },
+   {
+    "q": "¿De qué pensador toma Azurmendi la distinción entre ética de la convicción y ética de la responsabilidad?",
+    "o": [
+     "Kant",
+     "Mill",
+     "Bentham",
+     "Weber"
+    ],
+    "a": 3,
+    "fb": "La teoría indica que Azurmendi combina ambas éticas «como proponía Max Weber»."
+   },
+   {
+    "q": "¿Quién sostiene que lo único bueno sin restricciones es la buena voluntad?",
+    "o": [
+     "J. S. Mill",
+     "Bentham",
+     "Kant",
+     "Weber"
+    ],
+    "a": 2,
+    "fb": "Para Kant, lo único bueno sin restricciones es la buena voluntad: la intención de actuar por deber."
+   },
+   {
+    "q": "¿Qué filósofo del utilitarismo fue además un firme defensor del sufragio femenino?",
+    "o": [
+     "Mill",
+     "Bentham",
+     "Kant",
+     "Weber"
+    ],
+    "a": 0,
+    "fb": "La teoría destaca que Mill fue un firme defensor del sufragio femenino."
+   },
+   {
+    "q": "¿Qué pregunta enfrenta a las dos grandes éticas que surgen a finales del siglo XVIII?",
+    "o": [
+     "Si el saber procede de la razón o de la experiencia",
+     "Si el poder del rey procede de Dios o del pueblo",
+     "Si un acto es bueno en sí mismo o por sus efectos",
+     "Si la naturaleza procede de un único arkhé o de varios"
+    ],
+    "a": 2,
+    "fb": "A finales del XVIII chocan las éticas consecuencialistas, que juzgan por los resultados, y las del deber, que juzgan por la acción misma."
+   },
+   {
+    "q": "¿En qué obra establece Kant una moral autónoma basada en el deber?",
+    "o": [
+     "Crítica de la razón pura",
+     "Crítica de la razón práctica",
+     "Crítica de la facultad de juzgar",
+     "Sobre la libertad"
+    ],
+    "a": 1,
+    "fb": "En la Crítica de la razón práctica (1788) Kant establece una moral autónoma basada en el deber."
+   }
+  ]
+ },
+ "hf-c21-banco": {
+  "name": "T21 · Los filósofos de la sospecha: Marx, Nietzsche y Freud (banco ampliado)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "Para Marx, ¿qué son las ideas y la moral de una sociedad?",
+    "o": [
+     "Máscaras del resentimiento de los débiles contra los fuertes",
+     "Verdades universales que la razón descubre por sí misma",
+     "Una superestructura que justifica el poder de la clase dominante",
+     "Normas morales interiorizadas que forman el superyó de cada persona"
+    ],
+    "a": 2,
+    "fb": "Marx sospecha de las ideas y la moral: no son verdades universales, sino una superestructura al servicio de la clase dominante."
+   },
+   {
+    "q": "Según Marx, ¿cuál es el motor de la historia?",
+    "o": [
+     "La lucha entre las clases sociales",
+     "El progreso de la razón y la ciencia",
+     "La voluntad de poder de los fuertes",
+     "La represión de los deseos"
+    ],
+    "a": 0,
+    "fb": "Para Marx la historia avanza por el enfrentamiento entre clases sociales: la lucha de clases es su motor."
+   },
+   {
+    "q": "¿Qué significa, para Marx, que el ser humano es «el animal que trabaja»?",
+    "o": [
+     "Que su valor depende solo del salario que obtiene",
+     "Que trabajar es un deber que se cumple por respeto a la ley",
+     "Que al trabajar transforma la naturaleza y se realiza",
+     "Que el trabajo es un castigo que lo aleja de su esencia"
+    ],
+    "a": 2,
+    "fb": "El trabajo es la actividad propia del ser humano: con él transforma la naturaleza y se realiza a sí mismo."
+   },
+   {
+    "q": "Según Marx, ¿qué hace falta para superar la alienación?",
+    "o": [
+     "Una terapia que saque a la luz lo reprimido",
+     "Una revolución que instaure una sociedad sin clases",
+     "Una reforma moral de cada persona por la educación",
+     "Una transvaloración que cree nuevos valores"
+    ],
+    "a": 1,
+    "fb": "La alienación nace de la estructura económica capitalista; por eso Marx cree que solo una revolución hacia una sociedad sin clases la supera."
+   },
+   {
+    "q": "¿Por qué se llama a Nietzsche «el filósofo del martillo»?",
+    "o": [
+     "Porque construye su sistema a partir de un primer principio firme",
+     "Porque golpea las verdades sagradas para ver si suenan a hueco",
+     "Porque exalta el trabajo manual frente al trabajo intelectual",
+     "Porque defiende la violencia revolucionaria contra la burguesía"
+    ],
+    "a": 1,
+    "fb": "El martillo sirve para golpear las verdades y valores sagrados de Occidente y comprobar si están huecos."
+   },
+   {
+    "q": "¿Qué sostiene el vitalismo de Nietzsche?",
+    "o": [
+     "Que la vida es dolor y conviene apagar la voluntad de vivir",
+     "Que la razón debe dominar los instintos para lograr la virtud",
+     "Que el verdadero ser está en un mundo ideal más allá de lo sensible",
+     "Que la vida (instinto, cuerpo, pasión) es lo único valioso"
+    ],
+    "a": 3,
+    "fb": "El punto de partida de Nietzsche es el vitalismo: la vida, con sus instintos y pasiones, es la única realidad valiosa."
+   },
+   {
+    "q": "En Nietzsche, ¿qué representa lo dionisíaco?",
+    "o": [
+     "El caos creativo y la fuerza del instinto",
+     "El orden, la medida y la razón",
+     "La conciencia de clase del obrero",
+     "Las normas morales interiorizadas"
+    ],
+    "a": 0,
+    "fb": "Nietzsche opone lo dionisíaco (caos creativo, instinto) a lo apolíneo (orden, razón)."
+   },
+   {
+    "q": "Según Nietzsche, ¿cuándo entró Occidente en decadencia?",
+    "o": [
+     "Cuando Platón y el cristianismo aniquilaron lo dionisíaco",
+     "Cuando la ciencia moderna sustituyó a la fe religiosa",
+     "Cuando la Ilustración moderna dejó de confiar en la razón humana",
+     "Cuando el capitalismo convirtió el trabajo en mercancía"
+    ],
+    "a": 0,
+    "fb": "Para Nietzsche la decadencia empieza cuando Platón y el cristianismo sacrifican lo dionisíaco a un «mundo verdadero» inexistente."
+   },
+   {
+    "q": "¿Qué es para Nietzsche la «moral de esclavos»?",
+    "o": [
+     "El deber cumplido por respeto a la ley moral",
+     "La moral de quien afirma la vida tal como es",
+     "La moral que la burguesía impone al obrero",
+     "La moral de una vida débil y resentida"
+    ],
+    "a": 3,
+    "fb": "La moral de esclavos (piedad, humildad, igualdad) es, según Nietzsche, síntoma de una vida débil que siente resentimiento contra los fuertes."
+   },
+   {
+    "q": "¿Qué situación describe el nihilismo según la teoría?",
+    "o": [
+     "El yo queda sometido por completo a las exigencias del superyó",
+     "La sociedad se divide en clases enfrentadas por la propiedad",
+     "La razón descubre que no puede conocer la realidad en sí misma",
+     "El ser humano queda huérfano de sentido al caer los valores supremos"
+    ],
+    "a": 3,
+    "fb": "Al caer los valores supremos, el ser humano queda huérfano de sentido: eso es el nihilismo."
+   },
+   {
+    "q": "Según Nietzsche, ¿cómo actúa el superhombre?",
+    "o": [
+     "Equilibra el ello y el superyó gracias a la razón",
+     "Crea sus propios valores mediante la voluntad de poder",
+     "Obedece con fidelidad los valores de la tradición",
+     "Supera la alienación en una sociedad sin clases"
+    ],
+    "a": 1,
+    "fb": "El superhombre surge del vacío del nihilismo y crea sus propios valores mediante la voluntad de poder."
+   },
+   {
+    "q": "¿Qué quiere decir Freud con que la conciencia es «la punta del iceberg»?",
+    "o": [
+     "Que la mayor parte de nuestra psique es inconsciente",
+     "Que los sentidos solo nos dan meras apariencias",
+     "Que la conciencia refleja la situación económica",
+     "Que la razón es la facultad más alta del alma"
+    ],
+    "a": 0,
+    "fb": "Como en un iceberg, lo visible (la conciencia) es una parte pequeña: la mayor parte de la psique es inconsciente."
+   },
+   {
+    "q": "Para Freud, ¿qué son Eros y Tánatos?",
+    "o": [
+     "La base económica y la superestructura",
+     "El principio de placer y el de realidad",
+     "Las pulsiones de vida y de muerte",
+     "Lo dionisíaco y lo apolíneo"
+    ],
+    "a": 2,
+    "fb": "Freud distingue dos pulsiones básicas: Eros, la pulsión de vida, y Tánatos, la de muerte."
+   },
+   {
+    "q": "¿Por qué, según Freud, el ser humano nunca será plenamente feliz en la civilización?",
+    "o": [
+     "Porque la razón no puede conocer la verdad",
+     "Porque convivir exige reprimir deseos, y eso genera neurosis",
+     "Porque la moral cristiana le enseña a despreciar la vida",
+     "Porque la explotación le arrebata el fruto de su trabajo"
+    ],
+    "a": 1,
+    "fb": "Para vivir en sociedad reprimimos deseos; esa represión produce neurosis, por lo que la felicidad plena es imposible en la civilización."
+   },
+   {
+    "q": "¿Por qué Freud llama a su teoría la «tercera gran humillación» del ser humano?",
+    "o": [
+     "Porque demuestra que la Tierra no es el centro del universo",
+     "Porque prueba que estamos emparentados con los primates",
+     "Porque revela que la religión es un invento de los débiles",
+     "Porque muestra que no controlamos ni nuestra racionalidad"
+    ],
+    "a": 3,
+    "fb": "Tras Copérnico y Darwin, Freud muestra que ni siquiera controlamos nuestra propia racionalidad: la mueve el inconsciente."
+   },
+   {
+    "q": "¿Qué tienen en común Marx, Nietzsche y Freud?",
+    "o": [
+     "Desenmascaran las fuerzas ocultas que hay tras la conciencia",
+     "Explican la conducta por deseos sexuales reprimidos",
+     "Proponen una revolución política que abola las clases",
+     "Confían en la razón como guía segura del progreso"
+    ],
+    "a": 0,
+    "fb": "Los tres son «maestros de la sospecha»: bajo lo que decimos y pensamos descubren fuerzas ocultas que no controlamos."
+   },
+   {
+    "q": "¿En qué se diferencia la sospecha de Freud de la de Marx?",
+    "o": [
+     "Freud critica la moral cristiana; Marx la defiende como un consuelo",
+     "Freud mira dentro de la psique; Marx, a la sociedad y la economía",
+     "Freud aspira a la revolución; Marx, a la salud mental del individuo",
+     "Freud sospecha de la religión; Marx, de la racionalidad individual"
+    ],
+    "a": 1,
+    "fb": "Marx sospecha de las ideas por su base económica y social; Freud mira al interior del individuo y encuentra el inconsciente."
+   },
+   {
+    "q": "Detrás de las ideas, Marx ve la ideología de la clase dominante. ¿Qué ve Nietzsche detrás de la moral?",
+    "o": [
+     "Los intereses de la burguesía",
+     "El resentimiento del débil",
+     "La lucha entre clases sociales",
+     "Los deseos sexuales reprimidos"
+    ],
+    "a": 1,
+    "fb": "Según el cuadro comparativo, detrás de la moral Nietzsche descubre el resentimiento del débil contra la vida y los fuertes."
+   },
+   {
+    "q": "Según el cuadro comparativo, ¿qué objetivo persigue Freud?",
+    "o": [
+     "Una revolución sin clases sociales",
+     "Autonomía de la razón práctica",
+     "Salud mental y autoconocimiento",
+     "Superhombre y transvaloración"
+    ],
+    "a": 2,
+    "fb": "Frente a la revolución de Marx y el superhombre de Nietzsche, Freud busca la salud mental y el autoconocimiento."
+   },
+   {
+    "q": "Marx y Nietzsche critican el cristianismo. ¿Qué diferencia sus críticas?",
+    "o": [
+     "Para Marx frena la rebelión; para Nietzsche, niega la vida",
+     "Para Marx nace del resentimiento; para Nietzsche, es un opio",
+     "Para Marx surge de la represión; para Nietzsche, de las clases",
+     "Para Marx es verdadero; para Nietzsche, una ilusión infantil"
+    ],
+    "a": 0,
+    "fb": "Marx ve la religión como opio que consuela y frena la rebelión; Nietzsche, como una moral de esclavos que aniquila lo dionisíaco."
+   },
+   {
+    "q": "¿Por qué critica Nietzsche a Platón?",
+    "o": [
+     "Porque inventó un «mundo verdadero» inexistente",
+     "Porque redujo todo conocimiento a la experiencia sensible",
+     "Porque negó que existieran Ideas eternas",
+     "Porque defendió el placer como bien supremo"
+    ],
+    "a": 0,
+    "fb": "Nietzsche acusa a Platón, y después al cristianismo, de inventar un «mundo verdadero» que desprecia la vida y lo dionisíaco."
+   },
+   {
+    "q": "¿Qué comparten Nietzsche y Freud?",
+    "o": [
+     "Confían en la razón para dominar los instintos",
+     "Ven en la religión el fundamento de la moral",
+     "Dan gran peso a los instintos frente a la razón",
+     "Proponen una revolución que acabe con las clases"
+    ],
+    "a": 2,
+    "fb": "Nietzsche exalta el instinto (lo dionisíaco) y Freud muestra que el ello y las pulsiones gobiernan gran parte de la psique."
+   },
+   {
+    "q": "Una operaria repite la misma pieza todo el día, no decide nada y nunca ve el producto final, que otro vende con beneficio. ¿Qué concepto de Marx describe su situación?",
+    "o": [
+     "El resentimiento",
+     "La neurosis",
+     "La alienación",
+     "El nihilismo"
+    ],
+    "a": 2,
+    "fb": "Pierde el control sobre su trabajo y su producto, que se convierte en plusvalía para otro: es el trabajador alienado de Marx."
+   },
+   {
+    "q": "Un joven dice que, sin Dios ni verdades absolutas, nada tiene sentido y todo le da igual. ¿Qué concepto de Nietzsche describe su estado?",
+    "o": [
+     "El nihilismo",
+     "El eterno retorno",
+     "La ideología",
+     "La alienación"
+    ],
+    "a": 0,
+    "fb": "Al caer los valores supremos, queda huérfano de sentido: es el nihilismo que Nietzsche asocia a la muerte de Dios."
+   },
+   {
+    "q": "Una artista rechaza las normas heredadas y decide vivir según valores que ella misma se da. ¿Qué figura de Nietzsche encarna mejor esa actitud?",
+    "o": [
+     "El yo freudiano",
+     "El superhombre",
+     "El esclavo resentido",
+     "El proletario consciente"
+    ],
+    "a": 1,
+    "fb": "El superhombre es quien crea sus propios valores tras la caída de los valores tradicionales."
+   },
+   {
+    "q": "Alguien olvida una y otra vez la cita con el dentista y asegura que «ha sido sin querer». ¿Qué explicación daría Freud?",
+    "o": [
+     "La clase dominante le impone esa conducta",
+     "Su voluntad de poder se ha debilitado",
+     "Su razón consciente ha decidido libremente olvidarla",
+     "Un deseo inconsciente actúa sin que lo controle"
+    ],
+    "a": 3,
+    "fb": "Para Freud gran parte de lo que hacemos lo gobiernan deseos inconscientes que la conciencia no controla."
+   },
+   {
+    "q": "Una persona siente una culpa intensa por desear algo que su educación le enseñó que estaba mal. ¿Qué instancia freudiana produce esa culpa?",
+    "o": [
+     "El yo",
+     "El ello",
+     "El principio de placer",
+     "El superyó"
+    ],
+    "a": 3,
+    "fb": "El superyó recoge las normas morales interiorizadas y castiga con culpa los deseos que las contradicen."
+   },
+   {
+    "q": "Tras un examen, alguien critica a quien saca buena nota: «nadie debe creerse más que nadie». ¿Qué autor vería en esa actitud el resentimiento del débil?",
+    "o": [
+     "Freud",
+     "Immanuel Kant",
+     "Nietzsche",
+     "Marx"
+    ],
+    "a": 2,
+    "fb": "Nietzsche ve detrás de la «igualdad» y la «humildad» el resentimiento de los débiles contra los fuertes."
+   },
+   {
+    "q": "Un político asegura que la pobreza es voluntad divina y que los pobres serán recompensados en el cielo. ¿Cómo interpretaría Marx ese discurso?",
+    "o": [
+     "Como un consuelo religioso que frena la rebelión",
+     "Como un síntoma de la pulsión de muerte",
+     "Como una afirmación de la vida tal como es",
+     "Como una verdad moral universal y necesaria para todos"
+    ],
+    "a": 0,
+    "fb": "Es la religión como «opio del pueblo»: promete una recompensa en el más allá e impide que los oprimidos se rebelen."
+   },
+   {
+    "q": "Alguien tiene hambre y siente el impulso de coger la comida de otro, pero decide esperar y comprarse la suya. Según Freud, ¿qué instancia ha mediado con la realidad?",
+    "o": [
+     "El ello",
+     "El inconsciente",
+     "Tánatos",
+     "El yo"
+    ],
+    "a": 3,
+    "fb": "El yo es la razón que media entre los impulsos del ello y las exigencias de la realidad."
+   },
+   {
+    "q": "¿A quién pertenece la frase «Hay que tener caos dentro de sí para dar a luz una estrella danzarina»?",
+    "o": [
+     "A Marx",
+     "A Nietzsche",
+     "A Freud",
+     "A Paul Ricoeur"
+    ],
+    "a": 1,
+    "fb": "La frase es de Así habló Zaratustra, de Nietzsche, y refleja su elogio del caos creativo dionisíaco."
+   },
+   {
+    "q": "¿Quién llamó «maestros de la sospecha» a Marx, Nietzsche y Freud?",
+    "o": [
+     "Jean-Paul Sartre",
+     "Immanuel Kant",
+     "Paul Ricoeur",
+     "Karl Popper"
+    ],
+    "a": 2,
+    "fb": "La expresión «maestros de la sospecha» es de Paul Ricoeur."
+   },
+   {
+    "q": "La proclamación «Dios ha muerto» aparece en…",
+    "o": [
+     "El malestar en la cultura, de Freud",
+     "La esencia del cristianismo, de Feuerbach",
+     "El capital, de Karl Marx",
+     "La gaya ciencia, de Nietzsche"
+    ],
+    "a": 3,
+    "fb": "La teoría cita «Dios ha muerto» de La gaya ciencia, de Friedrich Nietzsche."
+   },
+   {
+    "q": "¿Qué idea heredada de la modernidad ponen en crisis los maestros de la sospecha?",
+    "o": [
+     "La de un orden político fundado en el derecho divino",
+     "La de un conocimiento limitado a las impresiones",
+     "La de un sujeto consciente y libre, dueño de sí mismo",
+     "La de una armonía entre la razón y la fe revelada"
+    ],
+    "a": 2,
+    "fb": "Hasta entonces se creía en un sujeto que se identifica con la conciencia y es libre; los tres muestran que no es «dueño de su propia casa»."
+   },
+   {
+    "q": "¿En qué marco histórico sitúa Marx la alienación del trabajador?",
+    "o": [
+     "En el absolutismo, donde el rey concentra todo el poder político",
+     "En el capitalismo, que hace del producto plusvalía del burgués",
+     "En el feudalismo, donde el siervo trabaja la tierra de su señor",
+     "En la polis griega, donde los esclavos liberan a los ciudadanos"
+    ],
+    "a": 1,
+    "fb": "Marx analiza la sociedad capitalista: allí el trabajador pierde el control de su producto, que se convierte en plusvalía para el burgués."
+   }
+  ]
+ },
+ "hf-c22-banco": {
+  "name": "T22 · La crítica del capitalismo: de Marx a Rawls (banco ampliado)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "Según el materialismo histórico de Marx, ¿qué relación hay entre la economía y el resto de la sociedad?",
+    "o": [
+     "Las ideas de cada época determinan cómo se organizan la economía y la política.",
+     "El Estado es la base de la que dependen la economía y la cultura.",
+     "La base económica determina la organización social, política e ideológica de cada época.",
+     "La religión fija el orden social y la economía se adapta a ella."
+    ],
+    "a": 2,
+    "fb": "Para Marx, la base económica (quién posee los medios de producción) determina la política, el derecho y la ideología."
+   },
+   {
+    "q": "¿En qué contexto escribe Marx su crítica del capitalismo?",
+    "o": [
+     "En el siglo XIX, en plena Revolución Industrial, ante la explotación del proletariado.",
+     "Tras las guerras mundiales, el holocausto y los totalitarismos.",
+     "En la Ilustración, frente al absolutismo monárquico.",
+     "En la Guerra Fría, ante la amenaza nuclear."
+    ],
+    "a": 0,
+    "fb": "Marx escribe en el siglo XIX, en plena Revolución Industrial, y centra su crítica en la explotación del proletariado."
+   },
+   {
+    "q": "Según la teoría, la alienación separa al obrero de varias cosas. ¿Cuál NO aparece entre ellas?",
+    "o": [
+     "Del producto que él mismo fabrica.",
+     "De su propia esencia humana.",
+     "De los demás seres humanos.",
+     "Del Estado y de sus leyes."
+    ],
+    "a": 3,
+    "fb": "La alienación separa al obrero del producto, del proceso, de su esencia y de los demás; el Estado no figura en esa lista."
+   },
+   {
+    "q": "En una empresa, cada operario fabrica al día piezas por valor de 200 euros y cobra 80. Según Marx, ¿cómo se llaman los 120 euros de diferencia?",
+    "o": [
+     "Salario justo, pactado en el contrato.",
+     "Plusvalía, que se queda el patrono.",
+     "Alienación, sufrida por el trabajador.",
+     "Fuerza de trabajo, vendida por el obrero al patrono."
+    ],
+    "a": 1,
+    "fb": "La plusvalía es el valor que el trabajador produce por encima de lo que recibe y que se queda el dueño de los medios de producción."
+   },
+   {
+    "q": "En el capitalismo, según Marx, ¿qué posee el proletariado?",
+    "o": [
+     "Los medios de producción y las fábricas.",
+     "Solo su fuerza de trabajo.",
+     "Una parte de la plusvalía que genera.",
+     "Pequeñas tierras heredadas de sus padres."
+    ],
+    "a": 1,
+    "fb": "La burguesía posee los medios de producción; el proletariado solo tiene su fuerza de trabajo, que vende a cambio de un salario."
+   },
+   {
+    "q": "¿Cómo propone Marx superar la explotación capitalista?",
+    "o": [
+     "Con reformas pequeñas y graduales que se corrigen si fracasan.",
+     "Con una democracia deliberativa basada en el diálogo.",
+     "Con una revolución proletaria que conduzca a una sociedad comunista sin clases.",
+     "Con un Estado de bienestar que ayude a los más pobres."
+    ],
+    "a": 2,
+    "fb": "Marx defiende una revolución del proletariado que conduzca a una sociedad comunista sin clases; las otras vías son de Popper, Habermas y Rawls."
+   },
+   {
+    "q": "¿A quién corresponde la frase «Los filósofos no han hecho más que interpretar el mundo; de lo que se trata es de transformarlo»?",
+    "o": [
+     "A Karl Marx.",
+     "A Karl Popper.",
+     "A Jürgen Habermas.",
+     "A Theodor Adorno."
+    ],
+    "a": 0,
+    "fb": "Es la célebre tesis de Marx en las Tesis sobre Feuerbach: la filosofía debe servir para cambiar la realidad."
+   },
+   {
+    "q": "Un obrero de una cadena de montaje repite el mismo gesto ocho horas, no ve el producto final y siente que su trabajo no es suyo. ¿Qué concepto lo explica?",
+    "o": [
+     "La razón instrumental.",
+     "El velo de ignorancia.",
+     "La industria cultural.",
+     "La alienación de Marx."
+    ],
+    "a": 3,
+    "fb": "La alienación es la separación del obrero respecto del producto, del proceso de trabajo y de sí mismo."
+   },
+   {
+    "q": "¿Qué tesis defienden Adorno y Horkheimer en Dialéctica de la Ilustración?",
+    "o": [
+     "Que el progreso técnico conduce por sí solo a una sociedad justa.",
+     "Que la historia sigue leyes que permiten predecir su final.",
+     "Que el progreso de la razón puede convertirse en un mecanismo de dominación.",
+     "Que la justicia nace de elegir las leyes sin saber quién seremos."
+    ],
+    "a": 2,
+    "fb": "Adorno y Horkheimer muestran que el progreso técnico no garantiza la justicia y que la razón puede volverse instrumento de dominio."
+   },
+   {
+    "q": "Según Adorno y Horkheimer, ¿qué efecto produce la industria cultural en el público?",
+    "o": [
+     "Despierta la conciencia crítica de las masas.",
+     "Fomenta la pasividad y el conformismo.",
+     "Hace accesible el arte y acaba con la dominación.",
+     "Sustituye la manipulación por el diálogo."
+    ],
+    "a": 1,
+    "fb": "La industria cultural ofrece entretenimiento estandarizado que vuelve pasivo y conformista a quien lo consume."
+   },
+   {
+    "q": "Frente a Marx, ¿cómo amplía la Escuela de Fráncfort el análisis de la dominación?",
+    "o": [
+     "La ve no solo como económica, sino también como cultural e ideológica.",
+     "La reduce al control político que el Estado ejerce mediante leyes.",
+     "La considera superada gracias al progreso imparable de la técnica y la ciencia.",
+     "La explica solo por la apropiación de la plusvalía en la fábrica."
+    ],
+    "a": 0,
+    "fb": "Marx centra el dominio en la economía; Adorno y Horkheimer añaden la dimensión cultural e ideológica (industria cultural, razón instrumental)."
+   },
+   {
+    "q": "Una plataforma de series produce todos sus títulos con la misma fórmula de éxito y el público los consume sin pensar, uno tras otro. ¿Qué concepto lo describe?",
+    "o": [
+     "La acción comunicativa.",
+     "La plusvalía de Marx.",
+     "El historicismo.",
+     "La industria cultural."
+    ],
+    "a": 3,
+    "fb": "La industria cultural es la cultura de masas estandarizada que genera pasividad y conformismo."
+   },
+   {
+    "q": "¿Qué hecho del siglo XX hace especialmente creíble la tesis de que el progreso técnico no garantiza una sociedad más justa?",
+    "o": [
+     "Que una sociedad técnicamente avanzada produjera el holocausto.",
+     "Que la Revolución Industrial multiplicara la producción fabril.",
+     "Que la revolución científica impusiera una visión mecanicista.",
+     "Que la Ilustración defendiera la autonomía de la razón humana."
+    ],
+    "a": 0,
+    "fb": "Los filósofos del siglo XX piensan tras las guerras mundiales, el holocausto y el totalitarismo: el avance técnico convivió con la barbarie."
+   },
+   {
+    "q": "Un gobierno decide una política solo por su coste y eficacia, sin preguntarse si es justa. ¿Qué concepto de la Escuela de Fráncfort lo explica?",
+    "o": [
+     "El principio de diferencia.",
+     "La acción comunicativa.",
+     "La razón instrumental.",
+     "El materialismo histórico."
+    ],
+    "a": 2,
+    "fb": "La razón instrumental se ocupa de los medios (cómo lograr algo) y no de los fines (qué es justo)."
+   },
+   {
+    "q": "¿En qué se diferencia la acción comunicativa de Habermas de la razón instrumental?",
+    "o": [
+     "Busca ante todo la eficacia técnica y deja de lado el entendimiento.",
+     "Busca el entendimiento mediante el diálogo, no solo la eficacia.",
+     "Ambas calculan igualmente los medios para lograr un fin.",
+     "La primera es económica y la segunda es solo cultural."
+    ],
+    "a": 1,
+    "fb": "La razón instrumental calcula medios eficaces; la acción comunicativa es diálogo orientado al entendimiento y al consenso."
+   },
+   {
+    "q": "¿Qué critica Popper con el término «historicismo»?",
+    "o": [
+     "El estudio de la historia como disciplina académica rigurosa y objetiva.",
+     "La confianza en reformas pequeñas, graduales y corregibles.",
+     "La idea de que la cultura de masas genera conformismo social.",
+     "La creencia en leyes de la historia que permitirían predecir con certeza el futuro."
+    ],
+    "a": 3,
+    "fb": "Para Popper no hay leyes de la historia que permitan anticipar el futuro; creerlo es el error historicista."
+   },
+   {
+    "q": "Según Popper, ¿de dónde nace el totalitarismo?",
+    "o": [
+     "Del terror y la propaganda que convierten a toda la población en masa.",
+     "De la falta de diálogo honesto en la esfera pública.",
+     "De la apropiación de la plusvalía por parte de la burguesía.",
+     "De la soberbia de creer tener la receta de la sociedad perfecta."
+    ],
+    "a": 3,
+    "fb": "Popper atribuye el totalitarismo a la pretensión de conocer el plan definitivo de la sociedad ideal; lo del terror y la propaganda es el análisis de Arendt."
+   },
+   {
+    "q": "¿En qué consiste la ingeniería social fragmentaria de Popper?",
+    "o": [
+     "En reformas pequeñas y graduales, como experimentos que se corrigen si fallan.",
+     "En un plan global y definitivo para construir la sociedad perfecta.",
+     "En una revolución que cambie de golpe todo el sistema.",
+     "En un pacto social elegido tras un velo de ignorancia."
+    ],
+    "a": 0,
+    "fb": "Popper propone cambiar la sociedad como quien hace experimentos: poco a poco y rectificando los errores."
+   },
+   {
+    "q": "Un ayuntamiento prueba un nuevo sistema de transporte en un solo barrio, mide los resultados y lo corrige antes de ampliarlo. ¿Con qué propuesta encaja?",
+    "o": [
+     "Con la revolución proletaria de Marx.",
+     "Con la crítica de Adorno a la industria cultural.",
+     "Con la ingeniería social fragmentaria de Popper.",
+     "Con el análisis del totalitarismo de Arendt."
+    ],
+    "a": 2,
+    "fb": "Es una reforma pequeña, gradual y experimental que se corrige si falla, como pide Popper."
+   },
+   {
+    "q": "¿Qué diferencia la estrategia de cambio social de Popper de la de Marx?",
+    "o": [
+     "Popper prefiere una revolución; Marx, reformas graduales.",
+     "Popper prefiere reformas graduales; Marx, una revolución.",
+     "Ambos confían en un plan total para la sociedad perfecta.",
+     "Popper confía en el diálogo; Marx, en el velo de ignorancia."
+    ],
+    "a": 1,
+    "fb": "Marx defiende la revolución proletaria; Popper rechaza los planes totales y propone la ingeniería social fragmentaria."
+   },
+   {
+    "q": "¿A quién corresponde la defensa de la «sociedad abierta» frente a quienes creen conocer el rumbo necesario de la historia?",
+    "o": [
+     "A Karl Popper.",
+     "A Karl Marx.",
+     "A John Rawls.",
+     "A Max Horkheimer."
+    ],
+    "a": 0,
+    "fb": "Popper defiende la sociedad abierta y critica el historicismo, que pretende conocer leyes de la historia."
+   },
+   {
+    "q": "¿Quién afirma que los seres humanos no solo producimos, sino que también nos comunicamos?",
+    "o": [
+     "Karl Marx.",
+     "Jürgen Habermas.",
+     "Hannah Arendt.",
+     "Theodor W. Adorno."
+    ],
+    "a": 1,
+    "fb": "Habermas critica a Marx por reducirlo todo a la economía y pone la comunicación en el centro de la emancipación."
+   },
+   {
+    "q": "Según Habermas, ¿de dónde debe nacer un consenso legítimo?",
+    "o": [
+     "De la decisión de expertos en eficacia.",
+     "De la mayoría, aunque haya propaganda.",
+     "Del diálogo honesto en una esfera pública libre, no de la manipulación.",
+     "Del cálculo del beneficio del peor situado."
+    ],
+    "a": 2,
+    "fb": "La acción comunicativa exige que el acuerdo surja de un diálogo sincero, sin manipulación, en una esfera pública libre."
+   },
+   {
+    "q": "En una asamblea vecinal se decide tras un debate abierto y sincero, y se rechazan las campañas de bulos para influir en el voto. ¿Qué autor lo respaldaría mejor?",
+    "o": [
+     "Marx, con su materialismo histórico.",
+     "Rawls, con su estrategia maximin.",
+     "Popper, con su crítica al historicismo.",
+     "Habermas, con su acción comunicativa."
+    ],
+    "a": 3,
+    "fb": "Habermas defiende una democracia deliberativa en la que el consenso nazca del diálogo honesto y no de la manipulación."
+   },
+   {
+    "q": "¿Cómo difieren Marx y Habermas sobre el camino hacia la emancipación?",
+    "o": [
+     "Marx confía en la revolución; Habermas, en la democracia deliberativa.",
+     "Marx confía en el diálogo; Habermas, en la revolución del proletariado.",
+     "Ambos confían en reformas pequeñas, graduales y experimentales.",
+     "Marx confía en el Estado de bienestar; Habermas, en el mercado."
+    ],
+    "a": 0,
+    "fb": "Marx espera una revolución proletaria; Habermas, que critica su economicismo, apuesta por la acción comunicativa y la deliberación democrática."
+   },
+   {
+    "q": "Frente al totalitarismo, ¿qué defiende Hannah Arendt?",
+    "o": [
+     "Un Estado fuerte que unifique a toda la población en un solo pueblo y una sola voz.",
+     "La revolución proletaria y la abolición de las clases sociales.",
+     "Recuperar el espacio público, el pensamiento crítico y la pluralidad.",
+     "El retiro de la política para refugiarse en la vida privada."
+    ],
+    "a": 2,
+    "fb": "Arendt opone al dominio total la pluralidad, el pensamiento crítico y un espacio público donde los ciudadanos actúan juntos."
+   },
+   {
+    "q": "Marx describe una sociedad dividida en clases. ¿Qué rasgo destaca Arendt, en cambio, de la población bajo el totalitarismo?",
+    "o": [
+     "Que se organiza en asambleas deliberativas.",
+     "Que queda convertida en una masa indiferenciada.",
+     "Que se divide en clases enfrentadas: burgueses y proletarios.",
+     "Que escapa al control de la propaganda."
+    ],
+    "a": 1,
+    "fb": "Para Arendt, el totalitarismo, mediante el terror y la propaganda, disuelve la pluralidad y convierte a la población en masa."
+   },
+   {
+    "q": "¿Qué tienen en común Popper y Arendt, según el tema?",
+    "o": [
+     "Ambos defienden la revolución del proletariado.",
+     "Ambos proponen elegir las leyes con un velo de ignorancia.",
+     "Ambos centran su análisis en la industria cultural.",
+     "Ambos reflexionan críticamente sobre el totalitarismo."
+    ],
+    "a": 3,
+    "fb": "Popper explica el totalitarismo por la soberbia de la receta perfecta y Arendt lo analiza como dominio total por el terror; los dos lo combaten."
+   },
+   {
+    "q": "En el experimento del velo de ignorancia de Rawls, ¿qué desconocen quienes eligen las leyes?",
+    "o": [
+     "Qué leyes existen actualmente en su país.",
+     "Si serán ricos o pobres, hombres o mujeres: su posición social.",
+     "Cuáles son las libertades básicas.",
+     "Qué opina la mayoría de la gente."
+    ],
+    "a": 1,
+    "fb": "Bajo el velo no sabemos si seremos ricos o pobres, hombres o mujeres; así elegimos de forma imparcial."
+   },
+   {
+    "q": "Según la estrategia maximin, ¿qué sistema elegiríamos tras el velo de ignorancia?",
+    "o": [
+     "Aquel en que el mínimo sea lo mejor posible.",
+     "Aquel con más riqueza total, aunque mal repartida.",
+     "Aquel en que todos reciban exactamente lo mismo.",
+     "Aquel en que los más capaces obtengan siempre más."
+    ],
+    "a": 0,
+    "fb": "Maximin significa maximizar la situación del peor situado, por si nos toca ocupar ese lugar."
+   },
+   {
+    "q": "Según el principio de diferencia de Rawls, ¿cuándo están justificadas las desigualdades?",
+    "o": [
+     "Si son fruto del libre mercado.",
+     "Si elevan la riqueza media del país.",
+     "Solo si benefician a los peor situados.",
+     "Nunca, pues toda desigualdad es injusta."
+    ],
+    "a": 2,
+    "fb": "Rawls admite desigualdades únicamente cuando mejoran la situación de quienes están peor."
+   },
+   {
+    "q": "Una clase diseña las normas para repartir tareas antes de saber qué papel le tocará a cada uno. ¿Qué idea de Rawls reproduce?",
+    "o": [
+     "La razón instrumental.",
+     "La sociedad abierta.",
+     "La acción comunicativa.",
+     "El velo de ignorancia."
+    ],
+    "a": 3,
+    "fb": "Decidir sin saber qué posición ocuparemos es el experimento mental del velo de ignorancia, que garantiza la imparcialidad."
+   },
+   {
+    "q": "¿Qué base da Rawls al Estado de bienestar?",
+    "o": [
+     "Una base moral: intervenir es justicia, no caridad.",
+     "Una base económica: redistribuir hace crecer el PIB.",
+     "Una base religiosa: ayudar al pobre es un deber de caridad.",
+     "Una base revolucionaria: preparar la sociedad sin clases."
+    ],
+    "a": 0,
+    "fb": "Para Rawls, la intervención del Estado a favor de los peor situados es una exigencia de justicia y no un acto de beneficencia."
+   },
+   {
+    "q": "Marx busca una sociedad sin clases. ¿Qué postura adopta Rawls ante la desigualdad?",
+    "o": [
+     "Exige abolir toda propiedad privada de los medios.",
+     "La admite si beneficia a los peor situados.",
+     "Rechaza que el Estado intervenga en la economía.",
+     "La ve natural y cree que no debe corregirse."
+    ],
+    "a": 1,
+    "fb": "Rawls no aspira a suprimir las clases, sino a justificar solo las desigualdades que mejoran la situación de los más desfavorecidos."
+   },
+   {
+    "q": "¿Qué experiencias históricas llevan a los filósofos del siglo XX a ampliar la crítica a la cultura, la razón y la democracia?",
+    "o": [
+     "La Revolución Francesa y las guerras napoleónicas.",
+     "La Reforma protestante y las largas guerras de religión en Europa.",
+     "Las guerras mundiales, el holocausto y el totalitarismo.",
+     "La revolución científica y el auge del mecanicismo."
+    ],
+    "a": 2,
+    "fb": "Tras las guerras mundiales, el holocausto y el totalitarismo, la crítica ya no se limita a la explotación económica."
+   }
+  ]
+ },
+ "hf-c23-banco": {
+  "name": "T23 · Nietzsche y la posmodernidad: Habermas frente a los rupturistas (banco ampliado)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "Leída junto al «Dios ha muerto» de Nietzsche, ¿qué pregunta plantea la frase «Si Dios no existe, todo está permitido»?",
+    "o": [
+     "Si la razón humana puede demostrar por sí sola la existencia de Dios",
+     "Cómo conciliar la fe religiosa con los avances del progreso científico",
+     "Qué queda de la verdad y de la moral sin un fundamento absoluto",
+     "Por qué las normas morales deben basarse siempre en la voluntad divina"
+    ],
+    "a": 2,
+    "fb": "La frase resume la crisis de la modernidad: si desaparece el fundamento absoluto, queda en el aire qué pasa con la verdad y con la moral."
+   },
+   {
+    "q": "¿A quién corresponde la tesis «Si Dios no existe, todo está permitido», según la teoría?",
+    "o": [
+     "A Iván, personaje de Los hermanos Karamázov, aunque no aparece literal en la novela",
+     "A Nietzsche, que la formuló en su crítica a la moral cristiana tradicional",
+     "A Lyotard, como resumen de su incredulidad hacia los grandes metarrelatos",
+     "A Foucault, al anunciar la muerte del sujeto y de cualquier norma moral fija"
+    ],
+    "a": 0,
+    "fb": "La frase no es de Nietzsche: resume la tesis de Iván en la novela de Dostoievski, aunque no aparece así, literal, en ella."
+   },
+   {
+    "q": "¿Qué quiere decir que la posmodernidad es la era del «fragmento» frente al «bloque»?",
+    "o": [
+     "Que la filosofía debe dividirse en disciplinas técnicas cada vez más especializadas",
+     "Que la sociedad ha quedado rota en clases enfrentadas por intereses económicos",
+     "Que la verdad absoluta se alcanza reuniendo poco a poco muchas verdades parciales",
+     "Que se abandonan los sistemas sólidos que pretendían explicarlo todo de una vez"
+    ],
+    "a": 3,
+    "fb": "El «bloque» son los sistemas sólidos de la modernidad; la posmodernidad, escéptica, solo acepta visiones parciales o fragmentos."
+   },
+   {
+    "q": "¿En qué creía la modernidad, según la teoría, antes de la crisis que da paso a la posmodernidad?",
+    "o": [
+     "En la pluralidad de relatos locales y en la tolerancia entre ellos",
+     "En el progreso, en una razón universal y en una verdad absoluta",
+     "En un sujeto fluido que se va construyendo a lo largo de su vida",
+     "En que todo conocimiento depende del punto de vista de quien conoce"
+    ],
+    "a": 1,
+    "fb": "La modernidad confiaba en el progreso, la razón universal y la verdad absoluta; la posmodernidad se define, en cambio, por el escepticismo."
+   },
+   {
+    "q": "¿Qué quiere decir Nietzsche cuando se describe a sí mismo como «dinamita»?",
+    "o": [
+     "Que su filosofía debía inspirar una revolución política contra el Estado",
+     "Que voló por los aires todo lo que hasta entonces se había creído, exigido y santificado",
+     "Que la ciencia moderna destruiría pronto las creencias religiosas populares",
+     "Que el filósofo tiene que imponer su voluntad por la fuerza sobre los demás"
+    ],
+    "a": 1,
+    "fb": "Con esa imagen Nietzsche presenta su obra como una demolición de la tradición occidental: de sus creencias, exigencias y valores sagrados."
+   },
+   {
+    "q": "¿Por qué el perspectivismo de Nietzsche conecta con la desconfianza posmoderna hacia los grandes relatos?",
+    "o": [
+     "Porque afirma que solo la ciencia ofrece un punto de vista neutral y seguro",
+     "Porque sostiene que la historia avanza hacia una meta que todos compartimos",
+     "Porque defiende que la razón dialógica permite un acuerdo universal y final",
+     "Porque si todo depende del punto de vista, ningún relato vale para todos"
+    ],
+    "a": 3,
+    "fb": "El perspectivismo niega que exista una mirada absoluta; por eso ninguna gran narración puede pretender explicar toda la realidad."
+   },
+   {
+    "q": "Según la teoría, ¿qué nos queda cuando dejamos de creer en una «Gran Historia»?",
+    "o": [
+     "Pequeños relatos locales y diversos, sin una meta común para todos",
+     "Un único relato científico que sustituye a los relatos religiosos",
+     "La vuelta a los valores cristianos como fundamento firme de la moral",
+     "Un nuevo metarrelato basado en el progreso técnico y económico"
+    ],
+    "a": 0,
+    "fb": "Para Lyotard no hay una «Gran Historia» con meta, sino pequeños relatos locales y diversos."
+   },
+   {
+    "q": "¿Qué frase resume la definición que dio Lyotard de la posmodernidad?",
+    "o": [
+     "«No hay nada fuera del texto»",
+     "«El mapa ha sustituido al territorio»",
+     "«Incredulidad hacia los metarrelatos»",
+     "«Todo saber produce poder»"
+    ],
+    "a": 2,
+    "fb": "Lyotard definió la posmodernidad como la «incredulidad hacia los metarrelatos», es decir, hacia las narraciones globales."
+   },
+   {
+    "q": "¿Qué circunstancias históricas explican, según la teoría, que ya no creamos que la historia tenga una meta?",
+    "o": [
+     "La Revolución francesa y la caída del Antiguo Régimen",
+     "Las guerras mundiales y los totalitarismos del siglo XX",
+     "La Revolución industrial y el nacimiento del proletariado",
+     "Las guerras de religión entre católicos y protestantes"
+    ],
+    "a": 1,
+    "fb": "Tras las guerras mundiales y los totalitarismos se pierde la confianza en que la historia avance hacia un progreso."
+   },
+   {
+    "q": "Según la tabla de la teoría, ¿cómo entiende la posmodernidad la verdad?",
+    "o": [
+     "Como algo objetivo que la razón puede llegar a conocer",
+     "Como la meta a la que conduce el progreso de la ciencia",
+     "Como el acuerdo alcanzado en una comunidad ideal de habla",
+     "Como algo construido e interpretativo, no como algo objetivo y cognoscible"
+    ],
+    "a": 3,
+    "fb": "Frente a la verdad objetiva y cognoscible de la modernidad, la posmodernidad la ve como construida e interpretativa."
+   },
+   {
+    "q": "Según la tabla de la teoría, ¿qué contraste hay en la identidad entre modernidad y posmodernidad?",
+    "o": [
+     "Se pasa de un sujeto sólido («yo soy») a uno fluido («yo me construyo»)",
+     "Se pasa de un sujeto colectivo a un individuo aislado y sin comunidad",
+     "Se pasa de un yo fluido y cambiante a un sujeto sólido y bien definido",
+     "Se pasa de un yo racional a un yo movido solo por la fe y el sentimiento"
+    ],
+    "a": 0,
+    "fb": "La modernidad concibe un sujeto sólido; la posmodernidad, un sujeto fluido que se construye."
+   },
+   {
+    "q": "¿Cuál es la actitud de Habermas ante la modernidad?",
+    "o": [
+     "Abandonarla, porque la razón ha conducido a los totalitarismos",
+     "Superarla con un pensamiento débil que renuncie a la verdad",
+     "Repararla, sin renunciar a la razón pero corrigiendo su uso",
+     "Deconstruirla, mostrando las jerarquías de poder de sus conceptos"
+    ],
+    "a": 2,
+    "fb": "Habermas quiere «reparar» la modernidad, no abandonarla: conserva la razón, pero sustituye la instrumental por la dialógica."
+   },
+   {
+    "q": "¿Por qué Habermas se niega a renunciar a la razón universal?",
+    "o": [
+     "Porque sin ella no hay herramientas para criticar la injusticia",
+     "Porque es la única vía para demostrar la existencia de verdades eternas",
+     "Porque garantiza por sí misma el progreso técnico y el crecimiento",
+     "Porque la razón instrumental es el mejor modelo de conocimiento seguro"
+    ],
+    "a": 0,
+    "fb": "Si abandonamos la razón universal, no hay criterio para denunciar lo injusto; por eso Habermas quiere conservarla."
+   },
+   {
+    "q": "Para Habermas, ¿dónde está el verdadero problema de la modernidad?",
+    "o": [
+     "En la razón misma, que siempre acaba sirviendo al poder",
+     "En el lenguaje, que impide cualquier acuerdo entre personas",
+     "En la religión, que frena el avance del espíritu científico",
+     "En la razón instrumental, centrada en los medios, no en la razón como tal"
+    ],
+    "a": 3,
+    "fb": "El problema no es la razón, sino la razón instrumental; por eso Habermas propone sustituirla por una razón dialógica."
+   },
+   {
+    "q": "¿Qué caracteriza la comunidad ideal de habla que propone Habermas?",
+    "o": [
+     "Que decide un grupo de expertos que conoce la verdad objetiva",
+     "Que cada cual mantiene su relato sin buscar acuerdos con otros",
+     "Que todos participan sin coacciones y usan el lenguaje para alcanzar acuerdos racionales",
+     "Que la mayoría impone su criterio para que el debate sea mucho más rápido"
+    ],
+    "a": 2,
+    "fb": "En la comunidad ideal de habla todos participan sin coacciones y usan el lenguaje para alcanzar consensos racionales."
+   },
+   {
+    "q": "¿Qué responden los pensadores rupturistas al proyecto de Habermas?",
+    "o": [
+     "Que es necesario, pero solo si lo dirigen los científicos",
+     "Que es ilusorio querer salvar la modernidad apoyándose en una razón universal",
+     "Que debe completarse con un nuevo gran metarrelato",
+     "Que es correcto, aunque la razón instrumental basta"
+    ],
+    "a": 1,
+    "fb": "Derrida, Foucault, Vattimo y Baudrillard consideran ilusorio el intento de reparar la modernidad con una razón universal."
+   },
+   {
+    "q": "¿Qué quiere decir Derrida cuando afirma que no hay nada «fuera del texto»?",
+    "o": [
+     "Que solo son verdaderos los conocimientos escritos en libros",
+     "Que todo nos llega mediado por el lenguaje, sin acceso directo a la realidad",
+     "Que la realidad material no existe en absoluto",
+     "Que los textos sagrados son la única fuente de verdad"
+    ],
+    "a": 1,
+    "fb": "Para Derrida no hay acceso directo a la realidad: todo está mediado por el lenguaje."
+   },
+   {
+    "q": "¿Qué persigue la deconstrucción de Derrida?",
+    "o": [
+     "Sustituir los conceptos confusos por definiciones exactas y universales",
+     "Rastrear el origen histórico de las creencias en el resentimiento",
+     "Alcanzar acuerdos racionales mediante un diálogo sin coacciones",
+     "Desmontar los conceptos para mostrar sus contradicciones y jerarquías"
+    ],
+    "a": 3,
+    "fb": "La deconstrucción desmonta los conceptos para sacar a la luz sus contradicciones y las jerarquías de poder que esconden."
+   },
+   {
+    "q": "¿Qué significa la «muerte del sujeto» que anuncia Foucault?",
+    "o": [
+     "Que el yo es una construcción de redes de poder y de discursos",
+     "Que el ser humano desaparecerá sustituido por las máquinas",
+     "Que el individuo debe sacrificarse por el bien de la comunidad",
+     "Que tras la muerte no queda nada del alma de la persona"
+    ],
+    "a": 0,
+    "fb": "Para Foucault el «yo» no es natural: lo construyen redes de poder y discursos como la medicina, la psiquiatría o las leyes."
+   },
+   {
+    "q": "¿Qué consecuencia ética tiene el pensamiento débil de Vattimo, según la teoría?",
+    "o": [
+     "Una ética del deber basada en normas universales y necesarias",
+     "Una ética de la tolerancia, que asume la pluralidad de interpretaciones sin imponer ninguna",
+     "Una ética de la fuerza en la que se impone la voluntad del más fuerte",
+     "Una ética del consenso fijada de una vez por una razón universal"
+    ],
+    "a": 1,
+    "fb": "Al renunciar a las verdades fuertes y aceptar muchas interpretaciones, el pensamiento débil conduce a una ética de la tolerancia."
+   },
+   {
+    "q": "¿Qué autor sostiene que «el mapa ha sustituido al territorio»?",
+    "o": [
+     "Derrida",
+     "Dostoievski",
+     "Foucault",
+     "Baudrillard"
+    ],
+    "a": 3,
+    "fb": "Es Baudrillard: en la hiperrealidad la representación (el mapa) ocupa el lugar de lo real (el territorio)."
+   },
+   {
+    "q": "¿Qué problema señala la aporía final del tema sobre las fake news?",
+    "o": [
+     "Que sin verdad objetiva cuesta distinguir una noticia real de una falsa",
+     "Que los medios de comunicación siempre mienten por intereses económicos",
+     "Que la ciencia no puede estudiar cómo se difunden las noticias en redes",
+     "Que los expertos tienen menos información que la mayoría de la gente"
+    ],
+    "a": 0,
+    "fb": "La aporía pregunta cómo distinguir lo real de lo falso, o al experto del influencer, si no hay verdad ni valores objetivos."
+   },
+   {
+    "q": "¿En qué se diferencian Habermas y los pensadores rupturistas?",
+    "o": [
+     "Habermas rechaza el lenguaje; ellos lo ponen en el centro de todo",
+     "Habermas defiende la razón instrumental; ellos, la razón dialógica",
+     "Habermas quiere salvar una razón universal; ellos la creen ilusoria",
+     "Habermas anuncia la muerte del sujeto; ellos defienden un yo sólido"
+    ],
+    "a": 2,
+    "fb": "Habermas quiere reparar la modernidad con una razón dialógica universal; los rupturistas consideran ilusorio ese intento."
+   },
+   {
+    "q": "¿Qué tienen en común la genealogía de Nietzsche y la «muerte del sujeto» de Foucault?",
+    "o": [
+     "Ambas buscan un fundamento absoluto y firme para la verdad y la moral",
+     "Ambas muestran que lo que parece natural nace del poder y la historia",
+     "Ambas proponen el diálogo sin coacciones como salida a la crisis",
+     "Ambas defienden que la historia avanza hacia una meta de progreso"
+    ],
+    "a": 1,
+    "fb": "Nietzsche muestra que las creencias nacen de procesos históricos y de poder; Foucault, que el yo es una construcción del poder."
+   },
+   {
+    "q": "Habermas y Derrida conceden gran importancia al lenguaje. ¿En qué se diferencian?",
+    "o": [
+     "Habermas lo usa para demostrar verdades eternas; Derrida, para describir el mundo",
+     "Habermas lo ve como un obstáculo; Derrida, como la vía hacia la verdad objetiva",
+     "Habermas lo reduce a la ciencia; Derrida, a los textos religiosos y literarios",
+     "Habermas lo usa para lograr acuerdos; Derrida lo desmonta para ver sus jerarquías"
+    ],
+    "a": 3,
+    "fb": "Para Habermas el lenguaje sirve para alcanzar consensos; para Derrida todo está mediado por él y hay que deconstruirlo."
+   },
+   {
+    "q": "¿Qué idea de Nietzsche guarda más afinidad con el pensamiento débil de Vattimo?",
+    "o": [
+     "La idea de que todo conocimiento depende de un punto de vista",
+     "La idea de que la moral debe fundarse en un imperativo universal",
+     "La idea de que la historia camina hacia una sociedad sin clases",
+     "La idea de que el diálogo racional lleva a un consenso definitivo"
+    ],
+    "a": 0,
+    "fb": "El perspectivismo de Nietzsche (todo conocimiento depende del punto de vista) casa con el pensamiento débil, que renuncia a las verdades fuertes y asume la pluralidad de interpretaciones."
+   },
+   {
+    "q": "¿Cuál de estas propuestas NO pertenece a ninguno de los pensadores rupturistas?",
+    "o": [
+     "La deconstrucción de conceptos",
+     "La comunidad ideal de habla",
+     "El pensamiento débil",
+     "La hiperrealidad"
+    ],
+    "a": 1,
+    "fb": "La comunidad ideal de habla es de Habermas, que quiere reparar la modernidad; las demás son de Derrida, Vattimo y Baudrillard."
+   },
+   {
+    "q": "Una historiadora muestra que un valor moral que se creía eterno nació en realidad del resentimiento de un grupo social frente a otro. ¿Qué método está aplicando?",
+    "o": [
+     "La razón dialógica de Habermas",
+     "La deconstrucción de Derrida",
+     "La hiperrealidad de Baudrillard",
+     "La genealogía de Nietzsche"
+    ],
+    "a": 3,
+    "fb": "La genealogía rastrea el origen de las creencias morales para mostrar que nacen de procesos históricos, del resentimiento o del poder."
+   },
+   {
+    "q": "Un joven dice que la vida perfecta de su influencer favorita le parece más real que la suya, aunque sabe que todo está montado para la cámara. ¿Qué concepto lo explica mejor?",
+    "o": [
+     "La muerte del sujeto de Foucault",
+     "La incredulidad de Lyotard",
+     "La hiperrealidad de Baudrillard",
+     "El pensamiento débil de Vattimo"
+    ],
+    "a": 2,
+    "fb": "En la hiperrealidad el simulacro sustituye a lo real: la imagen fabricada se vive como más real que la propia realidad."
+   },
+   {
+    "q": "En una asamblea de clase, todo el alumnado puede hablar sin presiones y se buscan acuerdos con argumentos, no por imposición. ¿Qué propuesta refleja este ideal?",
+    "o": [
+     "La genealogía de Nietzsche",
+     "La razón dialógica de Habermas",
+     "La deconstrucción de Derrida",
+     "La muerte del sujeto de Foucault"
+    ],
+    "a": 1,
+    "fb": "Es la razón dialógica: usar el lenguaje para alcanzar acuerdos racionales en una comunidad donde todos participan sin coacciones."
+   },
+   {
+    "q": "Un alumno sostiene que ni el marxismo ni la fe en el progreso científico pueden explicar toda la historia humana, y que solo quedan relatos parciales. ¿Con qué autor encaja?",
+    "o": [
+     "Con Lyotard",
+     "Con Habermas",
+     "Con Baudrillard",
+     "Con Dostoievski"
+    ],
+    "a": 0,
+    "fb": "Lyotard muestra la incredulidad hacia los metarrelatos, como el marxismo o el progreso científico, y solo admite pequeños relatos locales."
+   },
+   {
+    "q": "Una investigadora estudia cómo la psiquiatría y las leyes han fabricado la figura del «loco» y han moldeado cómo se ven a sí mismas esas personas. ¿Qué autor la inspira?",
+    "o": [
+     "Vattimo",
+     "Habermas",
+     "Foucault",
+     "Lyotard"
+    ],
+    "a": 2,
+    "fb": "Foucault sostiene que el yo es una construcción de redes de poder y discursos como la medicina, la psiquiatría o las leyes."
+   },
+   {
+    "q": "Al analizar un texto, una alumna descubre que el par «razón/emoción» presenta la razón como superior y oculta así una jerarquía. ¿Qué está haciendo?",
+    "o": [
+     "Aplicar la razón dialógica",
+     "Construir un metarrelato",
+     "Deconstruir el texto",
+     "Buscar la hiperrealidad"
+    ],
+    "a": 2,
+    "fb": "La deconstrucción de Derrida desmonta los conceptos para mostrar sus contradicciones y las jerarquías de poder que esconden."
+   },
+   {
+    "q": "Ante un debate sobre valores, una profesora admite que su postura es una interpretación entre otras y pide respetar las demás, sin imponer ninguna. ¿Con qué postura encaja?",
+    "o": [
+     "Con el pensamiento débil de Vattimo",
+     "Con la genealogía de Nietzsche",
+     "Con la hiperrealidad de Baudrillard",
+     "Con la razón universal moderna"
+    ],
+    "a": 0,
+    "fb": "El pensamiento débil renuncia a las verdades fuertes, asume la pluralidad de interpretaciones y propone una ética de la tolerancia."
+   }
+  ]
+ },
+ "hf-c24-banco": {
+  "name": "T24 · La filosofía analítica: Wittgenstein y el giro lingüístico (banco ampliado)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "¿En qué consiste el «giro lingüístico» de la filosofía del siglo XX?",
+    "o": [
+     "En estudiar la evolución histórica de las lenguas europeas",
+     "En sustituir la lógica formal por la retórica y la persuasión",
+     "En hacer del lenguaje el centro y el límite de lo pensable",
+     "En reducir la filosofía al estudio psicológico de la mente"
+    ],
+    "a": 2,
+    "fb": "El giro lingüístico sitúa el lenguaje en el centro de la filosofía: no es solo una herramienta para expresar el pensamiento, sino el límite de lo que podemos pensar."
+   },
+   {
+    "q": "Según la filosofía analítica, ¿qué son la mayoría de los problemas filosóficos tradicionales?",
+    "o": [
+     "Pseudoproblemas causados por un mal uso del lenguaje",
+     "Problemas reales que solo la ciencia podrá resolver",
+     "Preguntas eternas que cada época responde a su manera",
+     "Conflictos de intereses disfrazados de verdades universales"
+    ],
+    "a": 0,
+    "fb": "La convicción central de la filosofía analítica es que muchos problemas filosóficos no tratan sobre el mundo: son pseudoproblemas nacidos del mal uso del lenguaje."
+   },
+   {
+    "q": "¿Qué objetivo perseguía el atomismo lógico de Russell, Moore y el primer Wittgenstein?",
+    "o": [
+     "Analizar el lenguaje ordinario tal como se usa a diario",
+     "Mostrar que cada lengua encierra una cosmovisión propia",
+     "Recuperar la metafísica mediante un método más riguroso",
+     "Construir un lenguaje lógicamente perfecto"
+    ],
+    "a": 3,
+    "fb": "El atomismo lógico supone un paralelismo entre lenguaje y realidad y busca construir un lenguaje lógicamente perfecto. El análisis del lenguaje ordinario llega con el segundo Wittgenstein."
+   },
+   {
+    "q": "Para el neopositivismo del Círculo de Viena, ¿qué enunciados tienen sentido?",
+    "o": [
+     "Solo los que expresan valores morales compartidos",
+     "Solo los verificables empíricamente y las verdades de la lógica",
+     "Todos los que siguen correctamente las reglas gramaticales",
+     "Los que describen tanto hechos como esencias metafísicas"
+    ],
+    "a": 1,
+    "fb": "Para Schlick, Carnap y el Círculo de Viena solo tiene sentido lo verificable empíricamente o las verdades lógicas; por eso la metafísica carece de significado."
+   },
+   {
+    "q": "Según la teoría pictórica del Tractatus, ¿cuándo tiene sentido una proposición?",
+    "o": [
+     "Cuando es útil dentro de un juego de lenguaje concreto",
+     "Cuando representa un estado de cosas posible",
+     "Cuando expresa una convicción sincera del hablante",
+     "Cuando es verdadera en todos los casos posibles"
+    ],
+    "a": 1,
+    "fb": "En el Tractatus las proposiciones son figuras de los hechos, como un mapa del terreno: tienen sentido si representan un estado de cosas posible."
+   },
+   {
+    "q": "En el Tractatus, las tautologías y las contradicciones son «sin sentido» (sinnlos). ¿Por qué?",
+    "o": [
+     "Porque intentan decir lo que no se puede decir",
+     "Porque se refieren a hechos que todavía no han ocurrido",
+     "Porque pertenecen al ámbito de lo místico y lo ético",
+     "Porque no dicen nada del mundo, solo muestran su lógica"
+    ],
+    "a": 3,
+    "fb": "Las tautologías y contradicciones no dicen nada del mundo, pero muestran su estructura lógica. Intentar decir lo indecible es lo propio de la metafísica y la ética (unsinnig)."
+   },
+   {
+    "q": "¿Qué estatus da el Tractatus a las proposiciones de la metafísica y la ética?",
+    "o": [
+     "Son sinsentidos: intentan decir lo indecible",
+     "Tienen sentido, porque representan hechos del mundo",
+     "Son tautologías que muestran la estructura lógica",
+     "Son juegos de lenguaje con reglas propias y legítimas"
+    ],
+    "a": 0,
+    "fb": "Para el primer Wittgenstein, la metafísica y la ética son sinsentidos (unsinnig), porque intentan decir lo que no se puede decir."
+   },
+   {
+    "q": "Para el primer Wittgenstein, ¿qué es la filosofía?",
+    "o": [
+     "Una doctrina que ofrece verdades definitivas sobre el ser",
+     "Una ciencia empírica que describe hechos nuevos",
+     "Una actividad de clarificación lógica del lenguaje",
+     "Una reflexión sobre la cosmovisión de cada lengua"
+    ],
+    "a": 2,
+    "fb": "En el Tractatus la filosofía no es una doctrina, sino una actividad de clarificación lógica: no aporta hechos nuevos, aclara lo que decimos."
+   },
+   {
+    "q": "¿Qué ocurre con lo místico (la ética, el sentido de la vida) en el Tractatus?",
+    "o": [
+     "No se puede decir, pero se muestra",
+     "Se puede decir, pero no se puede verificar",
+     "Es un pseudoproblema que no existe en absoluto",
+     "Se expresa con proposiciones científicas rigurosas"
+    ],
+    "a": 0,
+    "fb": "Wittgenstein no niega lo místico: afirma que no puede decirse con proposiciones con sentido, pero se muestra."
+   },
+   {
+    "q": "En las Investigaciones filosóficas, ¿con qué compara Wittgenstein el lenguaje?",
+    "o": [
+     "Con un espejo que refleja los hechos del mundo",
+     "Con un mapa que reproduce fielmente el terreno",
+     "Con una caja de herramientas de usos diversos",
+     "Con una cárcel de la que no podemos escapar"
+    ],
+    "a": 2,
+    "fb": "El segundo Wittgenstein abandona la imagen del espejo o del mapa (teoría pictórica) y ve el lenguaje como una caja de herramientas con usos muy distintos."
+   },
+   {
+    "q": "Para el segundo Wittgenstein, ¿en qué consiste el significado de una palabra?",
+    "o": [
+     "En el objeto que la palabra representa",
+     "En la idea mental que el hablante asocia a ella",
+     "En su definición dentro de un lenguaje ideal",
+     "En el uso que se hace de ella en cada juego de lenguaje"
+    ],
+    "a": 3,
+    "fb": "En las Investigaciones el significado de una palabra no es el objeto que representa, sino su uso dentro de un juego de lenguaje."
+   },
+   {
+    "q": "¿Qué quiere decir Wittgenstein con que los juegos de lenguaje tienen «parecidos de familia»?",
+    "o": [
+     "Que todos comparten una misma esencia lógica",
+     "Que se asemejan entre sí sin una esencia común",
+     "Que proceden de una lengua original común",
+     "Que solo los entienden los de una misma cultura"
+    ],
+    "a": 1,
+    "fb": "No hay un lenguaje ideal ni una esencia común: hay una pluralidad de usos que se parecen entre sí como los miembros de una familia."
+   },
+   {
+    "q": "¿Qué significa que la filosofía sea una «terapia lingüística»?",
+    "o": [
+     "Que resuelve los problemas con teorías más sólidas",
+     "Que ayuda a curar los trastornos psicológicos de quien habla",
+     "Que disuelve los problemas aclarando cómo usamos las palabras",
+     "Que corrige la gramática para crear un lenguaje perfecto"
+    ],
+    "a": 2,
+    "fb": "Para el segundo Wittgenstein los problemas filosóficos no se resuelven, sino que se disuelven cuando entendemos cómo funcionan los juegos de lenguaje."
+   },
+   {
+    "q": "Según el segundo Wittgenstein, ¿por qué caemos en problemas filosóficos?",
+    "o": [
+     "Porque usamos las palabras fuera de su contexto",
+     "Porque nuestros sentidos nos engañan sobre el mundo",
+     "Porque la razón tiene límites que no puede superar",
+     "Porque la ideología dominante oculta la realidad"
+    ],
+    "a": 0,
+    "fb": "Los problemas surgen cuando el lenguaje «se va de vacaciones»: sacamos las palabras del contexto de uso en el que tienen sentido."
+   },
+   {
+    "q": "Según Txillardegi, ¿qué relación hay entre el pensamiento y el lenguaje?",
+    "o": [
+     "Primero pensamos y luego lo expresamos con palabras",
+     "El lenguaje es una herramienta neutral del pensamiento",
+     "El pensamiento se reduce a la actividad cerebral",
+     "Pensamos porque tenemos lenguaje, cuya estructura organiza la realidad"
+    ],
+    "a": 3,
+    "fb": "Para Txillardegi el lenguaje no se usa «después» de pensar: pensamos porque tenemos lenguaje, y su estructura determina cómo organizamos la realidad."
+   },
+   {
+    "q": "¿Qué cambia entre el primer y el segundo Wittgenstein respecto al lenguaje?",
+    "o": [
+     "Pasa del lenguaje ordinario a un lenguaje lógico ideal",
+     "Pasa del lenguaje como figura al lenguaje como uso",
+     "Pasa de rechazar la metafísica a fundamentarla",
+     "Pasa de la lógica a la hipótesis de Sapir-Whorf"
+    ],
+    "a": 1,
+    "fb": "El Tractatus entiende las proposiciones como figuras de los hechos; las Investigaciones critican esa idea y sitúan el significado en el uso. El cambio va del lenguaje ideal al ordinario, no al revés."
+   },
+   {
+    "q": "¿En qué coinciden el Tractatus y el neopositivismo del Círculo de Viena?",
+    "o": [
+     "En que el significado de una palabra es su uso",
+     "En que cada lengua contiene su propia cosmovisión",
+     "En que la filosofía debe analizar el lenguaje ordinario",
+     "En que la metafísica carece de sentido"
+    ],
+    "a": 3,
+    "fb": "El Tractatus considera la metafísica un sinsentido y el Círculo de Viena la declara carente de significado por no ser verificable ni lógica."
+   },
+   {
+    "q": "¿Qué idea comparten la filosofía analítica y Txillardegi?",
+    "o": [
+     "Que el lenguaje condiciona lo que podemos pensar",
+     "Que la metafísica es un conjunto de sinsentidos",
+     "Que existe un lenguaje lógicamente perfecto",
+     "Que el significado de una palabra es su uso"
+    ],
+    "a": 0,
+    "fb": "El giro lingüístico ve el lenguaje como límite de lo pensable, y Txillardegi sostiene que la estructura de la lengua determina cómo organizamos la realidad."
+   },
+   {
+    "q": "A diferencia del atomismo lógico, ¿qué analiza la última etapa de la filosofía analítica?",
+    "o": [
+     "Un lenguaje formal construido a partir de la lógica",
+     "Solo los enunciados verificables de la ciencia",
+     "El lenguaje ordinario y sus usos en contexto",
+     "Las estructuras inconscientes de cada lengua"
+    ],
+    "a": 2,
+    "fb": "Con el segundo Wittgenstein se abandona la búsqueda de un lenguaje perfecto y se pasa a analizar el lenguaje ordinario y su uso."
+   },
+   {
+    "q": "En el Tractatus, ¿qué distingue una tautología de una proposición metafísica?",
+    "o": [
+     "La tautología describe hechos; la metafísica describe valores",
+     "La tautología muestra la lógica; la metafísica quiere decir lo indecible",
+     "La tautología es un sinsentido total; la metafísica tiene pleno sentido",
+     "La tautología es empírica y verificable; la metafísica es solo lógica"
+    ],
+    "a": 1,
+    "fb": "La tautología es sinnlos: no dice nada del mundo pero muestra su estructura lógica. La metafísica es unsinnig: intenta decir lo que no se puede decir."
+   },
+   {
+    "q": "Frente a la teoría pictórica, ¿qué critican las Investigaciones filosóficas?",
+    "o": [
+     "Que el lenguaje dependa de la cultura de cada pueblo",
+     "Que la ética pueda mostrarse aunque no se diga",
+     "Que las tautologías carezcan de contenido empírico",
+     "Que el lenguaje sea un espejo de los hechos"
+    ],
+    "a": 3,
+    "fb": "En las Investigaciones Wittgenstein critica su obra anterior: el lenguaje no es un espejo de los hechos, sino una caja de herramientas."
+   },
+   {
+    "q": "Dos amigos discuten horas sobre si «el tiempo existe realmente», hasta que notan que cada uno usa «tiempo» en un sentido distinto y el problema se evapora. ¿Qué idea ilustra el caso?",
+    "o": [
+     "La filosofía como terapia que disuelve problemas",
+     "La teoría pictórica del significado",
+     "El criterio de verificación del neopositivismo",
+     "La lengua como columna vertebral de la identidad"
+    ],
+    "a": 0,
+    "fb": "El problema no se resuelve, se disuelve al aclarar cómo se usan las palabras: es la terapia lingüística del segundo Wittgenstein."
+   },
+   {
+    "q": "Un científico solo acepta como significativas las afirmaciones que se pueden comprobar con experimentos o que son verdades lógicas. ¿Con qué corriente encaja?",
+    "o": [
+     "Con el segundo Wittgenstein y sus juegos de lenguaje",
+     "Con la hipótesis de Sapir-Whorf defendida por Txillardegi",
+     "Con el neopositivismo lógico del Círculo de Viena",
+     "Con la filosofía como terapia del lenguaje ordinario"
+    ],
+    "a": 2,
+    "fb": "El neopositivismo lógico solo da sentido a lo verificable empíricamente y a las verdades lógicas."
+   },
+   {
+    "q": "La palabra «¡Agua!» significa cosas distintas si la grita un náufrago, la pide un cliente en un bar o la dice un profesor señalando un dibujo. ¿Qué concepto lo explica mejor?",
+    "o": [
+     "La teoría pictórica: la palabra figura un hecho",
+     "Los juegos de lenguaje: el significado es el uso",
+     "La tautología: una verdad vacía de contenido",
+     "El atomismo lógico: lenguaje paralelo al mundo"
+    ],
+    "a": 1,
+    "fb": "Pedir, avisar o describir son juegos de lenguaje distintos: la misma palabra cambia de significado según su uso en cada contexto."
+   },
+   {
+    "q": "Una lingüista observa que, al perderse una lengua minoritaria, desaparece también una manera propia de clasificar y entender el mundo. ¿Qué autor del tema respaldaría esta idea?",
+    "o": [
+     "Carnap, por su defensa del criterio de verificación",
+     "El primer Wittgenstein, por su teoría pictórica del significado",
+     "Russell, por su búsqueda de un lenguaje perfecto",
+     "Txillardegi, porque cada lengua lleva una cosmovisión"
+    ],
+    "a": 3,
+    "fb": "Para Txillardegi cada lengua lleva una cosmovisión (Weltanschauung); si desaparece, se desmorona una forma propia de estructurar la realidad."
+   },
+   {
+    "q": "Alguien pregunta «¿dónde está el sentido de la vida?» esperando una respuesta como si fuera un dato científico. ¿Qué le respondería el primer Wittgenstein?",
+    "o": [
+     "Que es algo que no se puede decir, solo mostrar",
+     "Que la ciencia lo acabará encontrando algún día",
+     "Que depende del juego de lenguaje de cada grupo",
+     "Que la respuesta está en la cosmovisión de su lengua"
+    ],
+    "a": 0,
+    "fb": "En el Tractatus el sentido de la vida pertenece a lo místico: no puede decirse con proposiciones que representen hechos, pero se muestra."
+   },
+   {
+    "q": "Un estudiante cree que la filosofía debe dar teorías definitivas sobre el alma y Dios. Su profesora le replica que filosofar es aclarar lo que decimos. ¿Qué postura defiende ella?",
+    "o": [
+     "La metafísica tradicional como ciencia primera",
+     "El racionalismo, que busca verdades por la razón",
+     "La filosofía como actividad de clarificación",
+     "La cosmovisión inseparable de cada lengua"
+    ],
+    "a": 2,
+    "fb": "Para el primer Wittgenstein la filosofía no es una doctrina con verdades propias, sino una actividad de clarificación lógica del lenguaje."
+   },
+   {
+    "q": "¿A quién pertenece la frase «de lo que no se puede hablar, hay que callar»?",
+    "o": [
+     "A Rudolf Carnap, del Círculo de Viena",
+     "A Ludwig Wittgenstein, en el Tractatus",
+     "A Bertrand Russell, en su atomismo lógico",
+     "A Txillardegi, en su defensa del euskera"
+    ],
+    "a": 1,
+    "fb": "Es la conclusión del Tractatus logico-philosophicus de Wittgenstein: lo que no puede decirse con sentido (ética, metafísica) debe callarse."
+   },
+   {
+    "q": "¿Quién sostuvo que «Euskara da gure aberria» (el euskera es nuestra patria)?",
+    "o": [
+     "Wittgenstein",
+     "Schlick",
+     "Moore",
+     "Txillardegi"
+    ],
+    "a": 3,
+    "fb": "Txillardegi considera el euskera la «columna vertebral» de la identidad vasca, porque cada lengua lleva una forma propia de estructurar la realidad."
+   },
+   {
+    "q": "¿Qué autor pasó de defender la teoría pictórica a criticarla en una obra publicada después de su muerte?",
+    "o": [
+     "Ludwig Wittgenstein",
+     "Bertrand Russell",
+     "Rudolf Carnap",
+     "Moritz Schlick"
+    ],
+    "a": 0,
+    "fb": "Wittgenstein defendió la teoría pictórica en el Tractatus y la criticó en las Investigaciones filosóficas, publicadas póstumamente."
+   },
+   {
+    "q": "La tesis «el significado de una palabra es su uso» corresponde a...",
+    "o": [
+     "El primer Wittgenstein, en el Tractatus",
+     "El Círculo de Viena, con Schlick y Carnap a la cabeza",
+     "El segundo Wittgenstein, en las Investigaciones",
+     "Russell y Moore, en su programa del atomismo lógico"
+    ],
+    "a": 2,
+    "fb": "Es la tesis central de las Investigaciones filosóficas, donde Wittgenstein sustituye la teoría pictórica por los juegos de lenguaje."
+   },
+   {
+    "q": "¿En qué ámbito y momento nace la filosofía analítica?",
+    "o": [
+     "En la Alemania idealista de comienzos del siglo XIX",
+     "En el mundo anglosajón a principios del siglo XX",
+     "En la Francia posmoderna de finales del siglo XX",
+     "En la Viena ilustrada de finales del siglo XVIII"
+    ],
+    "a": 1,
+    "fb": "La filosofía analítica surge a principios del siglo XX en el ámbito anglosajón, con autores como Russell y Moore."
+   },
+   {
+    "q": "¿Qué influencia intelectual está detrás de la tesis de Txillardegi de que la lengua determina cómo organizamos la realidad?",
+    "o": [
+     "El criterio de verificación del Círculo de Viena",
+     "La teoría pictórica del Tractatus de Wittgenstein",
+     "El atomismo lógico de Russell y Moore",
+     "La hipótesis de Sapir-Whorf"
+    ],
+    "a": 3,
+    "fb": "Txillardegi se inspira en la hipótesis de Sapir-Whorf, según la cual la estructura de cada lengua condiciona la forma de pensar la realidad."
+   },
+   {
+    "q": "¿Qué preocupación de fondo explica que Txillardegi llame al euskera «columna vertebral» de la identidad vasca?",
+    "o": [
+     "Que perder la lengua es perder una forma de ver el mundo",
+     "Que el euskera es el único idioma lógicamente perfecto",
+     "Que las lenguas son meras herramientas intercambiables",
+     "Que la metafísica vasca debe verificarse empíricamente"
+    ],
+    "a": 0,
+    "fb": "Para Txillardegi el euskera no es solo patrimonio cultural: si desaparece, se desmorona la forma propia de estructurar la realidad."
+   },
+   {
+    "q": "¿Por qué dice el segundo Wittgenstein que hablar es una «forma de vida»?",
+    "o": [
+     "Porque el lenguaje refleja la estructura biológica humana",
+     "Porque cada lengua expresa la identidad de un pueblo",
+     "Porque hablar es una actividad reglada según el contexto",
+     "Porque la vida solo tiene sentido si se puede expresar"
+    ],
+    "a": 2,
+    "fb": "En las Investigaciones hablar es una actividad, una forma de vida que sigue reglas distintas según el contexto (dar órdenes, rezar, contar un chiste...)."
+   }
+  ]
+ },
+ "hf-c25-banco": {
+  "name": "T25 · El existencialismo: Heidegger, Sartre y la filosofía española (banco ampliado)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "Al preguntarse por el ser, ¿qué distinción establece Heidegger?",
+    "o": [
+     "Entre el ser y los entes, que son las cosas concretas.",
+     "Entre la existencia y la esencia, que viene después.",
+     "Entre el mundo sensible y el mundo de las Ideas.",
+     "Entre el fenómeno que conocemos y el noúmeno."
+    ],
+    "a": 0,
+    "fb": "Heidegger distingue el ser de los entes (las cosas concretas) y, para interpretar el ser, se fija en el ser humano."
+   },
+   {
+    "q": "¿Qué quiere decir Heidegger al afirmar que el Dasein está «arrojado» a la existencia?",
+    "o": [
+     "Que ha elegido libremente nacer en su época.",
+     "Que su alma cayó a un cuerpo desde otro mundo.",
+     "Que Dios lo creó con una esencia ya definida.",
+     "Que existe sin haberlo pedido ni elegido."
+    ],
+    "a": 3,
+    "fb": "El Dasein es un ser-en-el-mundo arrojado a la existencia sin haberlo pedido: no elige existir ni el mundo en que existe."
+   },
+   {
+    "q": "En Heidegger, ¿qué significa que el ser humano es un «ser-para-la-muerte»?",
+    "o": [
+     "Que debe vivir pensando en la salvación del alma.",
+     "Que conviene no pensar en la muerte para ser feliz.",
+     "Que aceptar su finitud le permite ser auténtico.",
+     "Que la muerte es una liberación que hay que buscar."
+    ],
+    "a": 2,
+    "fb": "Ser-para-la-muerte significa asumir la propia finitud; solo quien la acepta puede vivir auténticamente."
+   },
+   {
+    "q": "Para Heidegger, ¿en qué consiste la existencia inauténtica?",
+    "o": [
+     "En elegir con conciencia y asumir sus efectos.",
+     "En hacer lo que «se» hace, como la masa.",
+     "En aceptar la muerte y la propia libertad.",
+     "En luchar entre la razón y el corazón."
+    ],
+    "a": 1,
+    "fb": "Quien no acepta su finitud vive en la inautenticidad: hace lo que «se» hace y se diluye en la masa."
+   },
+   {
+    "q": "¿Qué entiende Sartre por «mala fe»?",
+    "o": [
+     "La mentira que decimos a otros para sacar provecho.",
+     "La pérdida de la fe religiosa tras las guerras.",
+     "La promesa que se hace sin intención de cumplirla.",
+     "El autoengaño con que eludimos la libertad y la responsabilidad."
+    ],
+    "a": 3,
+    "fb": "La mala fe es la huida de la angustia mediante el autoengaño («yo soy así», «no tuve opción») para no asumir la libertad."
+   },
+   {
+    "q": "¿Qué relación establece Sartre entre su ateísmo y la libertad humana?",
+    "o": [
+     "Dios concede la libertad para que el hombre se salve.",
+     "Sin un Dios que dicte normas, cada uno se hace.",
+     "Sin Dios, todo queda sometido a las leyes naturales.",
+     "El ateísmo libera al hombre de toda responsabilidad."
+    ],
+    "a": 1,
+    "fb": "El humanismo ateo de Sartre parte de que no hay un Dios que dicte normas; por eso somos totalmente responsables de lo que somos."
+   },
+   {
+    "q": "Según el existencialismo, ¿qué pone de manifiesto la angustia?",
+    "o": [
+     "El miedo ante un peligro concreto y exterior a nosotros.",
+     "La falta de fundamentos absolutos y el peso de elegir.",
+     "La culpa por haber desobedecido una ley divina.",
+     "La represión de deseos inconscientes de la infancia."
+    ],
+    "a": 1,
+    "fb": "La angustia evidencia que no hay fundamentos absolutos y que somos responsables de nuestras elecciones."
+   },
+   {
+    "q": "¿Qué quiere expresar Unamuno con «Amo, luego soy»?",
+    "o": [
+     "Que el amor a Dios es la prueba de que Dios existe.",
+     "Que la razón demuestra que el alma es inmortal.",
+     "Que el sentir define al hombre más que el pensar.",
+     "Que solo existe aquello que alguien percibe."
+    ],
+    "a": 2,
+    "fb": "Unamuno opone su fórmula al «pienso, luego existo»: lo que define al hombre de carne y hueso es el sentir, no el razonar abstracto."
+   },
+   {
+    "q": "¿Por qué propone Ortega una «razón vital»?",
+    "o": [
+     "Porque la razón debe someterse por completo a la fe.",
+     "Porque solo la experiencia sensible da conocimiento.",
+     "Porque la vida carece de sentido y no puede pensarse.",
+     "Porque la razón pura no basta para entender la vida concreta."
+    ],
+    "a": 3,
+    "fb": "Ortega considera insuficiente la razón pura y propone una razón ligada a la vida concreta."
+   },
+   {
+    "q": "¿Qué sostiene el perspectivismo de Ortega?",
+    "o": [
+     "Que la verdad suma todas las perspectivas.",
+     "Que cada perspectiva basta por sí sola para la verdad.",
+     "Que la ciencia ofrece la perspectiva privilegiada.",
+     "Que la razón pura alcanza la verdad absoluta."
+    ],
+    "a": 0,
+    "fb": "Para Ortega nadie tiene la verdad absoluta: la verdad resulta de sumar las perspectivas, que son parciales."
+   },
+   {
+    "q": "¿Qué reprocha María Zambrano a la razón occidental?",
+    "o": [
+     "Haberse alejado de la experiencia y del método científico.",
+     "Haber ignorado las entrañas: sueños, sentimientos y esperanzas.",
+     "Haber sometido la filosofía a la autoridad de la teología.",
+     "Haber renunciado a buscar verdades universales y necesarias."
+    ],
+    "a": 1,
+    "fb": "Zambrano critica que la razón occidental ha olvidado las «entrañas» humanas; por eso propone la razón poética."
+   },
+   {
+    "q": "¿En qué sentido se considera pesimista al existencialismo?",
+    "o": [
+     "Sostiene que la vida no tiene un fin prefijado.",
+     "Afirma que la historia camina hacia su decadencia.",
+     "Niega que el ser humano pueda conocer algo cierto.",
+     "Considera que el hombre es malo por naturaleza."
+    ],
+    "a": 0,
+    "fb": "El pesimismo existencialista consiste en que la vida carece de un propósito dado de antemano (la «náusea» de Sartre, la «nada» de Heidegger)."
+   },
+   {
+    "q": "¿Qué implica que el existencialismo se centre en el «hombre de carne y hueso»?",
+    "o": [
+     "Que estudia el cuerpo humano con métodos científicos.",
+     "Que reduce el ser humano a su dimensión material.",
+     "Que se ocupa del individuo concreto y real.",
+     "Que se ocupa de la humanidad como especie biológica."
+    ],
+    "a": 2,
+    "fb": "La expresión de Unamuno indica que el existencialismo se ocupa del individuo concreto que vive, sufre y elige, no de conceptos abstractos."
+   },
+   {
+    "q": "¿Cuál NO es una característica del existencialismo?",
+    "o": [
+     "La confianza en una naturaleza humana fija.",
+     "La libertad radical unida a la responsabilidad.",
+     "La atención al individuo concreto y singular.",
+     "La concepción del ser humano como proyecto."
+    ],
+    "a": 0,
+    "fb": "El existencialismo renuncia a la filosofía esencialista: no nacemos con una esencia fija, sino que nos construimos con nuestros actos."
+   },
+   {
+    "q": "¿Qué tienen en común Heidegger y Sartre respecto a la vida auténtica?",
+    "o": [
+     "Ambos la hacen depender de la fe en Dios.",
+     "Ambos la identifican con seguir a la mayoría.",
+     "Ambos la ligan a asumir conscientemente la propia libertad.",
+     "Ambos la basan en una razón pura y universal."
+    ],
+    "a": 2,
+    "fb": "Para Heidegger la autenticidad exige aceptar la muerte y asumir la libertad; para Sartre, elegir conscientemente y asumir las consecuencias."
+   },
+   {
+    "q": "¿Qué diferencia a Unamuno de Sartre dentro del existencialismo?",
+    "o": [
+     "Unamuno niega la libertad humana; Sartre la afirma.",
+     "Unamuno es un existencialista cristiano; Sartre, ateo.",
+     "Unamuno es un pensador racionalista; Sartre, empirista.",
+     "Unamuno parte del Dasein; Sartre, de la agonía."
+    ],
+    "a": 1,
+    "fb": "Unamuno representa el existencialismo cristiano, mientras que Sartre defiende un humanismo ateo."
+   },
+   {
+    "q": "¿Qué comparten la razón vital de Ortega y la razón poética de Zambrano?",
+    "o": [
+     "Defienden volver a la razón pura de los ilustrados.",
+     "Critican una razón abstracta que se ha alejado de la vida.",
+     "Rechazan toda razón en favor de la fe religiosa.",
+     "Reducen la verdad a lo que la ciencia verifica."
+    ],
+    "a": 1,
+    "fb": "Ortega juzga insuficiente la razón pura y Zambrano denuncia que la razón occidental ignora las entrañas: ambos buscan una razón más cercana a la vida."
+   },
+   {
+    "q": "¿Qué semejanza hay entre la inautenticidad de Heidegger y la mala fe de Sartre?",
+    "o": [
+     "Ambas son formas de huir de la propia libertad y no asumirla.",
+     "Ambas consisten en aceptar la propia muerte.",
+     "Ambas describen la lucha entre razón y fe.",
+     "Ambas son pasos necesarios hacia la autenticidad."
+    ],
+    "a": 0,
+    "fb": "Seguir lo que «se» hace (Heidegger) y autoengañarse (Sartre) son dos formas de no asumir la libertad propia."
+   },
+   {
+    "q": "¿Qué distingue la propuesta de María Zambrano de la de Heidegger?",
+    "o": [
+     "Zambrano parte de la muerte; Heidegger, de la esperanza.",
+     "Zambrano es cristiana; Heidegger defiende un humanismo ateo.",
+     "Zambrano defiende la razón pura; Heidegger, la razón vital.",
+     "Zambrano une filosofía y poesía; Heidegger interroga el ser."
+    ],
+    "a": 3,
+    "fb": "La razón poética de Zambrano une filosofía y poesía; Heidegger, en Ser y tiempo, se pregunta por el ser a través del Dasein."
+   },
+   {
+    "q": "¿En qué se diferencian Heidegger y Unamuno en su actitud ante la muerte?",
+    "o": [
+     "Heidegger anhela la inmortalidad; Unamuno acepta la finitud.",
+     "Heidegger la niega como problema; Unamuno la demuestra racionalmente.",
+     "Heidegger pide aceptar la finitud; Unamuno anhela la inmortalidad.",
+     "Ambos la consideran un asunto ajeno a la reflexión filosófica."
+    ],
+    "a": 2,
+    "fb": "Para Heidegger vivir auténticamente es aceptar la finitud; para Unamuno el corazón anhela la inmortalidad aunque la razón la niegue."
+   },
+   {
+    "q": "Una persona se viste, opina y vota según lo que hace todo el mundo, sin plantearse nada. ¿Cómo lo describiría Heidegger?",
+    "o": [
+     "Como vida inauténtica, dominada por el «se».",
+     "Como ser-para-la-muerte asumido con plenitud.",
+     "Como razón vital adaptada a su circunstancia.",
+     "Como agonía entre la fe y la razón."
+    ],
+    "a": 0,
+    "fb": "Hacer lo que «se» hace, siguiendo a la masa, es para Heidegger la forma de vida inauténtica."
+   },
+   {
+    "q": "Tras un diagnóstico grave, un hombre decide dejar de aplazar lo importante y vivir según sus propias decisiones. ¿Qué concepto lo explica mejor?",
+    "o": [
+     "La mala fe como autoengaño de Sartre.",
+     "La razón poética de María Zambrano.",
+     "El perspectivismo de Ortega y Gasset.",
+     "El ser-para-la-muerte de Heidegger."
+    ],
+    "a": 3,
+    "fb": "Aceptar la propia finitud y, a partir de ahí, asumir la libertad es lo que Heidegger llama vivir como ser-para-la-muerte auténtico."
+   },
+   {
+    "q": "Dos testigos describen un mismo accidente desde esquinas distintas y ninguno lo ve todo. ¿Qué idea de Ortega ilustra el caso?",
+    "o": [
+     "El relativismo: todas las versiones son igual de falsas.",
+     "La razón pura: un observador neutral lo sabría todo.",
+     "El perspectivismo: la verdad suma los puntos de vista.",
+     "La agonía: cada testigo duda entre razón y corazón."
+    ],
+    "a": 2,
+    "fb": "Según el perspectivismo, cada testigo tiene una perspectiva parcial y la verdad es la suma de todas ellas."
+   },
+   {
+    "q": "Una estudiante no se decide entre dos carreras y deja pasar el plazo, convencida de que así no ha elegido nada. ¿Qué le respondería Sartre?",
+    "o": [
+     "Que ha actuado bien al dejar que decida el destino.",
+     "Que no elegir ya es elegir, y de eso responde.",
+     "Que su esencia ya había fijado cuál era su camino.",
+     "Que su circunstancia la eximía de toda decisión."
+    ],
+    "a": 1,
+    "fb": "Para Sartre siempre hay opción: no elegir es ya una elección, y somos responsables de ella."
+   },
+   {
+    "q": "Un creyente admite que la razón le dice que no hay vida tras la muerte, pero su corazón se niega a aceptarlo. ¿Con qué concepto encaja?",
+    "o": [
+     "La mala fe de Sartre.",
+     "La razón vital de Ortega.",
+     "La inautenticidad de Heidegger.",
+     "La agonía de Unamuno."
+    ],
+    "a": 3,
+    "fb": "Unamuno llama agonía a la lucha entre la razón, que niega la inmortalidad, y el corazón, que la anhela."
+   },
+   {
+    "q": "Un escritor defiende que filosofía y poesía deben unirse para captar los sueños y esperanzas que la lógica deja fuera. ¿Qué propuesta respalda?",
+    "o": [
+     "La razón poética de Zambrano.",
+     "La razón vital de Ortega.",
+     "El humanismo ateo de Sartre.",
+     "La pregunta de Heidegger por el ser."
+    ],
+    "a": 0,
+    "fb": "Zambrano propone una razón poética que une filosofía y poesía para atender a las entrañas del ser humano."
+   },
+   {
+    "q": "Un soldado se justifica diciendo que solo cumplía órdenes y que no tuvo opción. ¿Cómo lo valoraría Sartre?",
+    "o": [
+     "Como obediencia legítima a una autoridad superior.",
+     "Como inautenticidad, porque no aceptó su muerte.",
+     "Como fruto inevitable de su circunstancia histórica.",
+     "Como mala fe: siempre hay opción y debe responder de sus actos."
+    ],
+    "a": 3,
+    "fb": "Decir «no tuve opción» es para Sartre un caso típico de mala fe: siempre podemos elegir y somos responsables."
+   },
+   {
+    "q": "Una joven siente vértigo al comprender que nadie, ni siquiera sus padres, puede decidir por ella qué vida llevar. ¿Qué vivencia describe el existencialismo?",
+    "o": [
+     "La agonía entre la razón y el anhelo de inmortalidad.",
+     "La mala fe de quien se engaña sobre lo que es.",
+     "La inautenticidad de quien se deja llevar por otros.",
+     "La angustia ante la libertad y la propia elección."
+    ],
+    "a": 3,
+    "fb": "La angustia surge al descubrir que no hay fundamentos absolutos y que la responsabilidad de elegir es solo nuestra."
+   },
+   {
+    "q": "¿A quién pertenece la frase «El hombre está condenado a ser libre»?",
+    "o": [
+     "A Jean-Paul Sartre.",
+     "A Martin Heidegger.",
+     "A Miguel de Unamuno.",
+     "A Ortega y Gasset."
+    ],
+    "a": 0,
+    "fb": "La frase es de Sartre: no elegimos ser libres y no podemos dejar de serlo, lo que nos hace plenamente responsables."
+   },
+   {
+    "q": "¿Qué autor se pregunta por el ser en Ser y tiempo (1927)?",
+    "o": [
+     "Jean-Paul Sartre.",
+     "Martin Heidegger.",
+     "José Ortega y Gasset.",
+     "Miguel de Unamuno."
+    ],
+    "a": 1,
+    "fb": "En Ser y tiempo Heidegger plantea la pregunta por el ser y la aborda a través del Dasein."
+   },
+   {
+    "q": "¿Qué pensador habló del «hombre de carne y hueso» y describió al ser humano en Del sentimiento trágico de la vida?",
+    "o": [
+     "José Ortega y Gasset.",
+     "María Zambrano.",
+     "Miguel de Unamuno.",
+     "Jean-Paul Sartre."
+    ],
+    "a": 2,
+    "fb": "Unamuno, representante del existencialismo cristiano, reivindica al hombre de carne y hueso en Del sentimiento trágico de la vida."
+   },
+   {
+    "q": "¿Qué filósofo utilizó el término «náusea» para expresar que la vida carece de un propósito prefijado?",
+    "o": [
+     "Heidegger.",
+     "Unamuno.",
+     "Sartre.",
+     "Ortega."
+    ],
+    "a": 2,
+    "fb": "La «náusea» es el término de Sartre; Heidegger, en cambio, habló de la «nada»."
+   },
+   {
+    "q": "¿Qué acontecimientos del siglo XX quebraron la confianza que precedió al existencialismo?",
+    "o": [
+     "La crisis del petróleo y el fin de la Guerra Fría.",
+     "Los campos de exterminio y las bombas atómicas.",
+     "La Revolución Industrial y el éxodo del campo.",
+     "La caída del Muro de Berlín y la globalización."
+    ],
+    "a": 1,
+    "fb": "El existencialismo surge tras las guerras mundiales: el totalitarismo, los campos de exterminio y las bombas atómicas quebraron la confianza anterior."
+   },
+   {
+    "q": "¿Qué relación guarda el existencialismo con los ideales de la Ilustración?",
+    "o": [
+     "Nace cuando se quiebra la confianza en ellos.",
+     "Los culmina, al confiar en el progreso racional.",
+     "Los ignora, pues solo se ocupa de la religión.",
+     "Los recupera tras superar el dolor de la guerra."
+    ],
+    "a": 0,
+    "fb": "Las atrocidades de las guerras mundiales quebraron la confianza en los ideales ilustrados, y de esa crisis nace el existencialismo."
+   },
+   {
+    "q": "¿Por qué en las décadas de 1940 y 1950 se vuelven urgentes preguntas como qué sentido tiene la vida?",
+    "o": [
+     "Porque la ciencia había resuelto los problemas materiales.",
+     "Porque la Iglesia recuperó el control de la enseñanza.",
+     "Porque el horror vivido quebró las viejas certezas.",
+     "Porque el positivismo las había declarado ya resueltas."
+    ],
+    "a": 2,
+    "fb": "El dolor del totalitarismo y de la guerra hizo que las preguntas clásicas sobre el sentido, la libertad y la autenticidad se volvieran urgentes."
+   }
+  ]
+ },
+ "hf-c26-banco": {
+  "name": "T26 · El feminismo contemporáneo: Simone de Beauvoir (banco ampliado)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "Beauvoir parte del existencialismo ateo. ¿Qué tesis de ese marco aplica a la condición de la mujer?",
+    "o": [
+     "Que la esencia de cada sexo la fija Dios antes de la existencia concreta",
+     "Que la conducta humana se explica por impulsos inconscientes de tipo sexual",
+     "Que la existencia precede a la esencia: no hay naturaleza femenina fija",
+     "Que la razón pura impone categorías universales iguales para ambos sexos"
+    ],
+    "a": 2,
+    "fb": "Para el existencialismo, la existencia precede a la esencia; Beauvoir concluye que tampoco hay una «esencia femenina» previa."
+   },
+   {
+    "q": "¿Qué novedad supone El segundo sexo (1949) según la teoría?",
+    "o": [
+     "Analizar filosóficamente la maternidad y el hogar como opresión",
+     "Reclamar por primera vez el derecho al voto de las mujeres en toda Europa",
+     "Demostrar que la maternidad es la vocación natural de toda mujer",
+     "Defender que el trabajo doméstico es la tarea más creativa del ser humano"
+    ],
+    "a": 0,
+    "fb": "Beauvoir es la primera en analizar la maternidad, el matrimonio y las tareas domésticas como herramientas de opresión, no como «naturaleza»."
+   },
+   {
+    "q": "¿Qué papel concede Beauvoir a la biología en la desigualdad entre los sexos?",
+    "o": [
+     "Uno decisivo, pues el cuerpo determina por completo el carácter femenino",
+     "Uno parcial, aunque la educación puede suavizar sus efectos naturales",
+     "Ninguno, porque el cuerpo es solo una ilusión de los sentidos engañosos",
+     "Ninguno que la justifique: es la civilización la que construye a la «mujer»"
+    ],
+    "a": 3,
+    "fb": "Para Beauvoir la biología no justifica la desigualdad: la identidad femenina es un producto de la cultura y la sociedad."
+   },
+   {
+    "q": "¿Por qué la mujer, a diferencia del esclavo de Hegel, no se ha rebelado según Beauvoir?",
+    "o": [
+     "Porque su carácter es más pacífico y rehúye por naturaleza el conflicto",
+     "Porque su trabajo doméstico es inmanente y no deja huella en la historia",
+     "Porque ya tenía reconocidos los mismos derechos legales que el hombre",
+     "Porque su trabajo transforma la materia, pero el amo se queda el producto"
+    ],
+    "a": 1,
+    "fb": "El esclavo se libera por un trabajo que transforma el mundo; el trabajo doméstico es inmanente: se repite y no deja rastro."
+   },
+   {
+    "q": "Según la teoría, ¿cómo se ha definido históricamente a la mujer?",
+    "o": [
+     "Como un sujeto autónomo con una identidad propia y previa",
+     "Siempre en relación al hombre: como hija, esposa o madre",
+     "Como igual al hombre en casa, aunque inferior en lo público",
+     "Como un ser más racional que el hombre, pero menos sensible"
+    ],
+    "a": 1,
+    "fb": "La mujer ha sido «lo otro»: definida por referencia al hombre (hija, esposa, madre), sin identidad propia."
+   },
+   {
+    "q": "¿Qué es la mala fe según Beauvoir?",
+    "o": [
+     "Mentir a los demás de forma deliberada para sacar un beneficio",
+     "Desconfiar de toda verdad universal por ser un juego de poder",
+     "Obrar por interés y no por deber, como denunciaba la ética kantiana",
+     "Eludir la propia libertad con excusas, porque asumirla resulta angustiante"
+    ],
+    "a": 3,
+    "fb": "La libertad angustia, y la mala fe consiste en autoengañarse para no afrontarla, escudándose en excusas."
+   },
+   {
+    "q": "¿En qué consiste la complicidad femenina de la que habla Beauvoir?",
+    "o": [
+     "En aceptar el papel de objeto protegido para evitar así la propia responsabilidad",
+     "En unirse a otras mujeres para exigir juntas derechos políticos y legales",
+     "En trabajar fuera de casa sin dejar de asumir las tareas domésticas",
+     "En rebelarse contra el hombre para ocupar ella el lugar del amo"
+    ],
+    "a": 0,
+    "fb": "La complicidad es la forma femenina de mala fe: aceptar el rol de «objeto protegido» para no cargar con la propia libertad."
+   },
+   {
+    "q": "¿Qué forma de mala fe atribuye Beauvoir al hombre?",
+    "o": [
+     "Renunciar a su propia libertad para quedar bajo la tutela de la mujer",
+     "Reconocer a la mujer como libre, pero solo dentro del hogar",
+     "Presentar su privilegio histórico como si fuera algo «natural»",
+     "Negar la libertad humana en nombre del determinismo científico"
+    ],
+    "a": 2,
+    "fb": "El hombre se autoengaña convirtiendo su privilegio en «naturaleza», y así no asume que es una situación construida."
+   },
+   {
+    "q": "¿Cómo se supera la opresión de la mujer según Beauvoir?",
+    "o": [
+     "Invirtiendo la relación para que la mujer pase a ser el amo",
+     "Separando del todo la vida de hombres y mujeres en ámbitos propios",
+     "Esperando a que la evolución biológica iguale sus capacidades",
+     "Destruyendo la dialéctica de la dominación entre los sexos"
+    ],
+    "a": 3,
+    "fb": "La opresión no se resuelve cambiando un amo por otro, sino destruyendo la dialéctica de la dominación."
+   },
+   {
+    "q": "¿Qué significa la reciprocidad en Beauvoir?",
+    "o": [
+     "Que cada sexo cumpla sin interferir las tareas de su naturaleza",
+     "Que la mujer pague con obediencia la protección que recibe",
+     "Que hombre y mujer se reconozcan como dos libertades",
+     "Que ambos renuncien a su libertad para librarse de la angustia"
+    ],
+    "a": 2,
+    "fb": "La reciprocidad es reconocerse mutuamente como sujetos libres: dos libertades que se encuentran."
+   },
+   {
+    "q": "¿Por qué afirma Beauvoir que la liberación de la mujer es también la del hombre?",
+    "o": [
+     "Porque él también queda atrapado en la dominación y la mala fe",
+     "Porque él podría dejar de trabajar y vivir tranquilo del sueldo de ella",
+     "Porque el hombre es por naturaleza el guía de toda liberación",
+     "Porque ella, una vez libre, asumiría en exclusiva los cuidados"
+    ],
+    "a": 0,
+    "fb": "La dominación es un círculo vicioso de mala fe para ambos; romperla libera a los dos, que pasan a reconocerse como libres."
+   },
+   {
+    "q": "¿Cuál es la meta última del proyecto emancipador de Beauvoir?",
+    "o": [
+     "Que la mujer adopte los valores y conductas propios del varón",
+     "Que la mujer llegue a ser un ser humano pleno, no una copia del hombre",
+     "Que la mujer recupere una esencia femenina natural ya perdida",
+     "Que la mujer consiga el voto sin necesidad de cambiar la vida privada"
+    ],
+    "a": 1,
+    "fb": "Según la teoría, la meta no es convertir a la mujer en hombre, sino permitir que sea un ser humano pleno."
+   },
+   {
+    "q": "¿Qué actividades pone Beauvoir como ejemplo de trascendencia?",
+    "o": [
+     "Cazar, construir o filosofar",
+     "Limpiar, cocinar, lavar o planchar",
+     "Rezar, meditar o contemplar",
+     "Obedecer, servir o esperar"
+    ],
+    "a": 0,
+    "fb": "La trascendencia es proyectarse y crear algo que deja huella, como cazar, construir o filosofar, actividades reservadas al hombre."
+   },
+   {
+    "q": "¿Qué medida NO forma parte del proyecto de emancipación que propone Beauvoir?",
+    "o": [
+     "La independencia económica de la mujer mediante su propio trabajo",
+     "La autonomía reproductiva, con control de la natalidad",
+     "La redistribución de los cuidados entre hombres y mujeres",
+     "Una educación distinta que prepare a cada sexo para su papel"
+    ],
+    "a": 3,
+    "fb": "Beauvoir propone educación en igualdad, no una educación diferenciada que reproduzca los roles tradicionales."
+   },
+   {
+    "q": "¿Qué toma Beauvoir de la dialéctica del amo y el esclavo de Hegel?",
+    "o": [
+     "Que la historia avanza por la lucha de clases por la producción",
+     "Que el amo y el esclavo son figuras naturales e inmutables",
+     "Que la propia identidad se construye mediante el reconocimiento del otro",
+     "Que la conciencia es un simple reflejo de la biología del individuo"
+    ],
+    "a": 2,
+    "fb": "De Hegel toma la idea de que la identidad se forja en el reconocimiento del otro, y la aplica a la relación entre sexos."
+   },
+   {
+    "q": "¿En qué se diferencia la segunda ola del feminismo de la primera?",
+    "o": [
+     "Abandona la crítica social y se centra en conseguir el derecho al voto",
+     "No busca solo derechos legales, sino criticar toda la civilización",
+     "Defiende que la desigualdad tiene una base biológica que hay que respetar",
+     "Rechaza el existencialismo y adopta el método del positivismo científico"
+    ],
+    "a": 1,
+    "fb": "Las sufragistas de la primera ola pedían derechos legales; la segunda ola hace una crítica estructural e integral a la civilización."
+   },
+   {
+    "q": "¿Qué añade Beauvoir al planteamiento existencialista general que comparte con Sartre?",
+    "o": [
+     "Que en todo ser humano la existencia precede a la esencia",
+     "Que el ser humano está condenado a ser libre y a elegir",
+     "Que la autodeterminación se ha negado históricamente a las mujeres",
+     "Que Dios no existe y el ser humano carece de naturaleza dada"
+    ],
+    "a": 2,
+    "fb": "Las otras tres tesis son comunes al existencialismo ateo; lo propio de Beauvoir es mostrar que esa autodeterminación se ha negado a las mujeres."
+   },
+   {
+    "q": "Según Beauvoir, ¿cómo se han repartido históricamente inmanencia y trascendencia?",
+    "o": [
+     "La inmanencia, a la mujer; la trascendencia, al hombre",
+     "La inmanencia, al hombre, que trabaja fuera; la trascendencia, a la mujer",
+     "Ambas por igual, aunque con distinto prestigio social",
+     "La trascendencia, a la naturaleza; la inmanencia, a la cultura"
+    ],
+    "a": 0,
+    "fb": "La mujer quedó relegada a tareas repetitivas que no dejan rastro (inmanencia), mientras el hombre creaba y se proyectaba (trascendencia)."
+   },
+   {
+    "q": "En la relación histórica entre los sexos que describe Beauvoir, ¿qué lugar ocupa cada uno?",
+    "o": [
+     "La mujer es el Sujeto absoluto y el hombre queda como lo otro",
+     "Ambos son sujetos iguales que se reconocen mutuamente como seres libres",
+     "Ambos son objetos definidos por su naturaleza biológica común",
+     "El hombre es el Sujeto, lo esencial; la mujer, el Objeto, lo otro"
+    ],
+    "a": 3,
+    "fb": "Históricamente el hombre se ha definido como Sujeto y la mujer como Objeto; el reconocimiento mutuo es la meta, no la historia real."
+   },
+   {
+    "q": "¿Qué tienen en común, según Beauvoir, la mala fe de la mujer y la del hombre?",
+    "o": [
+     "Ambos actúan siempre de acuerdo con su verdadera naturaleza biológica",
+     "Ambos se autoengañan para no tener que afrontar la angustia de la libertad",
+     "Ambos buscan con lucidez la reciprocidad y la libertad del otro",
+     "Ambos obedecen a un deber moral universal dictado por la razón"
+    ],
+    "a": 1,
+    "fb": "Los dos sexos eluden la libertad: ella con la complicidad, él naturalizando su privilegio; de ahí el círculo de reproches mutuos."
+   },
+   {
+    "q": "Laura deja su carrera porque «es más cómodo que otro decida por mí», pero culpa a su marido de su insatisfacción. ¿Qué concepto de Beauvoir la describe mejor?",
+    "o": [
+     "La trascendencia, pues se proyecta al futuro",
+     "La reciprocidad entre dos libertades",
+     "La independencia económica femenina",
+     "La complicidad, una forma de mala fe"
+    ],
+    "a": 3,
+    "fb": "Aceptar el papel de objeto protegido para evitar la responsabilidad es complicidad, la mala fe femenina según Beauvoir."
+   },
+   {
+    "q": "Una pareja reparte a medias cuidados y tareas, y los dos mantienen su trabajo y sus proyectos personales. ¿Qué ideal de Beauvoir encarna?",
+    "o": [
+     "La reciprocidad entre dos libertades",
+     "La complicidad del objeto protegido",
+     "La inmanencia de las tareas repetidas",
+     "La alteridad de quien se define por otro"
+    ],
+    "a": 0,
+    "fb": "Se reconocen como dos sujetos libres, sin dominación: eso es la reciprocidad."
+   },
+   {
+    "q": "Un anuncio muestra a niñas cuidando muñecas «porque les sale de forma natural». ¿Qué objetaría Beauvoir?",
+    "o": [
+     "Que las niñas deberían jugar solo con los juguetes de los niños",
+     "Que el instinto de cuidado es innato y por eso no hace falta anunciarlo",
+     "Que ese papel se aprende en la cultura y no lo dicta la biología femenina",
+     "Que el juego no influye en la formación de la identidad adulta"
+    ],
+    "a": 2,
+    "fb": "Para Beauvoir la identidad femenina la construye la sociedad; presentarla como «natural» oculta esa construcción."
+   },
+   {
+    "q": "Marta pasa el día limpiando, cocinando y ordenando; al día siguiente todo vuelve a empezar y siente que su vida no avanza. ¿Qué concepto lo explica?",
+    "o": [
+     "La trascendencia de un proyecto propio",
+     "La reciprocidad de dos sujetos libres",
+     "La inmanencia de un trabajo repetitivo",
+     "La crítica estructural de la segunda ola"
+    ],
+    "a": 2,
+    "fb": "La inmanencia es una existencia pasiva y repetitiva: limpias un suelo y mañana está sucio, sin dejar huella."
+   },
+   {
+    "q": "Un hombre dice: «Yo no mando en casa porque quiera; es que los hombres somos así». ¿Cómo lo interpretaría Beauvoir?",
+    "o": [
+     "Como reciprocidad: reconoce a su pareja como sujeto libre",
+     "Como mala fe: presenta su privilegio como naturaleza",
+     "Como trascendencia: se proyecta hacia el futuro",
+     "Como complicidad: acepta ser un objeto protegido"
+    ],
+    "a": 1,
+    "fb": "Convertir el privilegio en «naturaleza» para no asumirlo como elección es la mala fe masculina."
+   },
+   {
+    "q": "Un gobierno aprueba permisos iguales e intransferibles para padres y madres, y más plazas de escuela infantil. ¿Con qué propuesta de Beauvoir encaja?",
+    "o": [
+     "Con la redistribución de los cuidados",
+     "Con la vuelta de la mujer al hogar",
+     "Con la conquista del voto femenino",
+     "Con invertir la dominación entre sexos"
+    ],
+    "a": 0,
+    "fb": "Repartir los cuidados entre ambos sexos es una de las medidas del camino hacia la emancipación que propone Beauvoir."
+   },
+   {
+    "q": "Una joven se presenta siempre como «la novia de», «la hija de» o «la mujer de» alguien. ¿Qué concepto de Beauvoir lo ilustra?",
+    "o": [
+     "La trascendencia",
+     "La reciprocidad",
+     "La autonomía",
+     "La alteridad"
+    ],
+    "a": 3,
+    "fb": "La alteridad es la condición de quien se define por referencia a otro, como la mujer respecto al hombre."
+   },
+   {
+    "q": "¿A qué autora y obra corresponde la frase «No se nace mujer: se llega a serlo»?",
+    "o": [
+     "A Mary Wollstonecraft, en Vindicación de los derechos",
+     "A Simone de Beauvoir, en El segundo sexo",
+     "A Olympe de Gouges, en su Declaración",
+     "A Hannah Arendt, en La condición humana"
+    ],
+    "a": 1,
+    "fb": "Es la frase central de El segundo sexo (1949), de Simone de Beauvoir."
+   },
+   {
+    "q": "¿Quién sostiene que la identidad femenina es un producto de la cultura y no de la biología?",
+    "o": [
+     "Simone de Beauvoir",
+     "Jean-Jacques Rousseau",
+     "Friedrich Hegel",
+     "Friedrich Nietzsche"
+    ],
+    "a": 0,
+    "fb": "Es la tesis central de Beauvoir en El segundo sexo: la civilización construye a la «mujer»."
+   },
+   {
+    "q": "¿De quién es la dialéctica del amo y el esclavo que Beauvoir aplica a la relación entre sexos?",
+    "o": [
+     "De Marx",
+     "De Nietzsche",
+     "De Sartre",
+     "De Hegel"
+    ],
+    "a": 3,
+    "fb": "Beauvoir aplica la dialéctica hegeliana del amo y el esclavo: la identidad se construye por el reconocimiento del otro."
+   },
+   {
+    "q": "«Querer ser libre es también querer libres a los demás.» ¿Qué idea de Beauvoir resume esta frase?",
+    "o": [
+     "La complicidad femenina",
+     "La inmanencia",
+     "La reciprocidad",
+     "La alteridad"
+    ],
+    "a": 2,
+    "fb": "La frase expresa que la libertad propia exige reconocer la ajena: dos libertades que se encuentran, es decir, reciprocidad."
+   },
+   {
+    "q": "¿Qué problema histórico está en el punto de partida del pensamiento de Beauvoir?",
+    "o": [
+     "Que la ciencia moderna ha destruido la fe en la verdad objetiva",
+     "Que a las mujeres se les ha negado decidir su propia esencia",
+     "Que el capitalismo industrial ha empobrecido a la clase obrera",
+     "Que el lenguaje ordinario provoca falsos problemas filosóficos"
+    ],
+    "a": 1,
+    "fb": "Beauvoir observa que la autodeterminación que defiende el existencialismo se ha negado a las mujeres, cuya «esencia» decidieron los hombres."
+   },
+   {
+    "q": "¿Qué movimiento impulsaron en los años 60 y 70 las ideas de El segundo sexo?",
+    "o": [
+     "La segunda ola del feminismo",
+     "El sufragismo de la primera ola",
+     "El movimiento ilustrado de derechos",
+     "La teoría crítica de Frankfurt"
+    ],
+    "a": 0,
+    "fb": "La idea de que la mujer es una construcción social dio lugar a la segunda ola, que va más allá de los derechos legales."
+   },
+   {
+    "q": "¿En qué corriente filosófica se enmarca el pensamiento de Beauvoir?",
+    "o": [
+     "En el positivismo lógico",
+     "En el idealismo alemán",
+     "En el materialismo histórico",
+     "En el existencialismo ateo"
+    ],
+    "a": 3,
+    "fb": "Beauvoir comparte con Sartre el existencialismo ateo: la existencia precede a la esencia y estamos condenados a ser libres."
+   }
+  ]
+ },
+ "hf-c27-banco": {
+  "name": "T27 · La sociedad actual: retos del siglo XXI (banco ampliado)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "Según la teoría, ¿qué problema general aborda la filosofía del siglo XXI?",
+    "o": [
+     "Cómo fundamentar la ciencia solo en enunciados verificables por la experiencia",
+     "Cómo demostrar racionalmente la existencia de Dios y del alma inmortal",
+     "Cómo la economía, la tecnología y la sociedad transforman hoy nuestra identidad",
+     "Cómo recuperar una verdad absoluta que sirva de fundamento a todo saber"
+    ],
+    "a": 2,
+    "fb": "El tema abre diciendo que la filosofía actual analiza cómo las estructuras económicas, tecnológicas y sociales reconfiguran nuestra identidad y nuestra relación con el mundo."
+   },
+   {
+    "q": "Según Naomi Klein, ¿en qué consiste el «capitalismo del desastre»?",
+    "o": [
+     "En aprovechar las guerras y catástrofes para imponer reformas neoliberales",
+     "En que los grandes medios decidan sobre qué asuntos puede pensar la gente",
+     "En que las grandes marcas vendan estilos de vida en lugar de objetos",
+     "En tratar el planeta como si sus recursos fueran infinitos"
+    ],
+    "a": 0,
+    "fb": "Klein denuncia que las grandes corporaciones aprovechan las crisis (guerras, catástrofes) para imponer reformas neoliberales."
+   },
+   {
+    "q": "Tras un huracán, mientras la población sigue en refugios, se aprueba a toda prisa privatizar las escuelas y el agua de la zona. ¿Qué concepto lo explica mejor?",
+    "o": [
+     "La modernidad líquida de Zygmunt Bauman",
+     "La sociedad del cansancio de Byung-Chul Han",
+     "La era farmacopornográfica de Paul B. Preciado",
+     "El capitalismo del desastre de Naomi Klein"
+    ],
+    "a": 3,
+    "fb": "Es el caso típico que denuncia Klein: se aprovecha una catástrofe para imponer reformas neoliberales como la privatización."
+   },
+   {
+    "q": "En «No Logo», ¿qué tesis defiende Naomi Klein sobre las grandes marcas?",
+    "o": [
+     "Que se limitan a informar con neutralidad de sus productos",
+     "Que ya no venden objetos, sino estilos de vida",
+     "Que controlan los cuerpos mediante fármacos y hormonas",
+     "Que deciden qué temas llegan a la opinión pública"
+    ],
+    "a": 1,
+    "fb": "En No Logo Klein muestra que las marcas ya no venden objetos, sino «estilos de vida»."
+   },
+   {
+    "q": "Para Chomsky, ¿cómo ejercen su influencia los grandes medios de comunicación?",
+    "o": [
+     "Prohibiendo por ley las opiniones contrarias a las élites",
+     "Decidiendo sobre qué se puede pensar, aunque sin prohibir pensar",
+     "Aprovechando las catástrofes para imponer reformas económicas",
+     "Haciendo que cada persona se vigile y se explote a sí misma"
+    ],
+    "a": 1,
+    "fb": "Según Chomsky, los medios no prohíben pensar: deciden sobre qué se puede pensar, y así moldean la opinión pública al servicio de las élites."
+   },
+   {
+    "q": "Durante semanas, todos los informativos debaten qué impuesto conviene bajar, pero ninguno plantea si hay que bajarlos. ¿Qué concepto lo explica mejor?",
+    "o": [
+     "La sociedad del rendimiento de Byung-Chul Han",
+     "El enfoque de las capacidades de Nussbaum",
+     "La performance de género de Butler",
+     "La fabricación del consentimiento de Noam Chomsky"
+    ],
+    "a": 3,
+    "fb": "Para Chomsky, los medios no censuran, sino que delimitan sobre qué se puede pensar; así fabrican el consentimiento de la opinión pública."
+   },
+   {
+    "q": "La noción de «fabricación del consentimiento» corresponde a…",
+    "o": [
+     "Noam Chomsky",
+     "Naomi Klein",
+     "Zygmunt Bauman",
+     "Byung-Chul Han"
+    ],
+    "a": 0,
+    "fb": "Chomsky llama «fabricación del consentimiento» a la manera en que los medios moldean la opinión pública al servicio de las élites."
+   },
+   {
+    "q": "¿A quién llama Bauman «residuo humano» en la modernidad líquida?",
+    "o": [
+     "A quien rechaza consumir por convicciones ecologistas",
+     "A quien se agota por autoexplotarse en el trabajo",
+     "A quien no resulta útil para el mercado",
+     "A quien se aferra a identidades sólidas y tradicionales"
+    ],
+    "a": 2,
+    "fb": "Para Bauman, en la modernidad líquida el ciudadano se vuelve consumidor, y quien no es útil al mercado se convierte en «residuo humano»."
+   },
+   {
+    "q": "«Líquido es lo que no conserva su forma por mucho tiempo.» ¿Quién es el autor de esta frase?",
+    "o": [
+     "Byung-Chul Han",
+     "Noam Chomsky",
+     "Judith Butler",
+     "Zygmunt Bauman"
+    ],
+    "a": 3,
+    "fb": "Es una frase de Modernidad líquida, de Bauman: expresa que instituciones, vínculos e identidades ya no son sólidos, sino precarios y cambiantes."
+   },
+   {
+    "q": "Un joven cambia de trabajo cada pocos meses, sus relaciones duran poco y rehace su identidad en redes sin parar. ¿Qué concepto describe mejor su situación?",
+    "o": [
+     "La fabricación del consentimiento de Chomsky",
+     "La era farmacopornográfica de Preciado",
+     "La modernidad líquida de Bauman",
+     "El capitalismo del desastre de Klein"
+    ],
+    "a": 2,
+    "fb": "Bauman describe una modernidad en la que los vínculos, los empleos y las identidades ya no son sólidos, sino precarios y cambiantes."
+   },
+   {
+    "q": "La tesis de que «el ciudadano se convierte en consumidor» pertenece a…",
+    "o": [
+     "Zygmunt Bauman",
+     "Martha Nussbaum",
+     "Paul B. Preciado",
+     "Yayo Herrero"
+    ],
+    "a": 0,
+    "fb": "Bauman sostiene que, en la modernidad líquida, el ciudadano se convierte en consumidor."
+   },
+   {
+    "q": "¿Qué idea sobre el consumo comparten Bauman y la Klein de «No Logo»?",
+    "o": [
+     "Que el consumo es la vía más segura hacia la felicidad",
+     "Que el consumo ha pasado a definir quiénes somos",
+     "Que el consumo pierde peso en la sociedad virtual",
+     "Que el consumo afecta a los objetos, no a las personas"
+    ],
+    "a": 1,
+    "fb": "Para Bauman el ciudadano se convierte en consumidor, y para Klein las marcas venden estilos de vida: en ambos casos el consumo moldea la identidad."
+   },
+   {
+    "q": "Según Byung-Chul Han, ¿qué distingue la sociedad del rendimiento de la sociedad disciplinaria?",
+    "o": [
+     "Que el control ya no viene de fuera: ahora el sujeto se explota a sí mismo",
+     "Que el control ha desaparecido y el sujeto es por fin plenamente libre",
+     "Que el control pasa de los jefes a los grandes medios de comunicación",
+     "Que el control se ejerce ahora sobre todo con hormonas y fármacos"
+    ],
+    "a": 0,
+    "fb": "Han explica que la sociedad disciplinaria se basaba en el control externo, mientras que en la del rendimiento nadie nos vigila: nos autoexplotamos."
+   },
+   {
+    "q": "¿Por qué, según Han, la autoexplotación resulta tan difícil de reconocer?",
+    "o": [
+     "Porque la ocultan las leyes laborales del Estado",
+     "Porque los medios prohíben hablar abiertamente de ella",
+     "Porque solo la sufren quienes no son útiles al mercado",
+     "Porque el sujeto la vive como si fuera libertad"
+    ],
+    "a": 3,
+    "fb": "Bajo el lema «tú puedes», el sujeto se exige cada vez más creyendo que eso es libertad, y por eso no percibe la explotación."
+   },
+   {
+    "q": "¿Qué designa Han con la expresión «sociedad del cansancio»?",
+    "o": [
+     "Una sociedad que ha renunciado al trabajo y al esfuerzo",
+     "El hastío ante el consumo de marcas y estilos de vida",
+     "Una epidemia de agotamiento, ansiedad y depresión",
+     "El desgaste de las instituciones, que se vuelven líquidas"
+    ],
+    "a": 2,
+    "fb": "Para Han, la sociedad del cansancio es el resultado de la autoexplotación: una epidemia de agotamiento, ansiedad y depresión."
+   },
+   {
+    "q": "Lucía es autónoma y trabaja hasta la madrugada convencida de que «si quiere, puede». Nadie se lo exige, pero está agotada y ansiosa. ¿Qué concepto lo explica mejor?",
+    "o": [
+     "El capitalismo del desastre de Klein",
+     "La sociedad del rendimiento de Han",
+     "La fabricación del consentimiento de Chomsky",
+     "El enfoque de las capacidades de Nussbaum"
+    ],
+    "a": 1,
+    "fb": "Han describe cómo nos autoexplotamos bajo el lema «tú puedes», sin un jefe que vigile, hasta el agotamiento y la ansiedad."
+   },
+   {
+    "q": "¿Quién sostiene que ahora nos autoexplotamos bajo el lema «tú puedes»?",
+    "o": [
+     "Zygmunt Bauman",
+     "Paul B. Preciado",
+     "Byung-Chul Han",
+     "Martha Nussbaum"
+    ],
+    "a": 2,
+    "fb": "Es la tesis de Han sobre la sociedad del rendimiento: la autoexplotación sustituye al control externo."
+   },
+   {
+    "q": "¿En qué se diferencia el control que describe Han del que describe Chomsky?",
+    "o": [
+     "En Han lo ejercen los medios; en Chomsky es el sujeto quien se controla a sí mismo",
+     "En Han el sujeto se explota a sí mismo; en Chomsky los medios moldean la opinión",
+     "En Han lo ejercen las hormonas; en Chomsky lo ejercen sobre todo las grandes marcas",
+     "En Han no existe ningún control; en Chomsky lo ejerce directamente la policía"
+    ],
+    "a": 1,
+    "fb": "Han habla de autoexplotación interiorizada; Chomsky, de unos medios que deciden sobre qué se puede pensar al servicio de las élites."
+   },
+   {
+    "q": "Para Judith Butler, ¿por qué el género puede subvertirse?",
+    "o": [
+     "Porque depende de las hormonas, que la medicina puede modificar",
+     "Porque la biología humana cambia con cada nueva generación",
+     "Porque es una elección libre que cada persona hace una sola vez",
+     "Porque es un guion que se construye y no una esencia de tipo biológico"
+    ],
+    "a": 3,
+    "fb": "Butler entiende el género como una performance que se construye repitiendo gestos, ropa y formas de hablar; si es un guion construido, puede subvertirse."
+   },
+   {
+    "q": "Una alumna explica que ser «masculino» o «femenino» se aprende repitiendo gestos, ropa y maneras de hablar, y que por eso puede cambiarse. ¿Con qué autora encaja?",
+    "o": [
+     "Con Judith Butler y el género como performance",
+     "Con Yayo Herrero y el ecofeminismo",
+     "Con Martha Nussbaum y las capacidades",
+     "Con Naomi Klein y su crítica de las grandes marcas"
+    ],
+    "a": 0,
+    "fb": "Para Butler el género no es una esencia biológica, sino algo que hacemos repitiendo actos; por eso puede subvertirse."
+   },
+   {
+    "q": "¿Qué describe Paul B. Preciado con la «era farmacopornográfica»?",
+    "o": [
+     "La liberación de los cuerpos gracias a los avances de la medicina actual",
+     "El control de los cuerpos por el capitalismo mediante fármacos e imágenes",
+     "La sustitución de los objetos por estilos de vida en la publicidad",
+     "El paso del control disciplinario al autocontrol del rendimiento"
+    ],
+    "a": 1,
+    "fb": "Preciado sostiene que el capitalismo controla hoy los cuerpos mediante fármacos, hormonas e imágenes."
+   },
+   {
+    "q": "Frente al control farmacopornográfico, ¿qué papel atribuye Preciado al cuerpo?",
+    "o": [
+     "El de un espacio de resistencia política",
+     "El de un dato biológico que no cabe cambiar",
+     "El de un recurso natural que hay que preservar",
+     "El de una mercancía que conviene optimizar"
+    ],
+    "a": 0,
+    "fb": "Para Preciado, precisamente porque el poder actúa sobre él, el cuerpo se convierte en un espacio de resistencia política."
+   },
+   {
+    "q": "¿Qué idea comparten Judith Butler y Paul B. Preciado?",
+    "o": [
+     "Que el género es una esencia fijada por la biología",
+     "Que la justicia se mide solo por el crecimiento del PIB",
+     "Que los cuerpos y el género se construyen de forma política",
+     "Que los medios deciden sobre qué se puede pensar"
+    ],
+    "a": 2,
+    "fb": "Ambos aparecen en el apartado «La construcción política de los cuerpos»: Butler ve el género como performance y Preciado analiza el control político de los cuerpos."
+   },
+   {
+    "q": "La teoría dice que hay que desnaturalizar la idea de que «el género es biología». ¿Qué autores del tema la cuestionan?",
+    "o": [
+     "Nussbaum y Herrero",
+     "Chomsky y Bauman",
+     "Han y Klein",
+     "Butler y Preciado"
+    ],
+    "a": 3,
+    "fb": "Butler sostiene que el género es una performance y Preciado analiza cómo el capitalismo controla los cuerpos: ambos niegan que el género sea pura biología."
+   },
+   {
+    "q": "Para Martha Nussbaum, ¿con qué debe medirse la justicia de una sociedad?",
+    "o": [
+     "Con el crecimiento anual de su producto interior bruto",
+     "Con la mayor felicidad para el mayor número de personas",
+     "Con la libertad de cada cual para elegir qué consumir",
+     "Con las capacidades reales de vivir una vida digna"
+    ],
+    "a": 3,
+    "fb": "Nussbaum propone el enfoque de las capacidades: una sociedad es justa si garantiza a todos las capacidades reales para vivir dignamente, no por su PIB."
+   },
+   {
+    "q": "Un ayuntamiento deja de presumir de crecimiento económico y evalúa si sus vecinos pueden cuidar su salud, formarse, relacionarse y disfrutar del juego. ¿Con qué enfoque encaja?",
+    "o": [
+     "Con la sociedad del rendimiento de Han",
+     "Con el enfoque de las capacidades de Nussbaum",
+     "Con la modernidad líquida de Bauman",
+     "Con el capitalismo del desastre de Naomi Klein"
+    ],
+    "a": 1,
+    "fb": "Nussbaum mide la justicia por capacidades reales como la salud, la razón práctica, la afiliación o el juego, no por el PIB."
+   },
+   {
+    "q": "Yayo Herrero afirma que somos «interdependientes». ¿Qué quiere decir?",
+    "o": [
+     "Que necesitamos los cuidados de otras personas",
+     "Que dependemos de la naturaleza para sobrevivir",
+     "Que las economías nacionales están globalizadas",
+     "Que el género depende de normas compartidas"
+    ],
+    "a": 0,
+    "fb": "Herrero distingue: somos ecodependientes porque dependemos de la naturaleza, e interdependientes porque necesitamos los cuidados de otros."
+   },
+   {
+    "q": "¿Qué rasgo del sistema actual lleva a Yayo Herrero a decir que está «en guerra contra la vida»?",
+    "o": [
+     "Que aprovecha las guerras para hacer negocio",
+     "Que impone el género como esencia biológica",
+     "Que actúa como si el planeta fuera infinito",
+     "Que convierte a cada ciudadano en consumidor"
+    ],
+    "a": 2,
+    "fb": "Herrero critica un sistema que prioriza el beneficio y actúa como si los recursos del planeta fueran infinitos, ignorando que somos ecodependientes."
+   },
+   {
+    "q": "Según el glosario del tema, ¿qué une el ecofeminismo de Yayo Herrero?",
+    "o": [
+     "La crisis ecológica y la opresión de las mujeres",
+     "La lucha obrera y la defensa del libre mercado",
+     "El crecimiento económico y el consumo responsable",
+     "La biología y la esencia natural de lo femenino"
+    ],
+    "a": 0,
+    "fb": "El ecofeminismo relaciona la crisis ecológica con la opresión de las mujeres y reivindica poner la vida y los cuidados en el centro."
+   },
+   {
+    "q": "Un barrio crea una red para cuidar a sus personas mayores y, a la vez, recupera un huerto comunitario y defiende el río cercano. ¿Con qué propuesta encaja?",
+    "o": [
+     "Con la modernidad líquida de Bauman",
+     "Con la sociedad del cansancio de Han",
+     "Con la era farmacopornográfica de Preciado",
+     "Con el ecofeminismo de Yayo Herrero"
+    ],
+    "a": 3,
+    "fb": "Herrero propone poner la vida y los cuidados en el centro, reconociendo que somos interdependientes y ecodependientes."
+   },
+   {
+    "q": "¿En qué coinciden Nussbaum y Herrero frente a la economía dominante?",
+    "o": [
+     "En que el mercado reparte con justicia los recursos",
+     "En no medir el bienestar por el dinero, sino por la vida",
+     "En que el género es una performance que se repite",
+     "En que la tecnología es neutra y beneficia a toda la sociedad"
+    ],
+    "a": 1,
+    "fb": "El apartado se titula «la vida, no el dinero»: Nussbaum rechaza medir la justicia por el PIB y Herrero pide poner la vida y los cuidados en el centro."
+   },
+   {
+    "q": "Klein y Herrero critican el sistema económico actual. ¿Qué subraya en especial Herrero?",
+    "o": [
+     "Que aprovecha las catástrofes para imponer reformas",
+     "Que fabrica el consentimiento de la opinión pública",
+     "Que ignora los límites del planeta y los cuidados",
+     "Que vende estilos de vida en lugar de objetos"
+    ],
+    "a": 2,
+    "fb": "Herrero, desde el ecofeminismo, denuncia que el sistema actúa como si el planeta fuera infinito y olvida que necesitamos cuidados."
+   },
+   {
+    "q": "Según la teoría, ¿cuál es la misión de la filosofía del siglo XXI?",
+    "o": [
+     "Descubrir la esencia inmutable del ser humano",
+     "Desnaturalizar lo que damos por sentado",
+     "Demostrar que la tecnología es neutra",
+     "Justificar el orden social existente"
+    ],
+    "a": 1,
+    "fb": "La teoría dice que su misión es desnaturalizar lo que damos por sentado: que el consumo es felicidad, que la tecnología es neutra o que el género es biología."
+   },
+   {
+    "q": "El primer apartado del tema trata de globalización y capitalismo. ¿Qué fenómeno de fondo analizan en él Klein, Chomsky y Bauman?",
+    "o": [
+     "El poder de mercados, empresas y medios a escala global",
+     "El nacimiento de los Estados nacionales modernos",
+     "La revolución científica moderna y el método experimental",
+     "La crisis de la metafísica ante la ciencia moderna"
+    ],
+    "a": 0,
+    "fb": "Klein (corporaciones), Chomsky (medios) y Bauman (mercado y consumo) analizan cómo el capitalismo globalizado reconfigura la sociedad."
+   },
+   {
+    "q": "¿Qué pregunta abierta plantea la aporía con la que termina el tema?",
+    "o": [
+     "Si la tecnología es neutra o sirve a los intereses de las élites",
+     "Si el género es una esencia biológica o una elección libre",
+     "Si reconocer que necesitamos a otros es debilidad o resistencia",
+     "Si el PIB mide bien o mal el bienestar real de un país"
+    ],
+    "a": 2,
+    "fb": "La aporía pregunta si, en un sistema que prioriza el beneficio, reconocer nuestra vulnerabilidad y necesidad de los demás es debilidad o la mayor forma de resistencia."
+   }
+  ]
  }
 };
