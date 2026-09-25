@@ -179,12 +179,6 @@ const RAYUELA_HF = {
    "texto": "En una respuesta dices que la conexión entre causa y efecto la pone la costumbre, o que solo conocemos el mundo tal como se nos aparece; en otra, que la ciencia nos da el mundo tal como es y lo demás es palabrería. Pero la ciencia se apoya en causas y leyes: si su necesidad la pone nuestra mente, la ciencia no puede darnos las cosas tal como son en sí. Hume y Kant no despreciaban la ciencia, pero le ponían límites."
   },
   {
-   "id": "t-sospecha-razon", "grado": "tension",
-   "a": ["m-sospecha"], "b": ["m-autonomia", "m-razon", "m-certeza-sin-dios", "m-cientificismo"],
-   "titulo": "Sospechas de la razón… y te fías de ella",
-   "texto": "En una respuesta sospechas de la razón: quizá te engaña, o esconde intereses; en otra te fías de ella para conocer con certeza o para pensar por tu cuenta. Se puede hacer, pero con cuidado: para sospechar de la razón también hay que usarla. Descartes dudó de todo para encontrar algo seguro; Marx, Nietzsche y Freud, los «maestros de la sospecha», enseñaron a preguntar a quién beneficia lo que llamamos razonable."
-  },
-  {
    "id": "t-tecnica-dominio", "grado": "tension",
    "a": ["m-razon-dominio"], "b": ["m-tecnologia-neutra", "m-tecno-libera", "m-tecno-solucion"],
    "titulo": "¿La técnica es neutral o sirve para dominar?",
@@ -450,7 +444,7 @@ const RAYUELA_HF = {
    "pregunta": "¿Te convence?",
    "opciones": [
     { "t": "Sí: si su esencia es perfecta, tiene que existir.", "to": "10", "marca": "m-ontologico" },
-    { "t": "Me parece sospechoso: critica a los escolásticos y usa un argumento medieval… ¿y si la razón me engaña?", "to": "47", "marca": "m-sospecha" },
+    { "t": "Me parece sospechoso: critica a los escolásticos y usa un argumento medieval. Antes de aceptarlo, hay que dudar más a fondo.", "to": "47", "marca": "m-duda-metodica" },
     { "t": "No: de una idea no se sigue que algo exista.", "to": "FD", "marca": "m-idea-no-prueba" }
    ],
    "temas": ["hf-racionalismo", "hf-fe-razon"], "autores": [{ "id": "descartes" }, { "id": "anselmo" }]
