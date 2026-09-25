@@ -2,7 +2,7 @@
 /* ===== «Rayuela filosófica» (Historia de la Filosofía 2.º) — datos =====
    Idea y grafo del profesor (12-2025): «El camino de la filosofía» / «Metro filosófico»
    (documento original: ver docs/13_diseno_narrativa_marco_HF.md, que es también el diseño).
-   Red 1 (de Sócrates a Descartes) y Red 2 (25-09: los modernos, de Galileo a Mill; transbordos desde 5, 7 y 9 como 4.ª opción con "red": 2) y Red 3 (25-09: los contemporáneos, de Kant a Beauvoir; transbordos desde 6, 10, 12, 15, 16 y 54). Enlaces revisados el 24-09-2026: 46.2 iba a una página 37 inexistente (→ 47);
+   Red 1 (de Sócrates a Descartes) y Red 2 (25-09: los modernos, de Galileo a Mill; transbordos desde 5, 7 y 9 como 4.ª opción con "red": 2) y Red 3 (25-09: los contemporáneos, de Kant a Beauvoir; transbordos desde 6, 10, 12, 15, 16 y 54) y Red 4 (25-09: el siglo XXI; transbordos desde 18, 20, 23 y 24; finales de dos letras AA-AB). Enlaces revisados el 24-09-2026: 46.2 iba a una página 37 inexistente (→ 47);
    43, 44, 45 y 47 no tenían entrada (→ 7.2, 6.1, 9.3 y 46.2); 3.1 lleva al Jardín (48); 41.3 → 46.
    Sin bucles (24-09, v2): la red siempre avanza hacia los finales; 43.2→40, 93.1→10, 41.1→5, 91.1→5, 45.2→46,
    92.1→10, 94.2→10, 90.1→F, 90.2→B. Validar con: node tools/validar_rayuela.js (comprueba también que no haya ciclos)
@@ -20,12 +20,14 @@ const RAYUELA_HF = {
   { "id": "l-dios", "nombre": "Línea de Dios", "color": "#7d4fb5" },
   { "id": "l-cosmos", "nombre": "Línea del cosmos", "color": "#e0701b" },
   { "id": "l-igualdad", "nombre": "Línea de la igualdad", "color": "#c2185b" },
+  { "id": "l-siglo21", "nombre": "Línea del siglo XXI", "color": "#0f8b8d" },
   { "id": "l-contradiccion", "nombre": "Contradicciones", "color": "#d23a2b" }
  ],
  "redes": [
   { "n": 1, "nombre": "Red 1 · De Sócrates a Descartes", "abre": "2026-09-01" },
   { "n": 2, "nombre": "Red 2 · Los modernos: de Galileo a Mill", "abre": "2026-09-25" },
-  { "n": 3, "nombre": "Red 3 · Los contemporáneos: de Kant a Beauvoir", "abre": "2026-09-25" }
+  { "n": 3, "nombre": "Red 3 · Los contemporáneos: de Kant a Beauvoir", "abre": "2026-09-25" },
+  { "n": 4, "nombre": "Red 4 · El siglo XXI: los retos de hoy", "abre": "2026-09-25" }
  ],
  "estaciones": {
   "1": {
@@ -545,7 +547,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "Lo guardo: solo actúo según una regla que pudiera valer para todos.", "to": "FR", "marca": "m-imperativo" },
     { "t": "Lo cuento si así es más feliz más gente.", "to": "55", "marca": "m-consecuencias" },
-    { "t": "Ni deber ni cálculo: los valores los decido yo.", "to": "21", "marca": "m-valores-propios" }
+    { "t": "Ni deber ni cálculo: los valores los decido yo.", "to": "21", "marca": "m-valores-propios" },
+    { "t": "¿Tenemos deberes con el planeta y con quienes aún no han nacido?", "to": "28", "marca": "m-generaciones", "red": 4 }
    ],
    "temas": ["hf-etica-deber"], "autores": [{ "id": "kant" }, { "id": "mill" }]
   },
@@ -569,7 +572,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "Explotación: unos viven del trabajo que otros no cobran.", "to": "61", "marca": "m-explotacion" },
     { "t": "Es el mercado: quien arriesga su capital merece el beneficio.", "to": "FO", "marca": "m-mercado" },
-    { "t": "Una injusticia que se arreglaría con un reparto que cualquiera aceptaría sin saber qué lugar le iba a tocar.", "to": "FX", "marca": "m-velo" }
+    { "t": "Una injusticia que se arreglaría con un reparto que cualquiera aceptaría sin saber qué lugar le iba a tocar.", "to": "FX", "marca": "m-velo" },
+    { "t": "¿Y hoy? La fábrica es el mundo entero y compramos marcas, no cosas.", "to": "26", "marca": "m-global", "red": 4 }
    ],
    "temas": ["hf-capitalismo", "hf-sospecha"], "autores": [{ "id": "marx" }, { "id": "rawls" }]
   },
@@ -605,7 +609,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "Estoy condenado a ser libre: soy lo que hago.", "to": "64", "marca": "m-condenado-libre" },
     { "t": "La vida es absurda, y aun así hay que vivirla con rebeldía.", "to": "FU", "marca": "m-absurdo" },
-    { "t": "La entiendo desde mi circunstancia, y con una razón que escuche también lo que siento.", "to": "66", "marca": "m-circunstancia" }
+    { "t": "La entiendo desde mi circunstancia, y con una razón que escuche también lo que siento.", "to": "66", "marca": "m-circunstancia" },
+    { "t": "¿Y si hoy lo que me roba la vida es el móvil y el cansancio?", "to": "25", "marca": "m-cansancio", "red": 4 }
    ],
    "temas": ["hf-existencialismo"], "autores": [{ "id": "sartre" }, { "id": "camus" }, { "id": "ortega" }]
   },
@@ -617,7 +622,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "Que lo femenino es una construcción social, no un destino biológico.", "to": "65", "marca": "m-construccion" },
     { "t": "Que hombres y mujeres son iguales en derechos, y hay que reconocerlo en las leyes.", "to": "67", "marca": "m-derechos-todas" },
-    { "t": "Que exagera: cada sexo tiene su naturaleza y su papel.", "to": "100", "marca": "m-naturaleza-sexo" }
+    { "t": "Que exagera: cada sexo tiene su naturaleza y su papel.", "to": "100", "marca": "m-naturaleza-sexo" },
+    { "t": "¿Y el género? ¿También se aprende?", "to": "27", "marca": "m-genero", "red": 4 }
    ],
    "temas": ["hf-beauvoir"], "autores": [{ "id": "beauvoir" }, { "id": "wollstonecraft" }]
   },
@@ -755,6 +761,128 @@ const RAYUELA_HF = {
    ],
    "choque": ["m-naturaleza-sexo", "m-resuelto", "m-condenado-libre", "m-autonomia", "m-derechos-todas", "m-libertad-otros", "m-actos", "m-derechos-naturales"],
    "temas": ["hf-beauvoir", "hf-existencialismo"], "autores": [{ "id": "beauvoir" }]
+  },
+  "25": {
+   "tipo": "pregunta", "red": 4, "linea": "l-siglo21", "xy": [28.2, 12.8],
+   "titulo": "Las dos de la madrugada",
+   "texto": "Son las dos de la madrugada y sigues con el móvil: un vídeo más, una notificación más, un mensaje que contestar. Mañana tienes examen y estás agotado, pero nadie te obliga a seguir.",
+   "pregunta": "¿Qué está pasando?",
+   "opciones": [
+    { "t": "Que me exploto a mí mismo creyendo que soy libre: nadie me obliga, y aun así no paro.", "to": "68", "marca": "m-autoexplotacion" },
+    { "t": "Que las plataformas están diseñadas para engancharme: la culpa es de quien las diseña.", "to": "26", "marca": "m-plataformas" },
+    { "t": "Nada grave: la tecnología es neutra; depende de cómo la use cada uno.", "to": "101", "marca": "m-tecnologia-neutra" }
+   ],
+   "temas": ["hf-siglo21"], "autores": [{ "id": "han" }]
+  },
+  "26": {
+   "tipo": "pregunta", "red": 4, "linea": "l-siglo21", "xy": [27.6, 10.2],
+   "titulo": "La vida líquida",
+   "texto": "Cambias de móvil cada dos años, de trabajo cada pocos meses y de identidad en cada red social. Las marcas no te venden zapatillas, sino un estilo de vida. Nada dura mucho.",
+   "pregunta": "¿Cómo lo vives?",
+   "opciones": [
+    { "t": "Como libertad: nada me ata y puedo reinventarme cuando quiera.", "to": "27", "marca": "m-nada-me-ata" },
+    { "t": "Como precariedad: vínculos, trabajos e identidades de usar y tirar.", "to": "69", "marca": "m-precariedad" },
+    { "t": "Como un negocio: el mercado nos quiere consumidores, no ciudadanos.", "to": "28", "marca": "m-consumidores" }
+   ],
+   "temas": ["hf-siglo21"], "autores": [{ "id": "bauman" }, { "id": "klein" }, { "id": "chomsky" }]
+  },
+  "27": {
+   "tipo": "pregunta", "red": 4, "linea": "l-siglo21", "xy": [30.4, 8.8],
+   "titulo": "El género",
+   "texto": "Desde que naces te dicen cómo vestir, cómo moverte, a qué jugar y qué debe gustarte según tu sexo. Judith Butler dice que el género se aprende repitiendo esos gestos, como un papel.",
+   "pregunta": "¿Qué es el género?",
+   "opciones": [
+    { "t": "Un papel que se aprende repitiendo gestos, y que por eso se puede cambiar.", "to": "70", "marca": "m-performatividad" },
+    { "t": "Un hecho biológico: viene dado con el cuerpo.", "to": "100", "marca": "m-genero-biologico" },
+    { "t": "Una construcción social que sirve para repartir el poder.", "to": "FV", "marca": "m-genero-poder" }
+   ],
+   "temas": ["hf-siglo21", "hf-beauvoir"], "autores": [{ "id": "butler" }, { "id": "preciado" }]
+  },
+  "28": {
+   "tipo": "pregunta", "red": 4, "linea": "l-siglo21", "xy": [29.2, 6.4],
+   "titulo": "El planeta",
+   "texto": "El termómetro sube, los ríos se secan y cada verano arde más bosque. Mientras tanto, la economía tiene que crecer cada año. Yayo Herrero recuerda que somos ecodependientes (vivimos de la naturaleza) e interdependientes (vivimos de los cuidados de otros).",
+   "pregunta": "¿Qué hacemos?",
+   "opciones": [
+    { "t": "Cambiar de rumbo: poner en el centro la vida y los cuidados, no el dinero.", "to": "FZ", "marca": "m-cuidar-vida" },
+    { "t": "Confiar en la tecnología: la ciencia encontrará la solución sin cambiar nuestra forma de vivir.", "to": "102", "marca": "m-tecno-solucion" },
+    { "t": "Que cada uno haga su parte: reciclar y consumir un poco menos.", "to": "29", "marca": "m-cada-uno" }
+   ],
+   "temas": ["hf-siglo21"], "autores": [{ "id": "herrero" }]
+  },
+  "29": {
+   "tipo": "pregunta", "red": 4, "linea": "l-siglo21", "xy": [28.2, 4.2],
+   "titulo": "¿Qué es un país justo?",
+   "texto": "Dos países tienen la misma riqueza por habitante. En uno, las niñas no van a la escuela, no hay hospital cerca y nadie tiene tiempo libre. En el otro, sí.",
+   "pregunta": "¿Cómo se mide la justicia?",
+   "opciones": [
+    { "t": "Por lo que la gente puede hacer y ser de verdad: salud, educación, afecto, juego, voz.", "to": "FAA", "marca": "m-capacidades" },
+    { "t": "Por la riqueza y la felicidad totales, se repartan como se repartan.", "to": "FQ", "marca": "m-riqueza-total" },
+    { "t": "Por la libertad de cada uno para elegir su propia vida.", "to": "FO", "marca": "m-libertad-elegir" }
+   ],
+   "temas": ["hf-siglo21"], "autores": [{ "id": "nussbaum" }]
+  },
+  "68": {
+   "tipo": "vida", "red": 4, "linea": "l-siglo21", "xy": [30.2, 12.2],
+   "titulo": "El jardín de Byung-Chul Han",
+   "texto": "Berlín, hacia 2016. Byung-Chul Han, el filósofo que habla de la sociedad del cansancio, pasa tres primaveras cuidando un jardín: aprende los nombres de las flores, espera a que broten, se ensucia las manos. Lo cuenta en Loa a la tierra: la tierra enseña un tiempo lento que la pantalla no conoce.",
+   "pregunta": "¿Qué te parece?",
+   "opciones": [
+    { "t": "Que tiene razón: hay que recuperar el tiempo lento, el silencio y el contacto con lo real.", "to": "FAB", "marca": "m-tiempo-lento" },
+    { "t": "Que es un privilegio: no todo el mundo puede permitirse desconectar.", "to": "26", "marca": "m-privilegio" },
+    { "t": "Que exagera: la tecnología también nos conecta y nos hace más libres.", "to": "101", "marca": "m-tecno-libera" }
+   ],
+   "temas": ["hf-siglo21"], "autores": [{ "id": "han" }]
+  },
+  "69": {
+   "tipo": "vida", "red": 4, "linea": "l-siglo21", "xy": [28.4, 8.6],
+   "titulo": "El exilio de Bauman",
+   "texto": "Varsovia, 1968. Durante una campaña antisemita del régimen comunista, Zygmunt Bauman pierde su cátedra en la universidad y tiene que abandonar Polonia. De joven ya había tenido que huir de los nazis. Acaba en Leeds, en Inglaterra, y dedica su vida a pensar un mundo en el que nada es sólido: ni los empleos, ni los vínculos, ni las identidades.",
+   "pregunta": "¿Qué aprendes de él?",
+   "opciones": [
+    { "t": "Que en un mundo líquido hacen falta vínculos sólidos: cuidarnos unos a otros.", "to": "28", "marca": "m-vinculos" },
+    { "t": "Que quien no es útil al mercado se convierte en «residuo humano»: hay que cambiar el sistema.", "to": "FS", "marca": "m-residuo" },
+    { "t": "Que no pertenecer a nada también es una forma de libertad.", "to": "27", "marca": "m-no-pertenecer" }
+   ],
+   "temas": ["hf-siglo21"], "autores": [{ "id": "bauman" }]
+  },
+  "70": {
+   "tipo": "vida", "red": 4, "linea": "l-siglo21", "xy": [31.6, 7.2],
+   "titulo": "Butler en São Paulo",
+   "texto": "São Paulo, noviembre de 2017. Judith Butler llega para un congreso sobre democracia. En la calle, un grupo de manifestantes quema un muñeco con su cara, vestido de bruja, contra lo que llaman «ideología de género». Después, en un artículo, Butler responde que de lo que se trata es de que todas las personas puedan vivir sin violencia.",
+   "pregunta": "¿Qué te dice la escena?",
+   "opciones": [
+    { "t": "Que las normas sobre el cuerpo son políticas: se pueden discutir y cambiar.", "to": "FV", "marca": "m-cuerpo-politico" },
+    { "t": "Que el tema da miedo porque toca lo más íntimo: hay que hablarlo con razones y con respeto.", "to": "FW", "marca": "m-hablar-respeto" },
+    { "t": "Que hay que proteger los cuerpos de todos, empezando por los más vulnerables.", "to": "28", "marca": "m-vulnerables" }
+   ],
+   "temas": ["hf-siglo21"], "autores": [{ "id": "butler" }]
+  },
+  "101": {
+   "tipo": "contradiccion", "red": 4, "linea": "l-contradiccion", "xy": [29.2, 10.8],
+   "titulo": "Contradicción: la libertad conectada",
+   "texto": "Dices que la tecnología es neutra o que te hace libre, pero también que no puedes soltar el móvil o que las plataformas te enganchan. Si una herramienta decide por ti cuánto tiempo la usas, ¿sigue siendo solo una herramienta?",
+   "pregunta": "¿Cómo sales de aquí?",
+   "opciones": [
+    { "t": "Reconozco que no es neutra: también me cambia a mí.", "to": "26" },
+    { "t": "Desconecto un tiempo para comprobarlo.", "to": "FAB" },
+    { "t": "Mantengo que es solo una herramienta, y confío en que también resolverá lo demás.", "to": "28" }
+   ],
+   "choque": ["m-tecnologia-neutra", "m-tecno-libera", "m-autoexplotacion", "m-plataformas", "m-cansancio"],
+   "temas": ["hf-siglo21"], "autores": [{ "id": "han" }]
+  },
+  "102": {
+   "tipo": "contradiccion", "red": 4, "linea": "l-contradiccion", "xy": [30.8, 4.8],
+   "titulo": "Contradicción: crecer sin límites",
+   "texto": "Quieres cuidar el planeta y, a la vez, que la economía crezca sin fin o que la técnica lo arregle todo sin cambiar nada de nuestra vida. Pero en un planeta con recursos limitados no se puede crecer para siempre.",
+   "pregunta": "¿Cómo sales de aquí?",
+   "opciones": [
+    { "t": "Acepto que hay límites: hay que dejar de crecer en lo que sobra.", "to": "FZ" },
+    { "t": "Mantengo que el mercado y la técnica lo resolverán.", "to": "FO" },
+    { "t": "Me pregunto qué necesita de verdad la gente para vivir bien.", "to": "29" }
+   ],
+   "choque": ["m-tecno-solucion", "m-tecnologia-neutra", "m-consumidores", "m-vinculos", "m-vulnerables", "m-generaciones", "m-cuidar-vida"],
+   "temas": ["hf-siglo21"], "autores": [{ "id": "herrero" }]
   }
  },
  "terminales": {
@@ -932,6 +1060,27 @@ const RAYUELA_HF = {
    "abierto": "Si la razón se abre a los sentimientos, ¿cómo evitamos que acabe dándole la razón a lo que simplemente nos apetece?",
    "reflexion": "¿Puede la razón comprender la vida?",
    "autores": [{ "id": "ortega" }, { "id": "zambrano" }, { "id": "unamuno" }], "temas": ["hf-existencialismo"]
+  },
+  "Z": {
+   "xy": [27.2, 0.9], "titulo": "Poner la vida en el centro",
+   "texto": "Para ti la economía debe estar al servicio de la vida, y no al revés: dependemos de la naturaleza y de los cuidados de otras personas, y un sistema que olvida las dos cosas está en guerra contra la vida. Es el ecofeminismo de Yayo Herrero.",
+   "abierto": "¿Cómo se cambia un sistema entero sin dejar a nadie atrás?",
+   "reflexion": "¿Tenemos deberes con la naturaleza y con las generaciones futuras?",
+   "autores": [{ "id": "herrero" }], "temas": ["hf-siglo21"]
+  },
+  "AA": {
+   "xy": [28.2, 0.9], "titulo": "Capacidades",
+   "texto": "Crees que una sociedad es justa si garantiza a todas las personas las capacidades para una vida digna: salud, educación, afecto, razón práctica, juego, participación. La riqueza de un país no basta para saberlo. Es el enfoque de Martha Nussbaum.",
+   "abierto": "¿Quién decide qué capacidades son básicas para todas las culturas?",
+   "reflexion": "¿Qué necesita una persona para vivir una vida digna?",
+   "autores": [{ "id": "nussbaum" }], "temas": ["hf-siglo21"]
+  },
+  "AB": {
+   "xy": [29.2, 0.9], "titulo": "Tiempo lento",
+   "texto": "Te das cuenta de que nadie te explota tanto como tú mismo cuando crees que siempre puedes rendir más. Eliges recuperar el tiempo lento, el silencio y el contacto con lo real. Es la crítica de Byung-Chul Han a la sociedad del cansancio.",
+   "abierto": "¿Se puede desconectar sin quedarse fuera del mundo?",
+   "reflexion": "¿Nos hace más libres la tecnología?",
+   "autores": [{ "id": "han" }], "temas": ["hf-siglo21"]
   }
  }
 };
