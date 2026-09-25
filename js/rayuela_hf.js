@@ -153,6 +153,96 @@ const RAYUELA_HF = {
    "a": ["m-vinculos", "m-cuidar-vida", "m-vulnerables", "m-libertad-otros", "m-libertad-todos"], "b": ["m-nada-me-ata", "m-no-pertenecer"],
    "titulo": "¿Libre de todo o unido a otros?",
    "texto": "En una respuesta pides vínculos sólidos y cuidarnos unos a otros; en otra celebras que nada te ate. Bauman diría que esa libertad sin lazos es la del turista: ligera mientras todo va bien, solitaria cuando las cosas se tuercen. Beauvoir añadiría que nadie es libre del todo si los demás no lo son."
+  },
+  {
+   "id": "t-azar-necesidad", "grado": "contradiccion",
+   "a": ["m-azar"], "b": ["m-monismo", "m-causa-necesaria", "m-determinismo", "m-libertad-necesidad"],
+   "titulo": "¿Azar o necesidad?",
+   "texto": "En una respuesta dices que todo es fruto del azar y del choque de átomos; en otra, que todo ocurre por necesidad, según causas que no podrían ser de otra manera. Las dos no pueden ser verdad a la vez: si todo es necesario, nada es casual. Demócrito pensaba que los átomos se mueven por necesidad; Epicuro les añadió una pequeña desviación al azar para dejar sitio a la libertad, y para Spinoza el azar es solo el nombre de nuestra ignorancia."
+  },
+  {
+   "id": "t-determinismo-deber", "grado": "contradiccion",
+   "a": ["m-determinismo"], "b": ["m-imperativo", "m-regla-universal", "m-autonomia", "m-actos", "m-condenado-libre"],
+   "titulo": "Nadie es responsable… pero hay deberes",
+   "texto": "En una respuesta dices que, si todo ocurre por necesidad, nadie es responsable de nada; en otra, que hay que actuar según una regla que valga para todos, o que eres lo que haces. Pero no se le puede pedir a nadie que cumpla un deber si no puede elegir cumplirlo. Kant lo resumía así: «debes, luego puedes». Sartre iba más lejos: el determinismo es una excusa de mala fe."
+  },
+  {
+   "id": "t-desobedecer-autoridad", "grado": "tension",
+   "a": ["m-desobedecer"], "b": ["m-autoridad", "m-absolutismo"],
+   "titulo": "¿Desobedecer la ley injusta, o que decida la autoridad?",
+   "texto": "En una respuesta dices que, si una ley es injusta, a veces lo correcto es desobedecerla; en otra, que la autoridad tiene derecho a decidir qué se enseña, o que es mejor un soberano con todo el poder que el caos. Si el soberano lo decide todo, ¿quién juzga cuándo una ley es injusta? Para Hobbes, desobedecer nos devuelve a la guerra de todos contra todos; para Thoreau, ante una ley injusta, el lugar de una persona justa es la cárcel."
+  },
+  {
+   "id": "t-costumbre-ciencia", "grado": "tension",
+   "a": ["m-habito", "m-fenomeno"], "b": ["m-cientificismo"],
+   "titulo": "Si la causa es costumbre, ¿qué nos da la ciencia?",
+   "texto": "En una respuesta dices que la conexión entre causa y efecto la pone la costumbre, o que solo conocemos el mundo tal como se nos aparece; en otra, que la ciencia nos da el mundo tal como es y lo demás es palabrería. Pero la ciencia se apoya en causas y leyes: si su necesidad la pone nuestra mente, la ciencia no puede darnos las cosas tal como son en sí. Hume y Kant no despreciaban la ciencia, pero le ponían límites."
+  },
+  {
+   "id": "t-sospecha-razon", "grado": "tension",
+   "a": ["m-sospecha"], "b": ["m-autonomia", "m-razon", "m-certeza-sin-dios", "m-cientificismo"],
+   "titulo": "Sospechas de la razón… y te fías de ella",
+   "texto": "En una respuesta sospechas de la razón: quizá te engaña, o esconde intereses; en otra te fías de ella para conocer con certeza o para pensar por tu cuenta. Se puede hacer, pero con cuidado: para sospechar de la razón también hay que usarla. Descartes dudó de todo para encontrar algo seguro; Marx, Nietzsche y Freud, los «maestros de la sospecha», enseñaron a preguntar a quién beneficia lo que llamamos razonable."
+  },
+  {
+   "id": "t-tecnica-dominio", "grado": "tension",
+   "a": ["m-razon-dominio"], "b": ["m-tecnologia-neutra", "m-tecno-libera", "m-tecno-solucion"],
+   "titulo": "¿La técnica es neutral o sirve para dominar?",
+   "texto": "En una respuesta avisas de que la razón ilustrada también ha servido para dominar a la naturaleza y a las personas; en otra, que la tecnología es neutra, que nos hace más libres o que resolverá los problemas del planeta. Adorno y Horkheimer dirían que la técnica nunca es solo una herramienta: lleva dentro una manera de mirar el mundo como algo que explotar. ¿Por qué confías ahora en lo que antes te hacía sospechar?"
+  },
+  {
+   "id": "t-libertad-agota", "grado": "tension",
+   "a": ["m-autoexplotacion", "m-cansancio"], "b": ["m-nada-me-ata", "m-tecno-libera"],
+   "titulo": "Una libertad que agota",
+   "texto": "En una respuesta dices que te explotas a ti mismo creyendo que eres libre, o que el móvil y el cansancio te roban la vida; en otra celebras que nada te ata, o que la tecnología te hace más libre. Byung-Chul Han diría que es la misma libertad vista desde dos lados: nadie nos obliga, y por eso no paramos nunca. ¿Qué clase de libertad es la que te deja agotado?"
+  },
+  {
+   "id": "t-sistema-individuo", "grado": "tension",
+   "a": ["m-plataformas", "m-privilegio", "m-consumidores", "m-residuo", "m-explotacion", "m-global"], "b": ["m-cada-uno", "m-tecnologia-neutra"],
+   "titulo": "¿Problema del sistema o de cada uno?",
+   "texto": "En una respuesta señalas un problema del sistema: plataformas diseñadas para engancharnos, un mercado que nos quiere consumidores, el trabajo que otros no cobran o personas tratadas como residuo; en otra, que basta con que cada uno haga su parte o use bien la tecnología. Si el problema es de estructura, las soluciones individuales se quedan cortas; si todo depende de cada uno, la crítica al sistema sobra. Bauman y Yayo Herrero piden cambios colectivos, sin olvidar lo que hace cada persona."
+  },
+  {
+   "id": "t-consumo-mercado", "grado": "tension",
+   "a": ["m-consumidores", "m-global"], "b": ["m-mercado", "m-libertad-elegir", "m-riqueza-total"],
+   "titulo": "¿Criticas el consumo y confías en el mercado?",
+   "texto": "En una respuesta criticas que el mercado nos quiera consumidores y no ciudadanos, o que compremos marcas en lugar de cosas; en otra, que el beneficio del mercado es merecido, o que la justicia se mide por la riqueza total o por la libertad de cada uno para elegir. Pero lo que elegimos también lo moldea la publicidad. Bauman diría que en la sociedad de consumo la libertad de elegir se ha convertido en la obligación de comprar."
+  },
+  {
+   "id": "t-callar-poetica", "grado": "tension",
+   "a": ["m-callar"], "b": ["m-razon-poetica"],
+   "titulo": "¿Callar lo indecible o decirlo de otra manera?",
+   "texto": "En una respuesta dices que lo que no se puede decir con claridad es mejor callarlo; en otra, que la razón tiene que hacerse poética para abrirse a lo que sentimos y no sabemos decir. Wittgenstein cerró su primer libro pidiendo silencio ante lo que no se puede decir; María Zambrano pensaba que la razón poética podía acercarse a lo que no cabe en los conceptos. ¿Con cuál de los dos te quedas?"
+  },
+  {
+   "id": "t-dios-limites", "grado": "tension",
+   "a": ["m-felicidad-dios", "m-ontologico", "m-dios-veraz", "m-orden-divino"], "b": ["m-limites-razon"],
+   "titulo": "Dios en el centro, pero de Dios no sabemos nada",
+   "texto": "En una respuesta pones a Dios en el centro: de la felicidad, del orden del mundo o de la certeza; en otra, que la razón tiene límites y que de Dios o del alma no podemos saber nada. No tiene por qué ser una contradicción: Kant escribió que tuvo que suprimir el saber para dejar sitio a la fe. Pero entonces tu Dios ya no es algo que se demuestra, sino algo en lo que se cree."
+  },
+  {
+   "id": "t-lobos-dialogo", "grado": "tension",
+   "a": ["m-guerra-todos"], "b": ["m-dialogo"],
+   "titulo": "Si somos lobos, ¿cómo vamos a dialogar?",
+   "texto": "En una respuesta dices que, sin Estado, viviríamos en una guerra de todos contra todos; en otra, que el diálogo racional entre todos puede darnos normas comunes. Hobbes no creía que llegáramos a un acuerdo sin un poder que nos diera miedo; para Habermas, una norma solo es válida si todos los afectados podrían aceptarla en un diálogo libre. ¿Qué tendría que cambiar en las personas para que el diálogo funcione?"
+  },
+  {
+   "id": "t-sereno-miedo", "grado": "tension",
+   "a": ["m-estoico", "m-ataraxia", "m-serenidad"], "b": ["m-nada-miedo", "m-evitar-muerte"],
+   "titulo": "Admiras la calma ante la muerte… y te da miedo",
+   "texto": "En una respuesta admiras la serenidad ante la muerte, o dices que lo importante es vivir sin miedo; en otra, que la muerte te da miedo, o que hay que evitarla a toda costa. No es raro: casi todos pensamos una cosa y sentimos otra. Epicuro razonaba que la muerte no es nada para nosotros, porque cuando ella está, nosotros ya no estamos; Séneca, que hay que pasarse la vida aprendiendo a morir. ¿Te convencen, o el miedo pesa más que los argumentos?"
+  },
+  {
+   "id": "t-construccion-resuelto", "grado": "tension",
+   "a": ["m-lenguaje-poder", "m-construccion"], "b": ["m-resuelto"],
+   "titulo": "¿Construcción social… y problema resuelto?",
+   "texto": "En una respuesta dices que el lenguaje nombra a unos como la norma y a otras como «lo otro», o que lo femenino es una construcción social; en otra, que lo que se jugaba Beauvoir ya no importa hoy. Si algo es una construcción social, no desaparece solo porque cambien las leyes: sigue en las costumbres, en el lenguaje y en el reparto del trabajo en casa. Para Beauvoir, la igualdad ante la ley era solo el primer paso."
+  },
+  {
+   "id": "t-nada-vale-cuidar", "grado": "tension",
+   "a": ["m-nada-vale", "m-todo-se-hunde"], "b": ["m-cuidar-vida", "m-vinculos", "m-vulnerables"],
+   "titulo": "Nada vale… pero hay que cuidar la vida",
+   "texto": "En una respuesta dices que nada vale la pena, o que sin Dios todo se hunde; en otra, que hay que cuidar la vida, tejer vínculos sólidos o proteger a los más vulnerables. Si nada valiera, cuidar tampoco valdría. Quizá has descubierto por el camino que algo sí vale: para Camus, incluso en un mundo sin sentido, la solidaridad con los demás es una respuesta al absurdo."
   }
  ],
  "estaciones": {
