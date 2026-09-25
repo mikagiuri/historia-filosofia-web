@@ -2,7 +2,7 @@
 /* ===== «Rayuela filosófica» (Historia de la Filosofía 2.º) — datos =====
    Idea y grafo del profesor (12-2025): «El camino de la filosofía» / «Metro filosófico»
    (documento original: ver docs/13_diseno_narrativa_marco_HF.md, que es también el diseño).
-   Red 1 (de Sócrates a Descartes) y Red 2 (25-09: los modernos, de Galileo a Mill; transbordos desde 5, 7 y 9 como 4.ª opción con "red": 2). Enlaces revisados el 24-09-2026: 46.2 iba a una página 37 inexistente (→ 47);
+   Red 1 (de Sócrates a Descartes) y Red 2 (25-09: los modernos, de Galileo a Mill; transbordos desde 5, 7 y 9 como 4.ª opción con "red": 2) y Red 3 (25-09: los contemporáneos, de Kant a Beauvoir; transbordos desde 6, 10, 12, 15, 16 y 54). Enlaces revisados el 24-09-2026: 46.2 iba a una página 37 inexistente (→ 47);
    43, 44, 45 y 47 no tenían entrada (→ 7.2, 6.1, 9.3 y 46.2); 3.1 lleva al Jardín (48); 41.3 → 46.
    Sin bucles (24-09, v2): la red siempre avanza hacia los finales; 43.2→40, 93.1→10, 41.1→5, 91.1→5, 45.2→46,
    92.1→10, 94.2→10, 90.1→F, 90.2→B. Validar con: node tools/validar_rayuela.js (comprueba también que no haya ciclos)
@@ -19,11 +19,13 @@ const RAYUELA_HF = {
   { "id": "l-alma", "nombre": "Línea del alma", "color": "#2e9b5b" },
   { "id": "l-dios", "nombre": "Línea de Dios", "color": "#7d4fb5" },
   { "id": "l-cosmos", "nombre": "Línea del cosmos", "color": "#e0701b" },
+  { "id": "l-igualdad", "nombre": "Línea de la igualdad", "color": "#c2185b" },
   { "id": "l-contradiccion", "nombre": "Contradicciones", "color": "#d23a2b" }
  ],
  "redes": [
   { "n": 1, "nombre": "Red 1 · De Sócrates a Descartes", "abre": "2026-09-01" },
-  { "n": 2, "nombre": "Red 2 · Los modernos: de Galileo a Mill", "abre": "2026-09-25" }
+  { "n": 2, "nombre": "Red 2 · Los modernos: de Galileo a Mill", "abre": "2026-09-25" },
+  { "n": 3, "nombre": "Red 3 · Los contemporáneos: de Kant a Beauvoir", "abre": "2026-09-25" }
  ],
  "estaciones": {
   "1": {
@@ -95,7 +97,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "El mal no es una cosa: es ausencia de bien, alejarse de él.", "to": "44", "marca": "m-mal-privacion" },
     { "t": "Hay un orden racional divino, aunque no lo veamos entero.", "to": "8", "marca": "m-orden-divino" },
-    { "t": "Quizá Dios no sea tan bueno: podría estar engañándonos.", "to": "92", "marca": "m-dios-engana" }
+    { "t": "Quizá Dios no sea tan bueno: podría estar engañándonos.", "to": "92", "marca": "m-dios-engana" },
+    { "t": "¿Y si Dios ha muerto y el mal no necesita explicación?", "to": "21", "marca": "m-muerte-dios", "red": 3 }
    ],
    "temas": ["hf-fe-razon"], "autores": [{ "id": "agustin" }, { "id": "tomas" }]
   },
@@ -145,7 +148,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "El alma es inmortal: la muerte es el paso a una vida más verdadera.", "to": "FA", "marca": "m-inmortal" },
     { "t": "No lo sé; lo importante es vivir con serenidad mientras tanto.", "to": "FB", "marca": "m-serenidad" },
-    { "t": "No hay nada… aunque, por si acaso, me da miedo.", "to": "90", "marca": "m-nada-miedo" }
+    { "t": "No hay nada… aunque, por si acaso, me da miedo.", "to": "90", "marca": "m-nada-miedo" },
+    { "t": "¿Y si lo que importa no es qué hay después, sino qué hago con la vida que tengo?", "to": "23", "marca": "m-que-hago", "red": 3 }
    ],
    "temas": ["hf-antropologia", "hf-helenismo"], "autores": [{ "id": "socrates" }, { "id": "platon" }, { "id": "epicuro" }]
   },
@@ -342,7 +346,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "La conexión misma: la causa produce el efecto necesariamente.", "to": "97", "marca": "m-causa-necesaria" },
     { "t": "Solo que una cosa sigue a otra; la necesidad la pone mi costumbre.", "to": "51", "marca": "m-habito" },
-    { "t": "No lo sé, pero la ciencia funciona, y con eso me basta.", "to": "16", "marca": "m-funciona" }
+    { "t": "No lo sé, pero la ciencia funciona, y con eso me basta.", "to": "16", "marca": "m-funciona" },
+    { "t": "¿Y si la necesidad de las causas no la pone la costumbre, sino nuestra propia mente?", "to": "19", "marca": "m-a-priori", "red": 3 }
    ],
    "temas": ["hf-racionalismo"], "autores": [{ "id": "hume" }]
   },
@@ -378,7 +383,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "Todo el poder, en manos de un soberano: mejor un amo que el caos.", "to": "96", "marca": "m-absolutismo" },
     { "t": "Un poder limitado y dividido, que respete nuestros derechos.", "to": "FO", "marca": "m-poder-limitado" },
-    { "t": "El poder es del pueblo: las leyes deben expresar la voluntad general.", "to": "FP", "marca": "m-voluntad-general" }
+    { "t": "El poder es del pueblo: las leyes deben expresar la voluntad general.", "to": "FP", "marca": "m-voluntad-general" },
+    { "t": "¿Y si el poder de verdad no está en el gobierno, sino en quien tiene el dinero?", "to": "20", "marca": "m-poder-economico", "red": 3 }
    ],
    "temas": ["hf-contrato"], "autores": [{ "id": "hobbes" }, { "id": "locke" }, { "id": "rousseau" }]
   },
@@ -390,7 +396,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "Sí: lo correcto es lo que produce más felicidad para el mayor número.", "to": "55", "marca": "m-mayor-numero" },
     { "t": "No: hay cosas que no se le hacen a nadie, aunque salgan las cuentas.", "to": "FO", "marca": "m-derechos" },
-    { "t": "Depende: no todos los placeres ni todas las vidas se miden igual.", "to": "55", "marca": "m-calidad" }
+    { "t": "Depende: no todos los placeres ni todas las vidas se miden igual.", "to": "55", "marca": "m-calidad" },
+    { "t": "Busco una regla que valga para todos, sin hacer cuentas.", "to": "18", "marca": "m-regla-universal", "red": 3 }
    ],
    "temas": ["hf-utilitarismo"], "autores": [{ "id": "bentham" }, { "id": "mill" }]
   },
@@ -450,7 +457,8 @@ const RAYUELA_HF = {
    "opciones": [
     { "t": "Que hay que refundar la sociedad desde la voluntad de todos.", "to": "15", "marca": "m-refundar" },
     { "t": "Que exagera: la ciencia y las artes también nos han hecho mejores.", "to": "16", "marca": "m-progreso" },
-    { "t": "Que, si la sociedad corrompe, lo mejor es vivir aparte.", "to": "FC", "marca": "m-aparte" }
+    { "t": "Que, si la sociedad corrompe, lo mejor es vivir aparte.", "to": "FC", "marca": "m-aparte" },
+    { "t": "Quiero saber qué significa atreverse a pensar por uno mismo, como pedía la Ilustración.", "to": "17", "marca": "m-ilustracion", "red": 3 }
    ],
    "temas": ["hf-contrato", "hf-ilustracion"], "autores": [{ "id": "rousseau" }]
   },
@@ -516,6 +524,237 @@ const RAYUELA_HF = {
    ],
    "choque": ["m-sacrificio", "m-mayor-numero", "m-derechos-naturales", "m-poder-limitado", "m-tolerancia", "m-libertad-individual", "m-derechos"],
    "temas": ["hf-utilitarismo"], "autores": [{ "id": "mill" }]
+  },
+  "17": {
+   "tipo": "pregunta", "red": 3, "linea": "l-conocimiento", "xy": [20.2, 12.8],
+   "titulo": "¡Atrévete a pensar!",
+   "texto": "Königsberg, 1784. Kant define la Ilustración como la salida del ser humano de su minoría de edad: la incapacidad de servirse de su propio entendimiento sin la guía de otro. Su lema es «Sapere aude»: atrévete a pensar.",
+   "pregunta": "¿Te atreves a pensar por ti mismo?",
+   "opciones": [
+    { "t": "Sí: la razón es la misma para todos y puedo usarla sin tutores.", "to": "19", "marca": "m-autonomia" },
+    { "t": "Con cuidado: la razón ilustrada también ha servido para dominar a la naturaleza y a las personas.", "to": "20", "marca": "m-razon-dominio" },
+    { "t": "¿Qué razón? Cada época y cada cultura tiene la suya.", "to": "21", "marca": "m-perspectivismo" }
+   ],
+   "temas": ["hf-ilustracion"], "autores": [{ "id": "kant" }, { "id": "adorno" }]
+  },
+  "18": {
+   "tipo": "pregunta", "red": 3, "linea": "l-felicidad", "xy": [25.4, 10.6],
+   "titulo": "El deber",
+   "texto": "Has prometido a una amiga guardar un secreto. Ahora contarlo te vendría muy bien: nadie se enteraría de que fuiste tú.",
+   "pregunta": "¿Qué haces?",
+   "opciones": [
+    { "t": "Lo guardo: solo actúo según una regla que pudiera valer para todos.", "to": "FR", "marca": "m-imperativo" },
+    { "t": "Lo cuento si así es más feliz más gente.", "to": "55", "marca": "m-consecuencias" },
+    { "t": "Ni deber ni cálculo: los valores los decido yo.", "to": "21", "marca": "m-valores-propios" }
+   ],
+   "temas": ["hf-etica-deber"], "autores": [{ "id": "kant" }, { "id": "mill" }]
+  },
+  "19": {
+   "tipo": "pregunta", "red": 3, "linea": "l-conocimiento", "xy": [22.2, 12.8],
+   "titulo": "Los límites de la razón",
+   "texto": "Kant se pregunta qué puede conocer la razón y dónde están sus límites. Su respuesta cambia la filosofía: no es el conocimiento el que se adapta a las cosas, sino las cosas las que se adaptan a nuestra manera de conocer.",
+   "pregunta": "¿Conocemos el mundo tal como es?",
+   "opciones": [
+    { "t": "Solo como se nos aparece: nuestra mente pone el espacio, el tiempo y las causas.", "to": "60", "marca": "m-fenomeno" },
+    { "t": "Sí, y cada vez mejor: la ciencia nos da el mundo tal como es y lo demás es palabrería.", "to": "22", "marca": "m-cientificismo" },
+    { "t": "No hay hechos, solo interpretaciones.", "to": "21", "marca": "m-interpretaciones" }
+   ],
+   "temas": ["hf-kant"], "autores": [{ "id": "kant" }, { "id": "nietzsche" }]
+  },
+  "20": {
+   "tipo": "pregunta", "red": 3, "linea": "l-ciudad", "xy": [19.4, 10.8],
+   "titulo": "La fábrica",
+   "texto": "Manchester, 1845. Trabajas catorce horas al día en una fábrica textil, igual que tus hijos pequeños, y cobras lo justo para no morirte de hambre. El dueño de la fábrica se hace cada año más rico.",
+   "pregunta": "¿Qué está pasando?",
+   "opciones": [
+    { "t": "Explotación: unos viven del trabajo que otros no cobran.", "to": "61", "marca": "m-explotacion" },
+    { "t": "Es el mercado: quien arriesga su capital merece el beneficio.", "to": "FO", "marca": "m-mercado" },
+    { "t": "Una injusticia que se arreglaría con un reparto que cualquiera aceptaría sin saber qué lugar le iba a tocar.", "to": "FX", "marca": "m-velo" }
+   ],
+   "temas": ["hf-capitalismo", "hf-sospecha"], "autores": [{ "id": "marx" }, { "id": "rawls" }]
+  },
+  "21": {
+   "tipo": "pregunta", "red": 3, "linea": "l-dios", "xy": [21.6, 9.4],
+   "titulo": "Dios ha muerto",
+   "texto": "«Dios ha muerto, y nosotros lo hemos matado», escribe Nietzsche en 1882. No habla de religión, sino de algo más grave: ya no hay un fundamento seguro —Dios, la razón, la verdad— que diga qué vale y qué no.",
+   "pregunta": "¿Y ahora qué?",
+   "opciones": [
+    { "t": "Crear mis propios valores y decir sí a la vida, también a lo que duele.", "to": "62", "marca": "m-crear-valores" },
+    { "t": "Si nada tiene fundamento, nada vale la pena.", "to": "95", "marca": "m-nada-vale" },
+    { "t": "Sin Dios, el diálogo racional entre todos puede darnos normas comunes.", "to": "FW", "marca": "m-dialogo" }
+   ],
+   "temas": ["hf-sospecha", "hf-posmodernidad"], "autores": [{ "id": "nietzsche" }, { "id": "habermas" }]
+  },
+  "22": {
+   "tipo": "pregunta", "red": 3, "linea": "l-conocimiento", "xy": [23.2, 10.6],
+   "titulo": "El lenguaje",
+   "texto": "A comienzos del siglo XX, muchos filósofos llegan a una sospecha: quizá buena parte de los problemas de la filosofía no sean problemas del mundo, sino malentendidos del lenguaje.",
+   "pregunta": "¿Qué piensas del lenguaje?",
+   "opciones": [
+    { "t": "Que lo que no se puede decir con claridad, mejor callarlo.", "to": "63", "marca": "m-callar" },
+    { "t": "Que el significado de una palabra es su uso: aprendemos a hablar jugando juegos de lenguaje.", "to": "FW", "marca": "m-uso" },
+    { "t": "Que no es neutral: nombra a unos como la norma y a otras como «lo otro».", "to": "24", "marca": "m-lenguaje-poder" }
+   ],
+   "temas": ["hf-analitica"], "autores": [{ "id": "wittgenstein" }]
+  },
+  "23": {
+   "tipo": "pregunta", "red": 3, "linea": "l-alma", "xy": [23.4, 6.6],
+   "titulo": "La existencia",
+   "texto": "Nadie te preguntó si querías nacer. Estás aquí, en un tiempo y un lugar que no elegiste, y tienes que decidir qué hacer con tu vida sin que nadie te dé el manual de instrucciones.",
+   "pregunta": "¿Qué haces con tu existencia?",
+   "opciones": [
+    { "t": "Estoy condenado a ser libre: soy lo que hago.", "to": "64", "marca": "m-condenado-libre" },
+    { "t": "La vida es absurda, y aun así hay que vivirla con rebeldía.", "to": "FU", "marca": "m-absurdo" },
+    { "t": "La entiendo desde mi circunstancia, y con una razón que escuche también lo que siento.", "to": "66", "marca": "m-circunstancia" }
+   ],
+   "temas": ["hf-existencialismo"], "autores": [{ "id": "sartre" }, { "id": "camus" }, { "id": "ortega" }]
+  },
+  "24": {
+   "tipo": "pregunta", "red": 3, "linea": "l-igualdad", "xy": [22.6, 4.6],
+   "titulo": "No se nace mujer",
+   "texto": "«No se nace mujer: se llega a serlo», escribe Simone de Beauvoir en 1949. La frase se convierte en uno de los puntos de partida del feminismo contemporáneo.",
+   "pregunta": "¿Qué quiere decir?",
+   "opciones": [
+    { "t": "Que lo femenino es una construcción social, no un destino biológico.", "to": "65", "marca": "m-construccion" },
+    { "t": "Que hombres y mujeres son iguales en derechos, y hay que reconocerlo en las leyes.", "to": "67", "marca": "m-derechos-todas" },
+    { "t": "Que exagera: cada sexo tiene su naturaleza y su papel.", "to": "100", "marca": "m-naturaleza-sexo" }
+   ],
+   "temas": ["hf-beauvoir"], "autores": [{ "id": "beauvoir" }, { "id": "wollstonecraft" }]
+  },
+  "60": {
+   "tipo": "vida", "red": 3, "linea": "l-conocimiento", "xy": [24.2, 12.2],
+   "titulo": "El paseo de Kant",
+   "texto": "Königsberg, hacia 1780. Kant nunca sale de su ciudad. Se levanta a las cinco, da clase, escribe y, cada tarde, sale a pasear a la misma hora por la misma avenida; los vecinos, dicen, ponían el reloj en hora al verlo pasar. Solo una vez faltó al paseo: se quedó en casa leyendo el Emilio de Rousseau.",
+   "pregunta": "¿Qué te parece una vida tan regular?",
+   "opciones": [
+    { "t": "Coherente: ser libre es darse a uno mismo la ley y cumplirla.", "to": "18", "marca": "m-autonomia" },
+    { "t": "Honrada: pone límites a la razón; de Dios o del alma no podemos saber nada.", "to": "21", "marca": "m-limites-razon" },
+    { "t": "Demasiado orden: la vida no cabe en reglas.", "to": "23", "marca": "m-vida-sin-reglas" }
+   ],
+   "temas": ["hf-kant", "hf-etica-deber"], "autores": [{ "id": "kant" }]
+  },
+  "61": {
+   "tipo": "vida", "red": 3, "linea": "l-ciudad", "xy": [19.2, 8.6],
+   "titulo": "Marx en el Museo Británico",
+   "texto": "Londres, década de 1850. Marx vive exiliado y en la pobreza; tres de sus hijos mueren pequeños. Cada día va a la sala de lectura del Museo Británico a estudiar economía para escribir El capital. Ya lo había dejado escrito: los filósofos no han hecho más que interpretar el mundo; de lo que se trata es de transformarlo.",
+   "pregunta": "¿Qué te parece su tesis?",
+   "opciones": [
+    { "t": "Tiene razón: hay que cambiar el mundo, no solo pensarlo.", "to": "FS", "marca": "m-transformar" },
+    { "t": "Transformarlo, sí, pero nunca a costa de la libertad de cada uno.", "to": "99", "marca": "m-libertad-primero" },
+    { "t": "La sospecha puede ir más lejos: también la moral y la razón esconden intereses.", "to": "21", "marca": "m-sospecha" }
+   ],
+   "temas": ["hf-capitalismo", "hf-sospecha"], "autores": [{ "id": "marx" }]
+  },
+  "62": {
+   "tipo": "vida", "red": 3, "linea": "l-dios", "xy": [22.6, 8],
+   "titulo": "Nietzsche en Turín",
+   "texto": "Turín, enero de 1889. Nietzsche ve cómo un cochero azota a su caballo en la plaza. Corre hacia el animal, se abraza a su cuello llorando y se desploma. Ya no recuperará la razón. El filósofo que había criticado la compasión termina sus días lúcidos abrazado a un caballo.",
+   "pregunta": "¿Qué ves en la escena?",
+   "opciones": [
+    { "t": "Al hombre que quiso decir sí a toda la vida, también al dolor.", "to": "FT", "marca": "m-si-a-la-vida" },
+    { "t": "La prueba de que, sin Dios, todo se hunde.", "to": "95", "marca": "m-todo-se-hunde" },
+    { "t": "Que la compasión que criticaba estaba dentro de él.", "to": "23", "marca": "m-compasion" }
+   ],
+   "temas": ["hf-sospecha", "hf-posmodernidad"], "autores": [{ "id": "nietzsche" }]
+  },
+  "63": {
+   "tipo": "vida", "red": 3, "linea": "l-conocimiento", "xy": [24.6, 8.8],
+   "titulo": "Wittgenstein en la trinchera",
+   "texto": "Frente oriental, 1916. Wittgenstein, hijo de una de las familias más ricas de Europa, se ha alistado como soldado raso. Pide los puestos más peligrosos y, entre combate y combate, escribe en un cuaderno el Tractatus. Al volver de la guerra regala toda su fortuna y se hace maestro en una escuela de pueblo.",
+   "pregunta": "¿Qué piensas?",
+   "opciones": [
+    { "t": "Que lo más importante —la ética, el sentido de la vida— no se dice: se muestra viviendo.", "to": "23", "marca": "m-mostrar" },
+    { "t": "Que, si todo lo importante es indecible, la filosofía no sirve para nada.", "to": "FD", "marca": "m-filosofia-inutil" },
+    { "t": "Que hizo bien en cambiar de vida y, más tarde, de ideas: pensar es corregirse.", "to": "FW", "marca": "m-corregirse" }
+   ],
+   "temas": ["hf-analitica"], "autores": [{ "id": "wittgenstein" }]
+  },
+  "64": {
+   "tipo": "vida", "red": 3, "linea": "l-alma", "xy": [24.8, 6.8],
+   "titulo": "Sartre rechaza el Nobel",
+   "texto": "París, 1964. La Academia sueca concede el Premio Nobel de Literatura a Jean-Paul Sartre. Él lo rechaza: un escritor no debe dejarse convertir en una institución. Es el primero en renunciar voluntariamente al premio.",
+   "pregunta": "¿Qué te parece su gesto?",
+   "opciones": [
+    { "t": "Coherente: nadie puede definirme, salvo mis actos.", "to": "FU", "marca": "m-actos" },
+    { "t": "Bien, pero mi libertad depende también de la de los demás, como decía Beauvoir.", "to": "24", "marca": "m-libertad-otros" },
+    { "t": "Prefiero una razón más humilde, que se deje tocar por lo que vive.", "to": "66", "marca": "m-razon-humilde" }
+   ],
+   "temas": ["hf-existencialismo"], "autores": [{ "id": "sartre" }]
+  },
+  "65": {
+   "tipo": "vida", "red": 3, "linea": "l-igualdad", "xy": [21.2, 3.6],
+   "titulo": "Beauvoir en el Índice",
+   "texto": "París, 1949. Simone de Beauvoir publica El segundo sexo. Vende veintidós mil ejemplares en una semana, recibe insultos y cartas furiosas, y el Vaticano incluye el libro en su Índice de libros prohibidos. Hoy se lee en todo el mundo.",
+   "pregunta": "¿Qué se jugaba con ese libro?",
+   "opciones": [
+    { "t": "La libertad de las mujeres: nadie debe definirlas desde fuera.", "to": "FV", "marca": "m-libertad-mujeres" },
+    { "t": "La libertad de todos: la opresión de unas personas limita la libertad de las demás.", "to": "FU", "marca": "m-libertad-todos" },
+    { "t": "Nada que siga importando hoy: es un problema resuelto.", "to": "100", "marca": "m-resuelto" }
+   ],
+   "temas": ["hf-beauvoir"], "autores": [{ "id": "beauvoir" }]
+  },
+  "66": {
+   "tipo": "vida", "red": 3, "linea": "l-alma", "xy": [25.6, 5.2],
+   "titulo": "Zambrano cruza la frontera",
+   "texto": "Pirineos, enero de 1939. María Zambrano, discípula de Ortega, cruza a pie la frontera con su madre entre la multitud que huye de la Guerra Civil. Empieza un exilio de cuarenta y cinco años en México, Cuba, Italia y Suiza. Allí piensa una «razón poética»: una razón que no desprecie lo que se siente.",
+   "pregunta": "¿Qué aprendes de ella?",
+   "opciones": [
+    { "t": "Que la razón tiene que hacerse poética y abrirse a lo que sentimos y no sabemos decir.", "to": "FY", "marca": "m-razon-poetica" },
+    { "t": "Que yo soy yo y mi circunstancia: hay que pensar desde la propia vida, como decía Ortega.", "to": "FY", "marca": "m-razon-vital" },
+    { "t": "Que la política decide nuestras vidas: hay que comprometerse.", "to": "FU", "marca": "m-compromiso" }
+   ],
+   "temas": ["hf-existencialismo"], "autores": [{ "id": "zambrano" }, { "id": "ortega" }]
+  },
+  "67": {
+   "tipo": "vida", "red": 3, "linea": "l-igualdad", "xy": [23.8, 3.4],
+   "titulo": "Olympe de Gouges",
+   "texto": "París, 1791. La Revolución ha proclamado los derechos del hombre y del ciudadano. Olympe de Gouges responde con la Declaración de los Derechos de la Mujer y de la Ciudadana: «La mujer tiene derecho a subir al cadalso; debe tener también el de subir a la tribuna». En 1793 es guillotinada.",
+   "pregunta": "¿Qué concluyes?",
+   "opciones": [
+    { "t": "Que tenía razón: los derechos, o son de todas las personas, o no son derechos.", "to": "FV", "marca": "m-universalidad" },
+    { "t": "Que la igualdad ante la ley no basta si sigue la desigualdad en la economía y en casa.", "to": "FS", "marca": "m-igualdad-real" },
+    { "t": "Que las declaraciones no sirven sin instituciones que protejan los derechos.", "to": "FO", "marca": "m-instituciones" }
+   ],
+   "temas": ["hf-ilustracion", "hf-beauvoir"], "autores": [{ "id": "gouges" }, { "id": "wollstonecraft" }]
+  },
+  "95": {
+   "tipo": "contradiccion", "red": 3, "linea": "l-contradiccion", "xy": [21.4, 5.8],
+   "titulo": "Contradicción: nada vale, pero eliges",
+   "texto": "Dices que nada vale la pena, pero sigues eligiendo, discutiendo y queriendo cosas: con cada elección dices que algo vale más que otra cosa. Nietzsche llamaba a esa actitud nihilismo pasivo, y quería superarla.",
+   "pregunta": "¿Cómo sales de aquí?",
+   "opciones": [
+    { "t": "Creo mis propios valores.", "to": "FT" },
+    { "t": "Busco el sentido en lo que hago con mi vida.", "to": "23" },
+    { "t": "Mantengo que nada vale nada.", "to": "FJ" }
+   ],
+   "choque": ["m-nada-vale", "m-todo-se-hunde", "m-valores-propios", "m-crear-valores", "m-autonomia", "m-imperativo"],
+   "temas": ["hf-posmodernidad"], "autores": [{ "id": "nietzsche" }]
+  },
+  "99": {
+   "tipo": "contradiccion", "red": 3, "linea": "l-contradiccion", "xy": [20.4, 7.2],
+   "titulo": "Contradicción: igualdad o propiedad",
+   "texto": "Denuncias la explotación y, a la vez, defiendes que la propiedad y el mercado son intocables; o quieres transformarlo todo sin que nadie pierda nada. Marx y Locke no pueden tener razón a la vez sobre la propiedad.",
+   "pregunta": "¿Cómo sales de aquí?",
+   "opciones": [
+    { "t": "La igualdad va primero.", "to": "FS" },
+    { "t": "La libertad va primero.", "to": "FO" },
+    { "t": "Busco un reparto que pueda aceptar todo el mundo.", "to": "FX" }
+   ],
+   "choque": ["m-explotacion", "m-transformar", "m-libertad-primero", "m-mercado", "m-derechos-naturales", "m-poder-limitado", "m-libertad-individual", "m-poder-economico"],
+   "temas": ["hf-capitalismo"], "autores": [{ "id": "marx" }, { "id": "locke" }, { "id": "rawls" }]
+  },
+  "100": {
+   "tipo": "contradiccion", "red": 3, "linea": "l-contradiccion", "xy": [25, 2.8],
+   "titulo": "Contradicción: libertad o destino",
+   "texto": "Has defendido que somos libres, que los derechos son de todos o que cada cual se hace a sí mismo; y ahora, que el sexo marca un destino, o que la desigualdad ya no existe. Beauvoir preguntaría: ¿libres todos, o solo algunos?",
+   "pregunta": "¿Cómo sales de aquí?",
+   "opciones": [
+    { "t": "Corrijo: nadie nace con un destino escrito.", "to": "FV" },
+    { "t": "Acepto que somos libres, aunque la biología también cuenta.", "to": "FU" },
+    { "t": "Mantengo que cada sexo tiene su destino natural.", "to": "FK" }
+   ],
+   "choque": ["m-naturaleza-sexo", "m-resuelto", "m-condenado-libre", "m-autonomia", "m-derechos-todas", "m-libertad-otros", "m-actos", "m-derechos-naturales"],
+   "temas": ["hf-beauvoir", "hf-existencialismo"], "autores": [{ "id": "beauvoir" }]
   }
  },
  "terminales": {
@@ -637,6 +876,62 @@ const RAYUELA_HF = {
    "abierto": "¿Se puede sacrificar a una persona si así se salva a muchas?",
    "reflexion": "¿Deben juzgarse las acciones solo por sus consecuencias?",
    "autores": [{ "id": "bentham" }, { "id": "mill" }], "temas": ["hf-utilitarismo"]
+  },
+  "R": {
+   "xy": [19.2, 0.9], "titulo": "Autonomía",
+   "texto": "Crees que la moral no depende de las consecuencias ni de lo que te apetece, sino de actuar según una regla que pudiera valer para todos, y de tratar a las personas siempre como fines y nunca solo como medios. Es el imperativo categórico de Kant.",
+   "abierto": "¿Y si cumplir una regla universal hace daño en un caso concreto, como no mentir a quien busca a alguien para hacerle daño?",
+   "reflexion": "¿Debemos cumplir nuestro deber aunque las consecuencias sean malas?",
+   "autores": [{ "id": "kant" }], "temas": ["hf-kant", "hf-etica-deber"]
+  },
+  "S": {
+   "xy": [20.2, 0.9], "titulo": "Emancipación",
+   "texto": "Para ti la filosofía no basta con entender el mundo: hay que cambiarlo. La desigualdad no es natural, sino fruto de cómo se organiza el trabajo y la propiedad, y puede superarse. Es la línea de Marx y, en el siglo XX, de la Escuela de Fráncfort.",
+   "abierto": "¿Cómo se transforma la sociedad sin que la transformación acabe en una nueva opresión?",
+   "reflexion": "¿Es posible una sociedad sin desigualdades?",
+   "autores": [{ "id": "marx" }, { "id": "adorno" }], "temas": ["hf-capitalismo", "hf-sospecha"]
+  },
+  "T": {
+   "xy": [21.2, 0.9], "titulo": "Crear valores",
+   "texto": "Sin un fundamento absoluto, no te hundes: decides crear tus propios valores y decir sí a la vida entera, también al dolor. Es el reto que Nietzsche planteó con la figura del superhombre.",
+   "abierto": "Si cada uno crea sus valores, ¿con qué criterio podemos criticar los valores de otro?",
+   "reflexion": "¿Existen valores universales o los crea cada persona?",
+   "autores": [{ "id": "nietzsche" }], "temas": ["hf-posmodernidad", "hf-sospecha"]
+  },
+  "U": {
+   "xy": [22.2, 0.9], "titulo": "Existencialista",
+   "texto": "Para ti la existencia precede a la esencia: no naces con una naturaleza fija, te haces con lo que eliges, y eres responsable de ello. Es la línea de Sartre, Camus y Beauvoir.",
+   "abierto": "Si somos totalmente libres, ¿cómo pesan la clase social, la educación o el cuerpo en lo que llegamos a ser?",
+   "reflexion": "¿Somos lo que hacemos?",
+   "autores": [{ "id": "sartre" }, { "id": "camus" }, { "id": "beauvoir" }], "temas": ["hf-existencialismo"]
+  },
+  "V": {
+   "xy": [23.2, 0.9], "titulo": "Feminista",
+   "texto": "Crees que la desigualdad entre mujeres y hombres no es natural, sino construida, y que los derechos o son de todas las personas o no son derechos. Es la línea que va de Olympe de Gouges y Mary Wollstonecraft a Simone de Beauvoir.",
+   "abierto": "¿Basta con la igualdad en las leyes, o hay que cambiar también la vida cotidiana?",
+   "reflexion": "¿Es el género una construcción social?",
+   "autores": [{ "id": "beauvoir" }, { "id": "wollstonecraft" }, { "id": "gouges" }], "temas": ["hf-beauvoir"]
+  },
+  "W": {
+   "xy": [24.2, 0.9], "titulo": "Razón dialógica",
+   "texto": "Sin un fundamento absoluto, confías en que el diálogo entre todos, sin coacciones y dando razones, puede llevarnos a normas comunes. Es la propuesta de Habermas frente a quienes dicen que todo vale.",
+   "abierto": "¿Qué pasa con quienes no pueden participar en el diálogo en igualdad de condiciones?",
+   "reflexion": "¿Puede el diálogo resolver los desacuerdos morales?",
+   "autores": [{ "id": "habermas" }, { "id": "wittgenstein" }], "temas": ["hf-posmodernidad", "hf-analitica"]
+  },
+  "X": {
+   "xy": [25.2, 0.9], "titulo": "Justicia como equidad",
+   "texto": "Crees que una sociedad justa es la que elegiríamos si no supiéramos qué lugar nos iba a tocar en ella: libertades iguales para todos y desigualdades solo si benefician a quienes están peor. Es el velo de ignorancia de Rawls.",
+   "abierto": "¿Cuánta desigualdad es aceptable para que una sociedad siga siendo justa?",
+   "reflexion": "¿Qué hace justa a una sociedad?",
+   "autores": [{ "id": "rawls" }], "temas": ["hf-capitalismo"]
+  },
+  "Y": {
+   "xy": [26.2, 0.9], "titulo": "Razón vital y poética",
+   "texto": "Para ti pensar es pensar desde la propia vida y su circunstancia, con una razón que no desprecie los sentimientos ni lo que no sabemos decir. Es la filosofía de Ortega y Gasset, de María Zambrano y, a su manera, de Unamuno.",
+   "abierto": "Si la razón se abre a los sentimientos, ¿cómo evitamos que acabe dándole la razón a lo que simplemente nos apetece?",
+   "reflexion": "¿Puede la razón comprender la vida?",
+   "autores": [{ "id": "ortega" }, { "id": "zambrano" }, { "id": "unamuno" }], "temas": ["hf-existencialismo"]
   }
  }
 };
