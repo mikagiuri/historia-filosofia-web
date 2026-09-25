@@ -6779,5 +6779,3914 @@ const QUIZZES = {
     "fb": "Respuesta correcta: El problema de la comunicación entre las sustancias."
    }
   ]
+ },
+ "hf-a01-banco": {
+  "name": "T1 · Historicidad y universalidad de la filosofía (banco ampliado)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "Según el tema, ¿por qué la historia de la filosofía no es un simple catálogo de autores y fechas?",
+    "o": [
+     "Porque solo estudia a los autores cuyas ideas han resultado verdaderas con el paso del tiempo.",
+     "Porque prescinde del contexto y analiza los argumentos como si fueran intemporales.",
+     "Porque se pregunta por qué surgieron las ideas, cómo se transmitieron y por qué nos interpelan.",
+     "Porque se limita a ordenar las opiniones de cada autor sin entrar a valorarlas."
+    ],
+    "a": 2,
+    "fb": "La historia de la filosofía se pregunta por el sentido de las ideas: por qué aparecieron, en qué contexto, cómo se transmitieron y por qué siguen interpelándonos."
+   },
+   {
+    "q": "¿Qué factores sitúan una pregunta filosófica en su contexto, según el tema?",
+    "o": [
+     "El nivel de conocimientos, el poder, la lengua y las inquietudes de la sociedad.",
+     "Únicamente el carácter, la formación y la biografía personal del filósofo que la plantea.",
+     "Solo las creencias religiosas dominantes en la época en que se formula.",
+     "La lógica interna de la razón, que es igual en todas las épocas y culturas."
+    ],
+    "a": 0,
+    "fb": "Cada pregunta nace con un nivel de conocimientos, dentro de una organización del poder, a través de una lengua y empujada por las inquietudes de una sociedad: eso es la historicidad."
+   },
+   {
+    "q": "«Toda filosofía es su propia época aprehendida en pensamientos.» ¿Quién escribió esta frase?",
+    "o": [
+     "Platón",
+     "Tomás de Aquino",
+     "Rawls",
+     "Hegel"
+    ],
+    "a": 3,
+    "fb": "La frase es de G. W. F. Hegel, en el prefacio de los Fundamentos de la filosofía del derecho, y subraya que cada filosofía expresa su época."
+   },
+   {
+    "q": "Según el tema, ¿qué papel tiene la época en la formulación de una pregunta filosófica?",
+    "o": [
+     "La determina por completo: cada época dicta sus preguntas y también sus respuestas.",
+     "La condiciona, aunque no decide toda la pregunta.",
+     "No influye: las preguntas filosóficas surgen al margen del contexto.",
+     "Solo influye en el estilo literario, no en el contenido de la pregunta."
+    ],
+    "a": 1,
+    "fb": "El tema lo dice así: la época no decide toda la pregunta, pero condiciona cómo se formula."
+   },
+   {
+    "q": "Un alumno lee a un autor medieval y le extraña que dedique tantas páginas a probar que Dios existe. ¿Qué concepto del tema le ayudaría a entenderlo?",
+    "o": [
+     "La universalidad: todas las épocas han dado prioridad a demostrar la existencia de Dios.",
+     "La historicidad: en la Edad Media la existencia de Dios era una inquietud central.",
+     "El canon: solo se han conservado los autores medievales que trataban temas religiosos.",
+     "La transmisión: los monasterios cambiaron el contenido original de esos textos."
+    ],
+    "a": 1,
+    "fb": "La historicidad explica que cada época tiene sus inquietudes: en la Edad Media, la existencia de Dios y la relación entre fe y razón ocuparon el centro."
+   },
+   {
+    "q": "¿Por qué ciertas preguntas, como «¿somos libres?» o «¿qué es el bien?», se consideran universales?",
+    "o": [
+     "Porque se formularon por primera vez en Grecia y desde allí se exportaron a otras culturas.",
+     "Porque todas las culturas han llegado a la misma respuesta sobre ellas.",
+     "Porque las impusieron las universidades medievales como temas obligatorios.",
+     "Porque están ligadas a las inquietudes básicas de la vida humana."
+    ],
+    "a": 3,
+    "fb": "Esas preguntas no son propiedad de una sola cultura porque nacen de inquietudes básicas de la vida humana; por eso reaparecen una y otra vez."
+   },
+   {
+    "q": "¿Qué significa que la filosofía sea una «tradición crítica renovada»?",
+    "o": [
+     "Que sus preguntas nacen en un contexto, pero pueden releerse en otras épocas.",
+     "Que cada época rechaza por completo la filosofía anterior y empieza desde cero.",
+     "Que la tradición conserva intactas las respuestas de los clásicos sin revisarlas.",
+     "Que la crítica filosófica consiste en quedarse siempre con la opinión más reciente."
+    ],
+    "a": 0,
+    "fb": "El tema concluye que la filosofía es una tradición crítica renovada: las preguntas nacen en un contexto, pero pueden releerse en otras épocas."
+   },
+   {
+    "q": "¿Qué aspecto de una pregunta filosófica destaca la historicidad y cuál la universalidad?",
+    "o": [
+     "La historicidad, que reaparece en otras épocas; la universalidad, su origen en un contexto.",
+     "La historicidad, el autor que la plantea; la universalidad, la lengua en que se escribe.",
+     "La historicidad, su origen en un contexto; la universalidad, que reaparece en otras épocas.",
+     "La historicidad, las preguntas que se hacen; la universalidad, la única respuesta correcta."
+    ],
+    "a": 2,
+    "fb": "La historicidad sitúa cada pregunta en su época, sociedad y cultura; la universalidad señala que ciertas preguntas vuelven a plantearse en épocas y culturas distintas."
+   },
+   {
+    "q": "Según el tema, ¿por qué algunas ideas filosóficas se debilitaron o desaparecieron?",
+    "o": [
+     "Porque con el tiempo se demostró de manera definitiva que eran falsas.",
+     "Porque estaban demasiado ligadas a su propia época para interesar después.",
+     "Porque la universalidad solo permite conservar las ideas verdaderas.",
+     "Porque carecieron de una red de transmisión que las enseñara y copiara."
+    ],
+    "a": 3,
+    "fb": "Unas ideas sobrevivieron porque una escuela las defendió, enseñó o reinterpretó; otras se debilitaron o desaparecieron por carecer de red de transmisión."
+   },
+   {
+    "q": "Una asociación juvenil debate si las becas deben darse por renta o por notas, y alguien recuerda que Platón ya discutió la justicia. ¿Qué rasgo de la filosofía ilustra el caso?",
+    "o": [
+     "La universalidad: el problema de la convivencia justa reaparece en épocas distintas.",
+     "La historicidad: lo que dijo Platón sobre la justicia solo tiene sentido en la Atenas clásica.",
+     "El canon: Platón es un clásico porque dio la respuesta definitiva sobre la justicia.",
+     "La transmisión: la idea de justicia la inventó Platón y desde entonces se ha copiado."
+    ],
+    "a": 0,
+    "fb": "La justicia es un problema común a épocas distintas (Platón, Tomás de Aquino, Rawls, nosotros): eso es la universalidad, aunque las respuestas cambien."
+   },
+   {
+    "q": "Según el tema, la imagen que tenemos de un pensador suele basarse en…",
+    "o": [
+     "la lectura completa de todas sus obras, que se han conservado íntegras.",
+     "lo que se salvó y copió de su obra y lo que sus sucesores juzgaron importante.",
+     "su biografía personal, más que en los textos que llegó a escribir.",
+     "el juicio de sus contemporáneos, que siempre es el más fiable."
+    ],
+    "a": 1,
+    "fb": "La imagen de un pensador rara vez se construye sobre su obra completa, sino sobre lo que se salvó, lo que se copió y lo que sus sucesores consideraron importante."
+   },
+   {
+    "q": "¿Qué inquietud ocupó el centro de la filosofía medieval, según el tema?",
+    "o": [
+     "La autonomía humana y la emancipación por medio de la razón.",
+     "La naturaleza y el principio que ordena el cosmos.",
+     "La existencia de Dios y la relación entre fe y razón.",
+     "La organización justa de la democracia en la ciudad."
+    ],
+    "a": 2,
+    "fb": "En la Edad Media, la existencia de Dios y la relación entre fe y razón ocuparon el centro; la naturaleza fue la inquietud griega y la autonomía, la ilustrada."
+   },
+   {
+    "q": "¿En qué se parecen los procesos de transmisión y de formación del canon?",
+    "o": [
+     "En que en ambos solo sobreviven las ideas más verdaderas y mejor argumentadas.",
+     "En que en ambos el contexto histórico no desempeña ningún papel.",
+     "En que en ambos influyen factores ajenos a la calidad de las ideas.",
+     "En que en ambos las decisiones corresponden solo a los propios autores."
+    ],
+    "a": 2,
+    "fb": "Las ideas sobreviven si tienen red de transmisión, y el canon lo han decidido en gran parte relaciones de poder: en ambos casos lo que nos llega no depende solo de su valor."
+   },
+   {
+    "q": "Según el tema, ¿qué ha decidido en gran medida qué autores y obras se consideran «clásicos»?",
+    "o": [
+     "Las relaciones de poder patriarcales y colonialistas.",
+     "La calidad argumentativa, medida con criterios neutrales.",
+     "El número de obras que escribió cada autor.",
+     "El acuerdo de los filósofos contemporáneos de cada autor."
+    ],
+    "a": 0,
+    "fb": "El tema afirma que las relaciones de poder patriarcales y colonialistas han decidido, en gran medida, qué es «clásico» y qué no."
+   },
+   {
+    "q": "«La época no decide toda la pregunta, pero condiciona cómo se formula.» ¿Qué concepto del tema queda matizado en esta afirmación?",
+    "o": [
+     "La universalidad",
+     "El canon",
+     "La transmisión",
+     "La historicidad"
+    ],
+    "a": 3,
+    "fb": "La frase matiza la historicidad: el pensamiento está situado en su época, pero la época no determina por completo las preguntas."
+   },
+   {
+    "q": "Una estudiante sostiene que leer hoy a Aristóteles es inútil porque vivió en otra sociedad. ¿Qué le respondería el tema?",
+    "o": [
+     "Que tiene razón, porque la historicidad encierra cada filosofía en su propia época.",
+     "Que su pensamiento está situado, pero plantea preguntas que siguen vivas y pueden releerse.",
+     "Que no tiene razón, porque Aristóteles pensó al margen de su contexto histórico.",
+     "Que no tiene razón, porque las respuestas de Aristóteles son válidas para siempre."
+    ],
+    "a": 1,
+    "fb": "Estudiar filosofía es situar cada idea en su época y, a la vez, reconocer en ella una pregunta que sigue viva; la historicidad no encierra las ideas en su tiempo."
+   },
+   {
+    "q": "Ante la marginación de mujeres filósofas y pensadores no europeos, ¿qué tarea propone el tema?",
+    "o": [
+     "Ampliar y revisar el canon, deber de quien se dedica a la filosofía.",
+     "Sustituir a los autores clásicos europeos por autores no europeos.",
+     "Mantener el canon tal como está, porque su selección responde a la calidad.",
+     "Dejar la historia de la filosofía y centrarse solo en problemas actuales."
+    ],
+    "a": 0,
+    "fb": "El tema afirma que ampliar y revisar el canon es un deber de quienes se dedican a la filosofía; no propone sustituirlo, sino ampliarlo."
+   },
+   {
+    "q": "¿Qué tienen en común la Academia, el Liceo, los monasterios y los centros de traducción?",
+    "o": [
+     "Fueron escuelas fundadas en la Grecia clásica por discípulos de Sócrates.",
+     "Se dedicaron a guardar textos sin comentarlos ni reinterpretarlos.",
+     "Defendieron todos una misma doctrina filosófica frente a las demás.",
+     "Formaron redes sin las cuales muchas ideas se habrían perdido."
+    ],
+    "a": 3,
+    "fb": "Todas son instituciones de transmisión: copiaron, clasificaron, comentaron y transmitieron textos; sin esas redes, muchas ideas habrían desaparecido."
+   },
+   {
+    "q": "Según el tema, ¿por qué el resultado de la conversación filosófica entre épocas «no es azaroso»?",
+    "o": [
+     "Porque cada época alcanza la respuesta definitiva y cierra la pregunta.",
+     "Porque, tarde o temprano, todos los filósofos acaban coincidiendo en las mismas respuestas.",
+     "Porque la historia obliga a reorganizar las preguntas con métodos y conceptos nuevos.",
+     "Porque las respuestas dependen solo de las preferencias personales de cada autor."
+    ],
+    "a": 2,
+    "fb": "La historia de la filosofía no es una lista de opiniones: la historia obliga a reorganizar las preguntas filosóficas con métodos y conceptos nuevos."
+   },
+   {
+    "q": "Un investigador descubre que de cierto filósofo antiguo solo quedan citas recogidas por sus críticos. ¿Qué advertencia del tema debe tener en cuenta?",
+    "o": [
+     "Que esas citas reflejan de forma completa y fiable el pensamiento del autor.",
+     "Que, si sus obras se perdieron, fue porque sus ideas carecían de valor.",
+     "Que un autor sin obras conservadas no forma parte de la historia de la filosofía.",
+     "Que su imagen del autor dependerá de lo que se salvó y de cómo lo seleccionaron otros."
+    ],
+    "a": 3,
+    "fb": "La imagen de un pensador depende de lo que se salvó, se copió y sus sucesores consideraron importante, no de su obra completa."
+   },
+   {
+    "q": "¿Qué diferencia hay entre reconocer la historicidad de una idea y considerarla una opinión arbitraria?",
+    "o": [
+     "Explica dónde nace la idea, pero no la reduce a un capricho sin razones.",
+     "Ninguna: si una idea depende de su época, cualquier opinión vale lo mismo.",
+     "La opinión arbitraria tiene contexto; la idea histórica, en cambio, no lo tiene.",
+     "La historicidad solo afecta a las ideas falsas; las verdaderas no tienen contexto."
+    ],
+    "a": 0,
+    "fb": "Que una idea esté situada no la convierte en una opinión cualquiera: el tema insiste en que la historia de la filosofía no es una lista de opiniones."
+   },
+   {
+    "q": "Según el tema, ¿qué gran tema ocupó el centro de la filosofía en la Ilustración?",
+    "o": [
+     "La existencia de Dios y la armonía entre fe y razón.",
+     "La autonomía humana y la razón.",
+     "La naturaleza y el orden del cosmos.",
+     "La salvación del alma tras la muerte."
+    ],
+    "a": 1,
+    "fb": "En la Ilustración, la autonomía humana y la razón se volvieron el gran tema, frente al cosmos griego y a Dios y la fe en la Edad Media."
+   },
+   {
+    "q": "Que Platón, Tomás de Aquino y Rawls hablen de la justicia de forma distinta muestra que…",
+    "o": [
+     "solo uno de ellos llegó a entender de verdad qué es la justicia.",
+     "cada uno trataba un problema diferente, sin relación con los otros.",
+     "la justicia no es un problema filosófico, sino solo político.",
+     "responden a un mismo problema desde contextos diferentes."
+    ],
+    "a": 3,
+    "fb": "Los tres responden a un problema común (cómo organizar la convivencia de forma justa): la universalidad no exige una única respuesta."
+   },
+   {
+    "q": "Un texto griego traducido al árabe y luego al latín acaba estudiándose en universidades europeas. ¿Qué aspecto del tema ilustra este recorrido?",
+    "o": [
+     "El canon: las traducciones decidieron qué autores eran clásicos en la propia Grecia.",
+     "La transmisión: los centros de traducción hicieron circular textos e ideas.",
+     "La universalidad: todas las culturas pensaron lo mismo aunque no tuvieran contacto.",
+     "La historicidad: las ideas no pueden salir de la cultura en la que nacieron."
+    ],
+    "a": 1,
+    "fb": "Los centros de traducción y las universidades son canales de transmisión: copiaron, comentaron y transmitieron los textos de una cultura a otra."
+   },
+   {
+    "q": "Si existiera la historicidad pero no la universalidad, ¿qué consecuencia se seguiría?",
+    "o": [
+     "Todas las épocas compartirían las mismas preguntas y las mismas respuestas.",
+     "La filosofía no necesitaría escuelas ni instituciones para transmitirse.",
+     "Las filosofías del pasado no podrían decirnos nada sobre nuestros problemas.",
+     "El canon incluiría por igual a autores de todas las culturas."
+    ],
+    "a": 2,
+    "fb": "Sin preguntas que reaparecen, cada filosofía quedaría encerrada en su época; la universalidad es lo que permite releer el pasado."
+   },
+   {
+    "q": "La frase de Hegel «Toda filosofía es su propia época aprehendida en pensamientos» expresa sobre todo…",
+    "o": [
+     "la universalidad de las grandes preguntas.",
+     "la historicidad del pensamiento filosófico.",
+     "la crítica al canon patriarcal y colonialista.",
+     "el papel de las escuelas en la transmisión."
+    ],
+    "a": 1,
+    "fb": "Hegel subraya que cada filosofía piensa su propia época: es una formulación clásica de la historicidad."
+   },
+   {
+    "q": "Frente a quien ve la historia de la filosofía como una sucesión de errores ya superados, el tema sostiene que…",
+    "o": [
+     "cada filosofía supera y anula por completo a las anteriores.",
+     "solo la filosofía actual tiene valor, pues dispone de más conocimientos.",
+     "las filosofías antiguas deben aceptarse sin crítica por su autoridad.",
+     "las preguntas del pasado siguen vivas y pueden releerse en otras épocas."
+    ],
+    "a": 3,
+    "fb": "La filosofía es una tradición crítica renovada: las preguntas nacen en un contexto, pero pueden releerse en otras épocas sin aceptarse sin crítica."
+   },
+   {
+    "q": "Según el tema, ¿cuál fue una de las inquietudes centrales de la filosofía en la Grecia antigua?",
+    "o": [
+     "Entender la naturaleza y el cosmos.",
+     "Conciliar la fe revelada con la razón.",
+     "Defender la autonomía del individuo.",
+     "Demostrar la existencia de un Dios creador."
+    ],
+    "a": 0,
+    "fb": "El tema pone este ejemplo de historicidad: en la Grecia antigua, entender la naturaleza y el cosmos fue una de las inquietudes centrales."
+   },
+   {
+    "q": "¿Qué relación hay entre la historia de la filosofía y la historia de los textos, según el tema?",
+    "o": [
+     "Son independientes: las ideas sobreviven al margen de los textos que las recogen.",
+     "La historia de los textos solo interesa a la filología, no a la filosofía.",
+     "Los textos conservados reflejan fielmente toda la filosofía de cada época.",
+     "La historia de la filosofía es también la de los textos y las instituciones."
+    ],
+    "a": 3,
+    "fb": "El tema afirma que la historia de la filosofía es también la historia de los textos, las instituciones y los canales de transmisión."
+   },
+   {
+    "q": "¿En qué se diferencia la visión del canon que propone el tema de la visión tradicional?",
+    "o": [
+     "La tradicional incluía a mujeres y no europeos; el tema propone dejarlos fuera.",
+     "La tradicional era abierta y revisable; el tema propone fijarlo definitivamente.",
+     "El tema ve en el canon una selección no neutra que hay que revisar y ampliar.",
+     "En nada: ambas coinciden en que la selección de los clásicos es neutral."
+    ],
+    "a": 2,
+    "fb": "La historia tradicional marginó a mujeres y pensadores no europeos; el tema señala que esa selección no es neutra y que hay que ampliarla y revisarla."
+   },
+   {
+    "q": "En un debate sobre inteligencia artificial alguien plantea si una máquina podría ser libre. ¿Qué muestra este caso sobre las preguntas filosóficas?",
+    "o": [
+     "Que la pregunta por la libertad es nueva y no tiene precedentes filosóficos.",
+     "Que la vieja pregunta «¿somos libres?» se replantea con conceptos nuevos.",
+     "Que la tecnología ha resuelto de forma definitiva el problema de la libertad.",
+     "Que solo cambian las preguntas científicas; las filosóficas quedan idénticas."
+    ],
+    "a": 1,
+    "fb": "«¿Somos libres?» es una pregunta universal que reaparece, y la historia obliga a reorganizarla con métodos y conceptos nuevos."
+   },
+   {
+    "q": "Según el tema, estudiar filosofía consiste, a la vez, en…",
+    "o": [
+     "memorizar autores y fechas y aplicar sus respuestas a los problemas actuales.",
+     "descartar las ideas antiguas y quedarse con las más recientes.",
+     "situar cada idea en su época y reconocer en ella una pregunta que sigue viva.",
+     "leer los textos al margen de su época para captar su verdad intemporal."
+    ],
+    "a": 2,
+    "fb": "El tema cierra así: estudiar filosofía es situar cada idea en su época (historicidad) y reconocer en ella una pregunta viva (universalidad)."
+   },
+   {
+    "q": "«La imagen de un pensador rara vez se construye sobre su obra completa.» ¿Con qué aspecto del tema se relaciona esta idea?",
+    "o": [
+     "Con la transmisión de los textos y las ideas.",
+     "Con la universalidad de las preguntas.",
+     "Con la tradición crítica renovada.",
+     "Con la historicidad como condición de cada época."
+    ],
+    "a": 0,
+    "fb": "La frase pertenece al apartado de la transmisión: la imagen de un autor depende de lo que se salvó, se copió y se consideró importante."
+   },
+   {
+    "q": "Un temario de Historia de la Filosofía solo incluye autores varones europeos. Según el tema, ¿cómo habría que valorarlo?",
+    "o": [
+     "Refleja un canon marcado por relaciones de poder que conviene ampliar.",
+     "Es neutral, porque solo recoge a quienes hicieron filosofía de calidad.",
+     "Es correcto, porque fuera de Europa no hubo pensamiento filosófico.",
+     "Es un simple descuido de quien lo redactó, sin relación con el poder."
+    ],
+    "a": 0,
+    "fb": "El canon tradicional marginó a mujeres y no europeos por relaciones de poder patriarcales y colonialistas; por eso hay que revisarlo y ampliarlo."
+   },
+   {
+    "q": "¿Qué matiz añade la universalidad a la frase de Hegel «Toda filosofía es su propia época aprehendida en pensamientos»?",
+    "o": [
+     "Que ninguna filosofía expresa su época, sino solo verdades eternas.",
+     "Que cada filosofía expresa su época, pero sus preguntas reaparecen en otras.",
+     "Que solo la filosofía de Hegel consiguió superar su propia época.",
+     "Que las épocas cambian, pero las respuestas filosóficas son siempre idénticas."
+    ],
+    "a": 1,
+    "fb": "Hegel destaca la historicidad; la universalidad añade que las preguntas no quedan encerradas en su época y vuelven a plantearse en otras."
+   }
+  ]
+ },
+ "hf-a02-banco": {
+  "name": "T2 · Los métodos de la filosofía (banco ampliado)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "Alguien defiende una idea con mucha convicción, pero sin dar razones. Según el tema, ¿por qué eso todavía no es un argumento?",
+    "o": [
+     "Porque un argumento debe expresarse por escrito y en forma de tratado",
+     "Porque un argumento solo es válido si la mayoría de la gente lo comparte",
+     "Porque argumentar es defender una conclusión a partir de unas premisas",
+     "Porque un argumento exige citar a una autoridad reconocida en la materia"
+    ],
+    "a": 2,
+    "fb": "El argumento no consiste en tener una opinión firme, sino en defender una conclusión a partir de unas premisas."
+   },
+   {
+    "q": "Además de la conclusión, ¿qué muestra un buen argumento filosófico según el tema?",
+    "o": [
+     "Qué emociones provoca en quien escucha y cómo persuadirlo",
+     "Por qué se llega a ella, qué conceptos usa y dónde puede fallar",
+     "Qué autores la han defendido antes y en qué obras lo hicieron",
+     "Que la conclusión es evidente y no admite ninguna objeción"
+    ],
+    "a": 1,
+    "fb": "Un buen argumento muestra el camino hasta la conclusión, los conceptos que emplea y dónde puede estar su punto débil."
+   },
+   {
+    "q": "Según el tema, ¿qué hace que una falacia pueda pasar por un buen razonamiento?",
+    "o": [
+     "Que parece sólida aunque no justifica bien su conclusión",
+     "Que siempre parte de premisas falsas que nadie comprueba",
+     "Que utiliza conceptos técnicos difíciles de entender",
+     "Que se apoya en la opinión de un autor muy conocido"
+    ],
+    "a": 0,
+    "fb": "La falacia engaña porque tiene apariencia de solidez, pero no justifica debidamente su conclusión."
+   },
+   {
+    "q": "El principio de caridad pide reconstruir la versión más sólida de un autor. ¿Qué aclara el tema sobre este principio?",
+    "o": [
+     "Que no implica acuerdo: busca entender qué defiende antes de criticarlo",
+     "Que solo se aplica a los textos clásicos, no a los interlocutores",
+     "Que obliga a aceptar la tesis del autor si está bien construida",
+     "Que consiste en evitar toda crítica para no ofender al autor"
+    ],
+    "a": 0,
+    "fb": "El principio de caridad no es estar de acuerdo, sino entender lo que el otro defiende realmente antes de criticarlo."
+   },
+   {
+    "q": "¿Por qué la investigación filosófica insiste en delimitar bien la pregunta?",
+    "o": [
+     "Porque una pregunta amplia siempre tiene varias respuestas válidas",
+     "Porque las preguntas bien delimitadas ya no necesitan argumentos",
+     "Porque así se evita tener que consultar fuentes diferentes",
+     "Porque una pregunta confusa produce respuestas confusas"
+    ],
+    "a": 3,
+    "fb": "El tema lo dice expresamente: delimitar la pregunta es esencial, ya que una pregunta confusa produce respuestas confusas."
+   },
+   {
+    "q": "¿Qué orden del discurso filosófico propone el tema?",
+    "o": [
+     "Tesis, conclusión, problema, conceptos y argumentos",
+     "Conceptos, argumentos, conclusión, problema y tesis",
+     "Problema, conceptos, tesis, argumentos y conclusión",
+     "Argumentos, problema, tesis, conclusión y conceptos"
+    ],
+    "a": 2,
+    "fb": "Primero se presenta el problema y se definen los conceptos; después se formula la tesis, se argumenta y se extrae la conclusión."
+   },
+   {
+    "q": "En el discurso filosófico, ¿en qué consiste la crítica que el tema pide añadir?",
+    "o": [
+     "En resumir las opiniones de otros sin tomar partido por ninguna",
+     "En tener en cuenta las debilidades propias y los puntos de vista contrarios",
+     "En rechazar toda idea que no pueda comprobarse con la experiencia",
+     "En señalar los errores de otros autores sin exponer una tesis propia"
+    ],
+    "a": 1,
+    "fb": "La crítica obliga a mirar los puntos débiles de la propia posición y a considerar las posturas contrarias."
+   },
+   {
+    "q": "«Hacer filosofía no es opinar». ¿Qué quiere decir el tema con esta afirmación?",
+    "o": [
+     "Que las opiniones son siempre falsas y hay que descartarlas",
+     "Que se trata de convertir la opinión en una posición razonable",
+     "Que solo cuentan las opiniones de los grandes autores del canon",
+     "Que el filósofo debe abstenerse de tener opiniones personales"
+    ],
+    "a": 1,
+    "fb": "No se trata de eliminar la opinión, sino de trabajarla con conceptos y razones hasta hacerla una posición razonable."
+   },
+   {
+    "q": "Según el tema, cada género filosófico «abre una manera de pensar y deja otras en la sombra». ¿Qué significa?",
+    "o": [
+     "Que la forma de escribir condiciona lo que se piensa y se expresa",
+     "Que el género da igual, porque lo importante es solo la tesis",
+     "Que cada época permitió un único género filosófico",
+     "Que unos géneros son verdaderos y otros son siempre falsos"
+    ],
+    "a": 0,
+    "fb": "El género es una forma de organizar el pensamiento: favorece unos modos de pensar y dificulta otros."
+   },
+   {
+    "q": "¿Cuál de estas tareas NO forma parte de la investigación filosófica tal como la describe el tema?",
+    "o": [
+     "Adoptar la respuesta más extendida para evitar polémicas",
+     "Elegir las fuentes y aclarar los conceptos que se usan",
+     "Delimitar con claridad la pregunta que se quiere investigar",
+     "Construir una posición razonada sobre el problema"
+    ],
+    "a": 0,
+    "fb": "Investigar es delimitar la pregunta, elegir fuentes, aclarar conceptos y construir una posición razonada, no seguir a la mayoría."
+   },
+   {
+    "q": "En la quaestio y la disputatio medievales, ¿qué pasos se seguían?",
+    "o": [
+     "Observar la naturaleza, medir los fenómenos y formular una ley",
+     "Plantear el problema, reunir objeciones, citar autoridades y responder",
+     "Preguntar al interlocutor hasta que reconoce su propia ignorancia",
+     "Dudar de todo lo aprendido hasta dar con una verdad indudable"
+    ],
+    "a": 1,
+    "fb": "La quaestio y la disputatio planteaban un problema, reunían objeciones, citaban autoridades, respondían y razonaban la solución."
+   },
+   {
+    "q": "Según la historia de los métodos del tema, ¿qué hizo Kant con la razón?",
+    "o": [
+     "Examinó críticamente sus condiciones y sus límites",
+     "La sustituyó por el examen exclusivo de la experiencia",
+     "La usó para demostrar la existencia de las Ideas eternas",
+     "La sometió a la duda metódica en busca de certeza"
+    ],
+    "a": 0,
+    "fb": "El método de Kant es crítico: estudia las condiciones y los límites de la razón. La duda metódica es de Descartes."
+   },
+   {
+    "q": "¿A qué dieron prioridad los empiristas en la Modernidad?",
+    "o": [
+     "A la autoridad de los textos clásicos",
+     "A la duda sobre todo lo aprendido",
+     "A la conversación y la refutación",
+     "Al examen de la experiencia"
+    ],
+    "a": 3,
+    "fb": "Frente a la duda cartesiana, los empiristas pusieron en primer plano el examen de la experiencia."
+   },
+   {
+    "q": "¿Por qué afirma el tema que «hacer filosofía no es siempre lo mismo»?",
+    "o": [
+     "Porque solo los antiguos tuvieron un método propiamente dicho",
+     "Porque cada filósofo inventa preguntas que nadie se había hecho",
+     "Porque la filosofía abandonó la argumentación en la Modernidad",
+     "Porque también han cambiado los modos de trabajar las preguntas"
+    ],
+    "a": 3,
+    "fb": "En la historia no han cambiado solo las preguntas, sino también los métodos, y cada método abre una manera de ver un problema."
+   },
+   {
+    "q": "¿Qué diferencia de método señala el tema entre Sócrates y Platón?",
+    "o": [
+     "Sócrates escribió tratados; Platón, poemas y aforismos",
+     "Sócrates buscó el principio del cosmos; Platón, la certeza",
+     "Sócrates usó la duda metódica; Platón, la disputatio",
+     "Sócrates preguntaba y refutaba; Platón desarrolló la dialéctica"
+    ],
+    "a": 3,
+    "fb": "Sócrates empleó la conversación, la pregunta y la refutación; Platón desarrolló a partir de ahí la dialéctica."
+   },
+   {
+    "q": "¿Qué distingue el modo de trabajar de la Edad Media del de los presocráticos?",
+    "o": [
+     "La Edad Media usó la duda metódica; los presocráticos, el diálogo y la refutación en la plaza",
+     "La Edad Media prefirió el aforismo; los presocráticos, la suma y el tratado sistemático",
+     "La Edad Media abandonó la razón; los presocráticos se limitaron a relatar mitos sobre los dioses",
+     "La Edad Media razonó con autoridades y objeciones; los presocráticos buscaron explicar el cosmos"
+    ],
+    "a": 3,
+    "fb": "Los presocráticos buscaron una explicación racional del cosmos; en la Edad Media se trabajó con la quaestio y la disputatio, que citaban autoridades y objeciones."
+   },
+   {
+    "q": "Descartes y los empiristas pertenecen a la Modernidad. ¿En qué se diferencian sus métodos según el tema?",
+    "o": [
+     "Descartes usó la genealogía; los empiristas, la hermenéutica del texto",
+     "Descartes partía de la experiencia; los empiristas, de la duda metódica",
+     "Descartes dudaba para hallar certeza; los empiristas examinaban la experiencia",
+     "Descartes citaba autoridades; los empiristas criticaban los límites de la razón"
+    ],
+    "a": 2,
+    "fb": "Descartes usó la duda metódica en busca de certeza; los empiristas dieron prioridad al examen de la experiencia."
+   },
+   {
+    "q": "Según la tabla del tema, ¿qué género comparten Sócrates y Platón, y cuál se asocia a Aristóteles?",
+    "o": [
+     "El diálogo; el tratado",
+     "El ensayo; el manifiesto",
+     "El tratado; el diálogo",
+     "El poema; la quaestio"
+    ],
+    "a": 0,
+    "fb": "Sócrates y Platón trabajan con el diálogo; Aristóteles, que ordena el saber mediante definiciones y causas, con el tratado."
+   },
+   {
+    "q": "¿Qué une a Hegel, Marx y Nietzsche en la historia de los métodos?",
+    "o": [
+     "Los tres trabajaron con la quaestio y la disputatio medievales",
+     "Los tres sistematizaron la definición, la clasificación y las causas",
+     "Son del siglo XIX, que se pregunta por la historia y los valores",
+     "Los tres dieron prioridad a la duda metódica en busca de certeza"
+    ],
+    "a": 2,
+    "fb": "La tabla sitúa en el siglo XIX la pregunta por la historia y los valores, con la dialéctica, la crítica y la genealogía."
+   },
+   {
+    "q": "Comparando la Modernidad con los siglos XX-XXI, ¿qué cambio recoge la tabla del tema?",
+    "o": [
+     "Del artículo y la conferencia se pasa al discurso y la meditación",
+     "De preguntar por la certeza se pasa al lenguaje, el poder o el género",
+     "De la hermenéutica y el análisis se pasa a la duda y la experiencia",
+     "De preguntar por el lenguaje se pasa a preguntar por la certeza"
+    ],
+    "a": 1,
+    "fb": "La Modernidad pregunta por la certeza; los siglos XX-XXI, por el lenguaje, el poder o el género, con métodos como la hermenéutica o el análisis."
+   },
+   {
+    "q": "¿Qué tienen en común y en qué se diferencian un argumento y una falacia?",
+    "o": [
+     "Ambos son opiniones; el argumento es más firme que la falacia",
+     "Ambos son razonamientos; solo el argumento justifica bien su conclusión",
+     "Ambos son géneros; la falacia es propia del discurso retórico",
+     "Ambos justifican su conclusión; la falacia lo hace con menos premisas"
+    ],
+    "a": 1,
+    "fb": "Los dos son razonamientos, pero la falacia solo parece sólida: no justifica debidamente su conclusión."
+   },
+   {
+    "q": "Antes de criticar un artículo con el que no está de acuerdo, Laura lo relee para exponer su tesis del modo más convincente posible. ¿Qué está aplicando?",
+    "o": [
+     "El principio de caridad",
+     "La genealogía de los valores",
+     "La duda metódica cartesiana",
+     "La disputatio medieval"
+    ],
+    "a": 0,
+    "fb": "Reconstruir la versión más sólida de lo que defiende otro antes de criticarlo es aplicar el principio de caridad."
+   },
+   {
+    "q": "Un alumno empieza su disertación con «¿Es buena la tecnología?» y acaba mezclando redes sociales, medicina y armas. ¿Qué paso de la investigación ha descuidado?",
+    "o": [
+     "Formular una conclusión al final del texto",
+     "Citar autoridades como en la disputatio",
+     "Delimitar bien la pregunta de partida",
+     "Elegir fuentes variadas y actualizadas"
+    ],
+    "a": 2,
+    "fb": "Una pregunta demasiado amplia y confusa produce respuestas confusas; hay que delimitarla antes de investigar."
+   },
+   {
+    "q": "«Esta aplicación es fiable: la usa muchísima gente». Alguien lo presenta como una prueba concluyente. Según el tema, ¿cómo debe calificarse?",
+    "o": [
+     "Como un ejemplo de duda metódica aplicada a la tecnología",
+     "Como un argumento sólido, porque parte de un hecho comprobable",
+     "Como una falacia: parece sólido, pero no justifica su conclusión",
+     "Como una aplicación correcta del principio de caridad"
+    ],
+    "a": 2,
+    "fb": "Que mucha gente use algo no demuestra que sea fiable: el razonamiento parece sólido, pero no justifica debidamente la conclusión."
+   },
+   {
+    "q": "Marta escribe un ensayo con una tesis clara y buenos argumentos, pero no menciona ninguna objeción ni postura contraria. ¿Qué le falta según el tema?",
+    "o": [
+     "Incluir la crítica",
+     "Presentar el problema",
+     "Extraer la conclusión",
+     "Definir los conceptos"
+    ],
+    "a": 0,
+    "fb": "El discurso filosófico debe añadir la crítica: considerar las debilidades de la propia posición y los puntos de vista contrarios."
+   },
+   {
+    "q": "Un pensador publica un libro de frases breves y punzantes, sin un desarrollo sistemático. ¿Qué género filosófico está usando?",
+    "o": [
+     "El aforismo",
+     "El diálogo",
+     "La quaestio",
+     "El tratado"
+    ],
+    "a": 0,
+    "fb": "El aforismo condensa el pensamiento en frases breves; el tratado, en cambio, lo expone de forma sistemática."
+   },
+   {
+    "q": "En clase se plantea un problema, se recogen objeciones, se citan autores reconocidos y se razona una respuesta. ¿A qué método histórico se parece?",
+    "o": [
+     "A la genealogía de Nietzsche",
+     "A la duda metódica de Descartes",
+     "A la explicación presocrática",
+     "A la disputatio medieval"
+    ],
+    "a": 3,
+    "fb": "Plantear un problema, reunir objeciones, citar autoridades y razonar la solución es el esquema de la quaestio y la disputatio."
+   },
+   {
+    "q": "Una estudiante quiere averiguar qué puede conocer la razón humana y dónde están sus límites antes de afirmar nada. ¿Qué método del tema encaja mejor?",
+    "o": [
+     "El de Aristóteles",
+     "El de Kant",
+     "El de los empiristas",
+     "El de Sócrates"
+    ],
+    "a": 1,
+    "fb": "Kant criticó las condiciones y los límites de la razón; los empiristas, en cambio, dieron prioridad a la experiencia."
+   },
+   {
+    "q": "¿A quién atribuye el tema el uso de la conversación, la pregunta y la refutación como método?",
+    "o": [
+     "A Aristóteles",
+     "A los presocráticos",
+     "A Descartes",
+     "A Sócrates"
+    ],
+    "a": 3,
+    "fb": "Sócrates filosofaba conversando: preguntaba y refutaba las respuestas de su interlocutor."
+   },
+   {
+    "q": "¿Quién sistematizó la definición, la clasificación y el análisis de las causas?",
+    "o": [
+     "Descartes",
+     "Aristóteles",
+     "Sócrates",
+     "Nietzsche"
+    ],
+    "a": 1,
+    "fb": "Aristóteles ordenó el saber mediante la definición, la clasificación y el análisis de las causas, y lo expuso en tratados."
+   },
+   {
+    "q": "En la historia de los métodos del siglo XIX, ¿a quién corresponde la crítica social?",
+    "o": [
+     "A Nietzsche",
+     "A Hegel",
+     "A Marx",
+     "A Kant"
+    ],
+    "a": 2,
+    "fb": "El tema asigna a Marx la crítica social, a Hegel la dialéctica histórica y a Nietzsche la genealogía."
+   },
+   {
+    "q": "¿A quién atribuye el tema la dialéctica histórica?",
+    "o": [
+     "A Marx",
+     "A Sócrates",
+     "A Hegel",
+     "A Platón"
+    ],
+    "a": 2,
+    "fb": "Platón desarrolló la dialéctica, pero la dialéctica histórica es la de Hegel, en el siglo XIX."
+   },
+   {
+    "q": "¿Por qué en la Edad Media el método incluía citar autoridades y comentar textos?",
+    "o": [
+     "Porque se quería reducir todo a la experiencia sensible",
+     "Porque la gran pregunta era cómo relacionar la fe y la razón",
+     "Porque se buscaba el principio material del cosmos",
+     "Porque se desconfiaba de cualquier uso de la razón"
+    ],
+    "a": 1,
+    "fb": "La tabla sitúa en la Edad Media la pregunta por la fe y la razón, trabajada con el comentario y la disputatio."
+   },
+   {
+    "q": "¿Por qué en la Modernidad el problema del método volvió al centro de la filosofía?",
+    "o": [
+     "Porque se recuperó el poema como forma de expresión",
+     "Porque la fe dejó de plantear cualquier problema filosófico",
+     "Porque la filosofía se redujo al comentario de autoridades",
+     "Porque la pregunta clave pasó a ser cómo alcanzar la certeza"
+    ],
+    "a": 3,
+    "fb": "La Modernidad se pregunta por la certeza, y por eso discute cómo alcanzarla: duda, experiencia o crítica de la razón."
+   },
+   {
+    "q": "A los presocráticos les preocupaba el principio de todas las cosas. ¿Qué método y qué géneros les asigna la tabla del tema?",
+    "o": [
+     "Comentario y disputatio; quaestio y suma",
+     "Definición y análisis de causas; tratado",
+     "Explicación racional; poema y aforismo",
+     "Duda y experiencia; discurso y meditación"
+    ],
+    "a": 2,
+    "fb": "Los presocráticos buscaron una explicación racional del cosmos y escribieron sobre todo poemas y aforismos."
+   }
+  ]
+ },
+ "hf-a03-banco": {
+  "name": "T3 · El surgimiento de la filosofía: del mito al logos (banco ampliado)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "Según el tema, ¿de dónde nace la filosofía?",
+    "o": [
+     "Del miedo a los dioses y del deseo de ganarse su favor",
+     "De la necesidad práctica de medir tierras y prever cosechas",
+     "Del asombro ante lo que parece obvio y de preguntar por qué es así",
+     "De la revelación recogida en los libros sagrados de los sacerdotes"
+    ],
+    "a": 2,
+    "fb": "La filosofía nace del asombro: extrañarse ante lo que parece obvio y preguntar por qué las cosas son como son. En Grecia, además, no había libros sagrados."
+   },
+   {
+    "q": "¿A qué pregunta responde la explicación mítica, según el tema?",
+    "o": [
+     "«¿Quién lo hizo?»",
+     "«¿Por qué ocurre necesariamente?»",
+     "«¿Cuál es el principio de todo?»",
+     "«¿Cómo sabemos que es verdad?»"
+    ],
+    "a": 0,
+    "fb": "El mito explica los fenómenos por la acción de alguien (un dios); la filosofía y la ciencia preguntan por qué ocurren necesariamente."
+   },
+   {
+    "q": "¿En qué consiste, sobre todo, el paso del mythos al logos?",
+    "o": [
+     "En sustituir los relatos de Homero por otros relatos más verosímiles",
+     "En abandonar por completo cualquier idea de orden heredada del mito",
+     "En reemplazar a los dioses olímpicos por un único dios creador",
+     "En cambiar el tipo de explicación, no solo el contenido de los relatos"
+    ],
+    "a": 3,
+    "fb": "No se trata de cambiar unas historias por otras, sino el tipo de explicación: de la voluntad de alguien a la necesidad natural."
+   },
+   {
+    "q": "¿En qué se parecen el relato de Hesíodo y las primeras explicaciones filosóficas?",
+    "o": [
+     "En que ambos recurren a fuerzas sobrenaturales para explicar los fenómenos",
+     "En que ambos usan una estructura de contrarios y buscan un orden",
+     "En que ambos basan su autoridad en la tradición de los poetas",
+     "En que ambos hacen depender lo que ocurre de una voluntad personal"
+    ],
+    "a": 1,
+    "fb": "Del mito al logos hay continuidad: se conservan los contrarios y la búsqueda de un orden, pero se abandona lo sobrenatural y lo arbitrario."
+   },
+   {
+    "q": "¿Qué quiere decir que, con el logos, el destino «se despersonaliza»?",
+    "o": [
+     "Que desaparece cualquier idea de necesidad en la naturaleza",
+     "Que la Necesidad ya no se aplaca con ritos, sino que se piensa",
+     "Que cada persona pasa a decidir libremente su propio destino",
+     "Que el destino depende ahora de la voluntad de un solo dios"
+    ],
+    "a": 1,
+    "fb": "Ya no se reza a la Necesidad ni se la soborna con sacrificios: se la piensa como un orden impersonal de la naturaleza."
+   },
+   {
+    "q": "Según la comparación entre mito y logos, ¿cómo opera la explicación filosófica?",
+    "o": [
+     "De modo personal, narrativo y arbitrario",
+     "De modo impersonal, azaroso y cambiante",
+     "De modo impersonal, regular y necesario",
+     "De modo personal, simbólico y regular"
+    ],
+    "a": 2,
+    "fb": "Frente al mito, personal, narrativo y arbitrario, el logos explica de forma impersonal, regular y necesaria."
+   },
+   {
+    "q": "¿Qué diferencia hay entre mito y logos en cuanto a su discusión?",
+    "o": [
+     "El mito se acepta y se transmite; el logos se critica y se pone a prueba",
+     "El mito se debate en el ágora; el logos queda en manos de los sacerdotes",
+     "Los dos se aceptan por tradición, pero el logos usa un lenguaje más técnico",
+     "El logos se acepta sin discusión porque procede de la observación directa"
+    ],
+    "a": 0,
+    "fb": "El mito se recibe y se transmite tal cual; las explicaciones racionales se someten a crítica y se ponen a prueba."
+   },
+   {
+    "q": "¿Qué pretende mostrar Jenófanes con el ejemplo de los bueyes y los caballos que pintan dioses?",
+    "o": [
+     "Que los animales también poseen alguna forma de religión",
+     "Que el arte es la mejor vía para representar lo divino",
+     "Que cada pueblo tiene los dioses que merece por sus actos",
+     "Que los dioses tradicionales son una proyección del ser humano"
+    ],
+    "a": 3,
+    "fb": "Jenófanes observa que cada uno imagina a los dioses a su imagen: los dioses de Homero y Hesíodo son una proyección humana."
+   },
+   {
+    "q": "¿Qué concepción de lo divino defiende Jenófanes frente a la religión tradicional?",
+    "o": [
+     "Varios dioses con forma humana pero sin defectos morales",
+     "Un dios supremo que gobierna a los olímpicos como un rey",
+     "Un dios único, sin semejanza alguna con los mortales",
+     "Ningún dios, porque niega todo principio divino o racional"
+    ],
+    "a": 2,
+    "fb": "Jenófanes defiende un dios único, «ni en figura ni en pensamiento semejante a los mortales»: un principio racional, no un personaje mítico."
+   },
+   {
+    "q": "¿Qué reprocha Jenófanes a Homero y a Hesíodo?",
+    "o": [
+     "Atribuir a los dioses las peores acciones de los seres humanos",
+     "Haber inventado dioses ajenos a la tradición religiosa griega",
+     "Escribir en verso lo que debía explicarse en prosa y con pruebas",
+     "Negar que los dioses intervengan en los asuntos de los humanos"
+    ],
+    "a": 0,
+    "fb": "Jenófanes denuncia que los poetas atribuyen a los dioses robos, engaños y otras malas acciones humanas."
+   },
+   {
+    "q": "Al final del tema se pregunta si el orden que vemos en el universo es real. ¿Qué sospecha plantea?",
+    "o": [
+     "Que el universo es un caos y no admite ninguna explicación",
+     "Que el orden del cosmos lo impuso la voluntad de los dioses",
+     "Que solo los sentidos pueden captar el orden de la naturaleza",
+     "Que ese orden podría ser una proyección humana disfrazada"
+    ],
+    "a": 3,
+    "fb": "La pregunta retoma la crítica de Jenófanes: quizá el orden que vemos sea un antropomorfismo disfrazado, una proyección de nuestro modo de ordenar."
+   },
+   {
+    "q": "Según el tema, ¿en qué reside realmente la singularidad de Grecia?",
+    "o": [
+     "En haber inventado la razón, desconocida por otros pueblos",
+     "En volver las explicaciones discutibles en el espacio público",
+     "En poseer la astronomía y la medición más avanzadas de su época",
+     "En haber sustituido la escritura por el diálogo oral en el ágora"
+    ],
+    "a": 1,
+    "fb": "Grecia no «inventó la razón»: su novedad fue convertir las explicaciones en algo que se discute públicamente."
+   },
+   {
+    "q": "¿Qué papel tuvieron los saberes de Egipto, Mesopotamia o Fenicia en el nacimiento de la filosofía?",
+    "o": [
+     "Fueron condiciones para desarrollar el pensamiento abstracto",
+     "Fueron un decorado secundario sin influencia real en Grecia",
+     "Fueron los dogmas religiosos que la filosofía tuvo que combatir",
+     "Fueron sustituidos por completo por los saberes de los griegos"
+    ],
+    "a": 0,
+    "fb": "La astronomía, la medición, la escritura y el comercio de esos pueblos fueron condiciones para desarrollar el pensamiento abstracto."
+   },
+   {
+    "q": "¿Cómo se origina el mundo en la Teogonía de Hesíodo?",
+    "o": [
+     "Un dios único lo crea de la nada mediante su palabra",
+     "Todo procede de un único elemento natural, como el agua",
+     "Surge de partículas que chocan en el vacío sin ningún plan",
+     "De un caos originario surgen parejas de contrarios que interactúan"
+    ],
+    "a": 3,
+    "fb": "En la Teogonía, de un caos originario surgen parejas de contrarios; es un relato mítico protagonizado por seres divinos."
+   },
+   {
+    "q": "En el glosario del tema, el término logos incluye, además de «palabra» y «razón»…",
+    "o": [
+     "la obligación de aceptar lo que transmiten los poetas",
+     "la obediencia a las leyes aprobadas por la asamblea",
+     "la exigencia de justificar las explicaciones con razones",
+     "la contemplación del orden del cosmos sin preguntar"
+    ],
+    "a": 2,
+    "fb": "Logos es palabra, razón y discurso: la exigencia de justificar las explicaciones con razones."
+   },
+   {
+    "q": "¿Qué diferencia hay entre isegoría e isonomía?",
+    "o": [
+     "La isegoría es la igualdad ante la ley; la isonomía, el derecho igual a hablar",
+     "La isegoría es el derecho igual a hablar; la isonomía, la igualdad ante la ley",
+     "La isegoría es el gobierno de muchos; la isonomía, el gobierno de los sabios",
+     "La isegoría es la libertad de comercio; la isonomía, la libertad de culto"
+    ],
+    "a": 1,
+    "fb": "Isegoría: derecho igual de los ciudadanos a hablar en la asamblea. Isonomía: todos los ciudadanos son iguales ante la ley."
+   },
+   {
+    "q": "En la asamblea de un instituto, todos los delegados tienen el mismo derecho a tomar la palabra, sean del curso que sean. ¿Qué concepto griego recoge esta idea?",
+    "o": [
+     "Isonomía",
+     "Physis",
+     "Arché",
+     "Isegoría"
+    ],
+    "a": 3,
+    "fb": "La isegoría es el derecho igual de los ciudadanos a hablar en la asamblea; la isonomía se refiere a la igualdad ante la ley."
+   },
+   {
+    "q": "Un tribunal impone la misma multa por la misma infracción a un vecino rico y a uno pobre, sin tener en cuenta quién es cada uno. ¿Qué concepto griego ilustra?",
+    "o": [
+     "Isonomía",
+     "Isegoría",
+     "Logos",
+     "Polis"
+    ],
+    "a": 0,
+    "fb": "La isonomía es el principio de que todos los ciudadanos son iguales ante la ley."
+   },
+   {
+    "q": "Ante una larga sequía, unos atribuyen la falta de lluvia al enfado de un dios. Una vecina explica que faltan los vientos húmedos que traen las nubes. ¿Qué rasgo del logos muestra ella?",
+    "o": [
+     "Acepta la explicación porque la transmite la tradición de su pueblo",
+     "Busca la causa en la propia naturaleza, conectando unos fenómenos con otros",
+     "Explica el fenómeno como una historia protagonizada por seres extraordinarios",
+     "Considera que lo ocurrido es fruto del capricho de las fuerzas naturales"
+    ],
+    "a": 1,
+    "fb": "Los primeros filósofos buscan las causas en la physis, conectando fenómenos entre sí, y no en la voluntad de los dioses."
+   },
+   {
+    "q": "Un niño no deja de preguntar por qué el cielo es azul o por qué los objetos caen, aunque a los adultos les parezca algo obvio. ¿Qué actitud del origen de la filosofía refleja?",
+    "o": [
+     "La confianza en la autoridad de los mayores y la tradición",
+     "La búsqueda de utilidad práctica para dominar la naturaleza",
+     "El asombro: extrañarse ante lo obvio y preguntar por qué",
+     "El temor a lo desconocido, que lleva a inventar relatos"
+    ],
+    "a": 2,
+    "fb": "Según Aristóteles, los seres humanos comenzaron a filosofar por el asombro, al extrañarse de lo que parece evidente."
+   },
+   {
+    "q": "Una alumna comenta que, en casi todas las películas, los extraterrestres tienen dos ojos, dos brazos y emociones humanas. ¿Qué autor del tema formuló una crítica parecida sobre los dioses?",
+    "o": [
+     "Jenófanes",
+     "Hesíodo",
+     "Aristóteles",
+     "Bertrand Russell"
+    ],
+    "a": 0,
+    "fb": "Jenófanes señaló que los seres humanos imaginan a los dioses a su imagen, igual que harían los bueyes o los caballos si pudieran pintar."
+   },
+   {
+    "q": "Un documental afirma que los griegos «inventaron la razón de la nada», de un día para otro. ¿Qué objeción le haría el tema?",
+    "o": [
+     "Que la razón surgió en Egipto y Grecia se limitó a copiarla",
+     "Que la razón no llegó a Grecia hasta la época de Aristóteles",
+     "Que el cambio se produjo en Atenas, no en las colonias de Jonia",
+     "Que simplifica un largo proceso y oculta lo que aportaron otros pueblos"
+    ],
+    "a": 3,
+    "fb": "El relato del «milagro griego» simplifica un proceso histórico largo y vuelve invisibles las aportaciones de Egipto, Mesopotamia o Fenicia."
+   },
+   {
+    "q": "Un folleto turístico presenta la Atenas clásica como el lugar donde todo el mundo podía hablar libremente en público. ¿Qué matiz añade el tema?",
+    "o": [
+     "Que en Atenas la palabra estaba reservada a los sacerdotes",
+     "Que solo los filósofos tenían derecho a intervenir en el ágora",
+     "Que la palabra pública excluía a mujeres, esclavos y extranjeros",
+     "Que en Atenas no existía todavía ninguna asamblea de ciudadanos"
+    ],
+    "a": 2,
+    "fb": "La polis democrática extendió la palabra, pero dejó fuera a mujeres, esclavos y extranjeros: su ocio se construyó sobre esa exclusión."
+   },
+   {
+    "q": "En un debate, un compañero defiende una idea porque «siempre se ha dicho así», y otra compañera le pide razones y pruebas. ¿Qué actitud representa ella?",
+    "o": [
+     "La del mito, que transmite los relatos de generación en generación",
+     "La del logos, que somete las explicaciones a crítica y a prueba",
+     "La de los poetas, que eran la base de la educación en Grecia",
+     "La de la religión tradicional, que acepta lo que dictan los dioses"
+    ],
+    "a": 1,
+    "fb": "El logos exige justificar con razones y pone a prueba las explicaciones; el mito se acepta y se transmite por tradición."
+   },
+   {
+    "q": "¿A quién pertenece la frase «Fue por el asombro como los hombres comenzaron a filosofar»?",
+    "o": [
+     "Aristóteles",
+     "Jenófanes",
+     "Hesíodo",
+     "Bertrand Russell"
+    ],
+    "a": 0,
+    "fb": "La frase es de Aristóteles, en el libro I de la Metafísica."
+   },
+   {
+    "q": "«Si los bueyes, los caballos y los leones tuvieran manos y pudieran pintar…» ¿Quién escribió esta crítica?",
+    "o": [
+     "Homero",
+     "Aristóteles",
+     "Jenófanes",
+     "Hesíodo"
+    ],
+    "a": 2,
+    "fb": "Es de Jenófanes de Colofón, que critica la imagen humana de los dioses en la religión tradicional."
+   },
+   {
+    "q": "¿Quién explica que la riqueza de las colonias jonias creó clases con ocio para pensar, a las que los viejos mitos ya no decían nada?",
+    "o": [
+     "Aristóteles de Estagira",
+     "Jenófanes de Colofón",
+     "Hesíodo de Ascra",
+     "Bertrand Russell"
+    ],
+    "a": 3,
+    "fb": "El tema recoge esta explicación de Bertrand Russell sobre las condiciones que favorecieron el surgimiento de la filosofía; Aristóteles, en cambio, sitúa su origen en el asombro."
+   },
+   {
+    "q": "¿En qué dos grandes poetas se apoyaba la educación griega antes de la filosofía?",
+    "o": [
+     "Jenófanes y Aristóteles",
+     "Homero y Hesíodo",
+     "Hesíodo y Jenófanes",
+     "Homero y Aristóteles"
+    ],
+    "a": 1,
+    "fb": "La educación griega se basaba en Homero y Hesíodo, autores también de los principales relatos míticos."
+   },
+   {
+    "q": "¿Dónde surgió la filosofía, según el tema?",
+    "o": [
+     "En las colonias de Jonia, como Mileto, y en la Magna Grecia",
+     "En Atenas, en torno a las escuelas de Platón y Aristóteles",
+     "En Egipto, en los templos y archivos de los sacerdotes",
+     "En Esparta, gracias a su disciplina y organización militar"
+    ],
+    "a": 0,
+    "fb": "Nació en el siglo VI a. C. en las colonias griegas de Jonia (Mileto), en Asia Menor, y en la Magna Grecia."
+   },
+   {
+    "q": "¿Por qué favoreció a la filosofía que en Grecia no hubiera libros sagrados ni casta sacerdotal?",
+    "o": [
+     "Porque los templos se convirtieron en lugares de debate público",
+     "Porque la religión quedó prohibida en la mayoría de las polis",
+     "Porque los poetas pasaron a ser los únicos intérpretes de lo divino",
+     "Porque no había dogmas ni una verdad revelada que imponer"
+    ],
+    "a": 3,
+    "fb": "Sin textos revelados ni sacerdotes que custodiaran la verdad, no había dogmas que impidieran preguntar y criticar."
+   },
+   {
+    "q": "¿Cómo contribuyó el comercio con Egipto, Asia y otras culturas al nacimiento de la filosofía?",
+    "o": [
+     "Impuso a los griegos las creencias religiosas de otros pueblos",
+     "Puso en contacto creencias distintas y relativizó las propias",
+     "Enriqueció a los sacerdotes, que financiaron a los pensadores",
+     "Aisló a las colonias jonias del resto del mundo griego"
+    ],
+    "a": 1,
+    "fb": "Al conocer creencias distintas, los griegos vieron que las suyas no eran las únicas posibles, y eso las hizo discutibles."
+   },
+   {
+    "q": "¿Por qué fue importante el desarrollo de la escritura alfabética?",
+    "o": [
+     "Porque permitió copiar los libros sagrados de otros pueblos",
+     "Porque sustituyó los debates del ágora por textos escritos",
+     "Porque fija el pensamiento y permite criticarlo y transmitirlo",
+     "Porque reservó el saber a una minoría de escribas y sacerdotes"
+    ],
+    "a": 2,
+    "fb": "La escritura alfabética fija las ideas, de modo que se pueden examinar, criticar y transmitir."
+   },
+   {
+    "q": "¿Qué importancia tuvo el ágora para el surgimiento de la filosofía?",
+    "o": [
+     "Era la plaza pública donde se debatía y cobraba valor la argumentación",
+     "Era el templo donde los sacerdotes interpretaban la voluntad divina",
+     "Era el mercado donde solo se intercambiaban productos de Egipto",
+     "Era la escuela donde se memorizaban los poemas de Homero y Hesíodo"
+    ],
+    "a": 0,
+    "fb": "Con el nacimiento del ciudadano y la política, en el ágora se debate y la argumentación gana importancia."
+   },
+   {
+    "q": "¿Cuál de estos factores NO aparece entre las condiciones que favorecieron el nacimiento de la filosofía en Grecia?",
+    "o": [
+     "La expansión de la polis y del comercio con otras culturas",
+     "El desarrollo de la escritura alfabética",
+     "Una sociedad cuyo trabajo esclavo daba ocio a los ciudadanos",
+     "La existencia de una poderosa casta de sacerdotes"
+    ],
+    "a": 3,
+    "fb": "Al contrario: una de las condiciones fue precisamente la inexistencia de libros sagrados y de una casta sacerdotal."
+   },
+   {
+    "q": "Según la comparación entre mito y logos, ¿en qué se basa el conocimiento en cada caso?",
+    "o": [
+     "El mito, en la observación; el logos, en la tradición de los poetas",
+     "El mito, en el relato de los poetas; el logos, en la razón y la observación",
+     "El mito, en la argumentación; el logos, en la revelación divina",
+     "Ambos, en la tradición, aunque el logos la pone por escrito"
+    ],
+    "a": 1,
+    "fb": "El mito se apoya en el relato y la tradición de los poetas; el logos, en la razón, la observación y la argumentación."
+   }
+  ]
+ },
+ "hf-a04-banco": {
+  "name": "T4 · El problema de la realidad en los presocráticos (banco ampliado)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "¿Qué significa que los primeros presocráticos fueran hilozoístas?",
+    "o": [
+     "Que explicaban el movimiento por el choque de partículas en el vacío.",
+     "Que atribuían el movimiento de la materia a la voluntad de los dioses.",
+     "Que concebían la materia como viva y capaz de moverse por sí misma.",
+     "Que reducían toda la realidad a números y proporciones armónicas."
+    ],
+    "a": 2,
+    "fb": "Hilozoísmo: la materia está viva por sí misma y dotada de movimiento. El choque de partículas corresponde al mecanicismo de los atomistas."
+   },
+   {
+    "q": "¿En qué se diferencian los primeros pensadores de Mileto y los atomistas al explicar el movimiento de la naturaleza?",
+    "o": [
+     "Los milesios ven la materia viva y con movimiento propio; los atomistas lo explican por choques de partículas.",
+     "Los milesios lo explican por choques de partículas; los atomistas, por una materia viva que se mueve sola.",
+     "Los milesios lo atribuyen a una mente ordenadora; los atomistas, a las fuerzas del Amor y el Odio.",
+     "Los milesios niegan que exista el movimiento; los atomistas lo consideran una apariencia de los sentidos."
+    ],
+    "a": 0,
+    "fb": "Los primeros pensadores son hilozoístas (la materia se mueve sola); los atomistas, últimos presocráticos, son mecanicistas: el movimiento se debe al choque y la mezcla de partículas."
+   },
+   {
+    "q": "¿Qué cambio supone que la ananké sustituya a la moirá en la explicación del cosmos?",
+    "o": [
+     "Que el orden del mundo pasa a depender de un destino fijado por cada dios.",
+     "Que el azar ciego ocupa el lugar que antes tenía la voluntad divina.",
+     "Que el ser humano puede alterar el curso de la naturaleza con su razón.",
+     "Que una necesidad impersonal reemplaza al destino personal de los dioses."
+    ],
+    "a": 3,
+    "fb": "La necesidad impersonal (ananké) sustituye al destino personal (moirá): todo efecto tiene una causa natural y necesaria, no caprichosa."
+   },
+   {
+    "q": "¿Por qué la idea de una naturaleza uniforme y causal es una condición para que exista la ciencia?",
+    "o": [
+     "Porque permite atribuir cada fenómeno a la intervención de un dios concreto.",
+     "Porque solo si los fenómenos siguen leyes se pueden explicar y predecir.",
+     "Porque demuestra que los sentidos nos dan un conocimiento siempre fiable.",
+     "Porque garantiza que la naturaleza actúa siempre persiguiendo un fin."
+    ],
+    "a": 1,
+    "fb": "Sin regularidad no hay ciencia: solo se puede predecir y explicar si los fenómenos siguen leyes."
+   },
+   {
+    "q": "La teoría distingue dos maneras de entender la naturaleza. ¿Cuáles son?",
+    "o": [
+     "Lo creado por los dioses y lo fabricado por el ser humano con sus manos.",
+     "El conjunto de lo natural y la esencia o modo permanente de ser de cada cosa.",
+     "El mundo visible de los sentidos y el mundo invisible de las Ideas eternas.",
+     "La materia de la que están hechas las cosas y la mente que las pone en orden."
+    ],
+    "a": 1,
+    "fb": "Naturaleza es el conjunto de todo lo natural (frente a lo producido por el ser humano) y también la esencia o modo permanente de ser de cada cosa."
+   },
+   {
+    "q": "Cuando se dice que el arché es «sustrato», ¿qué se quiere decir?",
+    "o": [
+     "Que es aquello de lo que las cosas proceden en un primer momento.",
+     "Que es la fuerza que explica por qué unas cosas se transforman en otras.",
+     "Que es la ley racional que armoniza la lucha de los contrarios.",
+     "Que es aquello en lo que las cosas consisten mientras existen."
+    ],
+    "a": 3,
+    "fb": "El arché es origen (de donde proceden las cosas), sustrato (aquello en lo que consisten) y causa (lo que explica sus transformaciones)."
+   },
+   {
+    "q": "El tema se abre preguntando si nuestra idea de un universo ordenado es «un caso más de antropomorfismo». ¿Qué duda plantea?",
+    "o": [
+     "Si el orden que vemos en el cosmos lo proyectamos nosotros, como quien da a los dioses forma humana.",
+     "Si el universo fue ordenado por unos dioses que tienen aspecto y pasiones semejantes a los humanos.",
+     "Si los animales son capaces de razonar y de descubrir el orden del cosmos igual que las personas.",
+     "Si el ser humano es la única parte de la naturaleza que no está sometida a leyes necesarias."
+    ],
+    "a": 0,
+    "fb": "Igual que Jenófanes denuncia que imaginamos a los dioses a nuestra semejanza, cabe sospechar que el orden que atribuimos al universo sea también una proyección humana."
+   },
+   {
+    "q": "Ante una realidad en la que todo cambia, ¿qué pregunta de fondo guía a los primeros filósofos?",
+    "o": [
+     "Qué dios provoca cada una de las transformaciones que observamos.",
+     "Cómo debe organizarse la ciudad para que sus leyes sean justas.",
+     "Qué permanece detrás de lo que cambia y lo hace comprensible.",
+     "Si las normas humanas son naturales o fruto de un acuerdo."
+    ],
+    "a": 2,
+    "fb": "La pregunta central es qué es la realidad; pero como todo cambia, se preguntan qué permanece. De ahí nace la búsqueda del arché."
+   },
+   {
+    "q": "Los milesios aportan un «monismo materialista». ¿Qué significa?",
+    "o": [
+     "Explicar el cambio como la mezcla y separación de varias sustancias eternas.",
+     "Negar el cambio y afirmar que solo hay una realidad única e inmóvil.",
+     "Explicar el cambio por un alma inmortal que anima cada una de las cosas.",
+     "Explicar el cambio como transformación de una única sustancia originaria."
+    ],
+    "a": 3,
+    "fb": "Tales, Anaximandro y Anaxímenes proponen un solo principio natural y entienden el cambio como transformación de esa única sustancia originaria."
+   },
+   {
+    "q": "¿Qué novedad aporta Anaxímenes frente a Tales y Anaximandro?",
+    "o": [
+     "Explica por primera vez el cambio con un mecanismo: condensación y rarefacción.",
+     "Propone por primera vez un principio que no es ninguna materia concreta.",
+     "Afirma por primera vez que hay varios principios eternos que se mezclan.",
+     "Introduce por primera vez una mente que da el impulso inicial al cosmos."
+    ],
+    "a": 0,
+    "fb": "El aire se hace agua y tierra al condensarse y fuego al enrarecerse: por primera vez se explica el cambio con un mecanismo."
+   },
+   {
+    "q": "Los presocráticos conciben la naturaleza como «inteligible». ¿Qué quiere decir?",
+    "o": [
+     "Que solo los dioses pueden llegar a conocerla por completo.",
+     "Que se comprende mejor mediante relatos que mediante argumentos.",
+     "Que la razón humana puede comprenderla porque sigue un orden.",
+     "Que cambia sin cesar y no obedece a ninguna ley fija."
+    ],
+    "a": 2,
+    "fb": "La naturaleza es uniforme, causal e inteligible: al ser un cosmos ordenado por leyes, la razón puede entenderla."
+   },
+   {
+    "q": "¿Qué distingue Parménides con la vía de la verdad y la vía de la opinión?",
+    "o": [
+     "El conocimiento del ser inmutable y el del logos que rige el devenir.",
+     "El conocimiento por la razón y la opinión que procede de los sentidos.",
+     "La sabiduría de los filósofos y los relatos míticos de los poetas.",
+     "La ciencia de los números y la observación de los fenómenos naturales."
+    ],
+    "a": 1,
+    "fb": "La vía de la verdad es la razón, que conoce el ser eterno e inmutable; la vía de la opinión son los sentidos, que muestran un cambio aparente."
+   },
+   {
+    "q": "Si para Heráclito todo fluye, ¿por qué el mundo no es un caos?",
+    "o": [
+     "Porque un logos, una ley racional, armoniza la lucha de los contrarios.",
+     "Porque bajo el cambio aparente el ser permanece único e inmóvil.",
+     "Porque una mente exterior da el primer impulso y ordena la materia.",
+     "Porque el Amor acaba siempre venciendo al Odio y reúne los elementos."
+    ],
+    "a": 0,
+    "fb": "Heráclito afirma el devenir continuo y la lucha de contrarios, pero hay un logos, una ley racional, que armoniza el conjunto."
+   },
+   {
+    "q": "Entre los aportes de los presocráticos, ¿cómo presenta la teoría la relación entre observación y razón?",
+    "o": [
+     "La razón es la única vía válida y la observación siempre engaña.",
+     "La observación basta por sí sola y la razón solo añade fantasías.",
+     "Ambas quedan por debajo de la tradición heredada de los poetas.",
+     "Son vías complementarias para conocer la naturaleza."
+    ],
+    "a": 3,
+    "fb": "Entre los aportes fundamentales figura la observación y la razón como vías complementarias del conocimiento."
+   },
+   {
+    "q": "¿Qué función cumple el Nous en la filosofía de Anaxágoras?",
+    "o": [
+     "Es la sustancia única de la que proceden todas las cosas.",
+     "Es la ley del fuego que armoniza la lucha de los contrarios.",
+     "Es la mente que da el primer impulso al torbellino que ordena las semillas.",
+     "Es el espacio vacío que permite a las semillas moverse y mezclarse."
+    ],
+    "a": 2,
+    "fb": "Para Anaxágoras el Nous (mente, entendimiento) da el primer impulso al torbellino que ordena las semillas u homeomerías."
+   },
+   {
+    "q": "Según la teoría, ¿qué parte de la filosofía de Platón anticipan Heráclito y Parménides?",
+    "o": [
+     "Heráclito anticipa el mundo de las Ideas; Parménides, el mundo sensible.",
+     "Heráclito anticipa el mundo sensible; Parménides, el mundo de las Ideas.",
+     "Heráclito anticipa la anamnesis; Parménides, el cuerpo como cárcel del alma.",
+     "Heráclito anticipa la verdad matemática; Parménides, la transmigración."
+    ],
+    "a": 1,
+    "fb": "El ser múltiple y cambiante de Heráclito anticipa el mundo sensible; el ser eterno e inmutable de Parménides, el mundo de las Ideas."
+   },
+   {
+    "q": "¿Qué quiere decir que los presocráticos distinguen entre apariencia y realidad?",
+    "o": [
+     "Que los fenómenos naturales son obra de dioses que se ocultan tras ellos.",
+     "Que solo es real aquello que puede verse y tocarse directamente.",
+     "Que cada persona percibe una realidad distinta y todas valen igual.",
+     "Que lo que muestran los sentidos puede no coincidir con lo que las cosas son."
+    ],
+    "a": 3,
+    "fb": "Buscar lo que permanece tras el cambio supone separar lo que vemos de lo que las cosas son; Parménides lo lleva al extremo al declarar ilusorio el cambio."
+   },
+   {
+    "q": "¿Qué nuevo problema surge del enfrentamiento entre Heráclito y Parménides?",
+    "o": [
+     "El del conocimiento: si debemos fiarnos de la razón o de los sentidos.",
+     "El político: quién debe gobernar la ciudad y con qué criterio.",
+     "El moral: si las leyes y los valores son naturales o acordados.",
+     "El religioso: si los dioses tienen o no una forma semejante a la humana."
+    ],
+    "a": 0,
+    "fb": "Si el cambio es real (Heráclito) o pura apariencia (Parménides), surge el problema del conocimiento: ¿razón o sentidos?"
+   },
+   {
+    "q": "¿Qué diferencia a Anaxágoras de Demócrito al explicar cómo se ordena el cosmos?",
+    "o": [
+     "Anaxágoras lo explica solo por choques de átomos; Demócrito, por una mente ordenadora.",
+     "Anaxágoras recurre a una mente, el Nous; Demócrito, solo a materia y movimiento sin finalidad.",
+     "Anaxágoras admite un único principio material; Demócrito, cuatro raíces eternas.",
+     "Anaxágoras lo atribuye al Amor y al Odio; Demócrito, a la lucha de contrarios."
+    ],
+    "a": 1,
+    "fb": "Anaxágoras necesita un Nous que ponga en marcha el torbellino; para Demócrito todo es materia y movimiento, sin finalidad."
+   },
+   {
+    "q": "¿En qué se aparta el principio de los pitagóricos del que buscaban los milesios?",
+    "o": [
+     "En que es uno solo, mientras que los milesios admitían varios principios.",
+     "En que es un elemento concreto, el fuego, y no algo indefinido.",
+     "En que no es una materia, sino el número y la proporción.",
+     "En que es una mente que ordena la materia desde fuera de ella."
+    ],
+    "a": 2,
+    "fb": "Los milesios buscan un principio material (agua, ápeiron, aire); para los pitagóricos el principio no es una materia, sino el número."
+   },
+   {
+    "q": "¿Qué separa a Tales, Anaximandro y Anaxímenes de Empédocles en la cuestión del arché?",
+    "o": [
+     "Que ellos buscan un único principio y Empédocles admite varios.",
+     "Que ellos niegan el cambio y Empédocles lo considera real.",
+     "Que ellos recurren a los dioses y Empédocles solo a la naturaleza.",
+     "Que ellos piensan en números y Empédocles en elementos materiales."
+    ],
+    "a": 0,
+    "fb": "Los milesios son monistas (un solo principio); Empédocles es pluralista: cuatro raíces que el Amor une y el Odio separa."
+   },
+   {
+    "q": "Parménides sostiene que el no-ser no es. ¿Cómo se sitúa Demócrito ante esa tesis?",
+    "o": [
+     "La acepta y concluye, como él, que el movimiento es una ilusión.",
+     "La acepta, pero sustituye el ser único por el número y la proporción.",
+     "La rechaza y afirma que solo existe el no-ser, pues todo fluye.",
+     "La corrige: el vacío, que es no-ser, existe y permite el movimiento."
+    ],
+    "a": 3,
+    "fb": "Para Demócrito el vacío (el no-ser) hace posibles la multiplicidad y el movimiento de los átomos, frente a la negación parmenídea."
+   },
+   {
+    "q": "Una aplicación del tiempo predice la lluvia de mañana porque los fenómenos atmosféricos siguen patrones regulares. ¿Qué idea presocrática hace posible ese tipo de predicción?",
+    "o": [
+     "Que la materia está viva y se mueve por su propia voluntad.",
+     "Que la naturaleza es uniforme y causal, y obedece a leyes necesarias.",
+     "Que el cambio es una ilusión de los sentidos sin realidad alguna.",
+     "Que cada fenómeno depende del destino personal fijado por los dioses."
+    ],
+    "a": 1,
+    "fb": "Solo se puede predecir si los fenómenos siguen leyes: la naturaleza es uniforme, causal e inteligible, y todo efecto tiene una causa necesaria."
+   },
+   {
+    "q": "Laura dice: «No me parezco en nada a la de hace diez años, pero sigo siendo yo: lo que se mantiene es el orden con que me transformo». ¿Con qué filósofo encaja su respuesta?",
+    "o": [
+     "Con Parménides, para quien el yo verdadero es el pensamiento que no cambia.",
+     "Con Demócrito, para quien somos solo átomos que chocan en el vacío.",
+     "Con Heráclito, para quien la identidad está en la ley del cambio.",
+     "Con Anaxímenes, para quien todo es aire que se condensa y se enrarece."
+    ],
+    "a": 2,
+    "fb": "Heráclito diría que somos el mismo río que fluye, aunque no las mismas aguas: la identidad está en la ley del cambio."
+   },
+   {
+    "q": "Tras ver una ilusión óptica, Marcos concluye que los sentidos nos engañan y que solo el razonamiento muestra cómo es de verdad la realidad. ¿Con quién coincide?",
+    "o": [
+     "Con Parménides, que separa la vía de la verdad de la vía de la opinión.",
+     "Con Heráclito, para quien el devenir que vemos es la realidad misma.",
+     "Con Empédocles, que explica el cambio por la mezcla de cuatro raíces.",
+     "Con Tales, que eligió el agua porque todo lo vivo la necesita."
+    ],
+    "a": 0,
+    "fb": "Parménides desconfía de los sentidos (vía de la opinión) y solo admite la razón (vía de la verdad) como acceso al ser."
+   },
+   {
+    "q": "Un divulgador afirma que todo, incluidos nosotros, es solo partículas que se mueven y chocan en el espacio vacío, sin ningún propósito. ¿Qué postura presocrática recuerda?",
+    "o": [
+     "El hilozoísmo milesio, que ve la materia viva y animada.",
+     "La de Anaxágoras, con un Nous que ordena las semillas.",
+     "La de Parménides, con un ser único, eterno e inmóvil.",
+     "El mecanicismo de Demócrito: todo es materia y movimiento."
+    ],
+    "a": 3,
+    "fb": "Demócrito explica todo por átomos que se mueven en el vacío: todo es materia y movimiento, sin finalidad (mecanicismo)."
+   },
+   {
+    "q": "Un químico explica que toda la variedad de sustancias surge de combinar y separar unos pocos elementos que ni se crean ni se destruyen. ¿Qué idea presocrática recuerda?",
+    "o": [
+     "El monismo de Tales, que lo reduce todo a una sola sustancia, el agua.",
+     "El pluralismo: varios principios eternos que se unen y se disgregan.",
+     "La tesis de Parménides de que todo cambio es una ilusión de los sentidos.",
+     "La tesis de Heráclito de que todo fluye y nada permanece igual."
+    ],
+    "a": 1,
+    "fb": "Los pluralistas admiten varios principios que no nacen ni mueren, y explican el cambio y la multiplicidad por su mezcla y separación."
+   },
+   {
+    "q": "En una película, unos extraterrestres verdes y con antenas adoran a un dios también verde y con antenas. ¿Qué crítica presocrática ilustra la escena?",
+    "o": [
+     "La de Parménides contra los sentidos, que solo nos dan opiniones.",
+     "La de los pitagóricos contra el cuerpo, que es la cárcel del alma.",
+     "La de Jenófanes contra el antropomorfismo en la idea de los dioses.",
+     "La de Heráclito contra quienes creen que algo permanece igual."
+    ],
+    "a": 2,
+    "fb": "Jenófanes señala que, si los animales pudieran pintar, harían dioses a su imagen: los seres representan a la divinidad a su propia semejanza."
+   },
+   {
+    "q": "Una estudiante de conservatorio descubre que las notas que suenan bien juntas guardan proporciones matemáticas sencillas, y sospecha que todo el universo funciona así. ¿Con qué escuela encaja?",
+    "o": [
+     "Con los pitagóricos, para quienes el principio es el número.",
+     "Con los milesios, que buscaban una materia originaria.",
+     "Con los atomistas, que lo explican por choques de partículas.",
+     "Con Parménides, para quien solo existe el ser inmóvil."
+    ],
+    "a": 0,
+    "fb": "Para los pitagóricos las cosas son como son porque guardan proporciones, igual que las notas de la música: el principio es el número."
+   },
+   {
+    "q": "«No es posible bañarse dos veces en el mismo río.» ¿A quién pertenece esta frase?",
+    "o": [
+     "A Parménides de Elea.",
+     "A Anaxímenes de Mileto.",
+     "A Demócrito de Abdera.",
+     "A Heráclito de Éfeso."
+    ],
+    "a": 3,
+    "fb": "Es de Heráclito y expresa el «panta rei»: todo fluye, la realidad es devenir incesante."
+   },
+   {
+    "q": "«El ser es y no es posible que no sea; el no-ser no es y es necesario que no sea.» ¿Quién lo afirma?",
+    "o": [
+     "Heráclito de Éfeso.",
+     "Parménides de Elea.",
+     "Demócrito de Abdera.",
+     "Anaxágoras de Clazómenas."
+    ],
+    "a": 1,
+    "fb": "Es la tesis central de Parménides: solo existe el ser, eterno, único e inmutable. Demócrito, en cambio, admitirá el vacío como no-ser."
+   },
+   {
+    "q": "«Si los bueyes, los caballos y los leones tuvieran manos… los caballos dibujarían imágenes de los dioses semejantes a caballos.» ¿Quién es el autor?",
+    "o": [
+     "Heráclito.",
+     "Parménides.",
+     "Jenófanes.",
+     "Anaxágoras."
+    ],
+    "a": 2,
+    "fb": "Es el texto de Jenófanes que abre el tema: una crítica al antropomorfismo, la tendencia a imaginar a los dioses a nuestra imagen."
+   },
+   {
+    "q": "«De donde las cosas tienen su origen, hacia allí deben sucumbir también, según la necesidad…» ¿A quién se atribuye este texto?",
+    "o": [
+     "A Anaximandro, para quien todo sale del ápeiron y vuelve a él.",
+     "A Parménides, para quien nada nace ni perece en realidad.",
+     "A Pitágoras, para quien el alma regresa una y otra vez a un nuevo cuerpo.",
+     "A Demócrito, para quien todo se reduce a átomos y vacío."
+    ],
+    "a": 0,
+    "fb": "Es de Anaximandro: las cosas salen del ápeiron y vuelven a él según la necesidad y el orden del tiempo."
+   },
+   {
+    "q": "¿Qué problema planteado por los presocráticos heredará Platón, según la teoría?",
+    "o": [
+     "El del origen convencional de las leyes y de la moral.",
+     "El del cambio: qué permanece en una realidad que fluye.",
+     "El de la suspensión del juicio ante cualquier certeza.",
+     "El de cómo alcanzar la felicidad sin miedo a la muerte."
+    ],
+    "a": 1,
+    "fb": "Entre los aportes fundamentales está el planteamiento del problema del cambio (Heráclito frente a Parménides), que heredará Platón."
+   },
+   {
+    "q": "¿Qué une a Tales, Anaximandro y Anaxímenes como una misma escuela?",
+    "o": [
+     "Que vivieron en Elea y negaron la realidad del movimiento.",
+     "Que vivieron en Crotona y vieron en el número el principio.",
+     "Que vivieron en Atenas y discutieron sobre las leyes de la ciudad.",
+     "Que vivieron en Mileto y buscaron un único principio natural."
+    ],
+    "a": 3,
+    "fb": "Son los monistas jonios de Mileto (s. VII-VI a. C.): los tres buscan un único principio natural (agua, ápeiron, aire)."
+   }
+  ]
+ },
+ "hf-a05-banco": {
+  "name": "T5 · La Ilustración griega: sofistas, Sócrates y Aspasia (banco ampliado)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "¿Qué se entiende por «giro antropológico» en la filosofía del siglo V a. C.?",
+    "o": [
+     "El paso de la explicación mítica de la naturaleza a una explicación racional.",
+     "El abandono de la filosofía en favor de la oratoria y la retórica.",
+     "El paso de la reflexión sobre el cosmos al interés por el ser humano y la polis.",
+     "La sustitución del arkhé material por un principio numérico y armónico."
+    ],
+    "a": 2,
+    "fb": "La filosofía deja de mirar la physis y se centra en el ser humano y en la vida en común (la polis). El paso del mito al logos es anterior, del siglo VI a. C."
+   },
+   {
+    "q": "¿Cómo caracteriza el sofista Hipias las leyes establecidas por los individuos?",
+    "o": [
+     "Son variables y valen solo en cada comunidad.",
+     "Son inmutables y universales, como las naturales.",
+     "Son dictadas por los dioses y comunes a todos.",
+     "Son válidas para todos, aunque pocos las conocen."
+    ],
+    "a": 0,
+    "fb": "Hipias opone las leyes naturales (inmutables y universales) a las establecidas por los individuos, que son variables y valen solo en cada comunidad."
+   },
+   {
+    "q": "¿Qué enseñaban los sofistas a sus alumnos a cambio de dinero?",
+    "o": [
+     "La geometría y la astronomía, para entender el orden del cosmos.",
+     "La interpretación de los mitos, para conocer la voluntad divina.",
+     "El método de preguntas, para alcanzar definiciones universales.",
+     "El dominio de la palabra y la retórica, para triunfar como ciudadanos."
+    ],
+    "a": 3,
+    "fb": "Los sofistas enseñaban oratoria y retórica para convertir a sus alumnos en ciudadanos de éxito en la vida pública democrática."
+   },
+   {
+    "q": "Los sofistas se presentaban como maestros de la areté. ¿Qué significa este término?",
+    "o": [
+     "La igualdad de los ciudadanos ante la ley.",
+     "La virtud o excelencia.",
+     "El principio del que surgen todas las cosas.",
+     "El derecho a tomar la palabra en la asamblea."
+    ],
+    "a": 1,
+    "fb": "Areté significa virtud o excelencia. La igualdad ante la ley es la isonomía, y el derecho a hablar en la asamblea, la isegoría."
+   },
+   {
+    "q": "Según Protágoras, ¿en qué consiste la sabiduría?",
+    "o": [
+     "En reconocer la propia ignorancia antes de buscar la verdad.",
+     "En descubrir definiciones universales válidas para todos.",
+     "En demostrar que nada existe ni puede llegar a conocerse.",
+     "En persuadir al otro de las opiniones más útiles y convenientes."
+    ],
+    "a": 3,
+    "fb": "Como no hay una verdad única, para Protágoras el sabio es quien sabe persuadir de las opiniones más útiles y convenientes."
+   },
+   {
+    "q": "¿Qué es la erística?",
+    "o": [
+     "El arte de disputar por disputar.",
+     "El arte de ayudar a otro a alumbrar la verdad.",
+     "La igualdad de los ciudadanos ante la ley.",
+     "La parte destructiva del método socrático."
+    ],
+    "a": 0,
+    "fb": "La erística es el arte de disputar por disputar, sin buscar la verdad. La parte destructiva del método socrático es la ironía."
+   },
+   {
+    "q": "¿Por qué llama Sócrates «mayéutica» a la parte constructiva de su método?",
+    "o": [
+     "Porque, como un maestro, deposita en el alumno las verdades que ya posee.",
+     "Porque, como un juez, decide cuáles de las opiniones ajenas son verdaderas.",
+     "Porque, como su madre comadrona, ayuda a que el otro alumbre la verdad.",
+     "Porque, como un orador, convence a su público con discursos brillantes."
+    ],
+    "a": 2,
+    "fb": "Su madre era comadrona: Sócrates no transmite la verdad, sino que ayuda a que el otro la «dé a luz» por sí mismo."
+   },
+   {
+    "q": "Según Sócrates, ¿por qué son necesarios los conceptos o definiciones universales?",
+    "o": [
+     "Porque permiten ganar cualquier debate público en la asamblea.",
+     "Porque sin ellos serían imposibles el conocimiento y el entendimiento.",
+     "Porque garantizan que cada comunidad pueda fijar sus propias leyes.",
+     "Porque hacen innecesario el diálogo como forma de enseñanza."
+    ],
+    "a": 1,
+    "fb": "Para Sócrates, sin definiciones universales no habría conocimiento ni entendimiento posible entre las personas."
+   },
+   {
+    "q": "Para Sócrates, ¿qué expresa un concepto?",
+    "o": [
+     "La opinión útil que cada persona adopta sobre una cosa.",
+     "La impresión sensible que una cosa concreta nos deja.",
+     "El acuerdo al que llega una comunidad en la asamblea.",
+     "Lo que todas las cosas de una misma clase tienen en común."
+    ],
+    "a": 3,
+    "fb": "El concepto es una definición universal: recoge lo que comparten todas las cosas de una clase, frente a las opiniones particulares."
+   },
+   {
+    "q": "En la democracia ateniense, ¿quiénes poseían la ciudadanía (politeia)?",
+    "o": [
+     "Solo los varones libres.",
+     "Todos los habitantes de Atenas, incluidos los extranjeros.",
+     "Los varones y las mujeres libres nacidos en Atenas.",
+     "Solo los aristócratas propietarios de tierras."
+    ],
+    "a": 0,
+    "fb": "La democracia ateniense no era igualitaria: solo los varones libres eran ciudadanos; mujeres, esclavos y extranjeros quedaban fuera."
+   },
+   {
+    "q": "En el debate physis-nomos del siglo V a. C., ¿qué se entiende por physis?",
+    "o": [
+     "Lo acordado por los seres humanos en la asamblea.",
+     "La costumbre heredada de los antepasados.",
+     "Lo natural, lo que se da por sí mismo y no varía.",
+     "La virtud o excelencia del buen ciudadano."
+    ],
+    "a": 2,
+    "fb": "Physis es lo natural, que se da por sí mismo y no varía; lo acordado y la costumbre pertenecen al nomos."
+   },
+   {
+    "q": "¿Por qué la llegada de la democracia exigió una «nueva educación»?",
+    "o": [
+     "Porque los ciudadanos debían saber hablar y convencer en público.",
+     "Porque la ley obligaba a todos a estudiar filosofía de la naturaleza.",
+     "Porque los sacerdotes dejaron de enseñar a leer y a escribir.",
+     "Porque había que formar soldados para las guerras contra Persia."
+    ],
+    "a": 0,
+    "fb": "La democracia se basa en la deliberación y el debate: para intervenir en la asamblea había que dominar la palabra, y de ahí el papel de los sofistas."
+   },
+   {
+    "q": "¿Por qué conocemos el pensamiento de Sócrates sobre todo a través de Platón?",
+    "o": [
+     "Porque sus obras se perdieron tras su condena a muerte.",
+     "Porque Sócrates no dejó nada escrito.",
+     "Porque solo escribía discursos para que otros los leyeran.",
+     "Porque Aspasia recopiló sus diálogos y se los entregó."
+    ],
+    "a": 1,
+    "fb": "Sócrates no escribió nada; lo conocemos por su discípulo Platón, que lo convierte en protagonista de sus diálogos."
+   },
+   {
+    "q": "¿De qué fue acusado Sócrates antes de ser condenado a muerte?",
+    "o": [
+     "De traición a Atenas y de colaborar con Esparta.",
+     "De cobrar por enseñar y de engañar a sus alumnos.",
+     "De defender el relativismo y negar las leyes de la ciudad.",
+     "De impiedad y de corromper a la juventud."
+    ],
+    "a": 3,
+    "fb": "Fue acusado de impiedad y de corromper a la juventud, y condenado a muerte en el 399 a. C.; bebió la cicuta."
+   },
+   {
+    "q": "¿En qué se diferencian los sofistas de los filósofos presocráticos?",
+    "o": [
+     "Los presocráticos se centran en la ética; los sofistas buscan el arkhé.",
+     "Los presocráticos investigan la physis; los sofistas, al ser humano y la polis.",
+     "Los presocráticos recurren a los mitos; los sofistas, a argumentos racionales.",
+     "Los presocráticos cobraban por enseñar; los sofistas enseñaban gratis."
+    ],
+    "a": 1,
+    "fb": "Con el giro antropológico, la atención pasa de la naturaleza (physis), propia de los presocráticos, al ser humano y la vida en la polis."
+   },
+   {
+    "q": "¿En cuál de estos puntos NO se enfrenta Sócrates a los sofistas?",
+    "o": [
+     "En la costumbre de cobrar por enseñar.",
+     "En el uso del discurso en lugar del diálogo.",
+     "En la defensa del relativismo y el escepticismo.",
+     "En el interés por las cuestiones ético-políticas."
+    ],
+    "a": 3,
+    "fb": "Sócrates comparte con los sofistas el interés por el ser humano y las cuestiones ético-políticas; se les opone en el cobro, el método y el relativismo."
+   },
+   {
+    "q": "Según la teoría, ¿qué diferencia a Gorgias de Protágoras?",
+    "o": [
+     "Protágoras representa el relativismo y Gorgias lleva el escepticismo al extremo.",
+     "Protágoras es escéptico y Gorgias defiende la existencia de verdades universales.",
+     "Protágoras cobra por enseñar y Gorgias enseña gratis a quien se lo pide.",
+     "Protágoras usa el diálogo y Gorgias practica la mayéutica con sus alumnos."
+    ],
+    "a": 0,
+    "fb": "Protágoras es el gran representante del relativismo («el hombre es la medida»); Gorgias radicaliza la duda hasta el escepticismo."
+   },
+   {
+    "q": "¿Por qué discrepan Protágoras y Sócrates sobre qué es la justicia?",
+    "o": [
+     "Para Protágoras la fija la naturaleza; para Sócrates, cada asamblea.",
+     "Para Protágoras no puede conocerse; para Sócrates, depende de cada cual.",
+     "Para Protágoras cada comunidad fija la suya; para Sócrates es universal.",
+     "Para Protágoras la dictan los dioses; para Sócrates, los gobernantes."
+    ],
+    "a": 2,
+    "fb": "El relativismo de Protágoras niega una justicia única; Sócrates cree que puede alcanzarse una definición universal de la justicia."
+   },
+   {
+    "q": "¿Qué diferencia hay entre la erística de Gorgias y la mayéutica de Sócrates?",
+    "o": [
+     "La erística busca la verdad; la mayéutica solo pretende ganar debates.",
+     "La erística es la parte constructiva; la mayéutica, la destructiva.",
+     "La erística se basa en preguntas; la mayéutica, en largos discursos.",
+     "La erística disputa por disputar; la mayéutica busca una definición universal."
+    ],
+    "a": 3,
+    "fb": "La erística es disputar por disputar; la mayéutica ayuda al interlocutor a alumbrar la verdad hasta llegar a una definición universal."
+   },
+   {
+    "q": "¿En qué coinciden Hipias y Protágoras respecto a las leyes y valores humanos?",
+    "o": [
+     "En que son iguales en todos los pueblos porque proceden de la naturaleza.",
+     "En que pueden conocerse con certeza mediante definiciones universales.",
+     "En que no son únicos ni fijos, sino que varían de una comunidad a otra.",
+     "En que no existen, porque nada hay y nada puede conocerse."
+    ],
+    "a": 2,
+    "fb": "Tanto el convencionalismo de Hipias como el relativismo de Protágoras sostienen que las leyes y valores humanos varían según cada comunidad."
+   },
+   {
+    "q": "En un debate escolar, un alumno afirma: «Da igual lo que sea verdad; las palabras no reflejan la realidad, solo sirven para convencer al jurado». ¿Con qué pensador encaja mejor?",
+    "o": [
+     "Con Sócrates, que buscaba la verdad mediante el diálogo.",
+     "Con Hipias, que distinguía leyes naturales y convencionales.",
+     "Con Gorgias, para quien el lenguaje es un instrumento de persuasión.",
+     "Con Aspasia, que desafiaba la exclusión de la mujer del ágora."
+    ],
+    "a": 2,
+    "fb": "Para Gorgias el lenguaje no expresa lo que las cosas son, sino que sirve para persuadir y manipular."
+   },
+   {
+    "q": "Una profesora no da respuestas: pregunta y pregunta a su alumnado hasta que son ellos quienes llegan a definir qué es la amistad. ¿Qué está practicando?",
+    "o": [
+     "La mayéutica.",
+     "La erística.",
+     "La retórica.",
+     "La isegoría."
+    ],
+    "a": 0,
+    "fb": "La mayéutica ayuda, mediante preguntas, a que el otro alumbre por sí mismo la verdad hasta llegar a una definición universal."
+   },
+   {
+    "q": "Un tertuliano presume de saberlo todo sobre la valentía; tras unas cuantas preguntas cae en contradicciones y admite que no sabe definirla. ¿Qué parte del método socrático se ha aplicado?",
+    "o": [
+     "La mayéutica, que alumbra la definición verdadera.",
+     "La ironía, que lleva a reconocer la propia ignorancia.",
+     "La erística, que consiste en disputar por disputar.",
+     "La retórica, que persuade con un discurso brillante."
+    ],
+    "a": 1,
+    "fb": "La ironía, parte destructiva del método, lleva al interlocutor a descubrir su ignorancia hasta una aporía."
+   },
+   {
+    "q": "Tras saltarse un semáforo en rojo, un conductor oye decir: «En el fondo no sabía de verdad lo que le convenía». ¿Qué tesis refleja esta frase?",
+    "o": [
+     "El relativismo moral de Protágoras.",
+     "El escepticismo radical de Gorgias.",
+     "El convencionalismo legal de Hipias.",
+     "El intelectualismo moral de Sócrates."
+    ],
+    "a": 3,
+    "fb": "Para el intelectualismo moral, quien conoce el bien obra bien; el mal se comete por ignorancia."
+   },
+   {
+    "q": "Un viajero comprueba que las normas de cortesía cambian de un país a otro y concluye que ninguna es mejor por naturaleza, sino fruto de un acuerdo. ¿Qué concepto usaría un sofista?",
+    "o": [
+     "Physis.",
+     "Areté.",
+     "Nomos.",
+     "Aporía."
+    ],
+    "a": 2,
+    "fb": "Las costumbres y normas son nomos: lo acordado por los seres humanos, variable y modificable, no lo natural (physis)."
+   },
+   {
+    "q": "Una estudiante observa que la gravedad actúa igual en todo el planeta, pero que la edad para votar cambia de un país a otro. ¿Qué distinción ilustra su ejemplo?",
+    "o": [
+     "La de Sócrates entre ironía y mayéutica.",
+     "La de Hipias entre leyes naturales y convencionales.",
+     "La de Gorgias entre lo que hay y lo que se conoce.",
+     "La de Protágoras entre opiniones útiles e inútiles."
+    ],
+    "a": 1,
+    "fb": "Hipias distingue las leyes naturales, inmutables y universales, de las establecidas por los individuos, variables según la comunidad."
+   },
+   {
+    "q": "Una academia cobra por cursos intensivos de oratoria para «ganar cualquier debate y triunfar en la vida pública». ¿A quiénes se parece más en la Atenas clásica?",
+    "o": [
+     "A los filósofos presocráticos.",
+     "A los sofistas.",
+     "A Sócrates y sus discípulos.",
+     "A los legisladores Solón y Clístenes."
+    ],
+    "a": 1,
+    "fb": "Los sofistas enseñaban, cobrando, la retórica necesaria para tener éxito como ciudadanos; Sócrates, en cambio, no cobraba."
+   },
+   {
+    "q": "¿A quién pertenece la frase «Solo sé que no sé nada»?",
+    "o": [
+     "A Protágoras.",
+     "A Gorgias.",
+     "A Hipias.",
+     "A Sócrates."
+    ],
+    "a": 3,
+    "fb": "Es de Sócrates: reconocer la propia ignorancia es el punto de partida de su búsqueda de la verdad."
+   },
+   {
+    "q": "¿Qué pensador fue maestro de la erística?",
+    "o": [
+     "Gorgias.",
+     "Sócrates.",
+     "Hipias.",
+     "Pericles."
+    ],
+    "a": 0,
+    "fb": "Gorgias, que veía el lenguaje como instrumento de persuasión, fue maestro de la erística, el arte de disputar por disputar."
+   },
+   {
+    "q": "¿Qué sofista era célebre por su capacidad de defender un argumento y su contrario?",
+    "o": [
+     "Hipias.",
+     "Gorgias.",
+     "Protágoras.",
+     "Clístenes."
+    ],
+    "a": 2,
+    "fb": "Protágoras era famoso por defender una tesis y la contraria, algo coherente con su relativismo."
+   },
+   {
+    "q": "¿Qué mujer, nacida en Mileto y unida a Pericles, destacó como oradora e influyó en los círculos de poder de Atenas?",
+    "o": [
+     "Hipatia de Alejandría.",
+     "Safo de Lesbos.",
+     "Aspasia de Mileto.",
+     "Diotima de Mantinea."
+    ],
+    "a": 2,
+    "fb": "Aspasia de Mileto vivió en Atenas, estuvo unida a Pericles y sobresalió como oradora; Sócrates la llamaba «mi maestra»."
+   },
+   {
+    "q": "¿Qué etapa histórica se conoce como «Ilustración griega»?",
+    "o": [
+     "El nacimiento de la filosofía en Mileto en el siglo VI a. C.",
+     "La expansión de la cultura griega tras Alejandro Magno.",
+     "La época de los poemas de Homero y de Hesíodo.",
+     "El esplendor cultural, político y económico del siglo V a. C."
+    ],
+    "a": 3,
+    "fb": "La Ilustración griega es el esplendor del siglo V a. C., con la democracia ateniense y el apogeo de Atenas bajo Pericles."
+   },
+   {
+    "q": "¿Qué causa filosófica contribuyó al giro antropológico del siglo V a. C.?",
+    "o": [
+     "La diversidad de teorías presocráticas, que sembró relativismo y escepticismo.",
+     "El descubrimiento de los átomos, que resolvió por fin el problema del arkhé.",
+     "La aceptación de las tesis de Parménides por todas las escuelas griegas.",
+     "El éxito de los mitos homéricos para explicar el origen del cosmos."
+    ],
+    "a": 0,
+    "fb": "Tantas teorías distintas sobre la naturaleza hicieron dudar de que pudiera alcanzarse un conocimiento cierto, y la atención giró hacia el ser humano."
+   },
+   {
+    "q": "¿Por qué apenas se ha conservado el pensamiento de las mujeres de la Grecia antigua?",
+    "o": [
+     "Porque tenían isegoría, pero preferían no intervenir en la asamblea.",
+     "Porque el modelo patriarcal las relegaba a la esfera privada.",
+     "Porque Sócrates les prohibió asistir a sus diálogos en el ágora.",
+     "Porque preferían la transmisión oral y nunca escribieron nada."
+    ],
+    "a": 1,
+    "fb": "El modelo patriarcal excluía a las mujeres de la ciudadanía y del espacio público y las relegaba a la esfera privada."
+   }
+  ]
+ },
+ "hf-a06-banco": {
+  "name": "T6 · Platón: la teoría de las Ideas y la República (banco ampliado)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "¿Qué significa que las cosas sensibles «participan» de las Ideas?",
+    "o": [
+     "Que son partes materiales que, al unirse, van formando la Idea",
+     "Que las Ideas solo existen en la mente de quien percibe las cosas",
+     "Que imitan un modelo ideal del que reciben lo que son",
+     "Que cada cosa contiene en su interior partículas de todas las demás"
+    ],
+    "a": 2,
+    "fb": "Las cosas sensibles son copias que imitan las Ideas: hay muchas cosas bellas porque participan de la Idea de Belleza."
+   },
+   {
+    "q": "¿Por qué ocupa la Idea del Bien el lugar más alto del mundo inteligible?",
+    "o": [
+     "Porque da ser e inteligibilidad a todas las demás Ideas",
+     "Porque es la Idea más útil para organizar la vida de la ciudad",
+     "Porque es la única Idea que puede captarse por los sentidos",
+     "Porque resulta de sumar todas las cosas buenas del mundo sensible"
+    ],
+    "a": 0,
+    "fb": "La Idea del Bien está por encima de todas y les da ser e inteligibilidad, como el Sol da luz y vida en el mundo visible."
+   },
+   {
+    "q": "En el símil de la línea, ¿qué grado de conocimiento corresponde a las cosas físicas que nos rodean?",
+    "o": [
+     "La imaginación",
+     "El pensamiento matemático",
+     "La dialéctica",
+     "La creencia"
+    ],
+    "a": 3,
+    "fb": "La doxa tiene dos grados: la imaginación, sobre imágenes y sombras, y la creencia, sobre las cosas físicas."
+   },
+   {
+    "q": "¿Qué es la dialéctica para Platón?",
+    "o": [
+     "El arte de persuadir a la asamblea con discursos bien construidos",
+     "El método que asciende por las Ideas hasta la Idea del Bien",
+     "El proceso del pensamiento que avanza por tesis, antítesis y síntesis",
+     "La observación ordenada de las cosas sensibles y de sus cambios"
+    ],
+    "a": 1,
+    "fb": "La dialéctica es la cima de la episteme: el método que asciende de las Ideas hasta la Idea del Bien."
+   },
+   {
+    "q": "Platón combina a Heráclito y a Parménides. ¿Cómo lo hace?",
+    "o": [
+     "Niega el cambio, como Parménides, y lo considera una ilusión de los sentidos",
+     "Sitúa el cambio en el mundo sensible y lo inmutable en el inteligible",
+     "Admite solo el mundo sensible, que concibe en perpetuo cambio",
+     "Explica el cambio por la mezcla y separación de elementos eternos"
+    ],
+    "a": 1,
+    "fb": "Con los dos mundos, Platón da la razón a Heráclito sobre lo sensible, que cambia, y a Parménides sobre lo real, eterno e inmutable."
+   },
+   {
+    "q": "Un estudiante demuestra un teorema sobre el triángulo sin fiarse del dibujo, razonando sobre el triángulo en sí. ¿En qué grado del símil de la línea se sitúa?",
+    "o": [
+     "La creencia, porque trabaja con objetos físicos dibujados",
+     "La imaginación, porque se apoya en una figura trazada",
+     "La dialéctica, porque asciende hasta la Idea del Bien",
+     "El pensamiento matemático, porque razona sobre lo inteligible"
+    ],
+    "a": 3,
+    "fb": "El pensamiento matemático es el primer grado de la episteme: se ocupa de realidades inteligibles, aunque se ayude de figuras."
+   },
+   {
+    "q": "¿Qué recoge Platón de Sócrates, según la teoría?",
+    "o": [
+     "La búsqueda de definiciones universales y el intelectualismo moral",
+     "La idea de un alma inmortal que transmigra y debe purificarse",
+     "La tesis de que el mundo sensible cambia de forma permanente",
+     "La idea de que lo real es eterno y solo la razón lo conoce"
+    ],
+    "a": 0,
+    "fb": "De Sócrates hereda la búsqueda de definiciones universales y el intelectualismo moral; las demás ideas vienen de pitagóricos, Heráclito y Parménides."
+   },
+   {
+    "q": "¿Qué representan los prisioneros que toman por única realidad las sombras del muro?",
+    "o": [
+     "A los filósofos que ya han contemplado las Ideas",
+     "A los gobernantes que engañan a propósito al pueblo",
+     "A quienes viven en la doxa y toman lo aparente por lo verdadero",
+     "A los guardianes que defienden la ciudad de sus enemigos"
+    ],
+    "a": 2,
+    "fb": "Los prisioneros son los seres humanos que se quedan en la opinión y toman las apariencias sensibles por lo real."
+   },
+   {
+    "q": "¿Por qué el prisionero liberado debe volver a la caverna?",
+    "o": [
+     "Porque la luz del Sol lo ciega y no puede vivir fuera",
+     "Porque solo dentro de la caverna puede conocer el Bien",
+     "Porque debe comprobar que las sombras eran lo verdadero",
+     "Porque su deber es liberar a los que siguen encadenados"
+    ],
+    "a": 3,
+    "fb": "Quien conoce el Bien tiene la misión de volver para liberar a los demás, aunque lo reciban con incomprensión: es la misión política del filósofo."
+   },
+   {
+    "q": "¿Qué quiere decir, en el Fedón, que la filosofía es «una preparación para la muerte»?",
+    "o": [
+     "Que es un ejercicio para liberar el alma del cuerpo",
+     "Que enseña a disfrutar del presente porque la vida es breve",
+     "Que ayuda a aceptar la muerte como el final de la persona",
+     "Que prepara a los guardianes para morir por la ciudad"
+    ],
+    "a": 0,
+    "fb": "Para Platón el alma inmortal está unida al cuerpo como a una cárcel; filosofar es ir liberándola de él."
+   },
+   {
+    "q": "Una persona sabe que debería cenar ligero, pero se deja arrastrar por un antojo y se atraca. ¿Cómo lo explicaría Platón?",
+    "o": [
+     "La parte racional se ha impuesto con demasiada fuerza",
+     "A la parte irascible le ha faltado templanza ante el peligro",
+     "La parte concupiscible no ha obedecido a la racional",
+     "Le falta doxa suficiente sobre los alimentos concretos"
+    ],
+    "a": 2,
+    "fb": "La justicia del alma exige que la razón gobierne; aquí el deseo, propio de la parte concupiscible, se ha impuesto sobre ella."
+   },
+   {
+    "q": "¿Qué virtud corresponde a la parte irascible del alma, situada en el pecho?",
+    "o": [
+     "La prudencia",
+     "El valor",
+     "La templanza",
+     "La justicia"
+    ],
+    "a": 1,
+    "fb": "La parte irascible tiene como virtud el valor; la racional, la prudencia, y la concupiscible, la templanza."
+   },
+   {
+    "q": "¿Qué relación hay entre el intelectualismo moral socrático y la tesis del rey filósofo?",
+    "o": [
+     "Si conocer el bien lleva a obrar bien, debe gobernar quien conoce el Bien",
+     "Si nadie conoce el bien, cualquier ciudadano puede gobernar por igual",
+     "Si el bien es convención, el gobierno debe decidirse por votación",
+     "Si el bien depende de cada cual, el filósofo debe apartarse del poder"
+    ],
+    "a": 0,
+    "fb": "Platón lleva a la política la idea socrática de que saber es obrar bien: solo quien conoce la Idea del Bien puede gobernar con justicia."
+   },
+   {
+    "q": "¿Qué significa el dualismo ontológico de Platón?",
+    "o": [
+     "La distinción entre un alma inmortal y un cuerpo mortal",
+     "La lucha entre dos fuerzas opuestas, el bien y el mal",
+     "La división de la ciudad en gobernantes y gobernados",
+     "La distinción entre el mundo sensible y el inteligible"
+    ],
+    "a": 3,
+    "fb": "El dualismo ontológico separa dos mundos: el sensible, de copias cambiantes, y el inteligible, de Ideas eternas. El de alma y cuerpo es el antropológico."
+   },
+   {
+    "q": "¿Por qué dice Platón que el Estado es como el alma a gran escala?",
+    "o": [
+     "Porque la ciudad, como el alma, es inmortal y transmigra",
+     "Porque cada ciudadano tiene un alma distinta según su clase",
+     "Porque sus tres clases corresponden a las tres partes del alma",
+     "Porque la ciudad nace de un acuerdo entre las almas individuales"
+    ],
+    "a": 2,
+    "fb": "Productores, guardianes y gobernantes se corresponden con las partes concupiscible, irascible y racional, cada una con su virtud."
+   },
+   {
+    "q": "¿Qué herencia pitagórica está detrás de la teoría de la reminiscencia?",
+    "o": [
+     "Que el mundo sensible cambia sin cesar y nada en él permanece",
+     "Que el alma es inmortal y existía antes de unirse al cuerpo",
+     "Que hay que buscar definiciones universales de cada virtud",
+     "Que lo real es eterno e inmutable y solo lo conoce la razón"
+    ],
+    "a": 1,
+    "fb": "Conocer es recordar porque el alma contempló las Ideas antes de encarnarse, lo que supone la idea pitagórica de un alma inmortal que transmigra."
+   },
+   {
+    "q": "¿Qué es la paideia en el sentido que le da la alegoría de la caverna?",
+    "o": [
+     "La enseñanza de técnicas útiles para triunfar en la asamblea",
+     "El entrenamiento físico que prepara a los guardianes",
+     "La memorización de las leyes y costumbres de la ciudad",
+     "La educación como ascenso del alma de las sombras a la luz"
+    ],
+    "a": 3,
+    "fb": "La paideia es la educación entendida como ascenso del alma hacia el conocimiento verdadero, como la salida del prisionero."
+   },
+   {
+    "q": "Una periodista investiga a fondo un asunto, vuelve para contar la verdad a su pueblo y la ridiculizan. ¿Qué momento de la alegoría de la caverna evoca?",
+    "o": [
+     "Los prisioneros que miran las sombras desde niños",
+     "La contemplación del Sol fuera de la caverna",
+     "El regreso del liberado, recibido con incomprensión",
+     "La primera ceguera al salir de la oscuridad"
+    ],
+    "a": 2,
+    "fb": "El liberado vuelve para liberar a los demás y estos lo reciben con incomprensión, e incluso se ríen de él."
+   },
+   {
+    "q": "«Conocer es recordar lo que el alma contempló antes de encarnarse.» ¿A quién corresponde esta tesis?",
+    "o": [
+     "A Platón",
+     "A Parménides",
+     "A Heráclito",
+     "A Protágoras"
+    ],
+    "a": 0,
+    "fb": "Es la reminiscencia (anamnesis) de Platón: el alma ya vio las Ideas y conocer consiste en recordarlas."
+   },
+   {
+    "q": "¿Qué problema heredado de los presocráticos intenta resolver Platón con la teoría de los dos mundos?",
+    "o": [
+     "El del origen de las leyes y las costumbres de la ciudad",
+     "El del ser y el devenir, es decir, lo inmutable y el cambio",
+     "El de cómo se originan los elementos a partir del aire",
+     "El de si los dioses intervienen en los fenómenos naturales"
+    ],
+    "a": 1,
+    "fb": "Heráclito subrayaba el cambio y Parménides el ser inmutable; los dos mundos de Platón son su respuesta a ese problema."
+   },
+   {
+    "q": "Un país decide que solo gobierne quien se haya formado durante años en conocer el bien común, y no quien gane más votos. ¿Con qué idea encaja?",
+    "o": [
+     "Con la tesis platónica del rey filósofo",
+     "Con la democracia que Platón defendía",
+     "Con que cualquier clase puede gobernar",
+     "Con que gobiernen los guardianes por su valor"
+    ],
+    "a": 0,
+    "fb": "Para Platón solo deben gobernar quienes conocen la Idea del Bien, y la educación es la llave para formarlos."
+   },
+   {
+    "q": "¿Por qué el pensamiento matemático forma parte de la episteme y no de la doxa?",
+    "o": [
+     "Porque sus resultados se comprueban midiendo objetos físicos",
+     "Porque es el grado más alto, por encima de la dialéctica",
+     "Porque se ocupa de realidades inteligibles, no de cosas sensibles",
+     "Porque se obtiene por la experiencia repetida de los sentidos"
+    ],
+    "a": 2,
+    "fb": "La episteme es el conocimiento de lo inteligible; el pensamiento matemático es su primer grado, por debajo de la dialéctica."
+   },
+   {
+    "q": "En la caverna, las sombras proyectadas en el muro corresponden en el símil de la línea a…",
+    "o": [
+     "la creencia",
+     "el pensamiento matemático",
+     "la dialéctica",
+     "la imaginación"
+    ],
+    "a": 3,
+    "fb": "Las sombras son las imágenes del grado más bajo de la doxa, la imaginación; los objetos del interior corresponden a la creencia."
+   },
+   {
+    "q": "¿Cuál era, según la teoría, la finalidad de la gran síntesis filosófica de Platón?",
+    "o": [
+     "Explicar la naturaleza a partir de un único elemento material",
+     "Fundar el conocimiento verdadero y la ciudad justa",
+     "Enseñar a persuadir para triunfar en la vida política",
+     "Alcanzar la felicidad individual al margen de la polis"
+    ],
+    "a": 1,
+    "fb": "Su filosofía recoge a sus predecesores con un fin: fundar el conocimiento verdadero y la ciudad justa."
+   },
+   {
+    "q": "¿En qué se diferencian el dualismo ontológico y el antropológico de Platón?",
+    "o": [
+     "El ontológico opone alma y cuerpo; el antropológico, dos mundos",
+     "El ontológico es de Parménides; el antropológico, de Heráclito",
+     "El ontológico distingue dos mundos; el antropológico, alma y cuerpo",
+     "El ontológico trata de la ciudad; el antropológico, del conocimiento"
+    ],
+    "a": 2,
+    "fb": "El dualismo ontológico separa mundo sensible e inteligible; el antropológico ve al ser humano como alma inmortal unida a un cuerpo mortal."
+   },
+   {
+    "q": "¿Por qué critica Platón la democracia de su época?",
+    "o": [
+     "Porque confiaba el gobierno a quienes no sabían gobernar",
+     "Porque entregaba demasiado poder a los filósofos",
+     "Porque excluía a los productores de la vida económica",
+     "Porque hacía que cada clase se limitara a su función"
+    ],
+    "a": 0,
+    "fb": "Platón reprocha a la democracia que dejara el gobierno en manos de quienes no sabían gobernar, en lugar de quienes conocen el Bien."
+   },
+   {
+    "q": "Un soldado mantiene su puesto ante el peligro sin dejarse vencer por el miedo. ¿Qué virtud platónica ejerce y de qué parte del alma?",
+    "o": [
+     "La templanza, propia de la parte concupiscible",
+     "La prudencia, propia de la parte racional",
+     "El valor, propio de la parte concupiscible",
+     "El valor, propio de la parte irascible"
+    ],
+    "a": 3,
+    "fb": "El valor es la virtud de la parte irascible (el pecho) y de la clase de los guardianes o soldados."
+   },
+   {
+    "q": "¿Qué clase de la República justa corresponde a la parte irascible del alma?",
+    "o": [
+     "Los productores, agricultores y artesanos",
+     "Los guardianes o soldados",
+     "Los gobernantes-filósofos",
+     "Los esclavos y extranjeros"
+    ],
+    "a": 1,
+    "fb": "A la parte irascible, cuya virtud es el valor, le corresponden los guardianes o soldados."
+   },
+   {
+    "q": "¿Por qué el ascenso del prisionero hacia la salida supone un doloroso esfuerzo?",
+    "o": [
+     "Porque los demás prisioneros lo persiguen para impedir que salga",
+     "Porque fuera de la caverna solo encuentra nuevas sombras engañosas",
+     "Porque el mundo exterior es menos real que el interior de la cueva",
+     "Porque cuesta dejar lo que se daba por real y acostumbrarse a la verdad"
+    ],
+    "a": 3,
+    "fb": "La educación es un ascenso costoso: exige dejar las apariencias a las que estábamos acostumbrados y adaptarse a la verdad."
+   },
+   {
+    "q": "¿Qué fue la Academia fundada por Platón?",
+    "o": [
+     "La primera escuela filosófica estable de Occidente",
+     "La asamblea donde se votaban las leyes de Atenas",
+     "El tribunal que condenó a muerte a Sócrates",
+     "Una escuela de retórica para formar políticos"
+    ],
+    "a": 0,
+    "fb": "Platón fundó la Academia, considerada la primera escuela filosófica estable de Occidente."
+   },
+   {
+    "q": "«Hay muchas cosas bellas porque participan de la Belleza en sí.» ¿Qué autor sostiene esta tesis?",
+    "o": [
+     "Heráclito",
+     "Platón",
+     "Parménides",
+     "Demócrito"
+    ],
+    "a": 1,
+    "fb": "Es la teoría platónica de la participación: las cosas sensibles imitan las Ideas, modelos eternos."
+   },
+   {
+    "q": "Todos los círculos que dibujamos son imperfectos y, aun así, sabemos qué es un círculo perfecto. ¿Cómo lo explicaría Platón?",
+    "o": [
+     "Obtenemos ese concepto sumando muchos círculos dibujados",
+     "Es una simple opinión que cada persona forma a su manera",
+     "La razón capta la Idea de Círculo, de la que los dibujos son copias",
+     "Los sentidos, bien entrenados, llegan a ver el círculo perfecto"
+    ],
+    "a": 2,
+    "fb": "Las cosas sensibles son copias imperfectas; el modelo perfecto es una Idea que solo la razón capta y que, en último término, recordamos."
+   },
+   {
+    "q": "La tesis de que conocer el bien lleva a obrar bien, que Platón hereda, procede de…",
+    "o": [
+     "Sócrates",
+     "Parménides",
+     "los pitagóricos",
+     "Heráclito"
+    ],
+    "a": 0,
+    "fb": "Es el intelectualismo moral de Sócrates, que Platón recoge junto con la búsqueda de definiciones universales."
+   },
+   {
+    "q": "«Lo verdaderamente real ha de ser eterno e inmutable, y solo la razón lo conoce.» ¿De quién toma Platón esta idea?",
+    "o": [
+     "De Heráclito",
+     "De Sócrates",
+     "De los pitagóricos",
+     "De Parménides"
+    ],
+    "a": 3,
+    "fb": "De Parménides toma que lo real es eterno e inmutable y solo accesible a la razón; de Heráclito, el cambio del mundo sensible."
+   },
+   {
+    "q": "Un profesor no da la solución, sino que con preguntas lleva al alumno a descubrir lo que en el fondo ya sabía. ¿Qué tesis platónica ilustra mejor?",
+    "o": [
+     "La participación de las cosas en las Ideas",
+     "La reminiscencia: conocer es recordar",
+     "La correspondencia entre alma y ciudad",
+     "La creencia como grado de la doxa"
+    ],
+    "a": 1,
+    "fb": "Para Platón el alma ya contempló las Ideas; aprender es hacer que las recuerde, no recibirlas desde fuera."
+   }
+  ]
+ },
+ "hf-a07-banco": {
+  "name": "T7 · La antropología clásica: Sócrates, Platón y Aristóteles (banco ampliado)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "¿En qué consiste el «giro antropológico» que protagoniza Sócrates en el siglo V a. C.?",
+    "o": [
+     "La filosofía deja el mito y empieza a explicar la naturaleza con leyes racionales.",
+     "La filosofía pasa de preguntarse por el cosmos a preguntarse por el ser humano.",
+     "La filosofía abandona las preguntas morales para centrarse en el estudio de la physis.",
+     "La filosofía se convierte en retórica, al servicio de la persuasión en la asamblea."
+    ],
+    "a": 1,
+    "fb": "Con Sócrates la pregunta ya no es «¿de qué está hecho el mundo?», sino «¿quién soy yo y cómo debo vivir?». El paso del mito al logos es anterior, con los presocráticos."
+   },
+   {
+    "q": "Platón defiende que el alma transmigra de un cuerpo a otro hasta purificarse. ¿De qué tradiciones hereda esta idea?",
+    "o": [
+     "Del atomismo de Leucipo y Demócrito.",
+     "Del relativismo de los sofistas.",
+     "De Heráclito y su «todo fluye».",
+     "Del orfismo y del pitagorismo."
+    ],
+    "a": 3,
+    "fb": "La metempsicosis procede del orfismo y del pitagorismo; Platón la incorpora a su visión del alma inmortal."
+   },
+   {
+    "q": "Sócrates no dejó nada escrito. Según la teoría, ¿qué explica aun así su enorme peso en la historia de la filosofía?",
+    "o": [
+     "Su vida y su método, que marcaron toda la filosofía posterior.",
+     "Los tratados de física que dictó a sus discípulos en la Academia.",
+     "Las leyes que redactó para Atenas como gobernante de la ciudad.",
+     "Su sistema de las cuatro causas, que luego heredó Aristóteles."
+    ],
+    "a": 0,
+    "fb": "Aunque no escribió nada, su forma de vivir y su método (ironía y mayéutica) marcaron a toda la filosofía posterior."
+   },
+   {
+    "q": "¿Qué quería decir Sócrates al afirmar que vivir sin examinarse era «vivir dormido»?",
+    "o": [
+     "Que el alma permanece dormida en el cuerpo hasta que la muerte la libera.",
+     "Que quien no reflexiona sobre sí mismo vive sin saber quién es ni cómo vivir.",
+     "Que la verdad solo se alcanza en sueños, cuando los sentidos dejan de engañar.",
+     "Que el descanso del cuerpo es la condición necesaria para ejercer la virtud."
+    ],
+    "a": 1,
+    "fb": "Para Sócrates, conocerse a uno mismo es la tarea central de la vida; sin ese examen se vive sin conciencia de quién se es ni de cómo se debe vivir."
+   },
+   {
+    "q": "Para Sócrates, ¿en qué consiste la verdadera libertad?",
+    "o": [
+     "En hacer lo que a cada uno le apetece, sin impedimentos externos.",
+     "En liberar el alma de la cárcel del cuerpo mediante la muerte.",
+     "En conocerse a uno mismo y ser capaz de gobernarse.",
+     "En obedecer las leyes y costumbres acordadas en la polis."
+    ],
+    "a": 2,
+    "fb": "Sócrates niega que la libertad sea hacer lo que apetece: ser libre es conocerse y gobernarse a uno mismo. La muerte como liberación es una idea de Platón."
+   },
+   {
+    "q": "¿Por qué el método socrático empieza por la ironía antes de pasar a la mayéutica?",
+    "o": [
+     "Porque primero hay que burlarse del interlocutor para ganar el debate ante el público.",
+     "Porque la ironía sirve para recordar las Ideas que el alma vio antes de nacer.",
+     "Porque la ironía demuestra que no existe ninguna verdad universal que buscar.",
+     "Porque nadie busca la verdad si antes no descubre que no sabe lo que creía saber."
+    ],
+    "a": 3,
+    "fb": "La ironía hace ver al interlocutor su ignorancia; solo entonces, con la mayéutica, puede «dar a luz» la verdad que lleva dentro."
+   },
+   {
+    "q": "¿Qué relación hay entre el lema «conócete a ti mismo» y el intelectualismo moral?",
+    "o": [
+     "El lema se refiere al cuerpo y el intelectualismo al alma, así que no se relacionan.",
+     "El intelectualismo sostiene que conocerse es inútil, porque la virtud es un don divino.",
+     "El intelectualismo nace del conocimiento de sí: quien conoce el bien, obra bien.",
+     "Ambos afirman que la virtud se adquiere solo por costumbre, sin necesidad de saber."
+    ],
+    "a": 2,
+    "fb": "Según la teoría, del conocimiento de sí nace el intelectualismo moral: la virtud es conocimiento y quien conoce el bien lo practica."
+   },
+   {
+    "q": "Según Platón, ¿por qué el cuerpo es la «cárcel» del alma?",
+    "o": [
+     "Porque es la materia de la que el alma es forma, y sin él no podría existir.",
+     "Porque la distrae con deseos, temores y enfermedades, y le impide llegar a la verdad.",
+     "Porque fue creado por los dioses como castigo por la culpa de los primeros hombres.",
+     "Porque obliga al alma a obedecer las leyes de la ciudad en lugar de a la razón."
+    ],
+    "a": 1,
+    "fb": "Para Platón el cuerpo distrae al alma con deseos, temores y enfermedades y le impide alcanzar la verdad. La relación materia-forma es la tesis de Aristóteles."
+   },
+   {
+    "q": "¿Por qué dice Platón en el Fedón que «los verdaderos filósofos se preparan para morir»?",
+    "o": [
+     "Porque tras la muerte el alma desaparece y con ella termina todo sufrimiento.",
+     "Porque la condena de Sócrates demostró que la filosofía era peligrosa en Atenas.",
+     "Porque la vida carece de valor y el sabio debe buscar la muerte cuanto antes.",
+     "Porque la muerte libera al alma del cuerpo, que le impedía alcanzar la verdad."
+    ],
+    "a": 3,
+    "fb": "Como el cuerpo es un obstáculo para conocer, la muerte es la liberación del alma inmortal; el filósofo vive ya orientado hacia esa liberación."
+   },
+   {
+    "q": "En el mito del carro alado, ¿qué representa el caballo noble?",
+    "o": [
+     "La parte concupiscible: los deseos y apetitos.",
+     "La parte racional, que debe gobernar a las otras.",
+     "La parte irascible: la voluntad y el valor.",
+     "El cuerpo mortal, que arrastra al alma hacia abajo."
+    ],
+    "a": 2,
+    "fb": "El caballo noble es la parte irascible (voluntad y valor); el rebelde, la concupiscible; y el auriga, la racional."
+   },
+   {
+    "q": "Para Aristóteles, ¿qué significa que el alma es la «forma del cuerpo vivo»?",
+    "o": [
+     "Que es lo que hace que el cuerpo sea lo que es, no algo que lo habita.",
+     "Que es un órgano más del cuerpo, como el corazón o el cerebro.",
+     "Que es una copia imperfecta de la Idea de alma, que existe en otro mundo.",
+     "Que es una sustancia aparte que dirige el cuerpo como un piloto a su nave."
+    ],
+    "a": 0,
+    "fb": "El alma no es una cosa aparte que «habita» el cuerpo: es su forma, aquello que lo hace ser el cuerpo vivo que es."
+   },
+   {
+    "q": "¿Qué quiere mostrar Aristóteles al comparar el alma con la forma de una estatua de bronce?",
+    "o": [
+     "Que el alma es como el escultor: la causa que fabrica el cuerpo desde fuera.",
+     "Que la forma no existe sin la materia: el alma no puede existir sin el cuerpo.",
+     "Que el cuerpo es un material que el alma abandona cuando ya no le sirve.",
+     "Que el alma es tan dura e inmutable como el bronce, y por eso es inmortal."
+    ],
+    "a": 1,
+    "fb": "Igual que la forma de la estatua no existe sin el bronce, el alma no existe separada del cuerpo del que es forma."
+   },
+   {
+    "q": "En el hilemorfismo aplicado al ser humano, ¿qué papel corresponde al cuerpo y cuál al alma?",
+    "o": [
+     "El cuerpo es la materia y el alma, la forma que lo organiza.",
+     "El cuerpo es la forma y el alma, la materia que la recibe.",
+     "El cuerpo es la materia y el alma, una Idea separada de él.",
+     "El cuerpo y el alma son dos sustancias completas e independientes."
+    ],
+    "a": 0,
+    "fb": "Para Aristóteles el ser humano es una sustancia compuesta: el cuerpo es la materia y el alma, la forma."
+   },
+   {
+    "q": "¿Qué funciones corresponden al alma vegetativa según Aristóteles?",
+    "o": [
+     "Percepción, deseo y movimiento local.",
+     "Entendimiento, voluntad y razonamiento.",
+     "Nutrición, crecimiento y reproducción.",
+     "Valor, ánimo y voluntad ante el peligro."
+    ],
+    "a": 2,
+    "fb": "La vegetativa, común a todos los seres vivos, se ocupa de la nutrición, el crecimiento y la reproducción. Percepción, deseo y movimiento son de la sensitiva."
+   },
+   {
+    "q": "¿Por qué el alma sensitiva no basta, según Aristóteles, para definir lo propio del ser humano?",
+    "o": [
+     "Porque solo la tienen las plantas, que se nutren y crecen.",
+     "Porque es una ilusión: los sentidos no perciben nada real.",
+     "Porque es la que muere, mientras que la racional transmigra.",
+     "Porque la compartimos con los animales; lo exclusivo es la razón."
+    ],
+    "a": 3,
+    "fb": "La sensitiva es propia de los animales; lo exclusivo del ser humano es la función racional (entendimiento y voluntad)."
+   },
+   {
+    "q": "En el vocabulario de este tema, la psique es…",
+    "o": [
+     "el alma, entendida como principio de vida y de conocimiento.",
+     "la mente consciente, sin relación con la vida del cuerpo.",
+     "el cuerpo vivo, considerado sin su principio racional.",
+     "el conjunto de las emociones, opuesto a la razón."
+    ],
+    "a": 0,
+    "fb": "Psique significa alma: el principio que da vida y permite conocer. Sobre ella responden de forma distinta Sócrates, Platón y Aristóteles."
+   },
+   {
+    "q": "¿Qué rasgo comparten el intelectualismo moral de Sócrates y la imagen platónica del auriga?",
+    "o": [
+     "La confianza en los deseos como guía natural de la conducta.",
+     "La primacía de la razón para orientar bien la conducta.",
+     "La idea de que el cuerpo es parte esencial de la persona.",
+     "La tesis de que el bien y el mal son meras convenciones."
+    ],
+    "a": 1,
+    "fb": "Para Sócrates obrar bien depende de conocer el bien; para Platón, la persona justa es aquella en la que la razón (el auriga) gobierna."
+   },
+   {
+    "q": "¿Qué diferencia hay entre decir que el alma «habita» el cuerpo (Platón) y decir que es su «forma» (Aristóteles)?",
+    "o": [
+     "La primera une alma y cuerpo en una sustancia; la segunda los separa.",
+     "Ninguna: ambas expresiones describen la misma relación entre ellos.",
+     "La primera separa dos realidades; la segunda las une en una sustancia.",
+     "La primera niega que exista el alma; la segunda afirma que es inmortal."
+    ],
+    "a": 2,
+    "fb": "El dualismo platónico ve dos realidades separables; el hilemorfismo aristotélico, una sola sustancia de materia y forma inseparables."
+   },
+   {
+    "q": "Frente a la imagen platónica del cuerpo como cárcel, ¿qué papel le da Aristóteles?",
+    "o": [
+     "Es una prisión provisional de la que el alma racional acabará escapando.",
+     "Es una apariencia engañosa, porque solo existe realmente el mundo de las Ideas.",
+     "Es parte esencial de la sustancia humana, unida al alma como materia y forma.",
+     "Es un simple instrumento que el alma usa y cambia por otro al morir."
+    ],
+    "a": 2,
+    "fb": "Para Aristóteles el cuerpo no es un obstáculo, sino parte esencial de la sustancia: la materia de la que el alma es forma."
+   },
+   {
+    "q": "¿Qué tienen en común las concepciones del alma de Platón y de Aristóteles?",
+    "o": [
+     "Ambos la consideran inmortal y anterior al cuerpo.",
+     "Ambos piensan que conocer es recordar lo ya sabido.",
+     "Ambos distinguen en ella tres partes o funciones.",
+     "Ambos ven el cuerpo como un obstáculo para la verdad."
+    ],
+    "a": 2,
+    "fb": "Platón habla de tres partes (racional, irascible, concupiscible) y Aristóteles de tres funciones (vegetativa, sensitiva, racional). En lo demás discrepan."
+   },
+   {
+    "q": "¿Dónde sitúan los deseos Platón y Aristóteles dentro del alma?",
+    "o": [
+     "Platón, en la parte irascible; Aristóteles, en la función vegetativa.",
+     "Platón, en la parte concupiscible; Aristóteles, en la función sensitiva.",
+     "Platón, en el cuerpo y no en el alma; Aristóteles, en la función racional.",
+     "Platón, en la parte racional; Aristóteles, en la función sensitiva."
+    ],
+    "a": 1,
+    "fb": "Para Platón los deseos y apetitos son la parte concupiscible (el caballo rebelde); para Aristóteles, el deseo pertenece a la función sensitiva."
+   },
+   {
+    "q": "¿A qué parte o función del alma asigna la voluntad cada autor, según la teoría?",
+    "o": [
+     "Platón, a la parte concupiscible; Aristóteles, a la función sensitiva.",
+     "Platón, a la parte racional; Aristóteles, a la función vegetativa.",
+     "Ambos, a la parte del alma que compartimos con los animales.",
+     "Platón, a la parte irascible; Aristóteles, a la función racional."
+    ],
+    "a": 3,
+    "fb": "En Platón la voluntad y el valor son la parte irascible (el caballo noble); en Aristóteles, entendimiento y voluntad forman la función racional."
+   },
+   {
+    "q": "¿Cómo entienden la muerte Platón y Aristóteles a partir de su idea del alma?",
+    "o": [
+     "Para Platón libera al alma del cuerpo; para Aristóteles, el alma no sobrevive sin él.",
+     "Para ambos es el momento en que el alma recuerda las Ideas que había olvidado.",
+     "Para Platón el alma muere con el cuerpo; para Aristóteles, transmigra a otro.",
+     "Para ambos el alma se disuelve en átomos que vuelven a formar parte del cosmos."
+    ],
+    "a": 0,
+    "fb": "Para Platón el alma es inmortal y la muerte la libera; para Aristóteles el alma es forma del cuerpo y no sobrevive sin él."
+   },
+   {
+    "q": "Un amigo presume de saber qué es la justicia. Tras varias preguntas tuyas, se contradice y admite que no sabe definirla. ¿Qué momento del método socrático has aplicado?",
+    "o": [
+     "La mayéutica, porque ya ha dado a luz una definición.",
+     "La retórica, porque le has convencido con un buen discurso.",
+     "La reminiscencia, porque ha recordado la Idea de justicia.",
+     "La ironía, porque le has hecho ver que no sabía lo que creía."
+    ],
+    "a": 3,
+    "fb": "La ironía consiste en hacer ver al interlocutor que no sabe lo que creía saber; la mayéutica vendría después, para buscar la definición."
+   },
+   {
+    "q": "Alguien dice «sé que no debería», pero se come el tercer trozo de tarta. Según el mito del carro alado, ¿qué ha ocurrido?",
+    "o": [
+     "El caballo noble ha vencido al caballo rebelde.",
+     "El auriga ha decidido con razón dar rienda al deseo.",
+     "El caballo rebelde, los apetitos, se ha impuesto al auriga.",
+     "El alma ha recordado el placer que conoció antes de nacer."
+    ],
+    "a": 2,
+    "fb": "El caballo rebelde es la parte concupiscible (deseos y apetitos); aquí domina a la razón, cuando debería ser el auriga quien gobierne."
+   },
+   {
+    "q": "Una neurocientífica afirma que la mente no es algo separado del cerebro, sino su manera de funcionar: sin cerebro, no hay mente. ¿Qué concepción clásica se parece más a su postura?",
+    "o": [
+     "El dualismo de Platón, porque separa alma y cuerpo.",
+     "El hilemorfismo de Aristóteles: el alma como forma del cuerpo.",
+     "La reminiscencia, porque la mente recuerda lo ya sabido.",
+     "La metempsicosis, porque la mente pasa a otro cerebro."
+    ],
+    "a": 1,
+    "fb": "Para Aristóteles el alma es la forma del cuerpo vivo y no existe sin él, igual que esta mente no existe sin el cerebro."
+   },
+   {
+    "q": "Un jardinero dice que sus rosales «están vivos, pero no sienten ni piensan». ¿Cómo lo explicaría Aristóteles?",
+    "o": [
+     "Tienen alma vegetativa, pero no sensitiva ni racional.",
+     "No tienen alma, porque el alma es exclusiva del ser humano.",
+     "Tienen alma sensitiva, porque se mueven hacia la luz.",
+     "Tienen un alma inmortal que transmigrará a un animal."
+    ],
+    "a": 0,
+    "fb": "Todos los seres vivos tienen alma vegetativa (nutrición, crecimiento, reproducción); la sensitiva es de los animales y la racional, solo del ser humano."
+   },
+   {
+    "q": "Una bellota todavía no es una encina, pero puede llegar a serlo. ¿Cómo lo describiría Aristóteles?",
+    "o": [
+     "La bellota es una encina en acto, y el cambio es solo aparente.",
+     "La bellota es encina en potencia, y al crecer pasa al acto.",
+     "La bellota es una copia imperfecta de la Idea de encina.",
+     "La bellota es la causa final y la encina, la causa material."
+    ],
+    "a": 1,
+    "fb": "La potencia es la posibilidad de ser y el acto, su realización; el cambio es el paso de la una al otro."
+   },
+   {
+    "q": "Un escultor funde bronce y le da la figura de un atleta para honrar su victoria. Según las cuatro causas, ¿qué es «honrar su victoria»?",
+    "o": [
+     "La causa material.",
+     "La causa formal.",
+     "La causa eficiente.",
+     "La causa final."
+    ],
+    "a": 3,
+    "fb": "La causa final responde a «para qué». El bronce es la material, la figura la formal y el escultor la eficiente."
+   },
+   {
+    "q": "En un debate, una alumna sostiene que nadie puede actuar bien sin saber antes qué es el bien, y que quien hace daño es porque se equivoca. ¿Qué postura defiende?",
+    "o": [
+     "El intelectualismo moral de Sócrates.",
+     "El relativismo moral de Protágoras.",
+     "El hilemorfismo de Aristóteles.",
+     "La metempsicosis de los órficos."
+    ],
+    "a": 0,
+    "fb": "El intelectualismo moral sostiene que la virtud es conocimiento: quien conoce el bien obra bien y quien obra mal lo hace por ignorancia."
+   },
+   {
+    "q": "¿De dónde procede el lema «conócete a ti mismo» que Sócrates hizo suyo?",
+    "o": [
+     "De una inscripción del templo de Delfos.",
+     "De un diálogo de Platón, el Fedón.",
+     "De la obra de Aristóteles sobre el alma.",
+     "De un poema órfico sobre la transmigración."
+    ],
+    "a": 0,
+    "fb": "Era una inscripción del templo de Delfos; Sócrates la convirtió en el lema de su filosofía."
+   },
+   {
+    "q": "«Mientras tengamos el cuerpo… no poseeremos suficientemente aquello que deseamos, es decir, la verdad.» ¿A quién pertenece la frase?",
+    "o": [
+     "A Aristóteles, en su tratado sobre el alma.",
+     "A Sócrates, en la inscripción de Delfos.",
+     "A Platón, en el Fedón.",
+     "A Heráclito, en sus fragmentos sobre el logos."
+    ],
+    "a": 2,
+    "fb": "Es de Platón, en el Fedón: expresa su dualismo, porque el cuerpo impide al alma poseer la verdad."
+   },
+   {
+    "q": "¿Qué autor compara la unión del alma y el cuerpo con la de «lo chato» y la nariz?",
+    "o": [
+     "Platón.",
+     "Protágoras.",
+     "Pitágoras.",
+     "Aristóteles."
+    ],
+    "a": 3,
+    "fb": "Aristóteles: igual que «lo chato» no puede separarse de la nariz, el alma no puede separarse del cuerpo del que es forma."
+   },
+   {
+    "q": "¿Qué autor explica las partes del alma mediante el mito del carro alado?",
+    "o": [
+     "Platón.",
+     "Sócrates.",
+     "Aristóteles.",
+     "Pitágoras."
+    ],
+    "a": 0,
+    "fb": "Platón, en el Fedro: el auriga es la razón, el caballo noble la parte irascible y el rebelde la concupiscible."
+   },
+   {
+    "q": "Según la teoría, en la concepción platónica, ¿hasta cuándo transmigra el alma de un cuerpo a otro?",
+    "o": [
+     "Hasta que se disuelve en los elementos de los que está hecha.",
+     "Hasta que consigue purificarse de su unión con los cuerpos.",
+     "Hasta que olvida del todo las Ideas que contempló antes.",
+     "Hasta que ocupa un cuerpo humano, sin volver a los animales."
+    ],
+    "a": 1,
+    "fb": "Por la metempsicosis, heredada del orfismo y del pitagorismo, el alma pasa de un cuerpo a otro hasta purificarse."
+   }
+  ]
+ },
+ "hf-a08-banco": {
+  "name": "T8 · La ética clásica: intelectualismo, virtudes y eudaimonía (banco ampliado)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "Según la teoría, ¿qué lugar ocupaba la ética para los filósofos clásicos?",
+    "o": [
+     "Una disciplina secundaria, subordinada al estudio de la naturaleza",
+     "Un saber reservado a los legisladores y gobernantes de la polis",
+     "La primera necesidad de la vida humana, no un saber secundario",
+     "Un conjunto de costumbres heredadas que no requería reflexión"
+    ],
+    "a": 2,
+    "fb": "Para Sócrates, Platón y Aristóteles la ética no era secundaria: reflexionar sobre cómo vivir bien era la primera necesidad de la vida humana."
+   },
+   {
+    "q": "¿Qué dos preguntas comparten Sócrates, Platón y Aristóteles en su reflexión ética?",
+    "o": [
+     "Qué es el arkhé y cómo se explica el cambio de la naturaleza",
+     "Qué es la virtud (areté) y qué es la felicidad (eudaimonía)",
+     "Qué es la ley (nomos) y si las normas son convenciones humanas",
+     "Qué es el alma y cómo sobrevive a la muerte del cuerpo"
+    ],
+    "a": 1,
+    "fb": "Los tres se preguntan qué es la virtud y qué es la felicidad, aunque responden de dos maneras distintas: el intelectualismo y la ética aristotélica de las virtudes."
+   },
+   {
+    "q": "Para Sócrates, ¿dónde está la fuente de la virtud?",
+    "o": [
+     "En la tradición heredada de los antepasados",
+     "En lo que decide la mayoría de la asamblea",
+     "En la voluntad de los dioses de la ciudad",
+     "En la razón de cada persona"
+    ],
+    "a": 3,
+    "fb": "Sócrates afirma que la fuente de la virtud no está en la tradición ni en la mayoría, sino en la razón de cada uno."
+   },
+   {
+    "q": "«Nadie hace el mal voluntariamente.» ¿A quién pertenece esta tesis?",
+    "o": [
+     "A Platón",
+     "A Aristóteles",
+     "A Sócrates",
+     "A Protágoras"
+    ],
+    "a": 2,
+    "fb": "Es la frase de Sócrates que resume su intelectualismo moral: quien obra mal lo hace por ignorancia, no a sabiendas."
+   },
+   {
+    "q": "¿Cómo relaciona Sócrates el conocimiento, la virtud y la felicidad?",
+    "o": [
+     "Son inseparables: quien conoce el bien lo practica y es feliz",
+     "La felicidad depende de la suerte, no del saber ni de la virtud",
+     "La virtud se adquiere por costumbre y el conocimiento llega después",
+     "El conocimiento basta para ser feliz aunque no se practique el bien"
+    ],
+    "a": 0,
+    "fb": "Para Sócrates, ciencia, virtud y felicidad son inseparables: quien conoce el bien lo practica, y en esa práctica encuentra su perfeccionamiento y la felicidad."
+   },
+   {
+    "q": "¿Qué objeción plantea la aporía del intelectualismo socrático?",
+    "o": [
+     "Que la virtud no puede enseñarse porque cada uno tiene su opinión",
+     "Que la felicidad consiste en el placer y no en el conocimiento",
+     "Que el bien depende de la ciudad y cambia de un pueblo a otro",
+     "Que a veces sabemos lo que está bien y aun así obramos mal"
+    ],
+    "a": 3,
+    "fb": "La aporía pregunta por qué, si basta con saber para obrar bien, sabemos lo que está bien y aun así lo hacemos mal: los deseos y pasiones parecen arrastrar a la razón."
+   },
+   {
+    "q": "Marta sabe que dejar el estudio para el último día le perjudica y, aun así, vuelve a hacerlo cada trimestre. ¿Qué tesis pone en cuestión su caso?",
+    "o": [
+     "El término medio aristotélico, porque su conducta es un vicio por exceso",
+     "El intelectualismo socrático, pues saber el bien no le basta para obrar bien",
+     "La teoría platónica del alma, porque muestra que el alma no tiene partes",
+     "El fin último aristotélico, pues sus acciones no persiguen ningún fin"
+    ],
+    "a": 1,
+    "fb": "Es el problema de la aporía socrática: si la virtud fuera solo conocimiento, quien sabe lo que le conviene siempre obraría bien."
+   },
+   {
+    "q": "Cuando Platón dice que la virtud es también purificación, quiere decir que…",
+    "o": [
+     "el alma debe liberarse de las ataduras del cuerpo para contemplar el Bien",
+     "el ciudadano debe cumplir los ritos religiosos de la polis para ser virtuoso",
+     "el alma debe repetir actos buenos hasta que se conviertan en un hábito",
+     "el cuerpo debe entrenarse con ejercicio para que el alma sea más fuerte"
+    ],
+    "a": 0,
+    "fb": "Para Platón la virtud es conocimiento y purificación: el alma se libera de las ataduras del cuerpo para poder contemplar la Idea del Bien."
+   },
+   {
+    "q": "¿En qué matiza Platón el intelectualismo de Sócrates?",
+    "o": [
+     "Niega que la virtud tenga relación alguna con el conocimiento del bien",
+     "No identifica del todo virtud y sabiduría, aunque aquella es necesaria para esta",
+     "Sostiene que la virtud es un término medio entre dos vicios opuestos",
+     "Afirma que la virtud se adquiere solo por la repetición de actos buenos"
+    ],
+    "a": 1,
+    "fb": "Platón hereda el intelectualismo, pero no identifica del todo sabiduría y virtud: la virtud es necesaria para la sabiduría, sin confundirse con ella."
+   },
+   {
+    "q": "Para Platón, ¿cuál es la virtud suprema, de la que dependen las demás?",
+    "o": [
+     "La justicia",
+     "La valentía",
+     "La templanza",
+     "La sabiduría"
+    ],
+    "a": 3,
+    "fb": "Según la teoría, la virtud suprema para Platón es la sabiduría, y de ella dependen las demás virtudes."
+   },
+   {
+    "q": "En la teoría platónica, ¿qué virtud corresponde a la parte irascible del alma?",
+    "o": [
+     "La prudencia",
+     "La templanza",
+     "La valentía",
+     "La justicia"
+    ],
+    "a": 2,
+    "fb": "Platón asigna la valentía a la parte irascible; la prudencia corresponde a la racional y la templanza a la concupiscible."
+   },
+   {
+    "q": "¿Quién sostiene que la virtud es conocimiento y también purificación del alma?",
+    "o": [
+     "Sócrates",
+     "Platón",
+     "Aristóteles",
+     "Parménides"
+    ],
+    "a": 1,
+    "fb": "Es la versión platónica del intelectualismo: a la tesis socrática de la virtud como conocimiento, Platón añade la purificación del alma."
+   },
+   {
+    "q": "Alguien se deja llevar siempre por sus deseos y enfados, y su razón nunca consigue imponerse. Según Platón, ¿qué virtud le falta?",
+    "o": [
+     "La generosidad, término medio entre dos vicios opuestos",
+     "La eudaimonía, que llega con la edad sin necesidad de esfuerzo",
+     "La valentía, que es la virtud propia de la parte concupiscible",
+     "La justicia, armonía de las partes del alma bajo la razón"
+    ],
+    "a": 3,
+    "fb": "Para Platón la justicia es la armonía del alma: que cada parte cumpla su función bajo el gobierno de la razón, algo que aquí no ocurre."
+   },
+   {
+    "q": "¿Cuál de estas correspondencias entre virtud y parte del alma es correcta según Platón?",
+    "o": [
+     "Templanza y parte irascible",
+     "Prudencia y parte concupiscible",
+     "Templanza y parte concupiscible",
+     "Valentía y parte racional"
+    ],
+    "a": 2,
+    "fb": "La templanza corresponde a la parte concupiscible; la prudencia, a la racional, y la valentía, a la irascible."
+   },
+   {
+    "q": "¿De qué observación parte Aristóteles para plantear su ética?",
+    "o": [
+     "De que todo lo que hacemos lo hacemos por algún fin",
+     "De que el alma existía antes de unirse al cuerpo",
+     "De que las leyes cambian de una ciudad a otra",
+     "De que los sentidos nos engañan sobre lo real"
+    ],
+    "a": 0,
+    "fb": "Aristóteles observa que toda acción se hace por un fin, y que los fines se ordenan hacia un fin último: la eudaimonía."
+   },
+   {
+    "q": "¿Qué rasgo distingue al fin último del que habla Aristóteles?",
+    "o": [
+     "Se busca por sí mismo y no por otra cosa",
+     "Se alcanza en un instante de placer intenso",
+     "Se busca como medio para conseguir riqueza",
+     "Lo fija cada ciudad según sus costumbres"
+    ],
+    "a": 0,
+    "fb": "El fin último es aquel que se busca por sí mismo y no por otra cosa; para Aristóteles ese fin es la eudaimonía."
+   },
+   {
+    "q": "¿Por qué la eudaimonía aristotélica no es un placer momentáneo?",
+    "o": [
+     "Porque es contemplar la Idea del Bien una vez liberados del cuerpo",
+     "Porque consiste en la ausencia total de deseos y de pasiones",
+     "Porque solo la alcanzan los dioses y nunca los seres humanos",
+     "Porque es una vida realizada según la virtud, no una sensación"
+    ],
+    "a": 3,
+    "fb": "Para Aristóteles la eudaimonía es la vida plena, realizada según la virtud; no es un placer pasajero."
+   },
+   {
+    "q": "En el argumento de la función propia, ¿por qué el bien del ser humano es ejercer la razón?",
+    "o": [
+     "Porque la razón permite obtener más placer que los sentidos",
+     "Porque la razón es la única parte inmortal del alma humana",
+     "Porque la ley de la polis obliga a actuar racionalmente",
+     "Porque la razón es la función específica que lo distingue de los demás seres"
+    ],
+    "a": 3,
+    "fb": "El bien de cada cosa es cumplir su función (el cuchillo, cortar; el ojo, ver); lo propio del ser humano es la razón, así que su bien es ejercerla."
+   },
+   {
+    "q": "«Una golondrina no hace verano.» ¿Qué autor usa esta frase y para ilustrar qué idea?",
+    "o": [
+     "Sócrates, para mostrar que un solo acto no demuestra conocer el bien",
+     "Platón, para explicar que el alma necesita varias vidas para purificarse",
+     "Aristóteles, para indicar que la felicidad exige toda una vida virtuosa",
+     "Aristóteles, para mostrar que un solo vicio no destruye la virtud"
+    ],
+    "a": 2,
+    "fb": "Aristóteles la usa para indicar que la felicidad es la actividad del alma conforme a la virtud a lo largo de toda una vida, no de un momento."
+   },
+   {
+    "q": "Tras ganar la lotería, Álex dice que ya ha alcanzado la felicidad para siempre. ¿Qué le objetaría Aristóteles?",
+    "o": [
+     "Que la felicidad es contemplar la Idea del Bien, no poseer riqueza",
+     "Que la felicidad no existe, porque nada puede conocerse con certeza",
+     "Que es actividad conforme a la virtud a lo largo de toda una vida",
+     "Que la felicidad depende de la ciudad y cambia según sus costumbres"
+    ],
+    "a": 2,
+    "fb": "Para Aristóteles la felicidad no es un golpe de suerte ni un placer momentáneo, sino una vida entera vivida conforme a la virtud."
+   },
+   {
+    "q": "¿Cuál de estas virtudes es dianoética según Aristóteles?",
+    "o": [
+     "La templanza",
+     "La generosidad",
+     "La valentía",
+     "La prudencia"
+    ],
+    "a": 3,
+    "fb": "Las virtudes dianoéticas perfeccionan el entendimiento: la sabiduría y la prudencia. Templanza, generosidad y valentía son virtudes éticas."
+   },
+   {
+    "q": "En el ejemplo aristotélico de la valentía, ¿qué es la temeridad?",
+    "o": [
+     "El vicio por defecto",
+     "El término medio",
+     "El vicio por exceso",
+     "Una virtud dianoética"
+    ],
+    "a": 2,
+    "fb": "La valentía es el término medio entre la cobardía (defecto) y la temeridad (exceso)."
+   },
+   {
+    "q": "¿Por qué el término medio aristotélico no es una media aritmética?",
+    "o": [
+     "Porque siempre se sitúa más cerca del exceso que del defecto",
+     "Porque es relativo a cada situación y lo determina la prudencia",
+     "Porque lo fija la ley de la ciudad del mismo modo para todos",
+     "Porque consiste en eliminar por completo las pasiones del alma"
+    ],
+    "a": 1,
+    "fb": "El término medio es «relativo a nosotros»: no se calcula, sino que lo determina la prudencia deliberando sobre lo que conviene en cada caso."
+   },
+   {
+    "q": "Enfrentarse a un ladrón armado puede ser valiente en un policía entrenado y temerario en un niño. ¿Qué idea aristotélica lo explica?",
+    "o": [
+     "Que el término medio es relativo a nosotros y lo fija la prudencia",
+     "Que la valentía es la virtud propia de la parte irascible del alma",
+     "Que nadie hace el mal voluntariamente, sino por ignorancia",
+     "Que la virtud es purificación del alma frente al cuerpo"
+    ],
+    "a": 0,
+    "fb": "El término medio no es igual para todos: depende de la persona y la situación, y lo determina la prudencia."
+   },
+   {
+    "q": "Luis regala dinero a todo el mundo sin medida; su hermana nunca da nada a nadie. Desde Aristóteles, ¿qué les falta a ambos?",
+    "o": [
+     "La templanza, virtud de la parte concupiscible del alma",
+     "La sabiduría, virtud que se adquiere por la enseñanza",
+     "La valentía, término medio entre cobardía y temeridad",
+     "La generosidad, término medio entre dos vicios opuestos"
+    ],
+    "a": 3,
+    "fb": "Ambos caen en un vicio, uno por exceso y otra por defecto; la virtud ética correspondiente, la generosidad, es el término medio entre ellos."
+   },
+   {
+    "q": "Una chica muy impaciente se obliga cada día a esperar su turno sin protestar y, al cabo de meses, la paciencia le sale sola. ¿Qué explica el cambio según Aristóteles?",
+    "o": [
+     "Ha recordado una Idea que su alma ya conocía",
+     "Ha adquirido una virtud ética por repetición de actos",
+     "Ha aprendido una virtud dianoética por la enseñanza",
+     "Ha purificado su alma de las ataduras del cuerpo"
+    ],
+    "a": 1,
+    "fb": "Las virtudes éticas son hábitos que se adquieren repitiendo actos; las dianoéticas, en cambio, se aprenden por la enseñanza."
+   },
+   {
+    "q": "«La virtud es un hábito selectivo que consiste en un término medio relativo a nosotros, determinado por la razón.» ¿De quién es?",
+    "o": [
+     "De Platón",
+     "De Sócrates",
+     "De Protágoras",
+     "De Aristóteles"
+    ],
+    "a": 3,
+    "fb": "Es la definición de virtud de Aristóteles en la Ética a Nicómaco: hábito, término medio y papel de la razón (la prudencia)."
+   },
+   {
+    "q": "Un profesor cree que quien acosa a un compañero lo hace porque no comprende el daño que se causa a sí mismo, y que la solución es ayudarle a entenderlo. ¿Con qué postura encaja?",
+    "o": [
+     "Con el intelectualismo moral de Sócrates",
+     "Con la teoría aristotélica del término medio",
+     "Con la división platónica de las virtudes",
+     "Con la idea aristotélica de la función propia"
+    ],
+    "a": 0,
+    "fb": "Para el intelectualismo socrático, el mal nace de la ignorancia: si se conoce de verdad el bien, se obra bien, así que la solución es enseñar."
+   },
+   {
+    "q": "¿Qué significa areté según el glosario del tema?",
+    "o": [
+     "Virtud: excelencia en la realización de la función propia",
+     "Felicidad plena: fin último de todas las acciones humanas",
+     "Hábito: costumbre adquirida al repetir cualquier acción",
+     "Conocimiento: visión intelectual de la Idea del Bien"
+    ],
+    "a": 0,
+    "fb": "Areté es virtud entendida como excelencia: realizar bien la función propia. La felicidad plena es la eudaimonía."
+   },
+   {
+    "q": "¿Qué diferencia principal hay entre Platón y Aristóteles sobre qué es la virtud?",
+    "o": [
+     "Platón: conocimiento y purificación; Aristóteles: hábito y término medio",
+     "Platón: hábito y término medio; Aristóteles: conocimiento y purificación",
+     "Platón: convención de la ciudad; Aristóteles: don natural e innato",
+     "Platón: obediencia a los dioses; Aristóteles: cálculo de los placeres"
+    ],
+    "a": 0,
+    "fb": "Para Platón la virtud es conocimiento y purificación del alma; para Aristóteles, un hábito que consiste en un término medio entre dos vicios."
+   },
+   {
+    "q": "¿Dónde sitúan la felicidad Platón y Aristóteles, respectivamente?",
+    "o": [
+     "Platón, en la ausencia de dolor; Aristóteles, en el placer moderado",
+     "Platón, en adquirir buenos hábitos; Aristóteles, en recordar las Ideas",
+     "Platón, en contemplar la Idea del Bien; Aristóteles, en vivir según la virtud",
+     "Platón, en vivir según la virtud; Aristóteles, en contemplar la Idea del Bien"
+    ],
+    "a": 2,
+    "fb": "Para Platón la felicidad es la contemplación de la Idea del Bien; para Aristóteles, la eudaimonía, una vida conforme a la virtud."
+   },
+   {
+    "q": "¿Por qué vía se alcanza la vida buena según Platón y según Aristóteles?",
+    "o": [
+     "Platón, por la práctica y la prudencia; Aristóteles, por la razón",
+     "Platón, por la razón; Aristóteles, por la práctica y la prudencia",
+     "Ambos, solo por las enseñanzas de maestros sabios",
+     "Ambos, por el cumplimiento de las leyes de la polis"
+    ],
+    "a": 1,
+    "fb": "Platón confía en la razón (intelectualismo); Aristóteles subraya la práctica de la virtud y la prudencia."
+   },
+   {
+    "q": "¿Qué tienen en común Sócrates, Platón y Aristóteles en su ética?",
+    "o": [
+     "Todos afirman que el bien es una convención que cambia según la ciudad",
+     "Todos definen la virtud como un término medio entre dos vicios",
+     "Todos vinculan la virtud con la felicidad del ser humano",
+     "Todos creen que la virtud se adquiere solo por repetición de actos"
+    ],
+    "a": 2,
+    "fb": "Aunque la entienden de forma distinta, los tres unen virtud y felicidad; el término medio y la repetición son ideas solo de Aristóteles."
+   },
+   {
+    "q": "La aporía socrática señala que las pasiones arrastran a la razón. ¿Qué elemento de la ética aristotélica atiende a ese problema?",
+    "o": [
+     "La contemplación de la Idea del Bien por el alma purificada",
+     "Las virtudes éticas, hábitos que orientan las pasiones al bien",
+     "La tesis de que nadie hace el mal voluntariamente, sino por ignorancia",
+     "La identificación completa entre la sabiduría y la virtud moral"
+    ],
+    "a": 1,
+    "fb": "Aristóteles no confía solo en el saber: las virtudes éticas son hábitos que orientan las pasiones y acciones hacia el bien."
+   },
+   {
+    "q": "¿Qué afirmación sobre la prudencia en Platón y en Aristóteles es correcta?",
+    "o": [
+     "Platón la vincula a la parte racional; Aristóteles, a deliberar en cada caso",
+     "Platón la vincula a la parte irascible; Aristóteles, a los hábitos éticos",
+     "Ambos la entienden como un hábito adquirido por la repetición de actos",
+     "Ambos la entienden como la armonía de todas las partes del alma"
+    ],
+    "a": 0,
+    "fb": "En Platón la prudencia es la virtud de la parte racional; en Aristóteles es una virtud dianoética que delibera sobre lo que conviene en cada situación."
+   }
+  ]
+ },
+ "hf-a09-banco": {
+  "name": "T9 · La política clásica: Platón y Aristóteles (banco ampliado)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "¿Por qué distingue Platón precisamente tres clases sociales en su ciudad ideal?",
+    "o": [
+     "Porque en Atenas ya existían tres grupos de ciudadanos con derechos distintos",
+     "Porque las tres formas justas de gobierno exigen tres tipos de ciudadano",
+     "Porque a cada una de las tres partes del alma le corresponde una clase",
+     "Porque la ciudad necesita tres funciones que se reparten por votación"
+    ],
+    "a": 2,
+    "fb": "Platón parte de la correlación entre el alma y la ciudad: a las tres partes del alma corresponden tres clases sociales (productores, guardianes y gobernantes)."
+   },
+   {
+    "q": "En la ciudad ideal de Platón, ¿qué virtud corresponde a los productores (labradores, artesanos y comerciantes)?",
+    "o": [
+     "La templanza",
+     "El valor",
+     "La prudencia",
+     "La justicia"
+    ],
+    "a": 0,
+    "fb": "La virtud propia de los productores es la templanza; el valor es de los guardianes y la prudencia, de los gobernantes."
+   },
+   {
+    "q": "¿Qué virtud propia asigna Platón a los guardianes o soldados?",
+    "o": [
+     "La templanza",
+     "La prudencia",
+     "La justicia",
+     "El valor"
+    ],
+    "a": 3,
+    "fb": "A los guardianes les corresponde el valor. La justicia no es la virtud de una clase, sino que cada clase haga lo que le corresponde."
+   },
+   {
+    "q": "¿Qué virtud corresponde, en la República, a los gobernantes-filósofos?",
+    "o": [
+     "El valor",
+     "La prudencia",
+     "La templanza",
+     "La piedad"
+    ],
+    "a": 1,
+    "fb": "Los gobernantes-filósofos tienen como virtud la prudencia, porque su tarea es dirigir la ciudad conociendo el Bien."
+   },
+   {
+    "q": "¿Por qué concede Platón tanta importancia a la educación en su proyecto político?",
+    "o": [
+     "Porque todos los ciudadanos deben votar con conocimiento en la asamblea",
+     "Porque es el medio para formar gobernantes capaces de conocer el Bien",
+     "Porque el hábito de obedecer las leyes basta para que haya justicia",
+     "Porque cada pueblo debe adaptar sus leyes a su carácter propio"
+    ],
+    "a": 1,
+    "fb": "Como solo quien conoce la Idea del Bien puede gobernar con justicia, Platón confía en la educación para formar a los gobernantes."
+   },
+   {
+    "q": "¿Qué reprocha Platón a la democracia ateniense de su tiempo?",
+    "o": [
+     "Que concentraba todo el poder en manos de un solo hombre",
+     "Que excluía a los ricos de las decisiones de la ciudad",
+     "Que entregaba el poder a quienes no sabían gobernar",
+     "Que olvidaba la religión tradicional de la polis"
+    ],
+    "a": 2,
+    "fb": "Platón critica que la democracia de su época confiara el poder a quienes no sabían gobernar, en lugar de a quienes conocen el Bien."
+   },
+   {
+    "q": "En el ciclo de degeneración que describe Platón, ¿qué es la timocracia?",
+    "o": [
+     "El gobierno de los militares",
+     "El gobierno de los ricos",
+     "El gobierno del pueblo",
+     "El gobierno de los sabios"
+    ],
+    "a": 0,
+    "fb": "La timocracia es el gobierno de los militares, primera degeneración del gobierno ideal; el de los ricos es la oligarquía."
+   },
+   {
+    "q": "Tras el gobierno ideal, ¿en qué orden degeneran las formas de gobierno según Platón?",
+    "o": [
+     "Oligarquía, timocracia, tiranía y democracia",
+     "Timocracia, democracia, oligarquía y tiranía",
+     "Tiranía, oligarquía, democracia y timocracia",
+     "Timocracia, oligarquía, democracia y tiranía"
+    ],
+    "a": 3,
+    "fb": "Del gobierno ideal se pasa a la timocracia, la oligarquía, la democracia (que degenera en desorden) y, por último, la tiranía, la peor."
+   },
+   {
+    "q": "Según Aristóteles, ¿para qué existe la familia, primer nivel de la comunidad?",
+    "o": [
+     "Para alcanzar la vida buena y la virtud completa",
+     "Para defender el territorio frente a otras ciudades",
+     "Para atender las necesidades de la vida cotidiana",
+     "Para elegir a los gobernantes de la aldea"
+    ],
+    "a": 2,
+    "fb": "La familia sirve para la vida cotidiana; la aldea une familias, y solo la polis busca vivir bien."
+   },
+   {
+    "q": "¿Qué hace de la polis, según Aristóteles, la comunidad perfecta?",
+    "o": [
+     "Que reúne a más familias que ninguna otra comunidad",
+     "Que no busca solo vivir, sino vivir bien",
+     "Que en ella gobierna siempre el más sabio",
+     "Que se basa en un acuerdo libre entre individuos"
+    ],
+    "a": 1,
+    "fb": "La polis es la comunidad perfecta porque su fin no es solo la supervivencia, sino vivir bien."
+   },
+   {
+    "q": "¿Qué dos preguntas usa Aristóteles para clasificar los regímenes políticos?",
+    "o": [
+     "Quién gobierna y para quién gobierna",
+     "Cuánto dura el gobierno y cómo se elige",
+     "Qué clase gobierna y qué virtud tiene",
+     "Si hay leyes escritas y si hay asamblea"
+    ],
+    "a": 0,
+    "fb": "Aristóteles clasifica los regímenes según quién gobierna (uno, pocos o muchos) y para quién (el bien común o el interés propio)."
+   },
+   {
+    "q": "En la clasificación de Aristóteles, ¿de qué forma justa es degeneración la oligarquía?",
+    "o": [
+     "De la aristocracia",
+     "De la monarquía",
+     "De la república",
+     "De la timocracia"
+    ],
+    "a": 0,
+    "fb": "La oligarquía es la degeneración de la aristocracia: gobiernan unos pocos, pero para su propio interés."
+   },
+   {
+    "q": "Para Aristóteles, ¿cuál es el mejor régimen político?",
+    "o": [
+     "El del rey filósofo, que conoce la Idea del Bien",
+     "La democracia directa, en la que decide toda la asamblea",
+     "La monarquía, porque la unidad de mando evita divisiones",
+     "El que se adapta a cada pueblo y evita los extremos"
+    ],
+    "a": 3,
+    "fb": "Para Aristóteles no hay un régimen válido para todos: el mejor es el que se adapta a cada pueblo evitando los extremos."
+   },
+   {
+    "q": "¿Por qué se dice que la ciudad que describe Platón en la República es una utopía?",
+    "o": [
+     "Porque describe con exactitud la Atenas democrática de su época",
+     "Porque es el modelo que Esparta aplicó tras su victoria",
+     "Porque es una ciudad ideal que no existe en ningún lugar",
+     "Porque la fundaron los discípulos de la Academia"
+    ],
+    "a": 2,
+    "fb": "Utopía significa ciudad ideal que no existe en ningún lugar: Platón diseña cómo debería ser una ciudad justa."
+   },
+   {
+    "q": "¿En qué difiere la idea de justicia política de Platón de la de Aristóteles?",
+    "o": [
+     "Platón la pone en el bien común; Aristóteles, en que cada clase cumpla su función",
+     "Platón la pone en que cada clase cumpla su función; Aristóteles, en el bien común",
+     "Ambos la identifican con obedecer al gobernante más sabio de la ciudad",
+     "Platón la ve en la voluntad de la mayoría; Aristóteles, en la del monarca"
+    ],
+    "a": 1,
+    "fb": "Para Platón la justicia es que cada clase esté en su función; para Aristóteles, buscar el bien común evitando los extremos."
+   },
+   {
+    "q": "¿Qué pregunta común intentan responder Platón y Aristóteles tras la crisis de la democracia ateniense?",
+    "o": [
+     "Cómo extender el poder de Atenas por el Mediterráneo",
+     "Cómo lograr la felicidad individual al margen de la polis",
+     "Cómo sustituir las leyes por la voluntad de los dioses",
+     "Cuál es el mejor orden social para la comunidad"
+    ],
+    "a": 3,
+    "fb": "Ambos se preguntan cuál es el mejor orden social, aunque responden de maneras muy distintas."
+   },
+   {
+    "q": "Frente al rey filósofo de Platón, ¿qué responde Aristóteles a la pregunta de quién debe gobernar?",
+    "o": [
+     "Que lo decisivo es un régimen que busque el bien común",
+     "Que debe gobernar siempre la mayoría, sea cual sea su fin",
+     "Que deben gobernar los guardianes, por su valor",
+     "Que debe gobernar quien tenga más riqueza y propiedades"
+    ],
+    "a": 0,
+    "fb": "Aristóteles no fija un tipo de gobernante: un régimen es justo si busca el bien común, gobierne uno, pocos o muchos."
+   },
+   {
+    "q": "¿En qué coinciden Platón y Aristóteles al hablar de la tiranía?",
+    "o": [
+     "En que es el régimen propio de la aldea antes de la polis",
+     "En que es la forma justa del gobierno de uno solo",
+     "En que es una forma corrupta, contraria a la justicia",
+     "En que surge directamente de la timocracia militar"
+    ],
+    "a": 2,
+    "fb": "Para Platón la tiranía es la peor forma, final del ciclo; para Aristóteles, la degeneración de la monarquía, que gobierna para el interés propio."
+   },
+   {
+    "q": "¿Qué idea de la ética aristotélica reaparece en su política?",
+    "o": [
+     "La reminiscencia, porque el buen gobernante recuerda las Ideas",
+     "El término medio, porque el buen régimen evita los extremos",
+     "El intelectualismo moral, porque saber el bien basta para gobernar",
+     "La división del alma en tres partes y en tres clases sociales"
+    ],
+    "a": 1,
+    "fb": "Para Aristóteles la política es también un término medio: el mejor régimen evita los extremos, como la virtud en la ética."
+   },
+   {
+    "q": "¿Desde qué concepción del ser humano construye cada autor su política?",
+    "o": [
+     "Platón, desde el animal político; Aristóteles, desde el alma en tres partes",
+     "Ambos, desde un individuo aislado que después se une a otros",
+     "Platón, desde el alma en tres partes; Aristóteles, desde el animal político",
+     "Platón, desde la experiencia; Aristóteles, desde la Idea del Bien"
+    ],
+    "a": 2,
+    "fb": "Platón parte del alma dividida en tres partes; Aristóteles, del ser humano como animal político (zoon politikón)."
+   },
+   {
+    "q": "La oligarquía aparece en los dos autores. ¿Qué afirmación es correcta?",
+    "o": [
+     "Para ambos es la forma justa del gobierno de unos pocos ricos",
+     "Para Platón es el gobierno de los militares; para Aristóteles, de los sabios",
+     "Solo aparece en Aristóteles; Platón la sustituye por la timocracia",
+     "En Platón es una etapa del ciclo; en Aristóteles, degenera la aristocracia"
+    ],
+    "a": 3,
+    "fb": "En Platón la oligarquía (gobierno de los ricos) es una etapa del ciclo de degeneración; en Aristóteles, la forma corrupta de la aristocracia."
+   },
+   {
+    "q": "Un artesano de mucho éxito decide que también debe mandar el ejército y dictar las leyes de su ciudad. ¿Qué diría Platón?",
+    "o": [
+     "Que rompe la justicia, porque cada clase debe hacer lo que le corresponde",
+     "Que es justo, porque en la democracia todos pueden ocupar cualquier cargo",
+     "Que es aceptable siempre que lo apruebe la mayoría de los ciudadanos",
+     "Que es deseable, porque la riqueza demuestra capacidad de mando"
+    ],
+    "a": 0,
+    "fb": "Para Platón la justicia consiste en que cada clase haga lo que le corresponde; un productor que gobierna rompe ese orden."
+   },
+   {
+    "q": "Un líder promete a los votantes todo lo que quieren oír, aunque sabe que es imposible, solo para conservar el poder. ¿Con qué concepto de Aristóteles encaja?",
+    "o": [
+     "Con la oligarquía",
+     "Con la demagogia",
+     "Con la aristocracia",
+     "Con la timocracia"
+    ],
+    "a": 1,
+    "fb": "La demagogia consiste en halagar al pueblo para el propio poder: se gobierna para el interés propio, no para el bien común."
+   },
+   {
+    "q": "Tras un golpe de Estado, un país queda en manos de sus mandos militares, que se imponen sobre el resto de la sociedad. ¿Con qué etapa del ciclo platónico encaja?",
+    "o": [
+     "Con la oligarquía",
+     "Con la democracia",
+     "Con el gobierno del rey filósofo",
+     "Con la timocracia"
+    ],
+    "a": 3,
+    "fb": "En el ciclo de Platón, la timocracia es el gobierno de los militares."
+   },
+   {
+    "q": "Varias familias de un valle se unen para compartir el molino, el pozo y la defensa, pero aún no forman una ciudad. Para Aristóteles, ¿qué comunidad forman?",
+    "o": [
+     "Una polis",
+     "Una familia extensa",
+     "Una aldea",
+     "Una república"
+    ],
+    "a": 2,
+    "fb": "La aldea es la unión de varias familias; la polis es el nivel superior, la comunidad perfecta que busca vivir bien."
+   },
+   {
+    "q": "Un equipo redacta una constitución pensando en las costumbres de su país y huyendo tanto del poder de unos pocos ricos como del de una multitud sin control. ¿Qué autor la inspira?",
+    "o": [
+     "Aristóteles, que busca un régimen adaptado a cada pueblo",
+     "Platón, que diseña una ciudad ideal válida para cualquier lugar",
+     "Sócrates, que confía el gobierno a la opinión de la asamblea",
+     "Los sofistas, que niegan que haya leyes mejores que otras"
+    ],
+    "a": 0,
+    "fb": "Aristóteles defiende que el mejor régimen se adapta a cada pueblo y evita los extremos: la política como término medio."
+   },
+   {
+    "q": "Un pequeño grupo de grandes empresarios controla el gobierno y aprueba leyes solo para aumentar su fortuna. Según Aristóteles, se trata de…",
+    "o": [
+     "una aristocracia, porque gobiernan unos pocos",
+     "una oligarquía, degeneración de la aristocracia",
+     "una tiranía, degeneración de la monarquía",
+     "una república, porque se respetan las leyes"
+    ],
+    "a": 1,
+    "fb": "Gobiernan unos pocos para su interés propio: es una oligarquía, la forma corrupta de la aristocracia."
+   },
+   {
+    "q": "Alguien propone que solo puedan gobernar quienes hayan superado una larga formación y demuestren conocer qué es el bien. ¿Con qué postura encaja?",
+    "o": [
+     "Con Aristóteles, para quien el mejor régimen depende de cada pueblo",
+     "Con la timocracia, que confía el poder a los soldados",
+     "Con Platón y su gobierno del rey filósofo",
+     "Con la democracia, que da el poder a la mayoría"
+    ],
+    "a": 2,
+    "fb": "Para Platón debe gobernar el rey filósofo, formado mediante la educación para conocer la Idea del Bien."
+   },
+   {
+    "q": "«Quien no puede vivir en sociedad, o no necesita de nada por su propia suficiencia, no es miembro de la ciudad, sino una bestia o un dios». ¿De quién es?",
+    "o": [
+     "Platón",
+     "Sócrates",
+     "Protágoras",
+     "Aristóteles"
+    ],
+    "a": 3,
+    "fb": "Es de Aristóteles: como el ser humano es un animal político, solo fuera de lo humano (bestia o dios) se puede vivir sin la ciudad."
+   },
+   {
+    "q": "¿Quién sostiene que la ciudad es «el alma escrita en grande»?",
+    "o": [
+     "Platón",
+     "Aristóteles",
+     "Sócrates",
+     "Gorgias"
+    ],
+    "a": 0,
+    "fb": "Es Platón: la correlación entre el alma y la ciudad es el punto de partida de su República."
+   },
+   {
+    "q": "¿A quién se atribuye la definición del ser humano como «zoon politikón»?",
+    "o": [
+     "Platón",
+     "Aristóteles",
+     "Protágoras",
+     "Heráclito"
+    ],
+    "a": 1,
+    "fb": "Aristóteles define al ser humano como zoon politikón, animal político, que solo vive plenamente en comunidad."
+   },
+   {
+    "q": "¿Quién describe un ciclo en el que el mejor gobierno degenera poco a poco hasta llegar a la tiranía, la peor forma?",
+    "o": [
+     "Aristóteles",
+     "Protágoras",
+     "Platón",
+     "Sócrates"
+    ],
+    "a": 2,
+    "fb": "Es Platón: del gobierno ideal se pasa a la timocracia, la oligarquía, la democracia y, al final, la tiranía."
+   },
+   {
+    "q": "¿En qué situación histórica nace la filosofía política clásica?",
+    "o": [
+     "En la Atenas del siglo V a. C., en plena crisis de la democracia",
+     "En la Jonia del siglo VI a. C., al buscar el arkhé de la naturaleza",
+     "En el mundo helenístico, tras el imperio de Alejandro Magno",
+     "En la Roma republicana, al redactar sus primeras leyes escritas"
+    ],
+    "a": 0,
+    "fb": "La filosofía política nace en la Atenas del siglo V a. C., cuando la crisis de la democracia plantea cuál es el mejor orden social."
+   },
+   {
+    "q": "¿Por qué Platón y Aristóteles piensan la política siempre a partir de la polis?",
+    "o": [
+     "Porque ambos vivieron en grandes imperios gobernados por un rey",
+     "Porque la polis era una provincia sometida al poder de Persia",
+     "Porque rechazaban cualquier forma de vida en comunidad",
+     "Porque la ciudad-estado era su comunidad política"
+    ],
+    "a": 3,
+    "fb": "La polis, la ciudad-estado griega, era la comunidad política en la que vivían y desde la que pensaban el orden justo."
+   },
+   {
+    "q": "En la democracia griega existía el ostracismo. ¿En qué consistía?",
+    "o": [
+     "En la condena a muerte por impiedad dictada por un tribunal",
+     "En el destierro político de un ciudadano por votación popular",
+     "En la elección del gobernante por sorteo entre todos",
+     "En la pérdida de los bienes decidida por los guardianes"
+    ],
+    "a": 1,
+    "fb": "El ostracismo era el destierro político decidido por votación popular."
+   }
+  ]
+ },
+ "hf-a10-banco": {
+  "name": "T10 · El helenismo: cinismo, estoicismo, epicureísmo y escepticismo (banco ampliado)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "¿Qué cambio político explica que la filosofía helenística se vuelva hacia el individuo y su felicidad interior?",
+    "o": [
+     "La consolidación de la democracia ateniense en tiempos de Pericles",
+     "La caída del Imperio romano de Occidente y las invasiones germánicas",
+     "La desaparición de la polis y su sustitución por grandes reinos tras Alejandro",
+     "Las guerras médicas y la amenaza del Imperio persa sobre las polis griegas"
+    ],
+    "a": 2,
+    "fb": "Tras las conquistas de Alejandro Magno la polis desaparece y surgen grandes reinos; la filosofía deja de pensar la ciudad y se centra en el individuo."
+   },
+   {
+    "q": "Según la teoría, ¿qué pregunta de fondo comparten las cuatro escuelas helenísticas?",
+    "o": [
+     "Cómo vivir bien en un mundo incierto",
+     "Cuál es el arkhé o principio de todas las cosas",
+     "Cómo organizar una ciudad justa gobernada por sabios",
+     "Si la virtud puede enseñarse a cambio de dinero"
+    ],
+    "a": 0,
+    "fb": "Cinismo, estoicismo, epicureísmo y escepticismo dan respuestas distintas a una misma pregunta: cómo vivir bien en un mundo incierto."
+   },
+   {
+    "q": "¿Por qué se habla de una crisis de identidad del ciudadano en el helenismo?",
+    "o": [
+     "Porque el cristianismo ha sustituido ya a los dioses griegos tradicionales",
+     "Porque los sofistas han convencido a todos de que no existe ninguna verdad",
+     "Porque las leyes de la polis se han vuelto más estrictas que nunca",
+     "Porque ya no halla su sentido en la comunidad y se siente «uno más»"
+    ],
+    "a": 3,
+    "fb": "Antes el ciudadano se realizaba en la polis; al integrarse en grandes reinos e imperios se siente «uno más» en un mundo vasto e incierto."
+   },
+   {
+    "q": "«Apártate, que me tapas el sol.» ¿Quién dijo esta frase, según la leyenda, y a quién?",
+    "o": [
+     "Epicuro a Alejandro Magno",
+     "Diógenes de Sínope a Alejandro Magno",
+     "Zenón de Citio a un rey macedonio",
+     "Pirrón de Elis a Alejandro Magno"
+    ],
+    "a": 1,
+    "fb": "La anécdota muestra la autarquía cínica: Diógenes no necesita nada del hombre más poderoso del mundo, solo que no le quite el sol."
+   },
+   {
+    "q": "«Mientras existimos, la muerte no está; y cuando la muerte está, nosotros ya no existimos.» ¿De quién es esta frase?",
+    "o": [
+     "Zenón de Citio",
+     "Pirrón de Elis",
+     "Diógenes de Sínope",
+     "Epicuro"
+    ],
+    "a": 3,
+    "fb": "Es de Epicuro: forma parte del tetrafármaco y sirve para liberar del miedo a la muerte, que nunca llegamos a experimentar."
+   },
+   {
+    "q": "¿Quién fundó la escuela que sostiene que a cada afirmación puede oponerse la contraria con razones igualmente válidas?",
+    "o": [
+     "Pirrón de Elis",
+     "Antístenes",
+     "Zenón de Citio",
+     "Epicuro"
+    ],
+    "a": 0,
+    "fb": "Pirrón de Elis fundó el escepticismo, que por esa igualdad de razones recomienda suspender el juicio (epojé)."
+   },
+   {
+    "q": "La tesis de que el universo está gobernado por un logos divino y de que nada ocurre por azar es propia de…",
+    "o": [
+     "Epicuro y los epicúreos",
+     "Pirrón y los escépticos",
+     "Zenón y los estoicos",
+     "Antístenes y los cínicos"
+    ],
+    "a": 2,
+    "fb": "Para el estoicismo, fundado por Zenón de Citio, el logos ordena todo el universo y todo está determinado por el destino."
+   },
+   {
+    "q": "¿De qué palabra griega procede el nombre del cinismo?",
+    "o": [
+     "De logos, «razón»",
+     "De kynos, «perro»",
+     "De kosmos, «orden»",
+     "De polis, «ciudad»"
+    ],
+    "a": 1,
+    "fb": "Cinismo viene de kynos, «perro»: los cínicos vivían al margen de las convenciones sociales, conforme a la naturaleza."
+   },
+   {
+    "q": "Para los cínicos, ¿qué son la riqueza, el poder y la fama?",
+    "o": [
+     "Necesidades artificiales que hay que rechazar para ser autosuficiente",
+     "Placeres naturales y necesarios que conviene satisfacer con mesura",
+     "Cosas que no dependen de nosotros y que debemos aceptar como destino",
+     "Opiniones dudosas sobre las que conviene suspender el juicio"
+    ],
+    "a": 0,
+    "fb": "El cínico busca la autarquía viviendo conforme a la naturaleza, y por eso rechaza la riqueza, el poder y la fama como necesidades artificiales."
+   },
+   {
+    "q": "¿Qué significa la «apatía» que busca el sabio estoico?",
+    "o": [
+     "La indiferencia total hacia los demás y hacia lo que ocurre en el mundo",
+     "La ausencia de dolor en el cuerpo lograda mediante una vida sencilla",
+     "La suspensión del juicio ante cualquier afirmación sobre la realidad",
+     "La ausencia de las pasiones que perturban y dominan el alma"
+    ],
+    "a": 3,
+    "fb": "La apatía estoica no es indiferencia: es no dejarse dominar por las pasiones que perturban el alma."
+   },
+   {
+    "q": "¿Por qué el sabio estoico acepta serenamente lo que le sucede?",
+    "o": [
+     "Porque los dioses no se ocupan de los asuntos humanos",
+     "Porque todo está determinado por el destino según el logos",
+     "Porque no puede saber con certeza si lo que ocurre es bueno o malo",
+     "Porque rebelarse sería someterse a una convención social"
+    ],
+    "a": 1,
+    "fb": "Para el estoico nada ocurre por azar: el logos lo ordena todo, y la sabiduría consiste en aceptar ese orden."
+   },
+   {
+    "q": "Según los estoicos, ¿cuál de estas cosas depende realmente de nosotros?",
+    "o": [
+     "La salud de nuestro cuerpo",
+     "La riqueza que llegamos a tener",
+     "Nuestros juicios y actitudes",
+     "El momento de nuestra muerte"
+    ],
+    "a": 2,
+    "fb": "Solo nuestros juicios y actitudes dependen de nosotros; la salud, la riqueza o la muerte no, y por eso no deben preocuparnos."
+   },
+   {
+    "q": "¿Qué entiende Epicuro por el placer que considera el bien supremo?",
+    "o": [
+     "La ausencia de dolor en el cuerpo y de turbación en el alma",
+     "La búsqueda de sensaciones intensas y siempre nuevas",
+     "La satisfacción inmediata de todos los deseos que surgen",
+     "La alegría que produce contemplar el orden del logos"
+    ],
+    "a": 0,
+    "fb": "El placer epicúreo no es exceso: es aponía (sin dolor en el cuerpo) y ataraxia (sin turbación en el alma)."
+   },
+   {
+    "q": "Según el tetrafármaco, ¿por qué no hay que temer a los dioses?",
+    "o": [
+     "Porque son benévolos y premian siempre a quien obra bien",
+     "Porque son el logos que lo ordena todo para el bien del cosmos",
+     "Porque no podemos saber si existen y debemos suspender el juicio",
+     "Porque no se ocupan de nosotros ni de nuestros asuntos"
+    ],
+    "a": 3,
+    "fb": "Epicuro sostiene que los dioses no se ocupan de los seres humanos, así que no tiene sentido temer sus castigos."
+   },
+   {
+    "q": "¿Qué afirma el tetrafármaco sobre el bien y el mal?",
+    "o": [
+     "Que el bien es difícil de alcanzar y exige una vida de esfuerzo",
+     "Que el bien es fácil de alcanzar y el mal es fácil de soportar",
+     "Que el bien y el mal están fijados de antemano por el destino",
+     "Que no podemos saber qué es el bien ni qué es el mal"
+    ],
+    "a": 1,
+    "fb": "Los dos últimos remedios del tetrafármaco dicen que el bien es fácil de alcanzar y el mal fácil de soportar, lo que libra de la angustia."
+   },
+   {
+    "q": "¿Qué necesidades recomienda satisfacer Epicuro para vivir sin turbación?",
+    "o": [
+     "Todas las que surgen, en el momento en que aparecen",
+     "Solo las que aprueba la costumbre de la comunidad",
+     "Las naturales y necesarias, sin caer en excesos",
+     "Ninguna, para alcanzar la ausencia total de pasiones"
+    ],
+    "a": 2,
+    "fb": "Epicuro no propone excesos ni renuncia total: basta con satisfacer las necesidades naturales y necesarias y evitar el miedo."
+   },
+   {
+    "q": "¿Por qué el escéptico considera que debe practicar la epojé?",
+    "o": [
+     "Porque el logos lo determina todo y opinar resulta inútil",
+     "Porque todas las opiniones son simples convenciones sociales",
+     "Porque la verdad solo se alcanza por revelación religiosa",
+     "Porque toda afirmación tiene otra contraria igual de válida"
+    ],
+    "a": 3,
+    "fb": "Como ninguna afirmación tiene más razones que su contraria, no podemos alcanzar un conocimiento seguro y lo sensato es suspender el juicio."
+   },
+   {
+    "q": "Según el escepticismo, ¿cómo conduce la suspensión del juicio a la ataraxia?",
+    "o": [
+     "Quien no se aferra a ninguna opinión no sufre por defenderla",
+     "Quien suspende el juicio acaba conociendo la verdad con certeza",
+     "Quien acepta el destino deja de rebelarse contra lo que ocurre",
+     "Quien satisface solo lo necesario deja de sentir dolor"
+    ],
+    "a": 0,
+    "fb": "Para Pirrón la paz interior nace de no afirmar ni negar nada: sin opiniones que defender, no hay motivo de turbación."
+   },
+   {
+    "q": "¿Qué expresa la fórmula «lathe biosas»?",
+    "o": [
+     "«Vive conforme a la naturaleza», el lema cínico contra las convenciones",
+     "«Vive oculto», el ideal epicúreo de apartarse de la vida pública",
+     "«Acepta el destino», la máxima estoica ante lo que no depende de ti",
+     "«No afirmes nada», la norma escéptica de suspender el juicio"
+    ],
+    "a": 1,
+    "fb": "Lathe biosas significa «vive oculto»: Epicuro aconseja alejarse de la vida pública, fuente de preocupaciones."
+   },
+   {
+    "q": "¿Qué caracteriza al neoplatonismo que floreció en Alejandría?",
+    "o": [
+     "Rechazar toda religión en nombre de la ciencia",
+     "Reducir la filosofía a la búsqueda del placer",
+     "Unir la razón filosófica con la experiencia religiosa",
+     "Suspender el juicio sobre toda cuestión metafísica"
+    ],
+    "a": 2,
+    "fb": "El neoplatonismo alejandrino unió la razón filosófica con la experiencia religiosa; Hipatia fue una de sus representantes."
+   },
+   {
+    "q": "¿Quién fue Hipatia de Alejandría?",
+    "o": [
+     "La fundadora del estoicismo, que enseñaba en una escuela de Atenas",
+     "Una matemática y filósofa neoplatónica que dirigió la escuela de Alejandría",
+     "Una discípula directa de Epicuro que defendía el placer como bien",
+     "Una filósofa cínica que vivía al margen de toda convención social"
+    ],
+    "a": 1,
+    "fb": "Hipatia fue matemática, astrónoma y filósofa neoplatónica, y dirigió la escuela de Alejandría hasta su asesinato en el 415."
+   },
+   {
+    "q": "Para los estoicos, ¿en qué consiste la sabiduría?",
+    "o": [
+     "En disfrutar de placeres moderados y evitar el dolor",
+     "En aceptar el orden del logos y vivir según la razón",
+     "En no afirmar ni negar nada acerca de la realidad",
+     "En vivir como los animales, sin convenciones sociales"
+    ],
+    "a": 1,
+    "fb": "El sabio estoico acepta el orden racional del universo (logos) y ajusta su vida a la razón."
+   },
+   {
+    "q": "¿Qué ideal comparten estoicos, epicúreos y escépticos, aunque lo alcancen por caminos distintos?",
+    "o": [
+     "La ataraxia o paz interior",
+     "La autarquía o autosuficiencia",
+     "La aponía o ausencia de dolor corporal",
+     "La epojé o suspensión del juicio"
+    ],
+    "a": 0,
+    "fb": "Las tres escuelas buscan la ataraxia: el estoico aceptando el logos, el epicúreo con el tetrafármaco y el escéptico con la epojé."
+   },
+   {
+    "q": "¿En qué se diferencian el ideal de vida estoico y el epicúreo?",
+    "o": [
+     "El estoico busca el placer; el epicúreo, aceptar el destino que marca el logos",
+     "El estoico suspende el juicio; el epicúreo vive conforme a la naturaleza",
+     "El estoico acepta el destino; el epicúreo busca el placer sin dolor",
+     "El estoico rechaza la razón; el epicúreo rechaza toda necesidad natural"
+    ],
+    "a": 2,
+    "fb": "El estoico alcanza la serenidad aceptando el orden del logos; el epicúreo, buscando el placer entendido como ausencia de dolor y turbación."
+   },
+   {
+    "q": "¿Qué diferencia hay entre la apatía estoica y la aponía epicúrea?",
+    "o": [
+     "La apatía es ausencia de dolor corporal; la aponía, de pasiones",
+     "Son dos nombres del mismo estado de paz interior en escuelas distintas",
+     "La apatía es indiferencia ante todo; la aponía, suspensión del juicio",
+     "La apatía es ausencia de pasiones; la aponía, de dolor corporal"
+    ],
+    "a": 3,
+    "fb": "La apatía estoica se refiere a las pasiones del alma; la aponía epicúrea, al dolor del cuerpo."
+   },
+   {
+    "q": "¿Qué tienen en común cínicos y epicúreos?",
+    "o": [
+     "Ambos invitan a prescindir de lo superfluo y seguir la naturaleza",
+     "Ambos consideran que el placer es el bien supremo de la vida humana",
+     "Ambos creen que un logos divino determina todo lo que ocurre",
+     "Ambos practican la suspensión del juicio ante cualquier afirmación"
+    ],
+    "a": 0,
+    "fb": "El cínico rechaza las necesidades artificiales y el epicúreo solo satisface las naturales y necesarias: los dos desconfían de lo superfluo."
+   },
+   {
+    "q": "¿Cómo se relacionan estoicos y epicúreos con el miedo a la muerte?",
+    "o": [
+     "Los estoicos la temen como un castigo; los epicúreos la desean como un descanso",
+     "Para el estoico no depende de nosotros; para el epicúreo, nunca coincidimos con ella",
+     "Ambos suspenden el juicio sobre la muerte porque no es posible conocerla",
+     "Para el estoico es un placer natural; para el epicúreo, una simple convención"
+    ],
+    "a": 1,
+    "fb": "El estoico la sitúa entre lo que no depende de nosotros; Epicuro argumenta que cuando estamos ella no está, y cuando ella está, no estamos."
+   },
+   {
+    "q": "¿Qué escuela, a diferencia de las otras tres, basa la paz interior en que no podemos conocer la realidad con seguridad?",
+    "o": [
+     "El estoicismo",
+     "El epicureísmo",
+     "El cinismo",
+     "El escepticismo"
+    ],
+    "a": 3,
+    "fb": "Solo el escepticismo parte de la imposibilidad de un conocimiento seguro; de ahí la epojé y, con ella, la ataraxia."
+   },
+   {
+    "q": "¿Cuál de estas parejas de escuela y camino hacia la felicidad es correcta?",
+    "o": [
+     "Cinismo: la suspensión del juicio",
+     "Estoicismo: el tetrafármaco",
+     "Epicureísmo: el tetrafármaco",
+     "Escepticismo: aceptar el logos"
+    ],
+    "a": 2,
+    "fb": "El epicureísmo llega al placer con el tetrafármaco; el cinismo vive conforme a la naturaleza, el estoicismo acepta el logos y el escepticismo practica la epojé."
+   },
+   {
+    "q": "Un deportista se lesiona antes de una final y se dice: «No puedo cambiar la lesión, pero sí cómo me la tomo». ¿Con qué escuela encaja su actitud?",
+    "o": [
+     "Con el epicureísmo, que busca el placer como ausencia de dolor",
+     "Con el cinismo, que rechaza las convenciones sociales",
+     "Con el escepticismo, que suspende el juicio ante todo",
+     "Con el estoicismo, que distingue lo que depende de nosotros"
+    ],
+    "a": 3,
+    "fb": "Distinguir entre lo que no depende de nosotros (la lesión) y lo que sí (la actitud ante ella) es la clave del estoicismo."
+   },
+   {
+    "q": "Un joven vende sus pertenencias, vive con lo mínimo en la calle y se burla abiertamente de las normas de etiqueta y del éxito social. ¿Qué escuela representa mejor?",
+    "o": [
+     "El epicureísmo, por su ideal de vivir oculto",
+     "El estoicismo, por su aceptación del destino",
+     "El cinismo, por su búsqueda de la autarquía",
+     "El escepticismo, por su rechazo de las opiniones"
+    ],
+    "a": 2,
+    "fb": "Como Diógenes, este joven busca la autarquía y vive conforme a la naturaleza, despreciando convenciones, riqueza y fama."
+   },
+   {
+    "q": "En un debate, una alumna escucha argumentos igual de sólidos a favor y en contra, decide no pronunciarse y se queda tranquila. ¿Qué concepto describe su actitud?",
+    "o": [
+     "La epojé escéptica",
+     "La apatía estoica",
+     "La autarquía cínica",
+     "La aponía epicúrea"
+    ],
+    "a": 0,
+    "fb": "Ante razones igualmente válidas, suspende el juicio (epojé) y de ahí obtiene la paz interior, como proponía Pirrón."
+   },
+   {
+    "q": "Una persona rechaza una cena copiosa porque sabe que le sentará mal y prefiere una comida sencilla con amigos que la deja en calma. ¿Con qué escuela encaja?",
+    "o": [
+     "Con el estoicismo, porque acepta su destino",
+     "Con el epicureísmo, porque busca el placer sin dolor",
+     "Con el cinismo, porque se burla de las normas",
+     "Con el escepticismo, porque duda de sus gustos"
+    ],
+    "a": 1,
+    "fb": "El placer epicúreo es ausencia de dolor y turbación: se prefiere lo natural y sencillo a los excesos que luego hacen sufrir."
+   },
+   {
+    "q": "Una asociación defiende que una persona refugiada merece el mismo respeto que cualquiera, porque todos somos ciudadanos de un mismo mundo. ¿Qué idea helenística recoge?",
+    "o": [
+     "La autarquía de los cínicos",
+     "El lathe biosas de los epicúreos",
+     "La epojé de los escépticos",
+     "El cosmopolitismo de los estoicos"
+    ],
+    "a": 3,
+    "fb": "El cosmopolitismo estoico sostiene que todos los seres humanos son ciudadanos del mismo mundo, por encima de fronteras."
+   },
+   {
+    "q": "Agobiado por las discusiones en redes y la política, alguien cierra sus perfiles y se retira a vivir con unos pocos amigos, lejos de la vida pública. ¿Qué ideal sigue?",
+    "o": [
+     "El lathe biosas epicúreo",
+     "El cosmopolitismo estoico",
+     "La epojé escéptica",
+     "El logos estoico"
+    ],
+    "a": 0,
+    "fb": "«Vive oculto» (lathe biosas) es el consejo epicúreo de apartarse de la vida pública para conservar la ataraxia entre amigos."
+   }
+  ]
  }
 };
