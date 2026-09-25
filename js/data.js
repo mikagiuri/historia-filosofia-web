@@ -10688,5 +10688,2507 @@ const QUIZZES = {
     "fb": "«Vive oculto» (lathe biosas) es el consejo epicúreo de apartarse de la vida pública para conservar la ataraxia entre amigos."
    }
   ]
+ },
+ "hf-b11-banco": {
+  "name": "T11 · La filosofía medieval: etapas, métodos y el problema de los universales (banco ampliado)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "¿Por qué la filosofía medieval no coincide exactamente con las fechas de la Edad Media?",
+    "o": [
+     "Porque empieza con la caída de Constantinopla y acaba con la llegada de Colón",
+     "Porque solo abarca la escolástica de las universidades, entre los siglos IX y XIV",
+     "Porque se define por un problema nuevo, la relación entre fe y razón",
+     "Porque se define por la recuperación de Aristóteles, no por hechos políticos"
+    ],
+    "a": 2,
+    "fb": "La filosofía medieval nace antes y termina antes que la Edad Media porque se define por un problema, la relación entre fe y razón, y no por un calendario."
+   },
+   {
+    "q": "¿Qué ofrecía el cristianismo que ayuda a entender su éxito entre esclavos, mujeres y clases bajas del mundo romano?",
+    "o": [
+     "Una salvación personal y una dignidad basada en la igualdad",
+     "El acceso a los cargos públicos del Imperio para quienes se convirtieran",
+     "Una sabiduría racional reservada a quienes podían estudiar filosofía griega",
+     "La recuperación del culto oficial a los dioses tradicionales de Roma"
+    ],
+    "a": 0,
+    "fb": "El cristianismo prometía una salvación personal y una dignidad igual para todos, algo muy atractivo para los grupos más desfavorecidos del Imperio."
+   },
+   {
+    "q": "¿Qué supuso el Edicto de Milán, promulgado por el emperador Constantino?",
+    "o": [
+     "Convirtió el cristianismo en la religión oficial del Imperio",
+     "Fijó el Credo como referente de la ortodoxia cristiana",
+     "Separó para siempre la autoridad de la Iglesia y la del emperador",
+     "Concedió libertad de culto a los cristianos y acabó con las persecuciones"
+    ],
+    "a": 3,
+    "fb": "Con el Edicto de Milán (313) Constantino dio libertad de culto a los cristianos. La religión oficial llegó después, con el Edicto de Tesalónica de Teodosio I."
+   },
+   {
+    "q": "¿Qué papel tuvo el Credo redactado en el Concilio de Nicea?",
+    "o": [
+     "Declarar el cristianismo religión oficial del Imperio romano",
+     "Servir de referente de la ortodoxia, es decir, de la doctrina correcta",
+     "Conceder a los cristianos la libertad de culto frente a las persecuciones",
+     "Organizar el método de enseñanza de las universidades medievales"
+    ],
+    "a": 1,
+    "fb": "En el Concilio de Nicea (325) se redactó el Credo, que pasó a ser el referente de la ortodoxia cristiana."
+   },
+   {
+    "q": "¿Qué tarea se propusieron los Padres de la Iglesia durante la patrística?",
+    "o": [
+     "Construir en las universidades una síntesis sistemática entre fe y razón",
+     "Elaborar y defender el dogma frente a las herejías, apoyándose en la filosofía griega",
+     "Separar la teología de la filosofía para que cada una avance por su lado",
+     "Rechazar la filosofía griega y quedarse solo con la lectura literal de la Biblia"
+    ],
+    "a": 1,
+    "fb": "La patrística (siglos II-VIII) elabora y defiende el dogma cristiano frente a las herejías, y para ello se apoya en la filosofía griega."
+   },
+   {
+    "q": "¿Qué diferencia a la escolástica de la patrística?",
+    "o": [
+     "La escolástica rechaza la filosofía griega, mientras que la patrística se apoya en ella",
+     "La escolástica es anterior y se centra en combatir las primeras herejías",
+     "La escolástica prescinde de la autoridad de la fe y confía solo en la razón",
+     "La escolástica se desarrolla en las universidades y busca una síntesis sistemática"
+    ],
+    "a": 3,
+    "fb": "La escolástica (siglos IX-XIV) es posterior a la patrística, nace en las universidades y busca una síntesis sistemática entre fe y razón."
+   },
+   {
+    "q": "¿Quiénes son, respectivamente, las grandes figuras de la patrística y de la escolástica?",
+    "o": [
+     "Agustín de Hipona y Tomás de Aquino",
+     "Tomás de Aquino y Agustín de Hipona",
+     "Plotino y Guillermo de Ockham",
+     "Pedro Abelardo y Agustín de Hipona"
+    ],
+    "a": 0,
+    "fb": "Agustín de Hipona es la gran figura de la patrística y Tomás de Aquino, la de la escolástica."
+   },
+   {
+    "q": "En el método escolástico, ¿en qué consiste la quaestio?",
+    "o": [
+     "En la lectura comentada de los textos de autoridad",
+     "En el debate público entre maestros y estudiantes",
+     "En plantear una cuestión con argumentos a favor y en contra",
+     "En el giro interior del alma que se vuelve hacia Dios"
+    ],
+    "a": 2,
+    "fb": "La quaestio plantea una cuestión y reúne argumentos a favor y en contra; la lectio es la lectura comentada y la disputatio, el debate público."
+   },
+   {
+    "q": "Una profesora reparte un texto clásico de gran autoridad y lo va explicando párrafo a párrafo, añadiendo comentarios. ¿A qué momento del método escolástico se parece más esta actividad?",
+    "o": [
+     "A la disputatio",
+     "A la quaestio",
+     "A la conversión",
+     "A la lectio"
+    ],
+    "a": 3,
+    "fb": "La lectio es la lectura comentada de los textos de autoridad, justo lo que hace la profesora."
+   },
+   {
+    "q": "¿En qué orden se suceden los tres momentos del método escolástico?",
+    "o": [
+     "Quaestio, lectio y disputatio",
+     "Lectio, quaestio y disputatio",
+     "Disputatio, lectio y quaestio",
+     "Lectio, disputatio y quaestio"
+    ],
+    "a": 1,
+    "fb": "Primero se leen y comentan los textos (lectio), después se plantea una cuestión con argumentos a favor y en contra (quaestio) y al final se debate en público (disputatio)."
+   },
+   {
+    "q": "¿Qué pregunta plantea el problema de los universales?",
+    "o": [
+     "Qué son los conceptos generales y si existen realmente",
+     "Si la razón humana puede demostrar la existencia de Dios",
+     "Cómo se relacionan el alma y el cuerpo en el ser humano",
+     "Si las verdades de fe pueden contradecir a las de la razón"
+    ],
+    "a": 0,
+    "fb": "El problema de los universales pregunta qué son los conceptos generales (humanidad, blancura…) y si existen realmente o son solo palabras."
+   },
+   {
+    "q": "¿Qué sostiene el realismo en el problema de los universales?",
+    "o": [
+     "Que solo existen los individuos y los universales son meros nombres",
+     "Que los universales existen solo como conceptos en la mente humana",
+     "Que los universales existen realmente, en las Ideas o en la mente de Dios",
+     "Que los universales son costumbres del lenguaje que cambian con cada pueblo"
+    ],
+    "a": 2,
+    "fb": "Para el realismo (Platón, Agustín) los universales existen realmente: en las Ideas o en la mente de Dios."
+   },
+   {
+    "q": "Para el conceptualismo de Abelardo, los universales...",
+    "o": [
+     "existen fuera de la mente, en un mundo de Ideas separado",
+     "son simples palabras sin ningún contenido en el pensamiento",
+     "existen, pero como conceptos dentro de la mente",
+     "existen en la mente de Dios como modelos de lo creado"
+    ],
+    "a": 2,
+    "fb": "Abelardo defiende que los universales existen como conceptos en la mente: no son cosas separadas ni meras palabras."
+   },
+   {
+    "q": "«Solo existen los individuos; los universales son meros nombres». ¿Qué pensador medieval defendió esta tesis?",
+    "o": [
+     "Guillermo de Ockham",
+     "Pedro Abelardo",
+     "Agustín de Hipona",
+     "Tomás de Aquino"
+    ],
+    "a": 0,
+    "fb": "Es la tesis del nominalismo, cuyo defensor en el tema es Ockham."
+   },
+   {
+    "q": "¿Qué tienen en común Platón y Agustín en el problema de los universales?",
+    "o": [
+     "Ambos creen que los universales son solo nombres que damos a grupos de cosas",
+     "Ambos sitúan los universales únicamente como conceptos en la mente humana",
+     "Ambos niegan que haya conceptos generales y solo aceptan individuos",
+     "Ambos son realistas: afirman que los universales tienen existencia real"
+    ],
+    "a": 3,
+    "fb": "Platón y Agustín defienden el realismo: los universales existen realmente, en las Ideas o en la mente de Dios."
+   },
+   {
+    "q": "Dentro del realismo, ¿qué matiz cristiano introduce Agustín respecto a Platón?",
+    "o": [
+     "Niega que los universales existan realmente",
+     "Sitúa los universales en la mente de Dios",
+     "Reduce los universales a conceptos de la mente humana",
+     "Considera los universales meros nombres sin realidad"
+    ],
+    "a": 1,
+    "fb": "Platón sitúa los universales en las Ideas; Agustín, desde la fe cristiana, los sitúa en la mente de Dios, pero ambos son realistas."
+   },
+   {
+    "q": "Frente al nominalismo, ¿qué añade el conceptualismo de Abelardo?",
+    "o": [
+     "Que los universales existen como conceptos en la mente",
+     "Que los universales existen fuera de la mente humana, en la mente de Dios",
+     "Que en el mundo solo existen los individuos concretos y nada más",
+     "Que los conceptos generales son ilusiones que conviene eliminar"
+    ],
+    "a": 0,
+    "fb": "El nominalismo reduce los universales a nombres; el conceptualismo les reconoce una existencia como conceptos en la mente."
+   },
+   {
+    "q": "Una alumna afirma: «“Perro” no es nada real; en el mundo solo hay este perro, aquel perro y el de mi vecina». ¿Con qué postura sobre los universales encaja?",
+    "o": [
+     "Con el realismo",
+     "Con el conceptualismo",
+     "Con el neoplatonismo",
+     "Con el nominalismo"
+    ],
+    "a": 3,
+    "fb": "Para el nominalismo solo existen los individuos, y «perro» es un mero nombre."
+   },
+   {
+    "q": "Un alumno sostiene que la «justicia» existe con independencia de las personas y de las leyes concretas, como un modelo perfecto y real. ¿Con qué postura encaja?",
+    "o": [
+     "Con el nominalismo de Ockham",
+     "Con el realismo de Platón y Agustín",
+     "Con el conceptualismo de Abelardo",
+     "Con la interioridad agustiniana"
+    ],
+    "a": 1,
+    "fb": "Afirmar que un universal como la justicia existe realmente, más allá de los casos concretos, es la postura realista."
+   },
+   {
+    "q": "Un profesor explica: «Cuando pienso “triángulo”, tengo en la mente una idea general válida para todos, aunque fuera de mí solo haya triángulos concretos». ¿Qué postura expresa?",
+    "o": [
+     "El realismo",
+     "El nominalismo",
+     "El conceptualismo",
+     "El neoplatonismo"
+    ],
+    "a": 2,
+    "fb": "Situar el universal como concepto en la mente, sin darle existencia fuera de ella, es el conceptualismo de Abelardo."
+   },
+   {
+    "q": "¿Qué significa «microcosmos» en el vocabulario medieval del tema?",
+    "o": [
+     "El universo como totalidad ordenada y creada por Dios",
+     "El conjunto de los individuos, frente a los universales",
+     "La pequeña comunidad de un monasterio gobernado por una abadesa",
+     "El ser humano como «pequeño mundo» que refleja el cosmos"
+    ],
+    "a": 3,
+    "fb": "El microcosmos es el ser humano entendido como un «pequeño mundo» que refleja el cosmos; el macrocosmos es el universo."
+   },
+   {
+    "q": "¿Cómo se relacionan el microcosmos y el macrocosmos?",
+    "o": [
+     "El ser humano refleja en pequeño el orden del universo",
+     "El universo es una copia imperfecta del alma de cada ser humano",
+     "El ser humano y el cosmos son dos realidades sin relación entre sí",
+     "El cosmos es caótico y solo el ser humano introduce orden en él"
+    ],
+    "a": 0,
+    "fb": "El macrocosmos es el universo ordenado y creado por Dios, y el ser humano (microcosmos) lo refleja a pequeña escala."
+   },
+   {
+    "q": "¿Qué es el neoplatonismo?",
+    "o": [
+     "La filosofía de las universidades medievales entre los siglos IX y XIV",
+     "Una crítica de Platón que reduce las Ideas a meros nombres",
+     "Una reinterpretación de Platón que une filosofía y experiencia religiosa",
+     "Una recuperación de Aristóteles para armonizarlo con la fe cristiana"
+    ],
+    "a": 2,
+    "fb": "El neoplatonismo reinterpreta a Platón uniendo la filosofía con la experiencia religiosa."
+   },
+   {
+    "q": "¿Qué entiende Agustín por «conversión»?",
+    "o": [
+     "El paso de una religión a otra por motivos sociales o políticos",
+     "El giro del alma hacia Dios, hacia su propio interior",
+     "La transformación de los universales en conceptos de la mente",
+     "El abandono de la fe para confiar solo en la razón"
+    ],
+    "a": 1,
+    "fb": "Para Agustín, la conversión es el giro del alma hacia Dios, que se busca en el interior."
+   },
+   {
+    "q": "Tras años buscando la felicidad en el éxito y el dinero, una persona deja de mirar hacia fuera y orienta su vida hacia Dios. ¿Qué concepto agustiniano describe ese giro?",
+    "o": [
+     "La disputatio",
+     "La conversión",
+     "El microcosmos",
+     "La quaestio"
+    ],
+    "a": 1,
+    "fb": "La conversión es el giro del alma hacia Dios y hacia el interior, que abandona la búsqueda en las cosas externas."
+   },
+   {
+    "q": "Hildegarda de Bingen vivió entre 1098 y 1179. ¿Con qué etapa de la filosofía medieval coincide su vida?",
+    "o": [
+     "Con la patrística, que abarca los siglos II al VIII",
+     "Con el final del Imperio romano de Occidente",
+     "Con el Renacimiento del siglo XV",
+     "Con la escolástica, que abarca los siglos IX al XIV"
+    ],
+    "a": 3,
+    "fb": "El siglo XII queda dentro de la etapa escolástica (siglos IX-XIV), aunque Hildegarda no siguiera el modelo universitario."
+   },
+   {
+    "q": "¿Con qué pensador asocia el tema el neoplatonismo?",
+    "o": [
+     "Plotino",
+     "Pedro Abelardo",
+     "Guillermo de Ockham",
+     "Tomás de Aquino"
+    ],
+    "a": 0,
+    "fb": "El neoplatonismo, que une filosofía y experiencia religiosa, se asocia a Plotino."
+   },
+   {
+    "q": "¿En qué se parecen la patrística y la escolástica?",
+    "o": [
+     "Ambas rechazan la filosofía griega por ser pagana",
+     "Ambas se desarrollan en las universidades medievales",
+     "Ambas giran en torno a la relación entre la fe y la razón",
+     "Ambas sitúan la razón por encima de la autoridad de la fe"
+    ],
+    "a": 2,
+    "fb": "Las dos etapas comparten el problema que define la filosofía medieval: cómo se relacionan la fe y la razón."
+   }
+  ]
+ },
+ "hf-b12-banco": {
+  "name": "T12 · Fe y razón: la asimilación de la filosofía griega y la existencia de Dios (banco ampliado)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "¿Qué concepción del tiempo aporta el cristianismo frente a la visión griega?",
+    "o": [
+     "Circular: el universo es eterno y no tiene principio ni fin.",
+     "Cíclica: la historia se repite de nuevo tras cada juicio final.",
+     "Lineal: tiene un comienzo, la creación, y un final, el juicio final.",
+     "Inmóvil: el cambio temporal es una mera apariencia sensible."
+    ],
+    "a": 2,
+    "fb": "Para los griegos el tiempo es circular y el universo eterno; el cristianismo lo concibe lineal, desde la creación hasta el juicio final."
+   },
+   {
+    "q": "En la comparación entre Plotino y Agustín, ¿cómo es para Plotino el principio del que procede todo?",
+    "o": [
+     "El Uno, un principio impersonal.",
+     "Un Dios personal que actúa libremente.",
+     "La materia eterna, fuente de todo ser.",
+     "Un Demiurgo que modela la materia."
+    ],
+    "a": 0,
+    "fb": "Para Plotino el principio es el Uno, impersonal, del que el mundo surge por desbordamiento; el Dios personal es la idea cristiana de Agustín."
+   },
+   {
+    "q": "¿Qué transformación sufren las Ideas de Platón en el pensamiento de Agustín?",
+    "o": [
+     "Se convierten en conceptos abstraídos por el entendimiento humano.",
+     "Quedan situadas en la Inteligencia (Nous) que emana del Uno.",
+     "Se rechazan por ser incompatibles con la fe cristiana.",
+     "Pasan a ser Ideas ejemplares presentes en la mente de Dios."
+    ],
+    "a": 3,
+    "fb": "Agustín cristianiza a Platón: las Ideas son los modelos ejemplares que están en la mente de Dios. Situarlas en el Nous es la postura de Plotino."
+   },
+   {
+    "q": "¿Qué valoración de la materia defiende Agustín frente a Plotino?",
+    "o": [
+     "Es privación de ser y, por eso, el origen del mal.",
+     "Es creada por Dios y, por tanto, es buena.",
+     "Es eterna e independiente de la acción divina.",
+     "Es una ilusión que el alma debe superar."
+    ],
+    "a": 1,
+    "fb": "Para Agustín la materia es creada por Dios y, por eso, buena; para Plotino es privación de ser y origen del mal."
+   },
+   {
+    "q": "Para Agustín, ¿qué es la ley eterna?",
+    "o": [
+     "La ley moral que la razón descubre en la naturaleza humana.",
+     "La dimensión normativa de la sabiduría presente en la mente de Dios.",
+     "El conjunto de normas que la Iglesia dicta a los creyentes.",
+     "El orden necesario que brota del Uno sin intervención de voluntad."
+    ],
+    "a": 1,
+    "fb": "La ley eterna es la dimensión normativa de la sabiduría divina: la mente de Dios es fuente del ser y del orden. La ley moral descubierta por la razón es la ley natural de Tomás."
+   },
+   {
+    "q": "Un creyente afirma: «No necesito argumentos; cuanto menos razonable parece mi fe, más firme es». ¿Con qué postura encaja?",
+    "o": [
+     "Con la síntesis de fe y razón de Tomás de Aquino.",
+     "Con el «cree para entender» de Agustín.",
+     "Con la doble verdad de Averroes.",
+     "Con el «creo porque es absurdo» de Tertuliano."
+    ],
+    "a": 3,
+    "fb": "Tertuliano sostiene que la fe no necesita de la razón: «creo porque es absurdo»."
+   },
+   {
+    "q": "¿A quién corresponde la frase «creo porque es absurdo»?",
+    "o": [
+     "A Tertuliano.",
+     "A Agustín de Hipona.",
+     "A Guillermo de Ockham.",
+     "A Averroes."
+    ],
+    "a": 0,
+    "fb": "Es la fórmula de Tertuliano, que expresa que la fe no necesita de la razón."
+   },
+   {
+    "q": "¿Qué significa que las cinco vías de Tomás de Aquino sean pruebas a posteriori?",
+    "o": [
+     "Que parten de la idea de Dios para deducir que existe.",
+     "Que se aceptan por revelación, sin necesidad de razonar.",
+     "Que parten de hechos de la experiencia para llegar a Dios.",
+     "Que solo son válidas después de haber aceptado la fe."
+    ],
+    "a": 2,
+    "fb": "A posteriori significa partir de la experiencia: las vías arrancan de hechos observables (movimiento, causas, contingencia...) y concluyen en Dios."
+   },
+   {
+    "q": "¿En qué se diferencia el camino hacia Dios de Agustín del de Tomás de Aquino?",
+    "o": [
+     "Agustín parte del movimiento del mundo; Tomás, del interior del alma.",
+     "Agustín separa fe y razón; Tomás considera que son lo mismo.",
+     "Agustín usa pruebas a posteriori; Tomás, la iluminación divina.",
+     "Agustín busca a Dios en el interior; Tomás parte del mundo observable."
+    ],
+    "a": 3,
+    "fb": "Agustín no busca a Dios fuera, sino dentro del alma; Tomás lo demuestra a posteriori desde hechos observables del mundo."
+   },
+   {
+    "q": "En las cinco vías, ¿a qué conclusión lleva partir del orden que se observa en el mundo?",
+    "o": [
+     "A un ordenador supremo.",
+     "A un primer motor.",
+     "A un ser necesario.",
+     "A un ser perfectísimo."
+    ],
+    "a": 0,
+    "fb": "Del orden del mundo Tomás concluye un ordenador supremo; el primer motor sale del movimiento, el ser necesario de la contingencia y el perfectísimo de los grados de perfección."
+   },
+   {
+    "q": "Según el tema, ¿qué consecuencia tiene la postura de Ockham para la teología?",
+    "o": [
+     "Se convierte en la ciencia racional más segura.",
+     "Deja de ser una ciencia racional.",
+     "Se reduce a la dialéctica del trivium.",
+     "Pasa a apoyarse solo en las cinco vías."
+    ],
+    "a": 1,
+    "fb": "Si la razón no puede demostrar las verdades de la fe, fe y razón se separan y la teología deja de ser ciencia racional."
+   },
+   {
+    "q": "Una científica tiene dos teorías que explican igual de bien un fenómeno y elige la que supone menos entidades. ¿Qué principio aplica?",
+    "o": [
+     "La teoría agustiniana de la iluminación.",
+     "La doble verdad averroísta.",
+     "La navaja de Ockham.",
+     "La vía tomista de la contingencia."
+    ],
+    "a": 2,
+    "fb": "La navaja de Ockham manda no multiplicar los entes sin necesidad: entre dos explicaciones equivalentes, la más simple."
+   },
+   {
+    "q": "¿Qué es una verdad natural, según el glosario del tema?",
+    "o": [
+     "La que alcanza la razón y es accesible a todos.",
+     "La que solo se conoce por revelación divina.",
+     "La que solo admite quien acepta primero la fe.",
+     "La que Dios ilumina en el interior de los místicos."
+    ],
+    "a": 0,
+    "fb": "La verdad natural es alcanzable por la razón y accesible a todos; la conocida solo por revelación es la verdad sobrenatural."
+   },
+   {
+    "q": "Una alumna dice que el misterio de la Trinidad no puede probarse con argumentos y solo se conoce porque Dios lo ha revelado. ¿Qué tipo de verdad sería?",
+    "o": [
+     "Una verdad natural.",
+     "Una verdad a posteriori.",
+     "Una verdad de la dialéctica.",
+     "Una verdad sobrenatural."
+    ],
+    "a": 3,
+    "fb": "La verdad sobrenatural es la que se conoce solo por revelación divina, no por la razón."
+   },
+   {
+    "q": "¿Cuál fue el gran reto del cristianismo del que nace la síntesis medieval?",
+    "o": [
+     "Sustituir por completo la filosofía griega por la revelación.",
+     "Separar la teología de la razón para proteger la fe.",
+     "Integrar la fe con la filosofía de la cultura grecorromana.",
+     "Refutar a los filósofos árabes que comentaban a Aristóteles."
+    ],
+    "a": 2,
+    "fb": "El cristianismo tuvo que introducirse en la cultura grecorromana e integrar la fe con la filosofía griega; de ese encuentro nace la síntesis medieval."
+   },
+   {
+    "q": "«No salgas fuera, vuelve a ti mismo; en el interior del hombre habita la verdad». ¿De quién es esta frase?",
+    "o": [
+     "De Tomás de Aquino.",
+     "De Agustín de Hipona.",
+     "De Plotino.",
+     "De Tertuliano."
+    ],
+    "a": 1,
+    "fb": "Es de Agustín, que busca a Dios y la verdad en la interioridad del alma, no en el mundo exterior."
+   },
+   {
+    "q": "¿En qué se oponen Tomás de Aquino y Ockham respecto a la fe y la razón?",
+    "o": [
+     "Tomás cree que la razón prepara la fe; Ockham, que no alcanza sus verdades.",
+     "Tomás defiende la doble verdad; Ockham, la colaboración de ambas.",
+     "Tomás prescinde de la razón; Ockham la ve como el único saber válido.",
+     "Tomás busca a Dios en el alma; Ockham, en el movimiento del mundo."
+    ],
+    "a": 0,
+    "fb": "Para Tomás fe y razón colaboran y la razón prepara y defiende la fe; para Ockham la razón no alcanza las verdades de la fe y ambas se separan."
+   },
+   {
+    "q": "Un profesor usa argumentos filosóficos para mostrar que creer no es irracional y para responder a quienes critican la fe. ¿Qué postura sigue?",
+    "o": [
+     "La de Tertuliano: la fe no necesita la razón.",
+     "La de Tomás: la razón prepara y defiende la fe.",
+     "La de Ockham: la razón no alcanza la fe.",
+     "La de Averroes: cada ámbito tiene su verdad."
+    ],
+    "a": 1,
+    "fb": "Tomás defiende que fe y razón colaboran: la razón prepara el camino a la fe y la defiende de sus críticos."
+   },
+   {
+    "q": "Una investigadora sostiene que algo puede ser cierto en su laboratorio y lo contrario en su religión, sin que eso le preocupe. ¿Qué postura recuerda?",
+    "o": [
+     "El «cree para entender» de Agustín.",
+     "La colaboración tomista entre fe y razón.",
+     "El «creo porque es absurdo» de Tertuliano.",
+     "La doble verdad de Averroes."
+    ],
+    "a": 3,
+    "fb": "La doble verdad de Averroes admite una verdad para la fe y otra para la razón, aunque no coincidan."
+   },
+   {
+    "q": "¿Por qué la creación cristiana supone un Dios personal y no un principio impersonal?",
+    "o": [
+     "Porque el mundo brota necesariamente de su naturaleza.",
+     "Porque Dios necesita el mundo para completarse.",
+     "Porque el mundo surge de un acto libre de su voluntad.",
+     "Porque Dios modela una materia eterna ya existente."
+    ],
+    "a": 2,
+    "fb": "La creación es un acto libre de la voluntad de Dios, que hace el mundo de la nada; el surgir necesario es propio de la emanación del Uno."
+   },
+   {
+    "q": "¿Qué diferencia hay entre Plotino y Agustín sobre el carácter temporal del mundo?",
+    "o": [
+     "Plotino lo cree eterno; Agustín le da un comienzo.",
+     "Plotino le da un comienzo; Agustín lo considera eterno.",
+     "Ambos lo consideran eterno, pero por causas distintas.",
+     "Ambos le dan un comienzo, pero discrepan sobre la materia."
+    ],
+    "a": 0,
+    "fb": "Para Plotino el mundo es eterno, fruto del desbordamiento del Uno; para Agustín es temporal, creado por la voluntad libre de Dios."
+   },
+   {
+    "q": "Según la comparación del tema, ¿dónde sitúa Plotino el origen del mal?",
+    "o": [
+     "En la voluntad libre de un Dios personal.",
+     "En la Inteligencia (Nous), donde están las Ideas.",
+     "En un principio malo enfrentado al Uno.",
+     "En la materia, entendida como privación de ser."
+    ],
+    "a": 3,
+    "fb": "Para Plotino la materia es privación de ser y origen del mal; Agustín, en cambio, la considera creada y buena."
+   },
+   {
+    "q": "Un alumno se pregunta cómo puede saber con total certeza que 2 + 2 = 4 si sus sentidos cambian y engañan. Agustín le respondería que...",
+    "o": [
+     "lo aprende de la experiencia repetida de contar objetos.",
+     "Dios ilumina su alma para que conozca verdades eternas.",
+     "lo deduce partiendo del movimiento que observa.",
+     "lo recuerda de una vida anterior de su alma."
+    ],
+    "a": 1,
+    "fb": "Según la teoría de la iluminación, Dios ilumina el alma para que conozca las verdades eternas."
+   },
+   {
+    "q": "En la enseñanza medieval, ¿qué eran el trivium y el quadrivium?",
+    "o": [
+     "Las cinco vías de Tomás y las dos verdades de Averroes.",
+     "Las etapas que recorre el alma en su ascenso hacia Dios.",
+     "Las siete artes liberales, de gramática a astronomía.",
+     "Los grados de perfección de las criaturas, según Tomás."
+    ],
+    "a": 2,
+    "fb": "Eran las siete artes liberales: gramática, retórica y dialéctica (trivium); aritmética, geometría, música y astronomía (quadrivium)."
+   },
+   {
+    "q": "¿En qué se diferencia Agustín de Tertuliano ante la relación entre fe y razón?",
+    "o": [
+     "Agustín prescinde de la razón; Tertuliano la usa para comprender.",
+     "Agustín separa ambos ámbitos; Tertuliano los une en una síntesis.",
+     "Agustín usa la razón para comprender; Tertuliano no la necesita.",
+     "Agustín defiende la doble verdad; Tertuliano, la colaboración."
+    ],
+    "a": 2,
+    "fb": "Para Agustín la fe guía y la razón comprende («cree para entender»); para Tertuliano la fe no necesita de la razón."
+   },
+   {
+    "q": "Una estudiante observa que nada en la naturaleza existe por sí mismo: todo podría no haber existido. ¿A qué conclusión llegaría Tomás desde este hecho?",
+    "o": [
+     "A la existencia de un ser necesario.",
+     "A la existencia de un ordenador supremo.",
+     "A la eternidad del mundo creado.",
+     "A la separación entre fe y razón."
+    ],
+    "a": 0,
+    "fb": "Es la vía de la contingencia: si todo podría no existir, debe haber un ser necesario, Dios."
+   },
+   {
+    "q": "¿Qué lugar ocupa Ockham en la historia de la síntesis medieval entre fe y razón?",
+    "o": [
+     "Inicia la integración de la fe con la filosofía griega.",
+     "Culmina la teoría agustiniana de la iluminación.",
+     "Introduce las ideas de tiempo lineal y de creación.",
+     "Marca el límite de esa síntesis al separar fe y razón."
+    ],
+    "a": 3,
+    "fb": "Ockham marca el límite: la razón no puede demostrar las verdades de la fe, así que fe y razón se separan."
+   },
+   {
+    "q": "«La materia es privación de ser y origen del mal». ¿A qué autor del tema corresponde esta tesis?",
+    "o": [
+     "A Agustín.",
+     "A Plotino.",
+     "A Tomás de Aquino.",
+     "A Ockham."
+    ],
+    "a": 1,
+    "fb": "Es la tesis de Plotino; Agustín la corrige al afirmar que la materia, creada por Dios, es buena."
+   },
+   {
+    "q": "¿Qué distingue la postura de Tomás de Aquino de la doble verdad de Averroes?",
+    "o": [
+     "Para Tomás no hay dos verdades: fe y razón colaboran.",
+     "Tomás admite dos verdades opuestas, una por ámbito.",
+     "Tomás cree que la fe no necesita en absoluto la razón.",
+     "Tomás sostiene que la razón no alcanza nada de Dios."
+    ],
+    "a": 0,
+    "fb": "Averroes admite una verdad para la fe y otra para la razón; Tomás sostiene que ambas colaboran y la razón prepara y defiende la fe."
+   },
+   {
+    "q": "Una catequista explica que primero hay que aceptar la fe y que después la razón ayuda a comprender lo que se cree. ¿Qué postura sigue?",
+    "o": [
+     "La doble verdad de Averroes.",
+     "La separación de Ockham.",
+     "El «creo porque es absurdo» de Tertuliano.",
+     "El «cree para entender» de Agustín."
+    ],
+    "a": 3,
+    "fb": "Agustín sostiene «cree para entender»: la fe guía y la razón comprende lo que se cree."
+   }
+  ]
+ },
+ "hf-b13-banco": {
+  "name": "T13 · El nacimiento de la modernidad: Renacimiento, protestantismo y revolución científica (banco ampliado)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "¿Qué significa que la modernidad sea el paso de una cultura teocéntrica a una antropocéntrica?",
+    "o": [
+     "Que la religión desaparece por completo de la vida europea del siglo XVI.",
+     "Que la Tierra deja de ser el centro del universo y lo pasa a ocupar el Sol.",
+     "Que el centro de la reflexión deja de ser Dios y pasa a ser el ser humano.",
+     "Que la fe y la razón se reconcilian por fin en una síntesis armoniosa."
+    ],
+    "a": 2,
+    "fb": "Teocentrismo es poner a Dios en el centro; antropocentrismo, al ser humano. La modernidad es el largo proceso que lleva de uno a otro."
+   },
+   {
+    "q": "¿Por qué se dice que la modernidad no tiene una fecha única de inicio?",
+    "o": [
+     "Porque es un proceso largo, con raíces en el Renacimiento y la Reforma.",
+     "Porque cada país europeo usaba entonces un calendario distinto y no coinciden.",
+     "Porque empieza de golpe con Descartes y no tiene ningún antecedente anterior.",
+     "Porque solo puede fecharse con Newton y su ley de la gravitación universal."
+    ],
+    "a": 0,
+    "fb": "Aunque su inicio suele situarse en Descartes, la modernidad es un proceso largo cuyas raíces están en el Renacimiento, la imprenta, el descubrimiento de América y la Reforma."
+   },
+   {
+    "q": "¿Por qué se llama «Renacimiento» a este periodo de la cultura europea?",
+    "o": [
+     "Porque renace la fe cristiana tras la crisis de la Iglesia medieval.",
+     "Porque se recupera la síntesis escolástica de la fe y la razón.",
+     "Porque renace la economía agraria tras las grandes pestes medievales.",
+     "Porque supone un renacer de la cultura clásica griega y latina."
+    ],
+    "a": 3,
+    "fb": "El Renacimiento es el «renacer» de la cultura clásica: se redescubren los textos griegos y latinos."
+   },
+   {
+    "q": "Según la Reforma de Lutero, ¿cómo debe relacionarse el creyente con Dios?",
+    "o": [
+     "A través de la mediación de la jerarquía de la Iglesia.",
+     "De forma directa, interpretando libremente la Escritura.",
+     "Mediante la demostración racional de su existencia.",
+     "Por medio de la observación experimental de la naturaleza."
+    ],
+    "a": 1,
+    "fb": "Lutero cuestiona la autoridad de la Iglesia y defiende la libre interpretación de la Escritura y la relación directa del creyente con Dios."
+   },
+   {
+    "q": "¿Por qué el protestantismo contribuye a la secularización de la cultura europea?",
+    "o": [
+     "Porque niega la existencia de Dios y propone una moral sin religión.",
+     "Porque da más autonomía al individuo frente a la autoridad de la Iglesia.",
+     "Porque subordina la ciencia a la teología en las universidades.",
+     "Porque defiende el heliocentrismo frente a la lectura literal de la Biblia."
+    ],
+    "a": 1,
+    "fb": "Al cuestionar la autoridad eclesiástica y dar más autonomía al individuo, la Reforma impulsa que la cultura se vaya independizando de la religión."
+   },
+   {
+    "q": "La revolución científica deja atrás la autoridad de Aristóteles y de la Biblia. ¿En qué pasa a apoyarse el conocimiento de la naturaleza?",
+    "o": [
+     "En la deducción a partir de los textos clásicos.",
+     "En la libre interpretación de la Escritura.",
+     "En la especulación sobre esencias abstractas.",
+     "En la observación y la experimentación."
+    ],
+    "a": 3,
+    "fb": "El nuevo método sustituye el argumento de autoridad por la observación y la experimentación."
+   },
+   {
+    "q": "¿Qué es el organicismo teleológico que abandona la revolución científica?",
+    "o": [
+     "Entender la naturaleza como un organismo que actúa según fines.",
+     "Entender la naturaleza como una máquina regida por leyes matemáticas.",
+     "Entender la naturaleza como una ilusión producida por los sentidos.",
+     "Entender la naturaleza como un conjunto de hechos sin orden ni leyes."
+    ],
+    "a": 0,
+    "fb": "Antes de la revolución científica la naturaleza se veía como un organismo con fines (teleología); después se entiende como una máquina: el mecanicismo."
+   },
+   {
+    "q": "¿Por qué el positivismo de Comte rechaza la especulación metafísica?",
+    "o": [
+     "Porque contradice las verdades reveladas en la Escritura.",
+     "Porque la razón humana es incapaz de pensar con coherencia.",
+     "Porque no se basa en hechos observables y verificables.",
+     "Porque ya había quedado superada por la escolástica medieval."
+    ],
+    "a": 2,
+    "fb": "Para el positivismo solo es conocimiento verdadero el que se basa en la observación empírica y en hechos verificables; la metafísica no lo cumple."
+   },
+   {
+    "q": "En la ley de los tres estadios de Comte, ¿cómo explica los fenómenos el estadio metafísico?",
+    "o": [
+     "Mediante esencias abstractas.",
+     "Mediante la acción de los dioses.",
+     "Mediante leyes científicas.",
+     "Mediante la autoridad de los clásicos."
+    ],
+    "a": 0,
+    "fb": "Comte distingue el estadio teológico (dioses), el metafísico (esencias abstractas) y el positivo (leyes científicas)."
+   },
+   {
+    "q": "¿Qué significa el término «secularización»?",
+    "o": [
+     "El proceso por el que la Iglesia recupera el control de la cultura.",
+     "El proceso por el que la cultura se independiza de la religión.",
+     "El proceso por el que se redescubren los textos griegos y latinos.",
+     "El proceso por el que el poder feudal se reparte en señoríos."
+    ],
+    "a": 1,
+    "fb": "La secularización es la independencia progresiva de la cultura respecto de la religión, algo que la Reforma impulsó."
+   },
+   {
+    "q": "¿Qué expresión latina recoge la idea central del humanismo renacentista?",
+    "o": [
+     "Virtù: la habilidad y firmeza del gobernante.",
+     "Ancilla: la filosofía al servicio de la teología.",
+     "Deus sive Natura: Dios identificado con la naturaleza.",
+     "Dignitas hominis: la dignidad del ser humano."
+    ],
+    "a": 3,
+    "fb": "La dignitas hominis, la dignidad del ser humano, es el centro del humanismo renacentista; la virtù es un concepto político de Maquiavelo."
+   },
+   {
+    "q": "¿Qué cambio económico acompaña el paso de la Edad Media al Renacimiento?",
+    "o": [
+     "Del comercio y la banca a una economía agraria autosuficiente.",
+     "De la economía feudal a una economía planificada por el Estado.",
+     "De una economía agraria al comercio, la banca y el capitalismo.",
+     "De los mercados con moneda al trueque en las ferias locales."
+    ],
+    "a": 2,
+    "fb": "La economía medieval era sobre todo agraria; en el Renacimiento crecen el comercio, la banca y el capitalismo."
+   },
+   {
+    "q": "¿Qué cambio político acompaña el paso de la Edad Media al Renacimiento?",
+    "o": [
+     "De las monarquías a las repúblicas democráticas.",
+     "Del feudalismo a las monarquías y los estados-nación.",
+     "Del Imperio romano a la fragmentación feudal.",
+     "De las ciudades-estado griegas a los grandes imperios."
+    ],
+    "a": 1,
+    "fb": "Frente al feudalismo medieval, el Renacimiento ve consolidarse las monarquías y los estados-nación."
+   },
+   {
+    "q": "¿Qué lugar ocupaba la ciencia en la Edad Media, frente al que ocupará en el Renacimiento?",
+    "o": [
+     "Estaba subordinada a la teología.",
+     "Se basaba ya en el método experimental.",
+     "Era del todo independiente de la religión.",
+     "Concebía la naturaleza como una máquina."
+    ],
+    "a": 0,
+    "fb": "En la Edad Media la ciencia estaba subordinada a la teología; en el Renacimiento se abre paso el método experimental."
+   },
+   {
+    "q": "¿Qué diferencia la filosofía medieval de la renacentista?",
+    "o": [
+     "La escolástica gira en torno al potencial humano; el humanismo, en torno a fe y razón.",
+     "La escolástica defiende el método experimental; el humanismo, el argumento de autoridad.",
+     "La escolástica gira en torno a fe y razón; el humanismo, en torno al potencial humano.",
+     "Las dos coinciden en situar a Dios en el centro de toda la reflexión filosófica."
+    ],
+    "a": 2,
+    "fb": "La filosofía medieval es la escolástica, centrada en la relación entre fe y razón; el humanismo renacentista pone el foco en la dignidad y el potencial del individuo."
+   },
+   {
+    "q": "¿Qué tienen en común el humanismo renacentista y la Reforma protestante?",
+    "o": [
+     "Ambos defienden que la Iglesia es la única intérprete de la Biblia.",
+     "Ambos proponen el heliocentrismo como nueva imagen del universo.",
+     "Ambos rechazan toda metafísica por no ser verificable empíricamente.",
+     "Ambos refuerzan el valor y la autonomía del individuo."
+    ],
+    "a": 3,
+    "fb": "El humanismo valora la dignidad y el potencial del individuo, y la Reforma le da más autonomía frente a la Iglesia: los dos empujan hacia el antropocentrismo."
+   },
+   {
+    "q": "¿En qué se diferencian las aportaciones de Copérnico y de Kepler?",
+    "o": [
+     "Copérnico sitúa el Sol en el centro; Kepler describe las órbitas elípticas.",
+     "Copérnico describe las órbitas elípticas; Kepler sitúa el Sol en el centro.",
+     "Copérnico usa el telescopio; Kepler formula la gravitación universal.",
+     "Copérnico defiende el geocentrismo; Kepler lo sustituye por el heliocentrismo."
+    ],
+    "a": 0,
+    "fb": "Copérnico propone el heliocentrismo y Kepler describe las órbitas elípticas de los planetas; el telescopio es de Galileo y la gravitación, de Newton."
+   },
+   {
+    "q": "¿Qué relación hay entre la revolución científica y el positivismo de Comte?",
+    "o": [
+     "Comte rechaza la ciencia moderna y vuelve a las explicaciones teológicas.",
+     "Comte lleva al extremo la confianza en la ciencia nacida con esa revolución.",
+     "Comte es un astrónomo del siglo XVI que preparó el trabajo de Galileo.",
+     "Comte sostiene que la metafísica es superior a la ciencia experimental."
+    ],
+    "a": 1,
+    "fb": "En el siglo XIX Comte lleva a su extremo la confianza en la ciencia surgida de la revolución científica: solo vale el conocimiento verificable."
+   },
+   {
+    "q": "¿Qué aporta Newton que no habían logrado Copérnico, Kepler ni Galileo?",
+    "o": [
+     "Proponer por primera vez que el Sol está en el centro.",
+     "Emplear el telescopio para observar los cuerpos celestes.",
+     "Describir las órbitas elípticas que siguen los planetas.",
+     "Unificar la física con la ley de la gravitación universal."
+    ],
+    "a": 3,
+    "fb": "Newton culmina la revolución científica al unificar la física con la ley de la gravitación universal."
+   },
+   {
+    "q": "¿Qué diferencia el estadio teológico del estadio positivo en la ley de Comte?",
+    "o": [
+     "El teológico explica por esencias; el positivo, por la acción de dioses.",
+     "El teológico explica por leyes; el positivo, por esencias abstractas.",
+     "El teológico explica por dioses; el positivo, por leyes científicas.",
+     "Los dos explican por leyes, pero el positivo usa más las matemáticas."
+    ],
+    "a": 2,
+    "fb": "Según Comte, la humanidad pasa de explicar por dioses (teológico) a explicar por esencias (metafísico) y, al final, por leyes científicas (positivo)."
+   },
+   {
+    "q": "Un estudiante dice que la astrología no es conocimiento porque sus predicciones no pueden comprobarse con hechos. ¿Con qué postura encaja mejor su argumento?",
+    "o": [
+     "Con el humanismo renacentista.",
+     "Con el positivismo de Comte.",
+     "Con el organicismo teleológico.",
+     "Con la escolástica medieval."
+    ],
+    "a": 1,
+    "fb": "El positivismo solo acepta como conocimiento lo que se apoya en hechos verificables empíricamente."
+   },
+   {
+    "q": "Una divulgadora compara el cuerpo humano con un reloj: sus piezas funcionan por leyes físicas, sin ningún propósito que las guíe. ¿Qué visión de la naturaleza refleja?",
+    "o": [
+     "El mecanicismo.",
+     "El organicismo teleológico.",
+     "El antropocentrismo.",
+     "El humanismo."
+    ],
+    "a": 0,
+    "fb": "El mecanicismo entiende la naturaleza como una máquina regida por leyes, no como un organismo que tiende a fines."
+   },
+   {
+    "q": "Hoy cualquiera puede leer un texto religioso en internet, comparar traducciones y sacar sus propias conclusiones sin intermediarios. ¿Qué idea histórica anticipa esa actitud?",
+    "o": [
+     "La libre interpretación de la Escritura que defendió Lutero.",
+     "La subordinación de la razón a la fe propia de la escolástica.",
+     "El paso del estadio metafísico al positivo descrito por Comte.",
+     "La habilidad del gobernante que Maquiavelo llamó virtù."
+    ],
+    "a": 0,
+    "fb": "La Reforma protestante defiende la libre interpretación de la Escritura y la relación directa del creyente con Dios, sin la mediación de la Iglesia."
+   },
+   {
+    "q": "Un equipo médico abandona un tratamiento antiguo, aunque lo recomendara un autor prestigioso, porque los experimentos muestran que no funciona. ¿Qué rasgo de la ciencia moderna ilustra?",
+    "o": [
+     "La confianza escolástica en los textos de los clásicos.",
+     "El retorno renacentista a los autores griegos y latinos.",
+     "La relación directa del creyente con la verdad revelada.",
+     "El método experimental frente al argumento de autoridad."
+    ],
+    "a": 3,
+    "fb": "La revolución científica sustituye la autoridad (Aristóteles, la Biblia) por la observación y la experimentación."
+   },
+   {
+    "q": "De pequeño, Mikel creía que los truenos eran el enfado de los dioses; hoy los explica por la electricidad atmosférica. Según Comte, ¿qué recorrido ha hecho?",
+    "o": [
+     "Del estadio metafísico al teológico.",
+     "Del estadio positivo al metafísico.",
+     "Del estadio teológico al positivo.",
+     "Del estadio teológico al metafísico."
+    ],
+    "a": 2,
+    "fb": "Explicar por dioses es propio del estadio teológico; explicar por leyes científicas, del estadio positivo."
+   },
+   {
+    "q": "Una política afirma que para gobernar no bastan las buenas intenciones: hacen falta habilidad y determinación para tomar decisiones difíciles. ¿Qué concepto encaja con su idea?",
+    "o": [
+     "La dignitas hominis.",
+     "La virtù de Maquiavelo.",
+     "La secularización.",
+     "El antropocentrismo."
+    ],
+    "a": 1,
+    "fb": "La virtù es la habilidad y la determinación del gobernante, según Maquiavelo."
+   },
+   {
+    "q": "¿Qué científico de la revolución científica usó el telescopio y defendió el método experimental?",
+    "o": [
+     "Copérnico.",
+     "Kepler.",
+     "Newton.",
+     "Galileo."
+    ],
+    "a": 3,
+    "fb": "Galileo usa el telescopio y defiende el método experimental; Copérnico propone el heliocentrismo, Kepler las órbitas elípticas y Newton la gravitación universal."
+   },
+   {
+    "q": "¿Quién sostuvo que la humanidad pasa por un estadio teológico, uno metafísico y uno positivo?",
+    "o": [
+     "Auguste Comte.",
+     "René Descartes.",
+     "Isaac Newton.",
+     "Martín Lutero."
+    ],
+    "a": 0,
+    "fb": "La ley de los tres estadios es de Auguste Comte, fundador del positivismo en el siglo XIX."
+   },
+   {
+    "q": "¿A quién se asocia la Reforma que cuestionó la autoridad de la Iglesia y defendió la libre interpretación de la Escritura?",
+    "o": [
+     "A Gutenberg.",
+     "A Lutero.",
+     "A Maquiavelo.",
+     "A Copérnico."
+    ],
+    "a": 1,
+    "fb": "La Reforma protestante (1517) es obra de Lutero; Gutenberg inventó la imprenta, que ayudó a difundir sus ideas."
+   },
+   {
+    "q": "¿Dónde y en qué época surge el Renacimiento?",
+    "o": [
+     "En Alemania, a lo largo del siglo XVII.",
+     "En Francia, durante el siglo XIX.",
+     "En Italia, entre los siglos XIV y XVI.",
+     "En Inglaterra, entre los siglos XI y XII."
+    ],
+    "a": 2,
+    "fb": "El Renacimiento nace en Italia entre los siglos XIV y XVI, antes del racionalismo del XVII y del positivismo del XIX."
+   }
+  ]
+ },
+ "hf-b14-banco": {
+  "name": "T14 · Racionalismo y empirismo: Descartes y Hume (banco ampliado)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "¿Por qué la epistemología pasa a ser el centro de la filosofía en el siglo XVII?",
+    "o": [
+     "Porque se discute si la fe puede demostrar racionalmente la existencia de Dios",
+     "Porque se pregunta si podemos conocer la realidad tal y como es",
+     "Porque la nueva ciencia obliga a abandonar el estudio de la naturaleza",
+     "Porque la política exige fundar el poder en un contrato social"
+    ],
+    "a": 1,
+    "fb": "Los modernos ya no dan por supuesto que conocemos las cosas tal como son: se preguntan si podemos conocer la realidad, y por eso el problema del conocimiento pasa al centro."
+   },
+   {
+    "q": "Frente a griegos y medievales, ¿qué cambia en la manera moderna de entender el conocimiento?",
+    "o": [
+     "Se centra en las cosas externas, que se conocen de forma directa y tal como son",
+     "Pasa a depender de la revelación divina más que de la razón",
+     "Se centra en el sujeto: conocemos la realidad a través de nuestras ideas",
+     "Se reduce a la opinión, porque ya nada puede saberse con certeza"
+    ],
+    "a": 2,
+    "fb": "Para los modernos solo conocemos la realidad de forma indirecta, a través de las ideas de la mente: el núcleo del conocimiento pasa de las cosas al sujeto."
+   },
+   {
+    "q": "¿Qué cuestión de fondo enfrenta a racionalistas y empiristas en la filosofía moderna?",
+    "o": [
+     "Si el poder político procede de Dios o de un pacto entre individuos",
+     "Si el alma es inmortal o perece junto con el cuerpo",
+     "Si la fe está por encima de la razón o la razón por encima de la fe",
+     "Si el conocimiento se origina en la razón o en la experiencia"
+    ],
+    "a": 3,
+    "fb": "El choque es epistemológico: el racionalismo sitúa el origen del saber en la razón y las ideas innatas; el empirismo, en la experiencia y las impresiones."
+   },
+   {
+    "q": "¿Por qué el cogito resiste incluso la hipótesis del genio maligno?",
+    "o": [
+     "Porque, aunque me engañe en todo, para ser engañado tengo que estar pensando",
+     "Porque el genio maligno solo puede engañar sobre los sentidos, no sobre las matemáticas",
+     "Porque la experiencia sensible confirma a cada momento que el sujeto existe",
+     "Porque la costumbre nos hace creer con fuerza en nuestra propia existencia"
+    ],
+    "a": 0,
+    "fb": "Descartes puede dudar de todo menos de que piensa: incluso si un genio maligno me engaña, estoy pensando, y si pienso, existo."
+   },
+   {
+    "q": "En la duda metódica, ¿qué pone en cuestión la posibilidad de que todo sea un sueño?",
+    "o": [
+     "Que las verdades matemáticas sean ciertas",
+     "Que exista el sujeto que está dudando",
+     "Que exista una realidad exterior",
+     "Que Dios sea un ser perfecto"
+    ],
+    "a": 2,
+    "fb": "La hipótesis del sueño lleva a dudar de la realidad exterior; para dudar de las matemáticas Descartes necesita el genio maligno."
+   },
+   {
+    "q": "¿Por qué desconfía Descartes de los sentidos en el primer paso de la duda?",
+    "o": [
+     "Porque a veces engañan y, por tanto, no ofrecen una certeza absoluta",
+     "Porque la Iglesia prohibía apoyarse en la experiencia sensible",
+     "Porque sus datos son copias débiles de las ideas innatas",
+     "Porque la costumbre deforma todo lo que perciben"
+    ],
+    "a": 0,
+    "fb": "Descartes busca un saber más allá de toda duda; como los sentidos a veces engañan, no pueden servir de fundamento seguro."
+   },
+   {
+    "q": "¿Por qué son las ideas innatas la base del saber seguro para Descartes?",
+    "o": [
+     "Porque se obtienen tras muchas observaciones repetidas",
+     "Porque son copias fieles de impresiones vivas",
+     "Porque las transmiten la tradición y la autoridad",
+     "Porque la razón las posee desde el nacimiento"
+    ],
+    "a": 3,
+    "fb": "Las ideas innatas (como la de Dios o las verdades matemáticas) no dependen de los sentidos, que engañan: la razón las posee desde el nacimiento."
+   },
+   {
+    "q": "¿Qué significa que la matemática sea el modelo de conocimiento para Descartes?",
+    "o": [
+     "Que solo vale lo que puede medirse con instrumentos",
+     "Que el saber debe ser claro, distinto y deductivo",
+     "Que la filosofía debe limitarse a la geometría",
+     "Que las verdades se obtienen generalizando casos"
+    ],
+    "a": 1,
+    "fb": "Descartes quiere un saber como el matemático: claro, distinto y deducido a partir de certezas, empezando por el cogito."
+   },
+   {
+    "q": "¿Qué es el solipsismo, el riesgo que amenaza a Descartes tras el cogito?",
+    "o": [
+     "Dudar de todo sin llegar nunca a ninguna certeza",
+     "Quedar aislado en el yo: solo es seguro mi pensamiento",
+     "Negar que haya un yo permanente tras las percepciones",
+     "Afirmar que Dios y la Naturaleza son una sola sustancia"
+    ],
+    "a": 1,
+    "fb": "El solipsismo es el aislamiento del yo: si la única certeza es mi propio pensamiento, cuesta salir de él hacia el mundo."
+   },
+   {
+    "q": "Según Hume, ¿en qué orden aparecen en la mente las impresiones y las ideas?",
+    "o": [
+     "Primero, las ideas innatas; después, las impresiones que las confirman",
+     "Ambas surgen a la vez y con la misma fuerza y viveza",
+     "Las ideas nacen de la razón y las impresiones, de la imaginación",
+     "Primero, las impresiones; de ellas la mente forma las ideas"
+    ],
+    "a": 3,
+    "fb": "La mente recibe primero impresiones (percepciones vivas) y de ellas forma ideas, que son sus copias débiles."
+   },
+   {
+    "q": "¿Qué criterio ofrece Hume para saber si una idea tiene contenido?",
+    "o": [
+     "Que pueda deducirse de una idea innata",
+     "Que no implique contradicción al pensarla",
+     "Que proceda de alguna impresión previa",
+     "Que la acepte la mayoría de las personas"
+    ],
+    "a": 2,
+    "fb": "Para Hume una idea sin impresión previa es una idea vacía: hay que buscar la impresión de la que procede."
+   },
+   {
+    "q": "¿Por qué son verdades necesarias las relaciones de ideas, según Hume?",
+    "o": [
+     "Porque su negación es contradictoria",
+     "Porque la experiencia las ha confirmado siempre",
+     "Porque Dios garantiza su verdad",
+     "Porque la costumbre las ha fijado en la mente"
+    ],
+    "a": 0,
+    "fb": "Las relaciones de ideas, como las matemáticas, son a priori: negarlas es caer en contradicción, y por eso son necesarias."
+   },
+   {
+    "q": "¿Qué caracteriza a las cuestiones de hecho en Hume?",
+    "o": [
+     "Son necesarias y su negación es contradictoria",
+     "Son innatas y se conocen sin ninguna experiencia",
+     "Son contingentes y se conocen a posteriori",
+     "Son verdades matemáticas que se conocen a priori"
+    ],
+    "a": 2,
+    "fb": "Las cuestiones de hecho se basan en la experiencia (a posteriori) y son contingentes: lo contrario es posible."
+   },
+   {
+    "q": "¿Por qué «el sol saldrá mañana» es una cuestión de hecho y no una relación de ideas?",
+    "o": [
+     "Porque pensar que mañana no saldrá no es contradictorio",
+     "Porque es una verdad matemática demostrable a priori",
+     "Porque es una idea innata que la razón posee",
+     "Porque carece de cualquier base en la experiencia pasada"
+    ],
+    "a": 0,
+    "fb": "Es contingente: podría ser de otro modo sin contradicción. Se apoya en la experiencia pasada, pero no es necesaria."
+   },
+   {
+    "q": "¿Qué afirma el emotivismo de Hume sobre los juicios morales?",
+    "o": [
+     "Que describen hechos objetivos del mundo",
+     "Que se deducen de verdades innatas de la razón",
+     "Que dependen de la ley revelada por Dios",
+     "Que expresan sentimientos, no hechos"
+    ],
+    "a": 3,
+    "fb": "Para el emotivismo de Hume, decir que algo es bueno o malo expresa un sentimiento de aprobación o rechazo, no un hecho."
+   },
+   {
+    "q": "¿Qué papel tiene el cogito en el proyecto de Descartes?",
+    "o": [
+     "Es la conclusión final a la que llega tras demostrar a Dios",
+     "Es la primera certeza desde la que reconstruye el conocimiento",
+     "Es una hipótesis provisional que luego abandona",
+     "Es una verdad de hecho obtenida de la experiencia"
+    ],
+    "a": 1,
+    "fb": "El cogito es la primera certeza indudable; a partir de ella Descartes reconstruye el saber apoyándose en las ideas innatas."
+   },
+   {
+    "q": "¿En qué se oponen Descartes y Hume respecto a la causalidad?",
+    "o": [
+     "Para Descartes es evidente a la razón; para Hume, fruto de la costumbre",
+     "Para Descartes es fruto de la costumbre; para Hume, evidente a la razón",
+     "Ambos la fundan en la observación repetida de los hechos",
+     "Para ambos es una verdad necesaria conocida a priori"
+    ],
+    "a": 0,
+    "fb": "El racionalismo ve la causalidad como evidente a la razón; Hume sostiene que no vemos la conexión necesaria y que la creemos por costumbre."
+   },
+   {
+    "q": "¿Qué semejanza y qué diferencia hay entre Descartes y Hume respecto a las matemáticas?",
+    "o": [
+     "Ambos las ven contingentes, pero solo Hume las basa en la experiencia",
+     "Descartes las deja en duda para siempre y Hume las funda en la costumbre",
+     "Ambos las ven necesarias, pero Hume no las hace modelo de todo saber",
+     "Hume las considera innatas y Descartes, verdades a posteriori"
+    ],
+    "a": 2,
+    "fb": "Para Hume las matemáticas son relaciones de ideas, necesarias y a priori, pero su modelo de conocimiento es la observación, no la matemática como en Descartes."
+   },
+   {
+    "q": "¿Cómo contrasta la visión del yo de Descartes con la de Hume?",
+    "o": [
+     "Descartes lo ve como un haz de percepciones; Hume, como sustancia pensante",
+     "Descartes lo ve como la primera certeza; Hume, como un flujo de percepciones",
+     "Ambos lo consideran una ilusión provocada por un genio maligno",
+     "Ambos lo conocen gracias a una impresión sensible permanente"
+    ],
+    "a": 1,
+    "fb": "El «yo pienso» es la primera certeza cartesiana; Hume, en cambio, no encuentra impresión de un yo permanente y lo reduce a un haz de percepciones."
+   },
+   {
+    "q": "¿Qué argumento vincula a Descartes con Anselmo de Canterbury?",
+    "o": [
+     "Las cinco vías, que parten de los efectos del mundo hacia Dios",
+     "El argumento de la costumbre, que explica la causalidad",
+     "El argumento del sueño, que pone en duda el mundo exterior",
+     "El argumento ontológico, que prueba a Dios desde su definición"
+    ],
+    "a": 3,
+    "fb": "El argumento ontológico prueba la existencia de Dios a partir de su propia definición; lo formularon Anselmo y, más tarde, Descartes."
+   },
+   {
+    "q": "¿Qué comparten Descartes y Hume pese a sus diferencias?",
+    "o": [
+     "Ambos parten de lo que hay en la mente: ideas o percepciones",
+     "Ambos admiten ideas innatas como base de todo el conocimiento",
+     "Ambos toman la observación empírica como modelo del saber",
+     "Ambos consideran que la conexión causal es evidente a la razón"
+    ],
+    "a": 0,
+    "fb": "Como filósofos modernos, los dos creen que conocemos la realidad de forma indirecta, a través de lo que hay en la mente."
+   },
+   {
+    "q": "Frente al innatismo de Descartes, ¿qué sostiene Hume?",
+    "o": [
+     "Que solo la idea de Dios es innata y todas las demás son adquiridas",
+     "Que las ideas innatas se descubren por inducción",
+     "Que las matemáticas son las únicas ideas innatas",
+     "Que no hay ideas innatas: todo viene de la experiencia"
+    ],
+    "a": 3,
+    "fb": "Hume responde desde el lado opuesto: no hay ideas innatas, y todo conocimiento procede de la experiencia."
+   },
+   {
+    "q": "Tras un sueño muy realista, Lucía se pregunta si no estará soñando también ahora la clase de filosofía. ¿Qué paso de la duda cartesiana reproduce?",
+    "o": [
+     "La duda sobre las matemáticas por el genio maligno",
+     "La duda sobre la existencia de la realidad exterior",
+     "La certeza de que piensa y, por tanto, existe",
+     "La crítica de Hume a la idea de un yo permanente"
+    ],
+    "a": 1,
+    "fb": "Descartes duda de la realidad exterior porque quizá todo sea un sueño: es el mismo paso que da Lucía."
+   },
+   {
+    "q": "Un niño ve muchas veces que el fuego quema y espera que la próxima vez también queme. ¿Cómo explicaría Hume esa expectativa?",
+    "o": [
+     "Por una conexión necesaria que la razón capta",
+     "Por una idea innata de causa y efecto",
+     "Por la costumbre que crea la repetición",
+     "Por una relación de ideas a priori"
+    ],
+    "a": 2,
+    "fb": "Vemos que un hecho sigue a otro, pero no la conexión necesaria: la esperamos por costumbre, no por razón."
+   },
+   {
+    "q": "Marcos habla del «destino» que guía su vida, pero no sabe señalar ninguna experiencia de la que proceda esa idea. ¿Qué diría Hume?",
+    "o": [
+     "Que es una idea innata y, por tanto, segura",
+     "Que es una idea vacía, sin impresión detrás",
+     "Que es una relación de ideas necesaria",
+     "Que es verdadera si no es contradictoria"
+    ],
+    "a": 1,
+    "fb": "Para Hume toda idea debe proceder de una impresión; una idea sin impresión previa es una idea vacía."
+   },
+   {
+    "q": "Ana afirma que «un triángulo tiene tres ángulos» sería verdad aunque no existiera ningún triángulo en el mundo. En términos de Hume, esa afirmación es…",
+    "o": [
+     "una relación de ideas, necesaria y a priori",
+     "una cuestión de hecho, contingente y a posteriori",
+     "una impresión viva de la experiencia",
+     "una creencia fundada en la costumbre"
+    ],
+    "a": 0,
+    "fb": "Es una verdad matemática cuya negación es contradictoria: una relación de ideas, que no depende de la experiencia."
+   },
+   {
+    "q": "Alguien dice que «mentir está mal» y, al preguntarle, reconoce que expresa su rechazo, no un hecho que pueda observarse. ¿Con qué postura encaja?",
+    "o": [
+     "Con el innatismo de Descartes",
+     "Con el argumento ontológico",
+     "Con el emotivismo de Hume",
+     "Con el racionalismo matemático"
+    ],
+    "a": 2,
+    "fb": "El emotivismo de Hume sostiene que los juicios morales expresan sentimientos, no hechos."
+   },
+   {
+    "q": "Pablo decide lo que quiere según sus deseos y usa la razón solo para buscar la manera de conseguirlo. ¿Qué tesis ilustra?",
+    "o": [
+     "La de Descartes: la razón debe guiar y dominar las pasiones",
+     "La de Spinoza: todo es expresión de una única sustancia",
+     "La del cogito: la primera certeza es el propio pensamiento",
+     "La de Hume: la razón es y debe ser esclava de las pasiones"
+    ],
+    "a": 3,
+    "fb": "Para Hume son las pasiones las que mueven a actuar; la razón está a su servicio para encontrar los medios."
+   },
+   {
+    "q": "Una matemática reconstruye toda una teoría deduciéndola de unos pocos principios evidentes. ¿Qué modelo de conocimiento sigue?",
+    "o": [
+     "El empirista, basado en la observación",
+     "El racionalista, claro, distinto y deductivo",
+     "El inductivo, que generaliza casos",
+     "El fenomenista, limitado a lo que se percibe"
+    ],
+    "a": 1,
+    "fb": "Deducir a partir de principios evidentes es el modelo racionalista de Descartes, que toma la matemática como ideal."
+   },
+   {
+    "q": "Tras observar muchos casos, un científico concluye que todos los metales se dilatan con el calor. ¿Qué enfoque ilustra?",
+    "o": [
+     "El empirismo, con su método inductivo",
+     "El racionalismo, con su método deductivo",
+     "El innatismo, que parte de ideas innatas",
+     "La duda metódica, que busca un fundamento"
+    ],
+    "a": 0,
+    "fb": "Generalizar desde casos observados es inducción, el método del empirismo, cuyo modelo es la observación."
+   },
+   {
+    "q": "Álvaro, a los 40 años, apenas se reconoce en el niño que fue: sus recuerdos, gustos e ideas han cambiado. ¿Qué visión del yo encaja con Hume?",
+    "o": [
+     "Un yo sustancial que permanece idéntico bajo los cambios",
+     "Una sustancia pensante conocida por intuición racional",
+     "Una idea innata que la razón posee desde el nacimiento",
+     "Un haz de percepciones, sin sustancia permanente"
+    ],
+    "a": 3,
+    "fb": "Hume no halla impresión de un yo permanente, solo un flujo de percepciones: el yo es un haz de percepciones."
+   },
+   {
+    "q": "«La razón es, y solo debe ser, esclava de las pasiones.» ¿A quién pertenece esta frase?",
+    "o": [
+     "A René Descartes, en las Meditaciones metafísicas",
+     "A Spinoza, al explicar la sustancia única y divina",
+     "A David Hume, en su Tratado de la naturaleza humana",
+     "A Anselmo, al formular su prueba ontológica de Dios"
+    ],
+    "a": 2,
+    "fb": "La frase es de Hume, en el Tratado de la naturaleza humana: la razón no mueve a actuar, sirve a las pasiones."
+   },
+   {
+    "q": "¿A quién corresponde la fórmula «Deus sive Natura» («Dios, o sea, la Naturaleza»)?",
+    "o": [
+     "A Spinoza",
+     "A Descartes",
+     "A Hume",
+     "A Anselmo"
+    ],
+    "a": 0,
+    "fb": "Deus sive Natura expresa la tesis de Spinoza: Dios y la Naturaleza son la única sustancia."
+   },
+   {
+    "q": "¿Quién planteó la hipótesis de que quizá un ser poderoso nos engaña en todo, incluso en las matemáticas?",
+    "o": [
+     "David Hume, al criticar la causalidad",
+     "Anselmo, al definir a Dios",
+     "René Descartes, en su duda metódica",
+     "Spinoza, al hablar de la sustancia"
+    ],
+    "a": 2,
+    "fb": "El genio maligno es una hipótesis de Descartes para llevar la duda hasta las matemáticas."
+   },
+   {
+    "q": "¿A quién se atribuye el fenomenismo, la tesis de que solo conocemos fenómenos y no la realidad en sí?",
+    "o": [
+     "A Descartes",
+     "A Hume",
+     "A Spinoza",
+     "A Anselmo"
+    ],
+    "a": 1,
+    "fb": "Para Hume solo conocemos percepciones (fenómenos); de la realidad en sí no tenemos impresión."
+   }
+  ]
+ },
+ "hf-b15-banco": {
+  "name": "T15 · El debate metafísico moderno: dualismo y materialismo (banco ampliado)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "Tras la revolución científica, ¿cómo cambia la pregunta de fondo sobre la realidad y el ser humano?",
+    "o": [
+     "Se deja de preguntar qué existe y se pregunta cuál es la finalidad última de cada cosa",
+     "Se abandona la pregunta por el ser humano y se estudian solo los movimientos de los astros",
+     "Se deja de preguntar para qué existen las cosas y se pregunta qué existe y cómo funciona",
+     "Se deja de preguntar por la sustancia y se pregunta sobre todo cómo alcanzar la felicidad"
+    ],
+    "a": 2,
+    "fb": "La teleología («¿para qué?») cede el paso a la pregunta por lo que realmente existe y por su funcionamiento."
+   },
+   {
+    "q": "¿Qué rasgos atribuye Descartes a la res cogitans?",
+    "o": [
+     "Es inextensa, libre e inmortal",
+     "Es extensa, libre y mortal",
+     "Es inextensa, mecánica y sujeta a leyes físicas",
+     "Es extensa, divisible e inmortal"
+    ],
+    "a": 0,
+    "fb": "La sustancia pensante (el alma) no ocupa espacio, es libre y no muere con el cuerpo."
+   },
+   {
+    "q": "¿Cómo caracteriza Descartes la res extensa?",
+    "o": [
+     "Como sustancia inextensa, libre e inmortal, propia de cada persona",
+     "Como materia extensa pero libre y capaz de pensar por sí misma",
+     "Como una apariencia sin realidad producida por la sustancia pensante",
+     "Como sustancia material, extensa, mecánica y sujeta a las leyes físicas"
+    ],
+    "a": 3,
+    "fb": "La res extensa es el cuerpo: ocupa espacio y funciona mecánicamente según las leyes de la física."
+   },
+   {
+    "q": "Según Descartes, ¿qué es lo que nos hace ser quienes somos?",
+    "o": [
+     "La unión de alma y cuerpo, a partes iguales",
+     "Solo la res cogitans, la sustancia pensante",
+     "La res extensa, porque el cuerpo nos individualiza",
+     "El funcionamiento de los órganos, sobre todo del cerebro"
+    ],
+    "a": 1,
+    "fb": "El ser humano es unión de dos sustancias, pero para Descartes solo el alma pensante constituye nuestra identidad."
+   },
+   {
+    "q": "¿Qué lugar ocupa Dios en la teoría cartesiana de las sustancias?",
+    "o": [
+     "Es la única sustancia, y alma y cuerpo son partes suyas",
+     "Es la sustancia infinita, por encima del alma y del cuerpo",
+     "Es un atributo de la res cogitans, sin existencia propia",
+     "Es la sustancia extensa que pone en movimiento los cuerpos"
+    ],
+    "a": 1,
+    "fb": "Además de la res cogitans y la res extensa, Descartes sitúa por encima de ambas a Dios como sustancia infinita."
+   },
+   {
+    "q": "¿Cómo valora la teoría la solución cartesiana de la glándula pineal?",
+    "o": [
+     "Como definitiva, porque cerró el problema alma-cuerpo",
+     "Como materialista, porque reduce el alma al cerebro",
+     "Como prueba de que alma y cuerpo son una sustancia",
+     "Como insatisfactoria, porque deja abierto el debate"
+    ],
+    "a": 3,
+    "fb": "Descartes resuelve la relación alma-cuerpo de forma insatisfactoria con la glándula pineal, y el debate queda abierto."
+   },
+   {
+    "q": "¿Qué supone que Hobbes extienda el mecanicismo al ser humano?",
+    "o": [
+     "Que también el pensamiento se explica como movimiento de la materia",
+     "Que el pensamiento es la actividad de un alma inmortal unida al cuerpo",
+     "Que la materia es un producto del pensamiento de una sustancia infinita",
+     "Que el mecanicismo explica la naturaleza, pero no la mente humana"
+    ],
+    "a": 0,
+    "fb": "Para Hobbes no hay excepción: el ser humano, incluido su pensamiento, es materia en movimiento."
+   },
+   {
+    "q": "¿Qué significa la tesis del hombre-máquina de La Mettrie?",
+    "o": [
+     "Que el cuerpo es una máquina gobernada desde dentro por un alma libre",
+     "Que los animales son máquinas, pero el ser humano posee un alma inmortal",
+     "Que el ser humano es un autómata complejo y el alma resulta de sus órganos",
+     "Que el ser humano debe trabajar con la regularidad de una máquina"
+    ],
+    "a": 2,
+    "fb": "La Mettrie lleva el materialismo al extremo: no hay principio místico, sino el funcionamiento del organismo, sobre todo del cerebro."
+   },
+   {
+    "q": "¿Qué afirma el determinismo?",
+    "o": [
+     "Que Dios interviene en cada ocasión para decidir nuestros actos",
+     "Que el cuerpo sigue leyes físicas, pero la voluntad es libre",
+     "Que los actos humanos suceden por azar, sin causa alguna",
+     "Que todo acto está causado necesariamente por eventos anteriores"
+    ],
+    "a": 3,
+    "fb": "El determinismo sostiene que cada acto es consecuencia necesaria de lo que ocurrió antes."
+   },
+   {
+    "q": "¿Por qué el materialismo conduce al determinismo?",
+    "o": [
+     "Porque el alma inmortal fija de antemano cada uno de los actos que realizará el cuerpo",
+     "Porque la materia actúa siempre buscando un fin propio, como sostenía la teleología",
+     "Porque, si solo somos materia sujeta a leyes físicas, todo acto está causado",
+     "Porque Dios coordina en cada ocasión los movimientos del cuerpo con los del alma"
+    ],
+    "a": 2,
+    "fb": "Si todo es materia y la materia obedece leyes físicas, no queda sitio para una decisión libre: todo está causado."
+   },
+   {
+    "q": "¿Qué aporía plantea el materialismo según la teoría?",
+    "o": [
+     "Si no hay libertad, parece perder sentido la responsabilidad y la justicia",
+     "Si el alma es inmortal, no se entiende por qué el cuerpo llega a morir",
+     "Si hay dos sustancias, no se sabe cuál de ellas es la más importante",
+     "Si todo es materia, la ciencia no puede explicar ningún fenómeno natural"
+    ],
+    "a": 0,
+    "fb": "Si la mente es solo materia y todo está determinado, cuesta sostener que alguien sea culpable o responsable."
+   },
+   {
+    "q": "¿Por qué el concepto de sustancia se convierte en el «campo de batalla» del debate moderno?",
+    "o": [
+     "Porque en él se decide cuál es la finalidad que persigue cada ser natural",
+     "Porque en él se decide si somos espíritu y libertad o materia y necesidad",
+     "Porque la nueva ciencia necesitaba medir la sustancia de cada astro",
+     "Porque en él se decide qué método debe seguir la investigación científica"
+    ],
+    "a": 1,
+    "fb": "La discusión sobre qué sustancias existen responde a la pregunta de si el ser humano es alma libre o materia determinada."
+   },
+   {
+    "q": "¿Qué son las mónadas de Leibniz?",
+    "o": [
+     "Sustancias simples e indivisibles",
+     "Las dos sustancias, pensante y extensa",
+     "Partículas de materia en movimiento mecánico",
+     "Intervenciones de Dios en cada ocasión"
+    ],
+    "a": 0,
+    "fb": "Leibniz llama mónadas a las sustancias simples e indivisibles."
+   },
+   {
+    "q": "¿Quién sostiene que Dios interviene en cada ocasión para coordinar alma y cuerpo?",
+    "o": [
+     "Leibniz",
+     "La Mettrie",
+     "Hobbes",
+     "Malebranche"
+    ],
+    "a": 3,
+    "fb": "Es el ocasionalismo de Malebranche: alma y cuerpo no actúan directamente uno sobre otro, sino que Dios los coordina."
+   },
+   {
+    "q": "¿En qué coinciden Hobbes y La Mettrie?",
+    "o": [
+     "En que el alma es una sustancia inmortal distinta del cuerpo",
+     "En que Dios coordina en cada ocasión el alma con el cuerpo",
+     "En que solo existe la materia, también en el caso del pensamiento",
+     "En que existen dos sustancias finitas y una sustancia infinita"
+    ],
+    "a": 2,
+    "fb": "Ambos son materialistas: el pensamiento no es obra de un alma aparte, sino de la materia."
+   },
+   {
+    "q": "¿Cómo difieren el dualismo y el materialismo respecto a la libertad?",
+    "o": [
+     "Para el dualismo es una ilusión; para el materialismo es propia del cerebro",
+     "Para el dualismo es real y propia del alma; para el materialismo es una ilusión",
+     "Ambos la consideran real, pero la sitúan en sustancias diferentes",
+     "Ambos la niegan, porque aceptan que todo está sujeto a leyes físicas"
+    ],
+    "a": 1,
+    "fb": "Descartes sitúa la libertad en la res cogitans; el materialismo, al aceptar el determinismo, la ve como una ilusión."
+   },
+   {
+    "q": "¿Qué tienen en común el ocasionalismo de Malebranche y la glándula pineal de Descartes?",
+    "o": [
+     "Ambos niegan que exista un alma distinta y separada del cuerpo",
+     "Ambos reducen al ser humano a una máquina biológica compleja",
+     "Ambos afirman que solo existe una sustancia simple e indivisible",
+     "Ambos buscan explicar la relación entre alma y cuerpo"
+    ],
+    "a": 3,
+    "fb": "Los dos parten del dualismo y tratan de resolver su gran problema: cómo se relacionan dos sustancias tan distintas."
+   },
+   {
+    "q": "¿Qué pareja describe bien cómo ven al ser humano el dualismo y el materialismo?",
+    "o": [
+     "Unión de alma y cuerpo / máquina biológica compleja",
+     "Máquina biológica compleja / unión de alma y cuerpo",
+     "Sustancia infinita / conjunto de mónadas simples",
+     "Alma sin cuerpo / cuerpo coordinado por Dios"
+    ],
+    "a": 0,
+    "fb": "Descartes ve al ser humano como unión de dos sustancias; Hobbes y La Mettrie, como una máquina biológica compleja."
+   },
+   {
+    "q": "¿En qué se diferencia el uso del mecanicismo en Descartes y en Hobbes?",
+    "o": [
+     "Descartes lo aplica al alma; Hobbes lo reserva para los astros",
+     "Descartes lo aplica al cuerpo; Hobbes, también al pensamiento",
+     "Descartes lo rechaza por completo; Hobbes lo aplica solo al cuerpo",
+     "Ambos lo aplican al pensamiento, pero Descartes lo limita a Dios"
+    ],
+    "a": 1,
+    "fb": "Para Descartes solo la res extensa es mecánica; Hobbes extiende el mecanicismo al ser humano entero, pensamiento incluido."
+   },
+   {
+    "q": "Un juez duda si castigar a quien cometió un delito por culpa de un tumor cerebral. ¿Qué postura hace más difícil considerarle culpable?",
+    "o": [
+     "El dualismo cartesiano, que sitúa la libertad en el alma",
+     "La teleología, que busca la finalidad de cada acto",
+     "El determinismo que se sigue del materialismo",
+     "La idea cartesiana de Dios como sustancia infinita"
+    ],
+    "a": 2,
+    "fb": "Si todo acto está causado por la biología, el delincuente parece víctima de su cerebro más que responsable: ¿cárcel u hospital?"
+   },
+   {
+    "q": "Una neurocientífica afirma: «La tristeza no es más que química en el cerebro; no hace falta suponer un alma». ¿Con qué postura encaja?",
+    "o": [
+     "Con el materialismo de La Mettrie",
+     "Con el dualismo de Descartes",
+     "Con el ocasionalismo de Malebranche",
+     "Con la teoría de las mónadas de Leibniz"
+    ],
+    "a": 0,
+    "fb": "Para La Mettrie el alma no es un principio místico, sino el resultado del funcionamiento de los órganos, sobre todo del cerebro."
+   },
+   {
+    "q": "Alguien cree que su mente sobrevivirá a la muerte porque no es algo físico ni ocupa espacio. ¿Qué concepción defiende?",
+    "o": [
+     "El hombre-máquina de La Mettrie",
+     "El mecanicismo de Hobbes",
+     "El determinismo materialista",
+     "La res cogitans cartesiana"
+    ],
+    "a": 3,
+    "fb": "Para Descartes la sustancia pensante es inextensa e inmortal, distinta del cuerpo."
+   },
+   {
+    "q": "Tras ver una película sobre androides, un alumno dice: «Una persona es un robot muy complicado, nada más». ¿Qué idea expresa?",
+    "o": [
+     "La unión cartesiana de alma y cuerpo",
+     "El hombre-máquina de La Mettrie",
+     "El ocasionalismo de Malebranche",
+     "La sustancia infinita de Descartes"
+    ],
+    "a": 1,
+    "fb": "La Mettrie concibe al ser humano como un autómata complejo, sin un alma separada del organismo."
+   },
+   {
+    "q": "Una alumna dice: «Mi cuerpo obedece las leyes de la física, pero mis decisiones son libres». ¿Con qué postura encaja mejor?",
+    "o": [
+     "Con el materialismo de Hobbes",
+     "Con el determinismo materialista",
+     "Con el dualismo cartesiano",
+     "Con el hombre-máquina de La Mettrie"
+    ],
+    "a": 2,
+    "fb": "Descartes separa el cuerpo, mecánico, del alma, libre: la libertad es real porque pertenece a la res cogitans."
+   },
+   {
+    "q": "Alguien sostiene que, cuando quiere mover la mano, no es su alma la que la mueve, sino Dios, que en ese momento hace que se mueva. ¿Qué postura es?",
+    "o": [
+     "El dualismo de la glándula pineal",
+     "La teoría de las mónadas de Leibniz",
+     "El ocasionalismo de Malebranche",
+     "El materialismo de Hobbes"
+    ],
+    "a": 2,
+    "fb": "En el ocasionalismo, Dios interviene en cada ocasión para coordinar lo que ocurre en el alma y en el cuerpo."
+   },
+   {
+    "q": "¿De quién es la frase «El alma no es más que el resultado del funcionamiento de los órganos del cuerpo»?",
+    "o": [
+     "La Mettrie",
+     "Descartes",
+     "Hobbes",
+     "Malebranche"
+    ],
+    "a": 0,
+    "fb": "Pertenece a El hombre máquina de La Mettrie, que lleva el materialismo al extremo."
+   },
+   {
+    "q": "¿A qué pensador del siglo XVII se atribuye la tesis de que el pensamiento es movimiento de la materia?",
+    "o": [
+     "Descartes",
+     "Leibniz",
+     "Malebranche",
+     "Hobbes"
+    ],
+    "a": 3,
+    "fb": "Hobbes extiende el mecanicismo al ser humano: pensar también es un movimiento de la materia."
+   },
+   {
+    "q": "¿Quién sostiene que, siendo el ser humano unión de alma y cuerpo, solo la sustancia pensante nos hace ser quienes somos?",
+    "o": [
+     "Hobbes",
+     "Descartes",
+     "La Mettrie",
+     "Leibniz"
+    ],
+    "a": 1,
+    "fb": "Es la tesis cartesiana: la identidad del ser humano reside en la res cogitans."
+   },
+   {
+    "q": "¿En qué contexto lleva La Mettrie el materialismo hasta el extremo?",
+    "o": [
+     "En la Edad Media, como crítica a la teología escolástica",
+     "En el Renacimiento, antes de que surgiera la ciencia moderna",
+     "En el siglo XX, a partir de los avances de la neurociencia",
+     "En la Ilustración, prolongando la línea abierta por Hobbes"
+    ],
+    "a": 3,
+    "fb": "El materialismo va de Hobbes, en el siglo XVII, a la Ilustración, donde La Mettrie formula el hombre-máquina."
+   },
+   {
+    "q": "¿Qué circunstancia histórica explica que se planteara si el ser humano es también una máquina?",
+    "o": [
+     "El éxito de la revolución científica al explicar la naturaleza de forma mecánica",
+     "El redescubrimiento medieval de Aristóteles y de su visión teleológica",
+     "La crisis de la ciencia moderna, que dejó de explicar el movimiento",
+     "El triunfo de la teología, que prohibió estudiar el cuerpo humano"
+    ],
+    "a": 0,
+    "fb": "La revolución científica cambió también la pregunta por el ser humano: si la naturaleza es mecanismo, ¿lo somos también nosotros?"
+   }
+  ]
+ },
+ "hf-b16-banco": {
+  "name": "T16 · El origen de la sociedad y el poder: Maquiavelo y el contrato social (banco ampliado)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "¿Qué significa que Maquiavelo, en «El príncipe», describa el poder «tal como es» y no como debería ser?",
+    "o": [
+     "Que propone un Estado ideal gobernado por los más sabios y virtuosos.",
+     "Que analiza la política real sin someterla a ideales morales ni religiosos.",
+     "Que exige que el poder se ajuste a la ley divina y a la moral cristiana.",
+     "Que solo considera legítimo el poder nacido del consentimiento del pueblo."
+    ],
+    "a": 1,
+    "fb": "Maquiavelo practica el realismo político: separa la política de la moral y de la religión y estudia cómo funciona realmente el poder."
+   },
+   {
+    "q": "Según Maquiavelo, ¿cuál es el objetivo prioritario que debe asegurar el gobernante?",
+    "o": [
+     "La felicidad virtuosa de cada ciudadano.",
+     "La salvación eterna de sus súbditos.",
+     "La protección de la propiedad de cada individuo.",
+     "El orden y la seguridad del Estado."
+    ],
+    "a": 3,
+    "fb": "Para Maquiavelo el gobernante debe garantizar ante todo el orden y la seguridad del Estado, aunque para ello tenga que usar medios duros."
+   },
+   {
+    "q": "¿Qué medios puede emplear el gobernante, según Maquiavelo, para cumplir su tarea?",
+    "o": [
+     "La fuerza y el engaño, si son necesarios para mantener el Estado.",
+     "Solo los medios que la moral cristiana considera lícitos.",
+     "Únicamente los que apruebe la voluntad general del pueblo.",
+     "Solo los que respeten los derechos naturales de todos los súbditos."
+    ],
+    "a": 0,
+    "fb": "Como la política es una técnica autónoma con su propia lógica, el príncipe puede recurrir a la fuerza y al engaño si el orden del Estado lo exige."
+   },
+   {
+    "q": "Según Hobbes, ¿por qué los individuos deciden abandonar el estado de naturaleza?",
+    "o": [
+     "Para escapar del miedo y la inseguridad de una lucha constante.",
+     "Para defender mejor unos derechos que ya tenían reconocidos.",
+     "Para recuperar la bondad natural que la sociedad había perdido.",
+     "Porque su naturaleza social los lleva a formar ciudades."
+    ],
+    "a": 0,
+    "fb": "En el estado de naturaleza hobbesiano reina la guerra de todos contra todos; el contrato nace de la necesidad de seguridad y protección."
+   },
+   {
+    "q": "En la teoría de Hobbes, ¿qué ceden los individuos al firmar el contrato?",
+    "o": [
+     "Solo el poder necesario para un gobierno limitado y revocable.",
+     "Todo su poder, en favor de un soberano absoluto.",
+     "Nada, porque la soberanía sigue residiendo en el pueblo.",
+     "El poder de juzgar, pero conservan el derecho a rebelarse."
+    ],
+    "a": 1,
+    "fb": "Para Hobbes los individuos ceden todo su poder al Leviatán, un soberano absoluto que garantiza la seguridad y el orden."
+   },
+   {
+    "q": "¿En qué se funda, según Hobbes, la obediencia de los súbditos al soberano?",
+    "o": [
+     "En el amor natural de cada uno a su comunidad.",
+     "En el origen divino del poder del monarca.",
+     "En el miedo y la necesidad de protección.",
+     "En obedecer las leyes que cada uno se ha dado."
+    ],
+    "a": 2,
+    "fb": "Hobbes justifica la obediencia por el miedo y la necesidad de protección: sin el Leviatán se volvería a la guerra de todos contra todos."
+   },
+   {
+    "q": "Según Locke, si en el estado de naturaleza ya existen derechos naturales, ¿por qué hace falta un contrato?",
+    "o": [
+     "Porque sin gobierno la defensa de esos derechos resulta insegura.",
+     "Porque en realidad antes del Estado no existe ningún derecho.",
+     "Porque la vida social ha corrompido la bondad original humana.",
+     "Porque solo el miedo a la muerte hace posible la convivencia."
+    ],
+    "a": 0,
+    "fb": "Locke admite derechos naturales (vida, libertad y propiedad) previos al Estado, pero su defensa es insegura; el contrato crea un gobierno que los proteja."
+   },
+   {
+    "q": "¿Qué es el Estado de derecho?",
+    "o": [
+     "Aquel en el que el soberano queda por encima de las leyes que dicta.",
+     "Aquel cuyo poder procede directamente de la voluntad de Dios.",
+     "Aquel en el que todos, también los gobernantes, están sometidos a la ley.",
+     "Aquel en el que la ley es la suma de los intereses particulares."
+    ],
+    "a": 2,
+    "fb": "En el Estado de derecho nadie está por encima de la ley, ni siquiera quien gobierna; Locke pone sus bases al exigir un poder limitado."
+   },
+   {
+    "q": "Según Rousseau, ¿cuál es el origen de los males del ser humano?",
+    "o": [
+     "El egoísmo natural, que conduce a la guerra de todos contra todos.",
+     "El pecado original, que solo la gracia divina puede reparar.",
+     "La sociedad, que corrompe a un ser humano bueno por naturaleza.",
+     "La inseguridad con que se defienden los derechos naturales."
+    ],
+    "a": 2,
+    "fb": "Rousseau sostiene que el ser humano es bueno por naturaleza y que es la sociedad la que lo corrompe."
+   },
+   {
+    "q": "Para Rousseau, ¿en qué consiste la libertad dentro del contrato social?",
+    "o": [
+     "En hacer lo que uno quiera sin someterse a leyes.",
+     "En ceder el poder a un soberano que asegure la paz.",
+     "En que el gobierno solo intervenga para proteger bienes.",
+     "En obedecer las leyes que uno mismo se ha dado."
+    ],
+    "a": 3,
+    "fb": "Para Rousseau la libertad no es ausencia de leyes: consiste en obedecer las leyes que el propio pueblo, soberano, se ha dado."
+   },
+   {
+    "q": "En la teoría contractualista, ¿qué es el estado de naturaleza?",
+    "o": [
+     "Una situación hipotética anterior a la existencia del Estado.",
+     "Una etapa histórica bien documentada de la prehistoria humana.",
+     "La vida en sociedad regida por las leyes naturales de Dios.",
+     "El estado del mundo físico antes de la aparición del ser humano."
+    ],
+    "a": 0,
+    "fb": "El estado de naturaleza es una hipótesis: imagina cómo vivirían los seres humanos sin Estado para explicar por qué lo crean."
+   },
+   {
+    "q": "¿Qué se entiende por coerción en filosofía política?",
+    "o": [
+     "El uso de la fuerza del Estado para hacer cumplir las leyes.",
+     "El acuerdo por el que los individuos crean el Estado.",
+     "El derecho del pueblo a resistir a un gobierno injusto.",
+     "La obediencia voluntaria de cada uno a la voluntad general."
+    ],
+    "a": 0,
+    "fb": "La coerción es la fuerza que el Estado emplea para que las leyes se cumplan; el acuerdo que crea el Estado es el contrato social."
+   },
+   {
+    "q": "¿Cuál de estas características NO corresponde al Leviatán de Hobbes?",
+    "o": [
+     "Es un soberano cuyo poder sobre los súbditos es absoluto.",
+     "Garantiza la seguridad y el orden de todos.",
+     "Es un poder limitado que el pueblo puede revocar.",
+     "Surge de un contrato firmado entre los propios individuos."
+    ],
+    "a": 2,
+    "fb": "El poder limitado y revocable es propio de Locke; el Leviatán es un soberano absoluto creado por contrato para garantizar la seguridad."
+   },
+   {
+    "q": "¿Qué ruptura introduce la modernidad en la manera de entender la sociedad?",
+    "o": [
+     "Pasa a verse como un organismo natural, en la línea de Aristóteles.",
+     "Pasa a verse como producto de la voluntad humana, creado mediante un pacto.",
+     "El poder pasa a entenderse como un don directo de Dios al monarca.",
+     "Se concluye que la sociedad puede vivir sin leyes ni gobierno alguno."
+    ],
+    "a": 1,
+    "fb": "Frente a la sociabilidad natural antigua y medieval, la modernidad entiende la sociedad como una construcción humana basada en un contrato."
+   },
+   {
+    "q": "¿En qué coinciden Hobbes, Locke y Rousseau?",
+    "o": [
+     "En defender un soberano con un poder absoluto e ilimitado.",
+     "En considerar al ser humano bueno por naturaleza.",
+     "En ver la sociedad como un organismo natural, como Aristóteles.",
+     "En explicar el origen del Estado mediante un contrato."
+    ],
+    "a": 3,
+    "fb": "Los tres son contractualistas: explican el Estado como fruto de un pacto, aunque difieren en el estado de naturaleza y en el poder que resulta."
+   },
+   {
+    "q": "¿Qué diferencia hay entre Hobbes y Locke respecto al poder que crea el contrato?",
+    "o": [
+     "Para Hobbes es limitado y revocable; para Locke, absoluto.",
+     "Para Hobbes es absoluto; para Locke, limitado y revocable.",
+     "Para ambos es absoluto, pero Locke lo entrega al pueblo.",
+     "Para Hobbes reside en el pueblo; para Locke, en el rey."
+    ],
+    "a": 1,
+    "fb": "Hobbes crea un soberano absoluto (el Leviatán); Locke, un gobierno limitado que el pueblo puede cambiar si viola sus derechos."
+   },
+   {
+    "q": "¿Qué contraste hay entre la visión de la naturaleza humana de Hobbes y la de Rousseau?",
+    "o": [
+     "Hobbes la ve buena; Rousseau, egoísta hasta que la ley la corrige.",
+     "Ambos la consideran social por naturaleza, como Aristóteles.",
+     "Hobbes la ve pacífica; Rousseau cree que vive en guerra de todos contra todos.",
+     "Hobbes la ve egoísta; Rousseau, buena hasta que la sociedad la corrompe."
+    ],
+    "a": 3,
+    "fb": "Para Hobbes, sin Estado el ser humano es egoísta («lobo para el hombre»); para Rousseau es bueno por naturaleza y la sociedad lo corrompe."
+   },
+   {
+    "q": "¿Qué idea de la tradición antigua ponen en cuestión los contractualistas modernos?",
+    "o": [
+     "Que el poder del Estado debe estar limitado por la ley.",
+     "Que el ser humano es social por naturaleza, un zoon politikón.",
+     "Que la política es una técnica separada de la moral.",
+     "Que el Estado nace de un pacto entre individuos libres."
+    ],
+    "a": 1,
+    "fb": "Aristóteles veía al ser humano como zoon politikón; los contractualistas entienden la sociedad como algo creado por la voluntad humana."
+   },
+   {
+    "q": "¿Qué emparejamiento sobre lo que protege el contrato en cada autor es correcto?",
+    "o": [
+     "Hobbes, los derechos; Locke, la seguridad; Rousseau, la libertad y el bien común.",
+     "Hobbes, la seguridad; Locke, los derechos; Rousseau, la libertad y el bien común.",
+     "Hobbes, la libertad y el bien común; Locke, los derechos; Rousseau, la seguridad.",
+     "Hobbes, la seguridad; Locke, la libertad y el bien común; Rousseau, los derechos."
+    ],
+    "a": 1,
+    "fb": "Hobbes busca seguridad frente a la guerra; Locke, proteger derechos naturales; Rousseau, la libertad y el bien común a través de la voluntad general."
+   },
+   {
+    "q": "¿Qué tienen en común Maquiavelo y Hobbes?",
+    "o": [
+     "Ambos defienden el derecho del pueblo a resistir y cambiar al gobernante.",
+     "Ambos someten la acción política a las exigencias de la moral cristiana.",
+     "Ambos dan prioridad a un poder fuerte que asegure el orden y la seguridad.",
+     "Ambos sostienen que la soberanía reside siempre en el conjunto del pueblo."
+    ],
+    "a": 2,
+    "fb": "El príncipe de Maquiavelo y el Leviatán de Hobbes tienen como tarea central garantizar el orden y la seguridad, aun con medios duros."
+   },
+   {
+    "q": "¿Qué distingue la propuesta política de Rousseau de la de Locke?",
+    "o": [
+     "Rousseau pone la soberanía en el pueblo; Locke busca un gobierno limitado.",
+     "Rousseau defiende un soberano absoluto; Locke, la soberanía popular.",
+     "Locke cree al ser humano bueno por naturaleza; Rousseau, egoísta.",
+     "Rousseau rechaza el contrato social; Locke lo toma como base."
+    ],
+    "a": 0,
+    "fb": "Locke crea un gobierno limitado que protege derechos; Rousseau, una comunidad soberana regida por la voluntad general (soberanía popular)."
+   },
+   {
+    "q": "Un asesor recomienda al presidente ocultar una crisis y mentir en rueda de prensa, porque lo único importante es evitar el caos y mantener el orden. ¿Con qué autor encaja?",
+    "o": [
+     "Con Locke.",
+     "Con Rousseau.",
+     "Con Maquiavelo.",
+     "Con Aristóteles."
+    ],
+    "a": 2,
+    "fb": "Maquiavelo acepta el engaño si es necesario para asegurar el orden del Estado: la política tiene su propia lógica, separada de la moral."
+   },
+   {
+    "q": "Tras una catástrofe desaparece toda autoridad: hay saqueos, cada uno se defiende por su cuenta y nadie se fía de nadie. ¿Qué concepto describe mejor la situación?",
+    "o": [
+     "La voluntad general tal como la entiende Rousseau.",
+     "El Estado de derecho tal como lo defiende Locke.",
+     "La sociabilidad natural tal como la ve Aristóteles.",
+     "El estado de naturaleza tal como lo describe Hobbes."
+    ],
+    "a": 3,
+    "fb": "Sin un poder común, según Hobbes, surge la guerra de todos contra todos: es el estado de naturaleza que el contrato quiere superar."
+   },
+   {
+    "q": "Un pueblo se levanta contra un gobierno que confisca bienes y encarcela sin juicio, y lo sustituye por otro. ¿Qué autor justificaría esa rebelión?",
+    "o": [
+     "Hobbes, porque el soberano absoluto pierde su poder al usar la fuerza.",
+     "Maquiavelo, porque la política debe someterse siempre a la moral.",
+     "Locke, porque el gobierno ha violado los derechos naturales.",
+     "Aristóteles, porque el poder tiene un origen natural o divino."
+    ],
+    "a": 2,
+    "fb": "Para Locke, si el gobierno viola la vida, la libertad o la propiedad, el pueblo tiene derecho a resistir y a cambiarlo."
+   },
+   {
+    "q": "En una asamblea vecinal se pide votar no lo que prefiere cada uno para sí, sino lo que beneficia al barrio en su conjunto. ¿Qué concepto se está aplicando?",
+    "o": [
+     "Los derechos naturales.",
+     "La voluntad general.",
+     "El estado de naturaleza.",
+     "El Leviatán."
+    ],
+    "a": 1,
+    "fb": "La voluntad general de Rousseau busca el interés común, no la suma de los intereses particulares de cada vecino."
+   },
+   {
+    "q": "Un ciudadano acepta fuertes restricciones a su libertad porque, a cambio, el poder le garantiza que nadie le hará daño. ¿Qué justificación de la obediencia está usando?",
+    "o": [
+     "La de Rousseau: se obedece la ley que uno mismo se ha dado.",
+     "La de Hobbes: se obedece a cambio de protección y seguridad.",
+     "La de Locke: se obedece mientras se respete la propiedad.",
+     "La de Aristóteles: se obedece por ser un animal social."
+    ],
+    "a": 1,
+    "fb": "Hobbes justifica la obediencia al soberano por el miedo y la necesidad de protección: se cede libertad a cambio de seguridad."
+   },
+   {
+    "q": "Un tribunal condena a una ministra por corrupción aplicándole las mismas leyes que a cualquier ciudadano. ¿Qué principio se cumple?",
+    "o": [
+     "La soberanía absoluta.",
+     "El realismo político.",
+     "El estado de naturaleza.",
+     "El Estado de derecho."
+    ],
+    "a": 3,
+    "fb": "En el Estado de derecho todos, incluidos los gobernantes, están sometidos a la ley."
+   },
+   {
+    "q": "Un niño crece en un ambiente muy competitivo y se vuelve envidioso. Su profesor dice: «No nació así; lo ha estropeado el entorno». ¿Con qué autor encaja este juicio?",
+    "o": [
+     "Con Rousseau.",
+     "Con Hobbes.",
+     "Con Maquiavelo.",
+     "Con Locke."
+    ],
+    "a": 0,
+    "fb": "Rousseau sostiene que el ser humano es bueno por naturaleza y que es la sociedad la que lo corrompe."
+   },
+   {
+    "q": "Una agente de tráfico multa a un conductor que se ha saltado un semáforo en rojo para hacer cumplir el código de circulación. ¿Qué concepto ilustra?",
+    "o": [
+     "El contrato social.",
+     "La coerción.",
+     "La voluntad general.",
+     "El estado de naturaleza."
+    ],
+    "a": 1,
+    "fb": "La coerción es el uso de la fuerza del Estado (aquí, la sanción) para hacer cumplir las leyes."
+   },
+   {
+    "q": "¿A quién pertenece la frase «el hombre es un lobo para el hombre»?",
+    "o": [
+     "A Maquiavelo.",
+     "A Rousseau.",
+     "A Locke.",
+     "A Hobbes."
+    ],
+    "a": 3,
+    "fb": "La frase resume la visión de Hobbes del estado de naturaleza: sin Estado, el egoísmo lleva a la guerra de todos contra todos."
+   },
+   {
+    "q": "¿Qué autor escribió «El príncipe», donde describe el poder tal como es?",
+    "o": [
+     "Nicolás Maquiavelo.",
+     "Thomas Hobbes.",
+     "Jean-Jacques Rousseau.",
+     "John Locke."
+    ],
+    "a": 0,
+    "fb": "En «El príncipe» Maquiavelo separa la política de la moral y la religión y la estudia como una técnica autónoma."
+   },
+   {
+    "q": "¿A qué autor corresponde la tesis «el ser humano es bueno por naturaleza y la sociedad lo corrompe»?",
+    "o": [
+     "A Hobbes.",
+     "A Locke.",
+     "A Aristóteles.",
+     "A Rousseau."
+    ],
+    "a": 3,
+    "fb": "Es la tesis central de Rousseau, opuesta a la visión egoísta del ser humano que defiende Hobbes."
+   },
+   {
+    "q": "¿Qué pensador se considera la base del liberalismo político y del Estado de derecho?",
+    "o": [
+     "Hobbes.",
+     "Maquiavelo.",
+     "Locke.",
+     "Rousseau."
+    ],
+    "a": 2,
+    "fb": "Locke defiende un gobierno limitado que protege los derechos naturales y puede ser cambiado: es la base del liberalismo político."
+   },
+   {
+    "q": "En la Antigüedad y el Medievo, ¿cómo se explicaba sobre todo el origen del poder político?",
+    "o": [
+     "Como algo de origen divino o natural.",
+     "Como fruto de un pacto entre individuos.",
+     "Como expresión de la voluntad general.",
+     "Como una técnica ajena a la religión."
+    ],
+    "a": 0,
+    "fb": "Antes de la modernidad dominaba la sociabilidad natural: el ser humano es social por naturaleza y el poder tiene un origen divino o natural."
+   },
+   {
+    "q": "¿Qué supone de novedoso el pensamiento de Maquiavelo frente a la tradición medieval?",
+    "o": [
+     "Fundar el poder del rey en la voluntad de Dios.",
+     "Ver al ser humano como animal social por naturaleza.",
+     "Separar la política de la moral y de la religión.",
+     "Orientar el gobierno hacia la salvación de las almas."
+    ],
+    "a": 2,
+    "fb": "Maquiavelo rompe con la tradición al tratar la política como una técnica autónoma, independiente de la moral y de la religión."
+   }
+  ]
+ },
+ "hf-b17-banco": {
+  "name": "T17 · Utilitarismo y liberalismo: las bases del capitalismo (banco ampliado)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "¿Cuál es la idea central del liberalismo político según el tema?",
+    "o": [
+     "La primacía de la comunidad política sobre sus miembros",
+     "La primacía del Estado como garante de una vida virtuosa",
+     "La primacía del individuo y de sus derechos",
+     "La primacía de la cooperación natural entre las personas"
+    ],
+    "a": 2,
+    "fb": "El liberalismo defiende la primacía del individuo: de ella se derivan los derechos individuales y la neutralidad del Estado."
+   },
+   {
+    "q": "Para el liberalismo, ¿qué es lo único originario y qué lugar ocupa la sociedad?",
+    "o": [
+     "El individuo; la sociedad es secundaria y producto de un contrato",
+     "La sociedad; el individuo solo se realiza dentro de la polis",
+     "La familia; la sociedad surge de la unión natural de familias",
+     "El Estado; los individuos reciben de él todos sus derechos"
+    ],
+    "a": 0,
+    "fb": "Para los liberales lo único originario es el individuo; la sociedad es algo secundario, fruto del contrato."
+   },
+   {
+    "q": "¿Por qué el liberalismo defiende la neutralidad del Estado?",
+    "o": [
+     "Porque el Estado debe educar a todos en una misma idea de virtud",
+     "Porque el Estado debe desaparecer y dejar paso a la autogestión",
+     "Porque una religión oficial es la mejor garantía de la paz social",
+     "Porque su tarea es garantizar la libertad, no imponer un bien"
+    ],
+    "a": 3,
+    "fb": "El Estado liberal no impone una concepción del bien: su tarea es garantizar la libertad de cada uno."
+   },
+   {
+    "q": "¿Cuál de estos rasgos NO corresponde al liberalismo tal como lo presenta el tema?",
+    "o": [
+     "Es un movimiento laico, ajeno a la autoridad religiosa",
+     "Funda el orden político en la revelación religiosa",
+     "Tiene una orientación empirista en el conocimiento",
+     "Sostiene una visión pesimista del ser humano"
+    ],
+    "a": 1,
+    "fb": "El liberalismo es laico, empirista y pesimista en su antropología; no funda la política en la revelación."
+   },
+   {
+    "q": "¿Cuál es el criterio moral del utilitarismo?",
+    "o": [
+     "El cumplimiento del deber, sean cuales sean sus consecuencias",
+     "La utilidad: es buena la acción que produce placer y evita dolor",
+     "La virtud entendida como término medio entre dos vicios",
+     "La obediencia a las leyes que dicta el soberano absoluto"
+    ],
+    "a": 1,
+    "fb": "Para el utilitarismo, una acción es buena si es útil, es decir, si produce placer y evita el dolor."
+   },
+   {
+    "q": "Según John Stuart Mill, ¿qué placeres son superiores?",
+    "o": [
+     "Los físicos, porque producen una satisfacción más intensa",
+     "Los que más tiempo duran, sean físicos o psíquicos",
+     "Los que comparte a la vez el mayor número de personas",
+     "Los psíquicos, porque constituyen la verdadera felicidad"
+    ],
+    "a": 3,
+    "fb": "Mill distingue los placeres físicos (satisfacción) de los psíquicos (verdadera felicidad), y considera superiores estos últimos."
+   },
+   {
+    "q": "Según el principio de la mayor felicidad, una acción es correcta si…",
+    "o": [
+     "tiende a promover la mayor felicidad para el mayor número",
+     "procura el máximo placer posible a quien la realiza",
+     "se hace por deber, aunque cause infelicidad a otros",
+     "respeta la voluntad general expresada en el pacto"
+    ],
+    "a": 0,
+    "fb": "Mill formula así el principio: es correcta la acción que tiende a promover la mayor felicidad para el mayor número de personas."
+   },
+   {
+    "q": "¿Cómo explica Adam Smith la relación entre el interés propio y el bienestar social?",
+    "o": [
+     "El interés propio destruye la sociedad si el Estado no lo reprime",
+     "El bienestar social exige renunciar por completo al interés propio",
+     "Buscar el propio interés conduce, sin quererlo, al bienestar común",
+     "Ambos coinciden solo gracias a un pacto explícito entre ciudadanos"
+    ],
+    "a": 2,
+    "fb": "Para Smith, la búsqueda del interés propio lleva sin pretenderlo al bienestar de la sociedad, gracias a la mano invisible del mercado."
+   },
+   {
+    "q": "Según Joxe Azurmendi, ¿de dónde procede la moral?",
+    "o": [
+     "De un cálculo racional de placeres y dolores",
+     "De un pacto entre individuos egoístas para poder sobrevivir",
+     "De los mandatos del Estado que garantizan la paz",
+     "Del corazón: del sentido de comunidad y la cooperación"
+    ],
+    "a": 3,
+    "fb": "Para Azurmendi la moral no es un producto frío de la razón, sino algo del corazón: del sentido de comunidad y del espíritu de cooperación."
+   },
+   {
+    "q": "¿Qué defendió Kropotkin, según recuerda Azurmendi?",
+    "o": [
+     "Que la lucha por sobrevivir es el motor de la moral",
+     "Que el instinto social está en la base de la moral",
+     "Que la moral nace del cálculo de la utilidad",
+     "Que la moral es una invención del Estado moderno"
+    ],
+    "a": 1,
+    "fb": "Azurmendi recuerda que Kropotkin situó el instinto social en la base de la moral, frente al darwinismo social que la reduce a lucha."
+   },
+   {
+    "q": "¿Qué es el darwinismo social que critica Azurmendi?",
+    "o": [
+     "Una justificación de la supremacía de unos seres humanos sobre otros",
+     "La tesis de que la cooperación explica el éxito de la especie humana",
+     "La idea de que el Estado debe proteger siempre a los más débiles",
+     "Una teoría biológica sobre el origen de las especies animales"
+    ],
+    "a": 0,
+    "fb": "El darwinismo social traslada la lucha por la supervivencia a la sociedad para justificar la supremacía de unos sobre otros; Azurmendi lo critica."
+   },
+   {
+    "q": "¿Cuál NO es uno de los tres elementos que, según Ingham, se mantienen en todas las fases del capitalismo?",
+    "o": [
+     "Un sistema monetario que crea dinero como crédito bancario",
+     "El intercambio de bienes a través del mercado",
+     "La planificación estatal de toda la producción",
+     "La empresa privada para producir mercancías"
+    ],
+    "a": 2,
+    "fb": "Ingham señala tres constantes: el dinero como crédito bancario, el intercambio de mercado y la empresa privada. La planificación estatal no es una de ellas."
+   },
+   {
+    "q": "¿Qué papel atribuye el tema a la propiedad privada?",
+    "o": [
+     "Una concesión revocable del Estado a los ciudadanos",
+     "Un obstáculo para la cooperación que conviene abolir",
+     "Un derecho natural y la base del capitalismo",
+     "Un invento reciente del neoliberalismo del siglo XX"
+    ],
+    "a": 2,
+    "fb": "Según el glosario, la propiedad privada se entiende como un derecho natural y es la base del capitalismo."
+   },
+   {
+    "q": "Según la aporía del tema, ¿de qué depende qué sistema político nos parece «natural»?",
+    "o": [
+     "De si vemos al ser humano como egoísta o como cooperativo",
+     "De si el soberano es absoluto o está limitado por las leyes",
+     "De si la moral se basa en el deber o en la utilidad",
+     "De la fase del capitalismo en que se encuentra cada país"
+    ],
+    "a": 0,
+    "fb": "La aporía pregunta si el ser humano es egoísta y competitivo o cooperativo y solidario: de esa respuesta depende qué sistema nos parece natural."
+   },
+   {
+    "q": "¿En qué se diferencia la concepción de la sociabilidad de Aristóteles de la liberal?",
+    "o": [
+     "Aristóteles la ve elegida; los liberales, natural",
+     "Aristóteles la ve natural; los liberales, elegida",
+     "Ambos la consideran un producto del contrato",
+     "Ambos la consideran natural, aunque con matices"
+    ],
+    "a": 1,
+    "fb": "Para Aristóteles la sociabilidad es natural; los liberales sostienen, frente a él, que es elegida y que la sociedad nace de un contrato."
+   },
+   {
+    "q": "¿Qué comparten Jeremy Bentham y John Stuart Mill?",
+    "o": [
+     "Niegan que las consecuencias importen al juzgar la bondad de una acción",
+     "Fundan la moral en el sentido de comunidad y en la cooperación",
+     "Consideran que solo existen placeres físicos, nunca psíquicos",
+     "Juzgan las acciones por el placer que causan y el dolor que evitan"
+    ],
+    "a": 3,
+    "fb": "Ambos son utilitaristas: valoran las acciones por su utilidad, es decir, por el placer que producen y el dolor que evitan."
+   },
+   {
+    "q": "¿Qué contraste hay entre la antropología liberal y la de Azurmendi?",
+    "o": [
+     "Los liberales lo ven egoísta; Azurmendi, cooperativo por naturaleza",
+     "Los liberales lo ven cooperativo; Azurmendi, egoísta y competitivo",
+     "Ambos lo consideran egoísta, pero Azurmendi confía más en el Estado",
+     "Ambos lo ven solidario, aunque discrepan sobre el papel del mercado"
+    ],
+    "a": 0,
+    "fb": "El liberalismo tiene una visión pesimista (el ser humano busca su interés egoísta); Azurmendi considera naturales la comunidad y la cooperación."
+   },
+   {
+    "q": "Smith y Azurmendi difieren en cómo se alcanza el bien común. ¿En qué?",
+    "o": [
+     "Smith lo confía al Estado; Azurmendi, a la competencia",
+     "Smith lo basa en la cooperación; Azurmendi, en el mercado",
+     "Ambos lo basan en el cálculo racional de la utilidad",
+     "Smith lo confía al mercado; Azurmendi, a la cooperación natural"
+    ],
+    "a": 3,
+    "fb": "Para Smith el mercado armoniza los egoísmos; para Azurmendi el bien moral surge de la cooperación y el sentido de comunidad, naturales en el ser humano."
+   },
+   {
+    "q": "¿En qué coinciden Kropotkin y Edward O. Wilson, según el tema?",
+    "o": [
+     "En que la lucha entre individuos explica el progreso",
+     "En que la moral se deduce fríamente de la razón",
+     "En dar un papel central a lo social y cooperativo",
+     "En que el mercado armoniza los egoísmos naturales"
+    ],
+    "a": 2,
+    "fb": "Kropotkin pone el instinto social en la base de la moral y Wilson explica el éxito evolutivo humano por la cooperación."
+   },
+   {
+    "q": "¿Qué tienen en común la neutralidad del Estado liberal y la tesis económica de Adam Smith?",
+    "o": [
+     "Ambas piden un Estado fuerte que dirija la vida social",
+     "Ambas limitan el Estado: en la idea del bien y en la economía",
+     "Ambas parten de una visión optimista y cooperativa del ser humano",
+     "Ambas subordinan la libertad individual al bien de la comunidad"
+    ],
+    "a": 1,
+    "fb": "El Estado liberal no impone una concepción del bien, y para Smith no debe intervenir en la economía: ambas tesis restringen su papel."
+   },
+   {
+    "q": "El tema sitúa a Hobbes y Locke, autores del contrato social, en el origen del liberalismo. ¿Por qué encajan?",
+    "o": [
+     "Porque defienden que la sociedad es natural, como Aristóteles",
+     "Porque ven la sociedad como fruto de un pacto entre individuos",
+     "Porque fundan la moral en la utilidad y el placer",
+     "Porque sostienen que la moral nace del instinto social"
+    ],
+    "a": 1,
+    "fb": "El liberalismo considera al individuo lo originario y a la sociedad un producto del contrato, idea que comparten Hobbes y Locke."
+   },
+   {
+    "q": "Una panadería solo quiere ganar dinero, pero para atraer clientes baja precios y mejora el pan, y todo el barrio sale ganando. ¿Qué idea explica esta situación?",
+    "o": [
+     "La mano invisible de Adam Smith",
+     "El principio de la mayor felicidad de Mill",
+     "La neutralidad del Estado liberal",
+     "El instinto social de Kropotkin"
+    ],
+    "a": 0,
+    "fb": "Es la mano invisible: el mercado convierte el interés egoísta de cada uno en utilidad social sin que nadie lo pretenda."
+   },
+   {
+    "q": "Un ayuntamiento duda entre un centro de salud y un campo de golf privado, y elige el primero porque beneficiará a muchos más vecinos. ¿Qué criterio aplica?",
+    "o": [
+     "La neutralidad del Estado ante las concepciones del bien",
+     "La mano invisible que armoniza los egoísmos",
+     "La primacía del individuo sobre la sociedad",
+     "El principio de la mayor felicidad para el mayor número"
+    ],
+    "a": 3,
+    "fb": "Elegir lo que produce más felicidad a más personas es aplicar el principio de la mayor felicidad de Mill."
+   },
+   {
+    "q": "Lucía podría pasar la tarde comiendo dulces, pero prefiere una conversación profunda con sus amigos porque dice que la hace más feliz de verdad. ¿Qué tesis ilustra?",
+    "o": [
+     "La visión pesimista y egoísta del liberalismo",
+     "La medida de la felicidad por la intensidad física",
+     "La superioridad de los placeres psíquicos según Mill",
+     "La crítica de Azurmendi al darwinismo social"
+    ],
+    "a": 2,
+    "fb": "Mill considera superiores los placeres psíquicos, que son la verdadera felicidad, frente a los físicos, que solo dan satisfacción."
+   },
+   {
+    "q": "Un ciudadano sostiene que el Gobierno no debe decirle qué religión o estilo de vida es mejor, sino proteger su libertad para elegir. ¿Qué principio defiende?",
+    "o": [
+     "La neutralidad del Estado liberal",
+     "El principio de la mayor felicidad",
+     "El darwinismo social",
+     "La mano invisible del mercado"
+    ],
+    "a": 0,
+    "fb": "El Estado liberal es neutral: no impone una concepción del bien, sino que garantiza la libertad de cada uno."
+   },
+   {
+    "q": "Un empresario afirma que los ricos lo son por ser los más aptos y que es natural que los débiles se queden atrás. ¿Qué postura expresa y quién la critica?",
+    "o": [
+     "El utilitarismo, criticado por Adam Smith",
+     "El liberalismo político, criticado por Locke",
+     "La mano invisible, criticada por Kropotkin",
+     "El darwinismo social, criticado por Azurmendi"
+    ],
+    "a": 3,
+    "fb": "Justificar la supremacía de unos sobre otros como algo natural es darwinismo social, que Azurmendi critica."
+   },
+   {
+    "q": "Tras una inundación, los vecinos se organizan para ayudarse sin que nadie se lo pida ni gane nada con ello. ¿Qué autor vería aquí la raíz de la moral?",
+    "o": [
+     "Adam Smith, porque cada uno persigue solo su propio interés",
+     "Azurmendi, porque la moral nace del sentido de comunidad",
+     "Bentham, porque cada uno calcula su propio placer",
+     "Hobbes, porque el miedo obliga a pactar"
+    ],
+    "a": 1,
+    "fb": "Para Azurmendi la moral surge del corazón: del sentido de comunidad y del espíritu de cooperación, naturales en el ser humano."
+   },
+   {
+    "q": "Una diputada propone suprimir regulaciones económicas porque, según ella, el mercado se ordena solo y la intervención frena el crecimiento. ¿Con quién encaja?",
+    "o": [
+     "Con Kropotkin",
+     "Con Joxe Azurmendi",
+     "Con Adam Smith",
+     "Con Edward O. Wilson"
+    ],
+    "a": 2,
+    "fb": "Smith sostiene que el Estado no debe intervenir en el mercado, porque su intervención es un obstáculo para el crecimiento."
+   },
+   {
+    "q": "«El fin de la ley no es abolir o restringir la libertad, sino preservarla y ampliarla.» ¿De quién es esta frase?",
+    "o": [
+     "Adam Smith",
+     "John Locke",
+     "Jeremy Bentham",
+     "Joxe Azurmendi"
+    ],
+    "a": 1,
+    "fb": "Es de John Locke, uno de los fundadores del liberalismo, para quien la ley está al servicio de la libertad individual."
+   },
+   {
+    "q": "Según el tema, ¿cómo propone Bentham medir la felicidad?",
+    "o": [
+     "Según las consecuencias de las acciones",
+     "Según la intención con que se actúa",
+     "Según su conformidad con la ley natural",
+     "Según el grado de virtud de quien actúa"
+    ],
+    "a": 0,
+    "fb": "Bentham propone medir la felicidad atendiendo a las consecuencias de las acciones: el placer que producen y el dolor que evitan."
+   },
+   {
+    "q": "¿Quién sostuvo en La riqueza de las naciones que el mercado transforma el egoísmo en utilidad social?",
+    "o": [
+     "Jeremy Bentham",
+     "Thomas Hobbes",
+     "John Stuart Mill",
+     "Adam Smith"
+    ],
+    "a": 3,
+    "fb": "Adam Smith, en La riqueza de las naciones (1776), une liberalismo y utilitarismo con la idea de la mano invisible."
+   },
+   {
+    "q": "¿Quién mostró que el éxito evolutivo de especies como la humana se debe a la cooperación y no a la lucha?",
+    "o": [
+     "Adam Smith",
+     "Geoffrey Ingham",
+     "Edward O. Wilson",
+     "Jeremy Bentham"
+    ],
+    "a": 2,
+    "fb": "Es el biólogo Edward O. Wilson, a quien Azurmendi cita frente al darwinismo social."
+   },
+   {
+    "q": "¿Dónde y cuándo nace el liberalismo, según el tema?",
+    "o": [
+     "En Gran Bretaña, en el siglo XVII, con Hobbes y Locke",
+     "En Francia, en el siglo XVIII, con Rousseau",
+     "En Grecia, en el siglo IV a. C., con Aristóteles",
+     "En Alemania, en el siglo XIX, con Hegel y los idealistas"
+    ],
+    "a": 0,
+    "fb": "El liberalismo nace en la Gran Bretaña del siglo XVII, con Hobbes y Locke."
+   },
+   {
+    "q": "¿Qué sostiene el sociólogo Geoffrey Ingham sobre la historia del capitalismo?",
+    "o": [
+     "Que ha permanecido idéntico desde la Edad Moderna",
+     "Que cambia de fase, pero conserva tres elementos básicos",
+     "Que nació con el neoliberalismo del siglo XX",
+     "Que sustituyó la empresa privada por el crédito estatal"
+    ],
+    "a": 1,
+    "fb": "El capitalismo se transforma desde el mercado global moderno hasta el neoliberalismo, pero mantiene el dinero-crédito, el mercado y la empresa privada."
+   },
+   {
+    "q": "Según el tema, ¿qué dos corrientes constituyen las bases teóricas del capitalismo?",
+    "o": [
+     "El racionalismo y el idealismo",
+     "El absolutismo y el anarquismo",
+     "El darwinismo social y la escolástica",
+     "El liberalismo y el utilitarismo"
+    ],
+    "a": 3,
+    "fb": "El tema presenta el liberalismo y el utilitarismo como las bases teóricas del capitalismo, que Adam Smith une."
+   }
+  ]
  }
 };
