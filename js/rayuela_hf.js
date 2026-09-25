@@ -8,9 +8,13 @@
    92.1→10, 94.2→10, 90.1→F, 90.2→B. Validar con: node tools/validar_rayuela.js (comprueba también que no haya ciclos)
    estaciones: { "<n>": { tipo: pregunta|vida|contradiccion, red, linea, xy:[x,y], titulo, texto, pregunta,
                  opciones:[{t, to, marca}], temas:[clave THEORY], autores:[{id: clave ILUSTRES}], choque:[marcas] } }
-   terminales: { "<letra>": { titulo, texto, abierto, reflexion, autores, temas, xy } }  · to = "<n>" o "F<letra>" */
+   terminales: { "<letra>": { titulo, texto, abierto, reflexion, autores, temas, xy } }  · to = "<n>" o "F<letra>"
+   inicio: la estación 1 (el andén de salida; desde ella se llega a toda la red). inicios (25-09): estaciones de
+   pregunta desde las que puede salir un viaje de la web, al azar (solo las de redes abiertas; todas con al menos
+   2 estaciones hasta un final y recorridos largos posibles). */
 const RAYUELA_HF = {
  "inicio": "1",
+ "inicios": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "11", "12", "13", "14", "17", "19"],
  "lineas": [
   { "id": "l-inicio", "nombre": "Salida", "color": "#9b4a4f" },
   { "id": "l-felicidad", "nombre": "Línea de la felicidad", "color": "#d99a00" },
@@ -28,6 +32,128 @@ const RAYUELA_HF = {
   { "n": 2, "nombre": "Red 2 · Los modernos: de Galileo a Mill", "abre": "2026-09-25" },
   { "n": 3, "nombre": "Red 3 · Los contemporáneos: de Kant a Beauvoir", "abre": "2026-09-25" },
   { "n": 4, "nombre": "Red 4 · El siglo XXI: los retos de hoy", "abre": "2026-09-25" }
+ ],
+ "tensiones": [
+  {
+   "id": "t-verdad-perspectiva", "grado": "contradiccion",
+   "a": ["m-verdad-objetiva", "m-logos", "m-autonomia", "m-universalidad"], "b": ["m-perspectivismo", "m-interpretaciones"],
+   "titulo": "¿Una verdad para todos, o una para cada cual?",
+   "texto": "En una respuesta afirmas que hay algo que vale para todos: una verdad, un logos que lo gobierna todo, una razón común o unos derechos universales. En otra, que cada época y cada cultura tiene su razón, o que no hay hechos, solo interpretaciones. Es el viejo pleito de Sócrates con Protágoras, y tiene trampa: si todo es interpretación, también lo es esa misma frase."
+  },
+  {
+   "id": "t-sentido-nihilismo", "grado": "contradiccion",
+   "a": ["m-verdad-objetiva", "m-alma-orden", "m-felicidad-dios", "m-logos", "m-orden-divino", "m-fines", "m-inmortal"], "b": ["m-nada-vale", "m-todo-se-hunde", "m-absurdo"],
+   "titulo": "¿Hay un sentido, o nada vale?",
+   "texto": "En una respuesta dices que existe un Bien, un orden o un fin —en el alma, en Dios o en el cosmos—; en otra, que nada vale la pena o que la vida es absurda. Las dos no pueden ser verdad a la vez: un mundo ordenado hacia un fin no es absurdo. Camus decía que lo absurdo nace del choque entre nuestra sed de sentido y un mundo que calla. ¿Qué ha cambiado entre una respuesta y la otra?"
+  },
+  {
+   "id": "t-logos-serenidad", "grado": "tension",
+   "a": ["m-logos", "m-orden-divino"], "b": ["m-duda-serenidad", "m-evitar-muerte"],
+   "titulo": "Crees en el orden, pero no te fías de él",
+   "texto": "En una respuesta dices que una razón universal (el logos o una providencia divina) lo gobierna todo; en otra desconfías de la calma de Séneca ante la muerte. Pero esa calma es justo la conclusión estoica: si todo ocurre según el logos, lo razonable es aceptar lo que no depende de nosotros. ¿Se puede creer en ese orden y rebelarse a la vez contra lo que trae?"
+  },
+  {
+   "id": "t-alma-materia", "grado": "contradiccion",
+   "a": ["m-alma-separada", "m-inmortal", "m-dualismo", "m-dualismo-firme"], "b": ["m-materialismo", "m-solo-cuerpo", "m-nada-miedo"],
+   "titulo": "¿Alma inmortal o solo materia?",
+   "texto": "En una respuesta dices que el alma es algo distinto del cuerpo, o que sobrevive a la muerte; en otra, que solo hay materia, o que tras la muerte no queda nada. Si todo es materia, cuando el cuerpo se deshace no queda nada que sobreviva. Platón y Descartes defendían lo primero; Demócrito, Epicuro y Hobbes, lo segundo. No se puede estar en los dos bandos a la vez."
+  },
+  {
+   "id": "t-cuidar-alma-materia", "grado": "tension",
+   "a": ["m-alma-orden", "m-alma-forma", "m-interioridad"], "b": ["m-materialismo", "m-solo-cuerpo"],
+   "titulo": "¿Qué alma cuidas si solo hay materia?",
+   "texto": "En una respuesta hablas del alma: de tenerla en orden, de que es la forma del cuerpo o de buscar la verdad dentro de ti. En otra, de que todo es materia. No es imposible juntar las dos cosas: Epicuro pensaba que el alma está hecha de átomos, y aun así había que cuidarla. Pero te toca explicar qué es ese «alma» si no es más que materia, y cómo puede conocer el bien."
+  },
+  {
+   "id": "t-ciudad-corrompe", "grado": "tension",
+   "a": ["m-participar", "m-obedecer", "m-habitos"], "b": ["m-bondad-natural"],
+   "titulo": "¿La ciudad te hace mejor o te corrompe?",
+   "texto": "En una respuesta dices que participar en la ciudad y cumplir sus leyes forma parte de vivir bien; en otra, que es la sociedad la que nos corrompe. Si la sociedad corrompe, ¿por qué obedecer sus leyes, incluso cuando se equivocan? Aristóteles veía en la ciudad el lugar natural de la virtud; Rousseau, el origen de nuestros males, y por eso quería refundarla con un contrato nuevo."
+  },
+  {
+   "id": "t-ciudad-retiro", "grado": "tension",
+   "a": ["m-participar", "m-obedecer", "m-habitos", "m-desapego-limites", "m-retiro-politica", "m-politica-necesaria", "m-vida-comun", "m-transformar", "m-compromiso", "m-refundar"], "b": ["m-apartarse", "m-autarquia", "m-aparte", "m-no-pertenecer"],
+   "titulo": "¿Con los demás o aparte?",
+   "texto": "En una respuesta dices que la vida buena se juega con los demás: en la ciudad, en sus leyes o en el compromiso político. En otra, que lo mejor es apartarse y bastarse con poco. Aristóteles decía que quien puede vivir sin la ciudad «o es una bestia o es un dios»; Diógenes y Epicuro eligieron vivir al margen. Puede haber un término medio, pero tendrás que decir cuál."
+  },
+  {
+   "id": "t-autoridad-pensar", "grado": "tension",
+   "a": ["m-autoridad", "m-absolutismo", "m-obedecer"], "b": ["m-autonomia", "m-tolerancia", "m-verdad-ciencia"],
+   "titulo": "¿Obedecer o pensar por tu cuenta?",
+   "texto": "En una respuesta aceptas que la autoridad decida: qué se enseña, qué leyes valen aunque se equivoquen o cuánto poder tiene el soberano. En otra, que cada uno debe pensar por sí mismo, sin tutores. Kant intentó conciliarlo: «razonad cuanto queráis y sobre lo que queráis, pero obedeced». Sócrates obedeció las leyes, pero nunca dejó de preguntar. ¿Te basta con esa salida?"
+  },
+  {
+   "id": "t-fe-razon", "grado": "contradiccion",
+   "a": ["m-solo-fe", "m-razon-inutil"], "b": ["m-razon", "m-razon-valida", "m-ontologico", "m-certeza-sin-dios", "m-autonomia", "m-cientificismo", "m-interioridad-razon"],
+   "titulo": "¿Solo la fe, o también la razón?",
+   "texto": "En una respuesta dices que solo la fe da certeza, o que la razón no sirve para nada; en otra te apoyas en la razón para conocer o demostrar algo. Si la razón no sirve, tampoco sirve para eso. Agustín y Tomás de Aquino buscaron otra salida: creer para entender y entender para creer; la razón llega hasta un punto y la fe va más allá, pero no se contradicen."
+  },
+  {
+   "id": "t-sentidos-razon", "grado": "tension",
+   "a": ["m-sentidos-razon", "m-tabula-rasa"], "b": ["m-razon", "m-innatismo"],
+   "titulo": "¿Los sentidos o la razón?",
+   "texto": "En una respuesta dices que el conocimiento empieza por los sentidos, o que al nacer la mente es una hoja en blanco; en otra, que la verdad está en lo que piensa la razón y no en lo que se ve, o que algunas ideas nacen con nosotros. Es la gran discusión entre empiristas y racionalistas. Kant intentó unir los dos bandos: los pensamientos sin contenido están vacíos, y las intuiciones sin conceptos, ciegas."
+  },
+  {
+   "id": "t-duda-certeza", "grado": "contradiccion",
+   "a": ["m-suspender", "m-escepticismo-total", "m-duda-esteril"], "b": ["m-cogito", "m-ontologico", "m-dios-veraz", "m-certeza-sin-dios", "m-causa-necesaria", "m-cientificismo"],
+   "titulo": "¿Nada es seguro… salvo esto?",
+   "texto": "En una respuesta prefieres no afirmar nada con seguridad; en otra afirmas algo como absolutamente cierto. Es la objeción de siempre contra los escépticos: quien dice «no se puede saber nada» ya está afirmando algo. Sexto Empírico respondía que el escéptico no afirma, solo cuenta cómo le parecen las cosas. ¿Es tu caso, o has cambiado de opinión por el camino?"
+  },
+  {
+   "id": "t-util-verdad", "grado": "tension",
+   "a": ["m-utilidad", "m-utilidad-politica", "m-funciona"], "b": ["m-verdad-ciencia"],
+   "titulo": "¿La verdad vale por sí misma o por lo que sirve?",
+   "texto": "En una respuesta dices que lo verdadero es lo que funciona, o que con que algo funcione te basta; en otra, que la verdad no se negocia, cueste lo que cueste. Si la verdad fuera solo lo útil, a Galileo le habría convenido callarse: abjurar le salvó la vida. ¿La verdad vale por sí misma o por sus efectos?"
+  },
+  {
+   "id": "t-placer-deber", "grado": "tension",
+   "a": ["m-bienestar", "m-placer-tranquilo", "m-placer-intenso", "m-ataraxia"], "b": ["m-imperativo", "m-regla-universal"],
+   "titulo": "¿El placer o el deber?",
+   "texto": "En una respuesta pones el bienestar o el placer como lo que de verdad importa; en otra, que hay que actuar según una regla que valga para todos, aunque no te convenga. Para Epicuro, el placer es el principio y el fin de la vida feliz; para Kant, una acción hecha por lo bien que nos hace sentir no tiene valor moral. ¿Qué pesa más para ti?"
+  },
+  {
+   "id": "t-suma-derechos", "grado": "tension",
+   "a": ["m-mayor-numero", "m-consecuencias", "m-riqueza-total"], "b": ["m-derechos", "m-derechos-naturales", "m-imperativo", "m-libertad-individual", "m-universalidad", "m-poder-limitado"],
+   "titulo": "¿La suma de felicidad o los derechos de cada uno?",
+   "texto": "En una respuesta juzgas lo correcto por sus consecuencias: la mayor felicidad para el mayor número. En otra, que hay derechos o reglas que no se tocan aunque salgan las cuentas. Bentham y Kant no pueden tener razón a la vez. Mill intentó salvar las dos cosas: la mayor felicidad, sí, pero sin dañar la libertad de nadie."
+  },
+  {
+   "id": "t-valores-universales", "grado": "tension",
+   "a": ["m-valores-propios", "m-crear-valores"], "b": ["m-imperativo", "m-regla-universal", "m-universalidad", "m-derechos-todas", "m-dialogo", "m-derechos"],
+   "titulo": "¿Valores de cada uno o para todos?",
+   "texto": "En una respuesta dices que los valores los crea o los decide cada uno; en otra, que hay reglas o derechos que valen para todas las personas. Si cada uno crea sus propios valores, ¿con qué derecho exigimos a otro que respete los nuestros? Nietzsche y Kant no pueden tener razón a la vez; Habermas buscó un camino entre los dos: normas que todos podrían aceptar dialogando."
+  },
+  {
+   "id": "t-necesidad-libertad", "grado": "tension",
+   "a": ["m-libertad-necesidad", "m-materialismo"], "b": ["m-condenado-libre", "m-actos"],
+   "titulo": "¿Todo está determinado, o eres libre?",
+   "texto": "En una respuesta describes un mundo en el que todo ocurre por causas necesarias: la sustancia única de Spinoza o la materia en movimiento de Hobbes. En otra, que estás condenado a ser libre y eres lo que haces. Para Spinoza, creernos libres es ignorar las causas que nos mueven; para Sartre, ninguna causa sirve de excusa. ¿Cómo encaja tu libertad en ese mundo?"
+  },
+  {
+   "id": "t-dios-muerte", "grado": "tension",
+   "a": ["m-felicidad-dios", "m-fe-supera", "m-solo-fe", "m-dios-veraz", "m-inmortal", "m-mal-privacion", "m-interioridad"], "b": ["m-muerte-dios"],
+   "titulo": "¿Dios en el centro… o Dios ha muerto?",
+   "texto": "En una respuesta pones a Dios en el centro: de la felicidad, del conocimiento o de lo que hay tras la muerte. En otra te preguntas si Dios ha muerto. Preguntárselo no es contradictorio: pensar es eso. Pero si Dios ha muerto, ¿qué queda de todo lo que apoyabas en Él? Es justo lo que inquietaba a Nietzsche."
+  },
+  {
+   "id": "t-politica-moral", "grado": "tension",
+   "a": ["m-alma-orden", "m-habitos", "m-participar", "m-obedecer"], "b": ["m-realismo-politico", "m-solo-poder"],
+   "titulo": "¿La política tiene que ser justa?",
+   "texto": "En una respuesta unes la vida buena con la justicia y con la ciudad; en otra, que en política solo cuentan el poder o el resultado, no la moral. Para Sócrates y Aristóteles, la política es la continuación de la ética; Maquiavelo las separó. ¿Se puede exigir justicia a una persona y no a un gobierno?"
+  },
+  {
+   "id": "t-dinero-mercado", "grado": "tension",
+   "a": ["m-explotacion", "m-poder-economico", "m-igualdad-real", "m-residuo", "m-transformar"], "b": ["m-mercado", "m-riqueza-total"],
+   "titulo": "¿Explotación o beneficio merecido?",
+   "texto": "En una respuesta denuncias que manda quien tiene el dinero, o que unos viven del trabajo de otros; en otra, que el beneficio del mercado es merecido, o que lo que cuenta es la riqueza total, se reparta como se reparta. Marx y Locke no pueden tener razón a la vez sobre la propiedad: para uno, nace del trabajo que otros no cobran; para el otro, es un derecho natural."
+  },
+  {
+   "id": "t-vinculos-libertad", "grado": "tension",
+   "a": ["m-vinculos", "m-cuidar-vida", "m-vulnerables", "m-libertad-otros", "m-libertad-todos"], "b": ["m-nada-me-ata", "m-no-pertenecer"],
+   "titulo": "¿Libre de todo o unido a otros?",
+   "texto": "En una respuesta pides vínculos sólidos y cuidarnos unos a otros; en otra celebras que nada te ate. Bauman diría que esa libertad sin lazos es la del turista: ligera mientras todo va bien, solitaria cuando las cosas se tuercen. Beauvoir añadiría que nadie es libre del todo si los demás no lo son."
+  }
  ],
  "estaciones": {
   "1": {
