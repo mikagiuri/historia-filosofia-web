@@ -1,37 +1,222 @@
 // Generado por tools/cronogramas_extract.js desde zmos.txt (canónico LTFH) + cronogramas_extra.json. NO editar a mano.
-// 42 cronogramas · 40 timeline / 2 épocas.
+// 42 cronogramas · 41 timeline / 1 épocas.
 const CRONOGRAMAS = [
  {
   "id": "A1-OS-KRO-01",
   "code": "A1-OS-KRO-01",
   "title": "Viaje histórico de las preguntas permanentes",
-  "type": "epochs",
-  "stages": [
+  "type": "timeline",
+  "start": -700,
+  "end": 2025,
+  "groups": [
    {
-    "label": "Siglo VI a.C.",
-    "text": "El mito, la physis y el comienzo de la explicación racional."
+    "name": "Antigua",
+    "color": "var(--e-ant)"
    },
    {
-    "label": "Siglos V-IV a.C.",
-    "text": "La polis, la justicia, el alma, el conocimiento y la buena vida."
+    "name": "Medieval",
+    "color": "var(--e-med)"
    },
    {
-    "label": "Edad Media",
-    "text": "Fe y razón, Dios, el alma y la salvación."
+    "name": "Moderna",
+    "color": "var(--e-mod)"
    },
    {
-    "label": "Edad Moderna",
-    "text": "El sujeto, el método, la ciencia, la libertad y el contrato."
-   },
-   {
-    "label": "Siglos XIX-XX",
-    "text": "La historia, la sospecha, el lenguaje, el poder y la existencia."
-   },
-   {
-    "label": "Actualidad",
-    "text": "La tecnología, el género, la ecología, la memoria y la convivencia democrática."
+    "name": "Contemporánea",
+    "color": "var(--e-con)"
    }
-  ]
+  ],
+  "periods": [
+   {
+    "name": "Siglo VI a.C."
+   },
+   {
+    "name": "Siglos V-IV a.C."
+   },
+   {
+    "name": "Edad Media"
+   },
+   {
+    "name": "Edad Moderna"
+   },
+   {
+    "name": "Siglos XIX-XX"
+   },
+   {
+    "name": "Actualidad"
+   }
+  ],
+  "axes": [
+   {
+    "name": "Del mito al logos",
+    "start": -700,
+    "end": -500,
+    "grp": 0,
+    "per": 0,
+    "note": "De Homero y Hesíodo (c. 700 a.C.) a los primeros filósofos jonios"
+   },
+   {
+    "name": "La physis y el arjé",
+    "start": -585,
+    "end": -370,
+    "grp": 0,
+    "per": 0,
+    "note": "De Tales de Mileto (c. 585 a.C.) a Demócrito"
+   },
+   {
+    "name": "La polis y la justicia",
+    "start": -480,
+    "end": -322,
+    "grp": 0,
+    "per": 1,
+    "note": "De los sofistas a la Política de Aristóteles"
+   },
+   {
+    "name": "El alma y el conocimiento",
+    "start": -470,
+    "end": -322,
+    "grp": 0,
+    "per": 1,
+    "note": "Sócrates, Platón y Aristóteles"
+   },
+   {
+    "name": "La buena vida",
+    "start": -440,
+    "end": -270,
+    "grp": 0,
+    "per": 1,
+    "note": "De Sócrates a Epicuro y los primeros estoicos"
+   },
+   {
+    "name": "Fe y razón",
+    "start": 354,
+    "end": 1349,
+    "grp": 1,
+    "per": 2,
+    "note": "De san Agustín a Guillermo de Ockham"
+   },
+   {
+    "name": "Dios y el alma",
+    "start": 380,
+    "end": 1274,
+    "grp": 1,
+    "per": 2,
+    "note": "De san Agustín a santo Tomás de Aquino"
+   },
+   {
+    "name": "La salvación",
+    "start": 400,
+    "end": 1350,
+    "grp": 1,
+    "per": 2,
+    "note": "La vida humana ordenada a su fin último"
+   },
+   {
+    "name": "El sujeto y el método",
+    "start": 1620,
+    "end": 1781,
+    "grp": 2,
+    "per": 3,
+    "note": "Del Novum Organum de Bacon (1620) y el Discurso del método (1637) a la Crítica de la razón pura (1781)"
+   },
+   {
+    "name": "La ciencia",
+    "start": 1543,
+    "end": 1687,
+    "grp": 2,
+    "per": 3,
+    "note": "De Copérnico (1543) a los Principia de Newton (1687)"
+   },
+   {
+    "name": "La libertad y el contrato",
+    "start": 1651,
+    "end": 1762,
+    "grp": 2,
+    "per": 3,
+    "note": "Del Leviatán de Hobbes (1651) al Contrato social de Rousseau (1762)"
+   },
+   {
+    "name": "La historia",
+    "start": 1807,
+    "end": 1867,
+    "grp": 3,
+    "per": 4,
+    "note": "De la Fenomenología del espíritu de Hegel (1807) a El capital de Marx (1867)"
+   },
+   {
+    "name": "La sospecha",
+    "start": 1848,
+    "end": 1900,
+    "grp": 3,
+    "per": 4,
+    "note": "Marx, Nietzsche y Freud: del Manifiesto comunista (1848) a La interpretación de los sueños (1900)"
+   },
+   {
+    "name": "La existencia",
+    "start": 1843,
+    "end": 1946,
+    "grp": 3,
+    "per": 4,
+    "note": "De Kierkegaard (1843) a El existencialismo es un humanismo de Sartre (1946)"
+   },
+   {
+    "name": "El lenguaje",
+    "start": 1921,
+    "end": 1953,
+    "grp": 3,
+    "per": 4,
+    "note": "Del Tractatus (1921) a las Investigaciones filosóficas (1953) de Wittgenstein"
+   },
+   {
+    "name": "El poder",
+    "start": 1944,
+    "end": 1975,
+    "grp": 3,
+    "per": 4,
+    "note": "De la Dialéctica de la Ilustración (1944) a Vigilar y castigar de Foucault (1975)"
+   },
+   {
+    "name": "El género",
+    "start": 1949,
+    "end": 2025,
+    "grp": 3,
+    "per": 5,
+    "note": "Desde El segundo sexo de Simone de Beauvoir (1949)"
+   },
+   {
+    "name": "La tecnología",
+    "start": 1954,
+    "end": 2025,
+    "grp": 3,
+    "per": 5,
+    "note": "Desde La pregunta por la técnica de Heidegger (1954)"
+   },
+   {
+    "name": "La convivencia democrática",
+    "start": 1971,
+    "end": 2025,
+    "grp": 3,
+    "per": 5,
+    "note": "Desde la Teoría de la justicia de Rawls (1971)"
+   },
+   {
+    "name": "La ecología",
+    "start": 1979,
+    "end": 2025,
+    "grp": 3,
+    "per": 5,
+    "note": "Desde El principio de responsabilidad de Hans Jonas (1979)"
+   },
+   {
+    "name": "La memoria",
+    "start": 1995,
+    "end": 2025,
+    "grp": 3,
+    "per": 5,
+    "note": "Desde Los abusos de la memoria de Todorov (1995)"
+   }
+  ],
+  "events": []
  },
  {
   "id": "A2-OS-KRO-01",

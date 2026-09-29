@@ -77,11 +77,6 @@ const SUBJECTS = {
     "hf-mito"
    ],
    [
-    "Tarjetas: aporías",
-    "tarjetas",
-    "aporias"
-   ],
-   [
     "Tarjetas: presocráticos",
     "tarjetas",
     "presocraticos"
@@ -130,68 +125,6 @@ const SUBJECTS = {
  }
 };
 const DECKS = {
- "aporias": {
-  "name": "Aporías (tema 4)",
-  "subject": "hf",
-  "block": "A",
-  "cards": [
-   [
-    "🪞",
-    "Antropomorfismo",
-    "¿El orden del cosmos es real o una proyección nuestra? El caballo de Jenófanes que pinta a un dios con forma de caballo: miramos «fuera» y vemos nuestro reflejo."
-   ],
-   [
-    "⛓️",
-    "Regreso infinito de causas",
-    "Si todo efecto tiene causa, ¿hay una primera causa o la cadena se pierde hacia atrás sin primer eslabón?"
-   ],
-   [
-    "💧",
-    "Lo uno y lo múltiple",
-    "El arché: una gota que se vuelve río. ¿Explica lo uno a lo múltiple, o lo múltiple desmiente a lo uno?"
-   ],
-   [
-    "🏷️",
-    "Lo general y lo singular",
-    "Concepto frente a nombre propio: la misma etiqueta («fuego», «silla») sobre cosas que nunca son idénticas entre sí."
-   ],
-   [
-    "⚖️",
-    "Naturaleza y convención",
-    "Del cosmos a la polis: diké como «cada cosa en su sitio». Equilibrio, pero ¿quién lo ajusta?"
-   ],
-   [
-    "🌊",
-    "El cambio y la permanencia",
-    "«No te bañas dos veces en el mismo río» (Heráclito): ¿cómo puede algo cambiar y seguir siendo lo mismo?"
-   ],
-   [
-    "🏹",
-    "El movimiento (Zenón)",
-    "La flecha congelada en el aire: el fotograma que niega la película. ¿Es real el movimiento o una contradicción para la razón?"
-   ],
-   [
-    "🔒",
-    "Purificación del alma",
-    "El cuerpo como cárcel del alma (pitagóricos): ¿es la purificación una huida de lo humano o su plenitud?"
-   ],
-   [
-    "🕯️",
-    "Sentidos y razón",
-    "La verdad como aletheia (desvelamiento): una vela en un cuarto oscuro, lo que hay que alumbrar para descubrir."
-   ],
-   [
-    "⛵",
-    "La identidad personal",
-    "El barco de Teseo: cambian todas sus tablas y seguimos llamándolo «el mismo barco». ¿Qué es el «yo»?"
-   ],
-   [
-    "🚪",
-    "Las preguntas como motor",
-    "Una puerta a un pasillo con más puertas: cada respuesta no cierra el problema, abre otro."
-   ]
-  ]
- },
  "mito": {
   "name": "Mito y logos",
   "subject": "hf",
