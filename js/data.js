@@ -288,6 +288,36 @@ const DECKS = {
     "⚛️",
     "Demócrito",
     "Átomos indivisibles y vacío. Todo es materia y movimiento, sin finalidad: la primera explicación mecanicista."
+   ],
+   [
+    "🔥",
+    "Heráclito frente a Parménides",
+    "Heráclito: la physis cambia sin cesar, todo fluye. Parménides: el ser auténtico no puede cambiar; el cambio es apariencia. Ambos buscan una unidad que solo la razón alcanza: el logos, o el ser."
+   ],
+   [
+    "📏",
+    "«Según una medida»",
+    "El fuego de Heráclito se enciende y se apaga con medida: el cambio no es caótico, obedece a una ley (el logos). Por eso su oposición a Parménides es menor de lo que parece."
+   ],
+   [
+    "📖",
+    "Fragmento B 30",
+    "«Este mundo, el mismo para todos, no lo hizo ninguno de los dioses ni de los hombres: siempre fue, es y será fuego siempre vivo». El cosmos es eterno, no creado, y es un proceso."
+   ],
+   [
+    "🌊",
+    "«Nada permanece, todo fluye» (panta rei)",
+    "El cambio, la «lucha» o «guerra» de contrarios, es necesario: de él surge el cosmos. Bajo la lucha hay una armonía invisible que une los opuestos."
+   ],
+   [
+    "🎭",
+    "El estilo de Heráclito",
+    "Poético y aforístico: paradojas, metáforas y analogías («el camino arriba y abajo es uno y el mismo»). Por su oscuridad lo llamaron El Oscuro."
+   ],
+   [
+    "🔍",
+    "«Me investigué a mí mismo»",
+    "Para Heráclito el sabio no es quien sabe muchas cosas (Pitágoras, Hesíodo), sino quien entiende el logos: la ley común que la mayoría, como dormida, no capta."
    ]
   ]
  },
@@ -340,6 +370,41 @@ const DECKS = {
     "👩‍🏫",
     "Aspasia de Mileto",
     "Maestra de retórica y logógrafa; enseñaba a hombres y a mujeres. Sócrates la llama «mi maestra» en el Menéxeno de Platón."
+   ],
+   [
+    "💰",
+    "Cobrar por enseñar",
+    "Sofistas: profesionales, cobran grandes honorarios; su tarea es interesada. Sócrates: no cobra; enseñar es una tarea sagrada que se hace en beneficio de los demás."
+   ],
+   [
+    "🎓",
+    "A quién enseñan",
+    "Sofistas: a quien puede pagar. Sócrates: a quien muestra buena disposición intelectual y moral, y elige libremente."
+   ],
+   [
+    "🗣️",
+    "Qué enseñan",
+    "Sofistas: saberes útiles para triunfar, sobre todo la retórica. Sócrates: a pensar y a actuar bien; educa el carácter, no el discurso."
+   ],
+   [
+    "🧳",
+    "Cómo viven",
+    "Sofistas: itinerantes, de ciudad en ciudad; no fundaron escuelas. Sócrates: casi no salió de Atenas, dialogando en la plaza; sus discípulos sí fundaron escuelas."
+   ],
+   [
+    "🧠",
+    "Intelectualismo moral",
+    "«Nadie hace el mal a sabiendas»: la virtud es conocimiento y el error moral es ignorancia. Por eso la virtud puede enseñarse."
+   ],
+   [
+    "🤷",
+    "Docta ignorancia",
+    "«Solo sé que no sé nada». Reconocer la propia ignorancia es el primer paso del diálogo socrático."
+   ],
+   [
+    "📜",
+    "Jenofonte",
+    "Discípulo de Sócrates, autor de los Recuerdos de Sócrates: pequeños diálogos con los que defiende a su maestro de las acusaciones de impiedad y de corromper a la juventud."
    ]
   ]
  },
@@ -1466,6 +1531,41 @@ const DECKS = {
     "👑",
     "Rey filósofo",
     "Solo deben gobernar quienes conocen la Idea del Bien."
+   ],
+   [
+    "🛠️",
+    "Demiurgo",
+    "El artesano divino del Timeo: bueno y sin envidia, ordena la materia caótica imitando las Ideas. No crea de la nada."
+   ],
+   [
+    "🌀",
+    "Del caos al cosmos",
+    "El universo resulta de tres elementos: el demiurgo, las Ideas (modelo) y la materia eterna. Es imperfecto porque la materia se resiste a ser modelada."
+   ],
+   [
+    "💫",
+    "Alma del mundo",
+    "Lo que se mueve es movido por un alma; como el universo se mueve, tiene alma. El demiurgo la crea primero: causa del movimiento regular y circular de los astros."
+   ],
+   [
+    "🎯",
+    "Visión teleológica",
+    "Entender una cosa es entender su finalidad: el mundo es como es porque así es mejor. La idea de Bien es la causa final de todo."
+   ],
+   [
+    "📐",
+    "Un mundo matemático",
+    "El universo es esférico y los astros giran en círculo, las figuras más perfectas; los cuatro elementos están hechos de poliedros regulares. Influencia pitagórica."
+   ],
+   [
+    "📖",
+    "Cosmogonía: un relato verosímil",
+    "Del mundo sensible solo cabe un «mito probable»; el conocimiento seguro es solo de las Ideas."
+   ],
+   [
+    "🔗",
+    "Aristóteles frente a Platón",
+    "Ambos: la ciencia conoce formas universales. Platón: las Formas existen separadas, en el mundo inteligible. Aristóteles: las formas son inmanentes, están en las cosas, con la materia."
    ]
   ]
  },
@@ -8353,6 +8453,50 @@ const QUIZZES = {
     ],
     "a": 3,
     "fb": "Son los monistas jonios de Mileto (s. VII-VI a. C.): los tres buscan un único principio natural (agua, ápeiron, aire)."
+   },
+   {
+    "q": "Según el fragmento B 30 de Heráclito, ¿quién hizo el cosmos?",
+    "o": [
+     "Un dios ordenador, imitando un modelo eterno.",
+     "Nadie: siempre fue, es y será, un fuego siempre vivo.",
+     "Los hombres, al darle nombre con el lenguaje.",
+     "El Amor y el Odio, uniendo y separando las raíces."
+    ],
+    "a": 1,
+    "fb": "El cosmos no ha sido creado por dioses ni hombres: es eterno y autosuficiente, un fuego que se enciende y se apaga según una medida."
+   },
+   {
+    "q": "¿Qué significa que el fuego de Heráclito se encienda y se apague «según una medida»?",
+    "o": [
+     "Que el cambio es caótico y no puede conocerse.",
+     "Que el fuego es un elemento más, como el agua de Tales.",
+     "Que el cambio obedece a una ley racional, el logos.",
+     "Que el mundo se destruye y renace en ciclos de igual duración."
+    ],
+    "a": 2,
+    "fb": "La medida es la ley que gobierna todos los cambios: el logos común, la «armonía invisible». Por eso Heráclito también admite algo permanente."
+   },
+   {
+    "q": "¿En qué coinciden Heráclito y Parménides?",
+    "o": [
+     "En que el ser es único, eterno e inmóvil.",
+     "En que la realidad es un proceso de cambio.",
+     "En buscar, bajo las apariencias, una unidad que solo la razón alcanza.",
+     "En que los sentidos son la fuente más fiable de conocimiento."
+    ],
+    "a": 2,
+    "fb": "Uno la llama logos y otro ser, pero ambos sostienen que la unidad del mundo no se ve: se piensa."
+   },
+   {
+    "q": "Para Heráclito, ¿quién es sabio?",
+    "o": [
+     "Quien sabe muchas cosas, como Pitágoras o Hesíodo.",
+     "Quien entiende el logos, la ley común del cambio.",
+     "Quien se aparta del mundo y desprecia el lenguaje.",
+     "Quien acepta lo que dicen los poetas sobre los dioses."
+    ],
+    "a": 1,
+    "fb": "La erudición no es sabiduría: sabio es quien capta la estructura última de la realidad, el logos que la mayoría, como dormida, no entiende."
    }
   ]
  },
@@ -8734,6 +8878,50 @@ const QUIZZES = {
     ],
     "a": 1,
     "fb": "El modelo patriarcal excluía a las mujeres de la ciudadanía y del espacio público y las relegaba a la esfera privada."
+   },
+   {
+    "q": "En el diálogo con Antifonte, ¿por qué dice Sócrates que no cobra por enseñar?",
+    "o": [
+     "Porque lo que enseña no vale nada, como admite.",
+     "Porque la ciudad le paga un sueldo público.",
+     "Porque vender la sabiduría por dinero es prostituirla.",
+     "Porque solo enseña a familias ricas que no necesitan pagar."
+    ],
+    "a": 2,
+    "fb": "Sócrates distingue valor y precio: la educación es una tarea sagrada que solo se hace por amistad, no por dinero."
+   },
+   {
+    "q": "¿Qué es el intelectualismo moral socrático?",
+    "o": [
+     "La doctrina de que la virtud es conocimiento y el mal nace de la ignorancia.",
+     "La idea de que solo los intelectuales pueden ser virtuosos.",
+     "La tesis de que la moral es una convención de cada ciudad.",
+     "La creencia de que la virtud no puede enseñarse."
+    ],
+    "a": 0,
+    "fb": "«Nadie hace el mal a sabiendas»: quien obra mal lo hace por no saber qué es lo bueno; por eso la virtud puede enseñarse."
+   },
+   {
+    "q": "¿Cuál de estas diferencias entre Sócrates y los sofistas es correcta?",
+    "o": [
+     "Los sofistas dialogan en la plaza; Sócrates da cursos pagados.",
+     "Sócrates enseña retórica; los sofistas educan el carácter.",
+     "Los sofistas son itinerantes; Sócrates apenas salió de Atenas.",
+     "Los sofistas eligen a sus alumnos por su disposición; Sócrates, por su dinero."
+    ],
+    "a": 2,
+    "fb": "Los sofistas iban de ciudad en ciudad cobrando por enseñar a triunfar; Sócrates dialogaba gratis en Atenas y elegía a sus discípulos por su disposición."
+   },
+   {
+    "q": "¿Qué pretende Jenofonte con sus Recuerdos de Sócrates?",
+    "o": [
+     "Exponer la teoría de las Ideas que Sócrates no llegó a escribir.",
+     "Defender a su maestro de las acusaciones de impiedad y de corromper a la juventud.",
+     "Demostrar que Sócrates era, en realidad, un sofista más.",
+     "Recoger los discursos que Sócrates pronunció en la asamblea."
+    ],
+    "a": 1,
+    "fb": "Jenofonte reúne pequeños diálogos para mostrar a un Sócrates piadoso, justo y sabio, injustamente condenado."
    }
   ]
  },
@@ -9126,6 +9314,50 @@ const QUIZZES = {
     ],
     "a": 1,
     "fb": "Para Platón el alma ya contempló las Ideas; aprender es hacer que las recuerde, no recibirlas desde fuera."
+   },
+   {
+    "q": "En el Timeo, ¿qué hace el demiurgo con la materia?",
+    "o": [
+     "La crea de la nada por su voluntad omnipotente.",
+     "La ordena, pues la encuentra en movimiento caótico.",
+     "La destruye para sustituirla por las Ideas.",
+     "La deja como está, porque es perfecta."
+    ],
+    "a": 1,
+    "fb": "El demiurgo no es un creador absoluto: es un artesano que impone forma y orden a una materia preexistente, imitando las Ideas."
+   },
+   {
+    "q": "¿Por qué el mundo del Timeo es imperfecto?",
+    "o": [
+     "Porque el demiurgo es envidioso y no quiso hacerlo mejor.",
+     "Porque las Ideas que le sirven de modelo son imperfectas.",
+     "Porque la materia se resiste a ser modelada.",
+     "Porque el alma del mundo se creó después que el cuerpo."
+    ],
+    "a": 2,
+    "fb": "El demiurgo es bueno y hace lo mejor posible; la imperfección viene del material previo, que ofrece resistencia."
+   },
+   {
+    "q": "¿Por qué crea el demiurgo primero el alma del mundo?",
+    "o": [
+     "Porque todo lo que se mueve es movido por un alma, y el universo se mueve.",
+     "Porque el alma es materia más fina que el cuerpo.",
+     "Porque las Ideas necesitan un alma para existir.",
+     "Porque el alma del mundo es la idea de Bien."
+    ],
+    "a": 0,
+    "fb": "Nada se mueve a sí mismo salvo el alma; el movimiento regular del cielo exige un alma racional que lo mueva."
+   },
+   {
+    "q": "¿Qué tipo de conocimiento cabe, según Platón, de la cosmología?",
+    "o": [
+     "Un conocimiento exacto e inmutable, como el de las Ideas.",
+     "Un relato verosímil, un «mito probable».",
+     "Ninguno: el mundo sensible es pura ilusión.",
+     "Un conocimiento matemático perfecto, porque el cosmos es esférico."
+    ],
+    "a": 1,
+    "fb": "Solo del mundo de las Ideas hay ciencia segura; del mundo sensible, cambiante, solo un relato aproximado."
    }
   ]
  },
