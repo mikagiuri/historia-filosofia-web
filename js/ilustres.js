@@ -272,6 +272,22 @@ const ILUSTRES = {
    "hf-preso"
   ]
  },
+ "zenon_elea": {
+  "name": "Zenón de Elea",
+  "dates": "c. 490 – c. 430 a. C.",
+  "born": -490,
+  "died": -430,
+  "place": "Elea (Magna Grecia)",
+  "role": "filósofo eleata",
+  "idea": "Si se admite que hay muchas cosas y que hay movimiento, se cae en contradicciones; por eso tiene razón Parménides: el ser es uno e inmóvil.",
+  "bio": "<p>Zenón fue discípulo de <strong>Parménides</strong> en Elea, al sur de Italia. En el diálogo <em>Parménides</em>, Platón cuenta que los dos viajaron a Atenas y que allí conversaron con un Sócrates todavía muy joven. No hay que confundirlo con Zenón de Citio, el fundador del estoicismo, que vivió siglo y medio después.</p>\n<p>Zenón no defendió a su maestro con pruebas directas, sino atacando a sus críticos: mostraba que, si se acepta la pluralidad o el movimiento, se llega a conclusiones absurdas. Son sus famosas <strong>paradojas</strong>. En la de Aquiles y la tortuga, el corredor más rápido nunca alcanza a la tortuga, porque cada vez que llega a donde ella estaba, ella ya ha avanzado un poco. En la de la flecha, una flecha en vuelo está quieta en cada instante, así que nunca se mueve. Por esta forma de razonar, Aristóteles lo consideró el inventor de la <strong>dialéctica</strong>. Sus paradojas sobre el infinito ocuparon a los matemáticos durante más de dos mil años.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
  "protagoras": {
   "name": "Protágoras de Abdera",
   "dates": "c. 485 – c. 411 a. C.",
@@ -320,6 +336,75 @@ const ILUSTRES = {
   "temas": [
    "hf-sofistas"
   ]
+ },
+ "meliso": {
+  "name": "Meliso de Samos",
+  "dates": "fl. c. 440 a. C.",
+  "born": -480,
+  "died": null,
+  "place": "Samos (mar Egeo)",
+  "role": "filósofo eleata y almirante",
+  "idea": "El ser es uno, eterno e infinito; como no existe el vacío, nada puede moverse.",
+  "bio": "<p>De Meliso sabemos poco, pero algo llamativo: además de filósofo fue almirante. Plutarco cuenta que en el año 441 a. C., durante la guerra entre Samos y Atenas, mandó la flota de su isla y derrotó a los atenienses. No conocemos sus fechas de nacimiento ni de muerte, solo su época de actividad.</p>\n<p>Meliso siguió a <strong>Parménides</strong>: el ser es <strong>uno</strong>, no nace ni muere y no cambia. Pero corrigió a su maestro en un punto: para Parménides el ser era limitado, como una esfera; para Meliso es <strong>infinito</strong>, porque si tuviera un límite habría algo fuera de él. También negó el <strong>vacío</strong>, y de ahí sacó que el movimiento es imposible, ya que nada tendría adónde moverse. Los atomistas respondieron justo al revés: si hay movimiento, tiene que haber vacío.</p>",
+  "obras": [
+   "Sobre la naturaleza o sobre el ser"
+  ],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "leucipo": {
+  "name": "Leucipo",
+  "dates": "fl. c. 440 a. C.",
+  "born": -480,
+  "died": null,
+  "place": "Mileto o Abdera (no se sabe con seguridad)",
+  "role": "filósofo atomista",
+  "idea": "Todo está hecho de átomos indivisibles que se mueven en el vacío, y nada sucede al azar: todo ocurre por una razón y por necesidad.",
+  "bio": "<p>Leucipo es el fundador del <strong>atomismo</strong> y el maestro de <strong>Demócrito</strong>, pero es una figura tan oscura que ya en la Antigüedad Epicuro llegó a dudar de que hubiera existido. No sabemos con certeza ni dónde nació ni cuándo murió; solo que estuvo activo hacia mediados del siglo V a. C. Sus obras se confundieron pronto con las de Demócrito.</p>\n<p>Leucipo respondió a los eleatas, que negaban el movimiento: aceptó que el ser no nace ni se destruye, pero lo dividió en infinitas partículas diminutas e indivisibles, los <strong>átomos</strong>, y admitió que existe el <strong>vacío</strong> por el que se mueven. Todo lo que vemos nace de cómo se juntan y se separan. De él se conserva una sola frase segura: «nada sucede al azar, sino que todo ocurre por una razón y por necesidad», una de las primeras afirmaciones del <strong>determinismo</strong>.</p>",
+  "obras": [
+   "La gran cosmología (atribuida)",
+   "Sobre el intelecto"
+  ],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "filolao": {
+  "name": "Filolao de Crotona",
+  "dates": "c. 470 – c. 385 a. C.",
+  "born": -470,
+  "died": -385,
+  "place": "Crotona (Magna Grecia)",
+  "role": "filósofo pitagórico",
+  "idea": "Todo lo que se conoce tiene número; el cosmos está hecho de lo ilimitado y de lo que pone límites, unidos por la armonía.",
+  "bio": "<p>Filolao nació en Crotona, la ciudad del sur de Italia donde Pitágoras había fundado su comunidad. Tras las persecuciones contra los pitagóricos vivió un tiempo en Tebas, en Grecia: en el <em>Fedón</em> de Platón, Simmias y Cebes, dos de los amigos de Sócrates, cuentan que lo habían escuchado allí. Fue el primer pitagórico que escribió un libro, y de él conservamos algunos fragmentos cuya autenticidad se discute.</p>\n<p>Según Filolao, todas las cosas se componen de lo <strong>ilimitado</strong> y de lo que <strong>limita</strong>, y lo que las mantiene unidas es la <strong>armonía</strong>, que se expresa en proporciones numéricas: por eso «todo lo que se conoce tiene número». Su cosmología es sorprendente: en el centro del universo no está la Tierra, sino un <strong>fuego central</strong>, alrededor del cual giran la Tierra, una «Antitierra» invisible, la Luna, el Sol y los planetas. Fue una de las primeras veces que alguien sacó a la Tierra del centro del cosmos, aunque por razones más numéricas que astronómicas.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "trasimaco": {
+  "name": "Trasímaco de Calcedonia",
+  "dates": "fl. c. 430 – 400 a. C.",
+  "born": -470,
+  "died": null,
+  "place": "Calcedonia (junto al Bósforo)",
+  "role": "sofista y maestro de retórica",
+  "idea": "La justicia no es otra cosa que lo que conviene al más fuerte: quien gobierna hace las leyes a su favor y llama «justo» a obedecerlas.",
+  "bio": "<p>Trasímaco nació en Calcedonia, a orillas del Bósforo, y enseñó <strong>retórica</strong> en Atenas a finales del siglo V a. C. Fue famoso por el ritmo de su prosa y por su habilidad para despertar las emociones del público; Aristóteles lo cita entre los que perfeccionaron el arte de hablar. De sus escritos solo quedan fragmentos.</p>\n<p>Hoy lo conocemos sobre todo como personaje del libro I de la <em>República</em> de Platón. Allí irrumpe en la conversación y sostiene que <strong>la justicia es lo que conviene al más fuerte</strong>: los gobernantes hacen las leyes para su propio beneficio y llaman justicia a que los demás las cumplan; por eso al injusto, si es lo bastante poderoso, le va mejor que al justo. Sócrates intenta refutarlo, y toda la <em>República</em> puede leerse como una larga respuesta a su desafío.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
  },
  "socrates": {
   "name": "Sócrates",
@@ -431,6 +516,41 @@ const ILUSTRES = {
    "hf-helenismo"
   ]
  },
+ "aristipo": {
+  "name": "Aristipo de Cirene",
+  "dates": "c. 435 – c. 356 a. C.",
+  "born": -435,
+  "died": -356,
+  "place": "Cirene (actual Libia)",
+  "role": "filósofo socrático hedonista",
+  "idea": "El placer es el único bien y el fin de la vida; hay que disfrutar el placer presente sin dejarse dominar por él.",
+  "bio": "<p>Aristipo nació en Cirene, una próspera colonia griega del norte de África. Atraído por la fama de <strong>Sócrates</strong>, viajó a Atenas y se unió a su círculo. A diferencia de su maestro, cobraba por enseñar, como los sofistas, y según la tradición vivió de forma acomodada en la corte de Dionisio de Siracusa, rodeado de lujos. Sus escritos se han perdido, y buena parte de lo que se cuenta de él son anécdotas difíciles de verificar.</p>\n<p>Se le considera fundador de la <strong>escuela cirenaica</strong>, primera defensora del <strong>hedonismo</strong> (del griego <em>hedoné</em>, «placer»). Para los cirenaicos, el bien supremo es el placer, entendido sobre todo como un movimiento suave y agradable del cuerpo, y el dolor es el único mal. Como solo podemos estar seguros del presente, hay que disfrutar el placer inmediato, idea que el temario resume con la expresión <em>carpe diem</em>. Aristipo, sin embargo, insistía en que el sabio debe poseer el placer y no ser poseído por él.</p>\n<p>Aunque vivió antes de la época helenística, el temario lo estudia junto a las escuelas helenísticas porque abre la pregunta por la felicidad que estas desarrollan. Su hedonismo del placer inmediato sirve de contraste con el de <strong>Epicuro</strong>, que entiende el placer como moderación y ausencia de dolor. También se opone a la austeridad de los cínicos, que surgieron del mismo círculo socrático.</p>",
+  "obras": [],
+  "anecdota": "<p>El arquitecto romano Vitruvio cuenta que Aristipo naufragó y llegó a la costa de Rodas. Al ver figuras geométricas dibujadas en la arena, animó a sus compañeros: «Tened esperanza, veo huellas de seres humanos». Se dirigió a la ciudad, conversó sobre filosofía en el gimnasio y recibió tantos regalos que pudo mantenerse y atender a sus compañeros. Cuando estos quisieron volver a casa, les encargó un mensaje para sus conciudadanos: hay que procurarse bienes que puedan salvarse a nado de un naufragio. El amante del placer sabía que la verdadera riqueza es la cultura.</p>",
+  "fuente": "Vitruvio, De architectura VI (prefacio)",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "arquitas": {
+  "name": "Arquitas de Tarento",
+  "dates": "c. 430 – c. 350 a. C.",
+  "born": -430,
+  "died": -350,
+  "place": "Tarento (Magna Grecia)",
+  "role": "filósofo pitagórico, matemático y político",
+  "idea": "El cálculo bien hecho pone fin a las disputas: cuando se conoce la proporción justa, ricos y pobres pueden ponerse de acuerdo.",
+  "bio": "<p>Arquitas fue a la vez filósofo, matemático y gobernante. Dirigió varias veces el ejército de Tarento, en el sur de Italia, y según la tradición nunca fue derrotado. Fue amigo de <strong>Platón</strong>: la <em>Carta VII</em> atribuida a Platón cuenta que Arquitas envió un barco a Siracusa para sacarlo de allí cuando el tirano Dionisio II lo retenía.</p>\n<p>Como buen pitagórico, pensaba que las <strong>matemáticas</strong> son la base de todo conocimiento. Resolvió el problema de la duplicación del cubo con una ingeniosa construcción en tres dimensiones, estudió la acústica y las proporciones musicales, y se le considera uno de los fundadores de la mecánica. También propuso un famoso argumento sobre el infinito: si alguien llegara al borde del universo y extendiera el brazo, ¿qué lo detendría? Si nada lo detiene, el universo no tiene borde.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
  "platon": {
   "name": "Platón",
   "dates": "c. 427 – 347 a. C.",
@@ -489,6 +609,22 @@ const ILUSTRES = {
    "hf-helenismo"
   ]
  },
+ "espeusipo": {
+  "name": "Espeusipo",
+  "dates": "c. 407 – 339 a. C.",
+  "born": -407,
+  "died": -339,
+  "place": "Atenas",
+  "role": "filósofo platónico, segundo director de la Academia",
+  "idea": "Los primeros principios de la realidad no son las Ideas, sino los números y las realidades matemáticas.",
+  "bio": "<p>Espeusipo era sobrino de <strong>Platón</strong>, hijo de su hermana Potone, y lo acompañó en sus viajes a Siracusa. Cuando Platón murió en el 347 a. C., fue él, y no Aristóteles, quien quedó al frente de la <strong>Academia</strong>, que dirigió hasta su muerte. Por esas fechas Aristóteles dejó Atenas.</p>\n<p>Espeusipo modificó la filosofía de su tío: renunció a las Ideas como realidades separadas y puso en su lugar los <strong>números</strong> y los objetos matemáticos como principios de todo. También se interesó por clasificar los seres vivos según sus semejanzas, un trabajo que prepara el de Aristóteles. Casi todas sus obras se han perdido.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
  "aristoteles": {
   "name": "Aristóteles",
   "dates": "384 – 322 a. C.",
@@ -522,6 +658,42 @@ const ILUSTRES = {
    "hf-utilitarismo",
    "hf-descartes-makro"
   ]
+ },
+ "teofrasto": {
+  "name": "Teofrasto de Ereso",
+  "dates": "c. 371 – c. 287 a. C.",
+  "born": -371,
+  "died": -287,
+  "place": "Ereso (isla de Lesbos)",
+  "role": "filósofo peripatético y naturalista",
+  "idea": "Para entender la naturaleza hay que observarla con detalle y clasificarla, planta por planta y carácter por carácter.",
+  "bio": "<p>Teofrasto nació en la isla de Lesbos y fue durante décadas colaborador de <strong>Aristóteles</strong>. Según la tradición, su nombre verdadero era Tírtamo y fue Aristóteles quien lo llamó Teofrasto, «el de habla divina», por su elocuencia. Cuando Aristóteles dejó Atenas en el 322 a. C., Teofrasto quedó al frente del <strong>Liceo</strong>, que dirigió unos 35 años y en el que llegó a tener cientos de alumnos.</p>\n<p>Siguió el método de su maestro, basado en la observación, y lo aplicó a las plantas: su <em>Historia de las plantas</em> lo convierte en el fundador de la <strong>botánica</strong>. También escribió los <em>Caracteres</em>, una serie de retratos breves y divertidos de tipos humanos (el adulador, el charlatán, el tacaño…) que inspiraron a muchos escritores posteriores. Además recopiló las opiniones de los filósofos anteriores, y gracias a esa obra conocemos buena parte de lo que pensaban los presocráticos.</p>",
+  "obras": [
+   "Historia de las plantas",
+   "Causas de las plantas",
+   "Caracteres"
+  ],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "crates": {
+  "name": "Crates de Tebas",
+  "dates": "c. 365 – c. 285 a. C.",
+  "born": -365,
+  "died": -285,
+  "place": "Tebas (Beocia)",
+  "role": "filósofo cínico",
+  "idea": "La felicidad está en necesitar muy poco: quien renuncia a la riqueza y a la opinión ajena es libre.",
+  "bio": "<p>Crates era de una familia rica de Tebas, pero repartió su fortuna y se hizo discípulo de <strong>Diógenes de Sinope</strong>. A diferencia de su maestro, famoso por sus provocaciones, Crates tenía fama de amable: entraba en las casas para ayudar y aconsejar a quien lo necesitaba, y por eso lo llamaban «el que abre las puertas».</p>\n<p>Se casó con <strong>Hiparquia</strong>, una joven de buena familia que, contra la voluntad de sus padres, quiso compartir su vida de pobreza y se convirtió en una de las pocas mujeres filósofas de la Antigüedad de las que tenemos noticia. Crates fue además maestro de Zenón de Citio: a través de él, la ética cínica de la austeridad y la independencia pasó al <strong>estoicismo</strong>.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
  },
  "pirron": {
   "name": "Pirrón de Elis",
@@ -570,6 +742,22 @@ const ILUSTRES = {
    "hf-helenismo"
   ]
  },
+ "straton": {
+  "name": "Estratón de Lámpsaco",
+  "dates": "c. 335 – c. 269 a. C.",
+  "born": -335,
+  "died": -269,
+  "place": "Lámpsaco (junto al Helesponto)",
+  "role": "filósofo peripatético, «el Físico»",
+  "idea": "La naturaleza se explica por sus propias fuerzas, sin necesidad de dioses ni de fines.",
+  "bio": "<p>Estratón nació en Lámpsaco, junto al estrecho de los Dardanelos. Pasó un tiempo en Alejandría como maestro del futuro rey Ptolomeo II y después sucedió a Teofrasto al frente del <strong>Liceo</strong>, que dirigió durante unos dieciocho años.</p>\n<p>Lo apodaron «el Físico» porque se dedicó sobre todo al estudio de la naturaleza, y lo hizo de un modo más radical que Aristóteles: explicaba los fenómenos por causas naturales, como el peso o el calor, sin recurrir a dioses ni a la idea de que la naturaleza persigue fines. Admitió que existen pequeños espacios vacíos entre las partículas de los cuerpos e hizo observaciones que se acercan a los experimentos, por ejemplo sobre la caída de los cuerpos. Sus obras se han perdido.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
  "zenon": {
   "name": "Zenón de Citio",
   "dates": "c. 334 – c. 262 a. C.",
@@ -590,6 +778,90 @@ const ILUSTRES = {
   "temas": [
    "hf-helenismo"
   ]
+ },
+ "cleantes": {
+  "name": "Cleantes de Aso",
+  "dates": "c. 331 – c. 232 a. C.",
+  "born": -331,
+  "died": -232,
+  "place": "Aso (Asia Menor)",
+  "role": "filósofo estoico",
+  "idea": "Un mismo lógos, la razón divina, gobierna el universo; vivir bien es vivir de acuerdo con él y aceptar el destino.",
+  "bio": "<p>Cleantes había sido boxeador y llegó a Atenas casi sin dinero. Para pagarse las clases de <strong>Zenón de Citio</strong> sacaba agua de los pozos por la noche en los jardines, y por eso lo apodaron «el aguador». Fue un alumno lento pero constante, y a la muerte de Zenón, en el 262 a. C., se convirtió en el segundo director de la <strong>Estoa</strong>.</p>\n<p>Su obra más conocida es el <em>Himno a Zeus</em>, uno de los pocos textos estoicos antiguos que se conservan completos. En él, Zeus es el <strong>lógos</strong>, la razón que ordena todo el universo, y el ser humano solo es feliz si acepta ese orden y vive <strong>de acuerdo con la naturaleza</strong>. Siglos después, Séneca tradujo al latín unos versos suyos sobre el destino y los resumió en una frase que se hizo famosa: «el destino guía al que lo acepta y arrastra al que se resiste».</p>",
+  "obras": [
+   "Himno a Zeus"
+  ],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "timon": {
+  "name": "Timón de Fliunte",
+  "dates": "c. 320 – c. 230 a. C.",
+  "born": -320,
+  "died": -230,
+  "place": "Fliunte (Peloponeso)",
+  "role": "filósofo escéptico y poeta satírico",
+  "idea": "Quien quiere ser feliz debe preguntarse cómo son las cosas, qué actitud tomar ante ellas y qué gana con esa actitud; la respuesta escéptica es suspender el juicio.",
+  "bio": "<p>Timón nació en Fliunte, en el Peloponeso. Fue bailarín en su juventud y más tarde se hizo discípulo de <strong>Pirrón</strong>, que no escribió nada: casi todo lo que sabemos del primer escepticismo nos llega a través de Timón.</p>\n<p>Resumió la enseñanza de su maestro en tres preguntas: cómo son las cosas (no podemos saberlo), qué actitud debemos tomar ante ellas (no afirmar ni negar nada) y qué resulta de esa actitud (la <strong>ataraxia</strong>, la tranquilidad del alma). También escribió los <em>Silos</em>, poemas satíricos en los que se burlaba de los filósofos que creían poseer la verdad, desde los presocráticos hasta Platón.</p>",
+  "obras": [
+   "Silos"
+  ],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "arcesilao": {
+  "name": "Arcesilao de Pitane",
+  "dates": "c. 316 – c. 241 a. C.",
+  "born": -316,
+  "died": -241,
+  "place": "Pitane (Asia Menor)",
+  "role": "filósofo académico escéptico",
+  "idea": "No hay ningún criterio seguro para distinguir lo verdadero de lo falso; por eso el sabio suspende el juicio.",
+  "bio": "<p>Arcesilao llegó a Atenas desde Pitane, en la costa de Asia Menor, y hacia el 268 a. C. se convirtió en director de la <strong>Academia</strong> fundada por Platón. Con él la escuela dio un giro: dejó de enseñar doctrinas y pasó a practicar la duda. Por eso se habla de la «Academia Media» o «nueva». Como Sócrates, no escribió nada.</p>\n<p>Arcesilao tomó de Sócrates la idea de que no sabemos nada y la llevó más lejos: ni siquiera podemos saber eso con certeza. Su gran adversario fue el estoico Zenón de Citio, que afirmaba que ciertas impresiones son tan claras que no pueden ser falsas. Arcesilao respondía que no hay ninguna impresión verdadera que no pueda confundirse con una falsa, y que por tanto lo sabio es la <strong>suspensión del juicio</strong> (<em>epojé</em>). En clase argumentaba a favor y en contra de cada tesis para mostrar que ninguna era segura.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "crisipo": {
+  "name": "Crisipo de Solos",
+  "dates": "c. 279 – c. 206 a. C.",
+  "born": -279,
+  "died": -206,
+  "place": "Solos (Cilicia, Asia Menor)",
+  "role": "filósofo estoico",
+  "idea": "Todo ocurre según el destino, pero lo que hacemos depende también de nosotros, como un cilindro que rueda según su forma cuando alguien lo empuja.",
+  "bio": "<p>Crisipo nació en Solos, en la actual Turquía, y sucedió a Cleantes como tercer director de la <strong>Estoa</strong>. Fue quien convirtió el estoicismo en un sistema completo y bien argumentado, hasta el punto de que en la Antigüedad se decía: «si no hubiera existido Crisipo, no habría existido la Estoa». Escribió más de setecientas obras, todas perdidas.</p>\n<p>Crisipo desarrolló una <strong>lógica</strong> propia, basada en las relaciones entre proposiciones («si es de día, hay luz»), que completaba la de Aristóteles. También intentó conciliar el <strong>destino</strong> con la responsabilidad humana con la imagen del cilindro: alguien lo empuja, pero que ruede se debe a su propia forma. Del mismo modo, las circunstancias nos empujan, pero cómo respondemos depende de nuestro carácter.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "carneades": {
+  "name": "Carnéades de Cirene",
+  "dates": "c. 214 – c. 129 a. C.",
+  "born": -214,
+  "died": -129,
+  "place": "Cirene (norte de África)",
+  "role": "filósofo académico escéptico",
+  "idea": "No podemos alcanzar la verdad segura, pero sí distinguir lo más o menos probable, y eso basta para decidir cómo actuar.",
+  "bio": "<p>Carnéades, nacido en Cirene, en el norte de África, dirigió la <strong>Academia</strong> en su etapa escéptica y fue el filósofo más brillante de su tiempo. No escribió nada; conocemos sus ideas por su discípulo Clitómaco y por Cicerón. En el 155 a. C. viajó a Roma como embajador de Atenas y dio allí dos discursos seguidos: el primer día defendió la justicia y el segundo la refutó con la misma fuerza. Catón el Viejo, escandalizado, pidió que se despachara cuanto antes a aquellos embajadores para que no corrompieran a la juventud romana.</p>\n<p>Carnéades criticó sobre todo a los estoicos: ninguna impresión garantiza por sí sola la verdad. Pero para no quedarse paralizado por la duda propuso el <strong>probabilismo</strong>: aunque no alcancemos certezas, podemos guiarnos por lo que resulta <strong>persuasivo o probable</strong>, sobre todo si ha sido comprobado y no lo contradice nada. Es un escepticismo pensado para poder vivir.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
  },
  "tertuliano": {
   "name": "Tertuliano",
