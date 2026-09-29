@@ -118,223 +118,273 @@ const CRONOGRAMAS = [
     "name": "Tales de Mileto",
     "start": -624,
     "end": -546,
-    "grp": 0
+    "grp": 0,
+    "per": 0
    },
    {
     "name": "Anaximandro",
     "start": -610,
     "end": -546,
-    "grp": 0
+    "grp": 0,
+    "per": 0
    },
    {
     "name": "Anaxímenes",
     "start": -586,
     "end": -526,
-    "grp": 0
+    "grp": 0,
+    "per": 0
    },
    {
     "name": "Jenófanes",
     "start": -570,
     "end": -475,
-    "grp": 1
+    "grp": 1,
+    "per": 0
    },
    {
     "name": "Heráclito",
     "start": -540,
     "end": -480,
-    "grp": 1
+    "grp": 1,
+    "per": 0
    },
    {
     "name": "Pitágoras",
     "start": -570,
     "end": -495,
-    "grp": 2
+    "grp": 2,
+    "per": 0
    },
    {
     "name": "Filolao",
     "start": -470,
     "end": -385,
-    "grp": 2
+    "grp": 2,
+    "per": 0
    },
    {
     "name": "Arquitas de Tarento",
     "start": -430,
     "end": -350,
-    "grp": 2
+    "grp": 2,
+    "per": 0
    },
    {
     "name": "Parménides",
     "start": -515,
     "end": -450,
-    "grp": 3
+    "grp": 3,
+    "per": 0
    },
    {
     "name": "Zenón de Elea",
     "start": -490,
     "end": -430,
-    "grp": 3
+    "grp": 3,
+    "per": 0
    },
    {
     "name": "Meliso de Samos",
     "start": -440,
     "end": null,
     "fl": true,
-    "grp": 3
+    "grp": 3,
+    "per": 0
    },
    {
     "name": "Anaxágoras",
     "start": -500,
     "end": -428,
-    "grp": 4
+    "grp": 4,
+    "per": 0
    },
    {
     "name": "Empédocles",
     "start": -495,
     "end": -435,
-    "grp": 4
+    "grp": 4,
+    "per": 0
    },
    {
     "name": "Leucipo",
     "start": -440,
     "end": null,
     "fl": true,
-    "grp": 4
+    "grp": 4,
+    "per": 0
    },
    {
     "name": "Demócrito",
     "start": -460,
     "end": -370,
-    "grp": 4
+    "grp": 4,
+    "per": 0
    },
    {
     "name": "Protágoras",
     "start": -490,
     "end": -420,
-    "grp": 5
+    "grp": 5,
+    "per": 1
    },
    {
     "name": "Gorgias",
     "start": -483,
     "end": -375,
-    "grp": 5
+    "grp": 5,
+    "per": 1
    },
    {
     "name": "Trasímaco",
     "start": -427,
     "end": null,
     "fl": true,
-    "grp": 5
+    "grp": 5,
+    "per": 1
    },
    {
     "name": "Sócrates",
     "start": -470,
     "end": -399,
-    "grp": 6
+    "grp": 6,
+    "per": 1
    },
    {
     "name": "Antístenes",
     "start": -445,
     "end": -365,
-    "grp": 6
+    "grp": 6,
+    "per": 1
    },
    {
     "name": "Aristipo de Cirene",
     "start": -435,
     "end": -356,
-    "grp": 6
+    "grp": 6,
+    "per": 1
    },
    {
     "name": "Platón",
     "start": -427,
     "end": -347,
-    "grp": 7
+    "grp": 7,
+    "per": 2
    },
    {
     "name": "Espeusipo",
     "start": -407,
     "end": -339,
-    "grp": 7
+    "grp": 7,
+    "per": 2
    },
    {
     "name": "Arcesilao",
     "start": -316,
     "end": -241,
-    "grp": 7
+    "grp": 7,
+    "per": 3
    },
    {
     "name": "Carnéades",
     "start": -214,
     "end": -129,
-    "grp": 7
+    "grp": 7,
+    "per": 3
    },
    {
     "name": "Aristóteles",
     "start": -384,
     "end": -322,
-    "grp": 8
+    "grp": 8,
+    "per": 2
    },
    {
     "name": "Teofrasto",
     "start": -371,
     "end": -287,
-    "grp": 8
+    "grp": 8,
+    "per": 2
    },
    {
     "name": "Estratón de Lámpsaco",
     "start": -335,
     "end": -269,
-    "grp": 8
+    "grp": 8,
+    "per": 2
    },
    {
     "name": "Diógenes de Sinope",
     "start": -412,
     "end": -323,
-    "grp": 9
+    "grp": 9,
+    "per": 3
    },
    {
     "name": "Crates de Tebas",
     "start": -365,
     "end": -285,
-    "grp": 9
+    "grp": 9,
+    "per": 3
    },
    {
     "name": "Pirrón",
     "start": -360,
     "end": -270,
-    "grp": 10
+    "grp": 10,
+    "per": 3
    },
    {
     "name": "Timón de Fliunte",
     "start": -320,
     "end": -230,
-    "grp": 10
+    "grp": 10,
+    "per": 3
    },
    {
     "name": "Epicuro",
     "start": -341,
     "end": -270,
-    "grp": 11
+    "grp": 11,
+    "per": 3
    },
    {
     "name": "Zenón de Citio",
     "start": -334,
     "end": -262,
-    "grp": 12
+    "grp": 12,
+    "per": 3
    },
    {
     "name": "Cleantes",
     "start": -331,
     "end": -232,
-    "grp": 12
+    "grp": 12,
+    "per": 3
    },
    {
     "name": "Crisipo",
     "start": -279,
     "end": -206,
-    "grp": 12
+    "grp": 12,
+    "per": 3
    }
   ],
-  "events": []
+  "events": [],
+  "periods": [
+   {
+    "name": "Periodo cosmológico"
+   },
+   {
+    "name": "Periodo antropológico-social"
+   },
+   {
+    "name": "Periodo sistemático-clásico"
+   },
+   {
+    "name": "Periodo helenístico"
+   }
+  ]
  },
  {
   "id": "A3-KRO-01",
