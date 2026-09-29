@@ -958,6 +958,49 @@ const ILUSTRES = {
    "hf-helenismo"
   ]
  },
+ "escoto_erigena": {
+  "name": "Juan Escoto Erígena",
+  "dates": "c. 810 – c. 877",
+  "born": 810,
+  "died": 877,
+  "place": "Irlanda",
+  "role": "filósofo y teólogo",
+  "idea": "La verdadera filosofía es la verdadera religión, y al revés; toda la naturaleza sale de Dios y vuelve a Él.",
+  "bio": "<p>Juan Escoto nació en Irlanda: eso significan tanto «Escoto» como «Erígena», «nacido en Ériu». Trabajó en la corte del rey carolingio Carlos el Calvo, en Francia, y fue uno de los pocos sabios de su tiempo en Occidente que sabían griego. Tradujo al latín las obras del llamado Pseudo-Dionisio y de otros autores griegos, y así introdujo en Occidente el pensamiento neoplatónico cristiano.</p>\n<p>Su gran obra, <em>Sobre la división de la naturaleza</em>, describe todo lo real como un proceso que sale de Dios y vuelve a Él. Distingue cuatro «naturalezas»: la que crea y no es creada (Dios como origen), la que es creada y crea (las ideas), la que es creada y no crea (las cosas del mundo) y la que ni crea ni es creada (Dios como meta final). Para Erígena, la razón y la fe no pueden contradecirse. Siglos después su obra fue condenada por sospechosa de <strong>panteísmo</strong>, es decir, de confundir a Dios con la naturaleza.</p>",
+  "obras": [
+   "Sobre la división de la naturaleza (Periphyseon)"
+  ],
+  "anecdota": "<p>El cronista Guillermo de Malmesbury cuenta que, en una cena, el rey Carlos el Calvo quiso burlarse de él jugando con las palabras latinas <em>Scottus</em> («irlandés») y <em>sottus</em> («necio»): «¿Qué separa a un escoto de un necio?». Erígena, sentado frente a él, respondió: «Solo la mesa».</p>",
+  "fuente": "Guillermo de Malmesbury, Hechos de los obispos ingleses",
+  "tradicion": true,
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "avicena": {
+  "name": "Avicena",
+  "dates": "980 – 1037",
+  "born": 980,
+  "died": 1037,
+  "place": "Afshana, cerca de Bujará (actual Uzbekistán)",
+  "role": "filósofo y médico persa",
+  "idea": "En todas las cosas creadas se distingue lo que son (esencia) de que existan (existencia); solo en Dios coinciden: Él es el ser necesario.",
+  "bio": "<p>Ibn Sina, conocido en Occidente como Avicena, fue un niño prodigio: según su autobiografía, a los dieciocho años ya dominaba la lógica, las matemáticas y la medicina, y curó al emir de Bujará, que le abrió su gran biblioteca. Vivió después en distintas cortes de Persia, como médico y a veces como visir, en medio de guerras y cambios de gobernante. Su <em>Canon de medicina</em> se estudió en las universidades europeas durante más de quinientos años.</p>\n<p>Su obra filosófica más amplia, el <em>Libro de la curación</em>, recoge y reelabora a Aristóteles y a los neoplatónicos. Avicena distinguió entre la <strong>esencia</strong> de una cosa (lo que es) y su <strong>existencia</strong> (el hecho de que sea): en las criaturas son distintas, porque podrían no existir; solo en Dios son lo mismo, y por eso Él es el <strong>ser necesario</strong>. También propuso el experimento mental del «hombre volante»: alguien creado de golpe, flotando en el aire y sin ninguna sensación, seguiría sabiendo que existe; luego el alma se conoce a sí misma sin el cuerpo. Tomás de Aquino tomó mucho de él.</p>",
+  "obras": [
+   "Canon de medicina",
+   "Libro de la curación"
+  ],
+  "anecdota": "<p>En su autobiografía, Avicena cuenta que leyó cuarenta veces la <em>Metafísica</em> de Aristóteles sin entenderla, hasta sabérsela de memoria. Un día compró por casualidad, a un librero que se la ofrecía barata, una pequeña obra de al-Farabi que explicaba su propósito, y de golpe lo entendió todo. Esa misma tarde, dice, repartió limosnas para dar gracias a Dios.</p>",
+  "fuente": "Avicena, Autobiografía",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
  "anselmo": {
   "name": "Anselmo de Canterbury",
   "dates": "1033 – 1109",
@@ -1009,6 +1052,25 @@ const ILUSTRES = {
    "hf-medieval"
   ]
  },
+ "avempace": {
+  "name": "Avempace",
+  "dates": "c. 1085 – 1138",
+  "born": 1085,
+  "died": 1138,
+  "place": "Zaragoza (al-Ándalus)",
+  "role": "filósofo, médico y músico andalusí",
+  "idea": "En una sociedad imperfecta, el sabio debe vivir como un «solitario», cultivando el entendimiento hasta unirse con el intelecto que ilumina a todos los seres humanos.",
+  "bio": "<p>Ibn Bayya, llamado Avempace por los latinos, nació en Zaragoza cuando era la capital de un reino de taifa. Fue visir del gobernador almorávide de la ciudad, y cuando Zaragoza fue conquistada por Alfonso I el Batallador en 1118 se trasladó a Sevilla, Granada y finalmente Fez, donde murió; según la tradición, envenenado por sus enemigos. Además de filósofo fue médico, astrónomo, poeta y un músico muy apreciado.</p>\n<p>Avempace fue el primer gran filósofo aristotélico de al-Ándalus y abrió el camino a <strong>Averroes</strong>. En <em>El régimen del solitario</em> se pregunta cómo puede vivir bien el sabio en una ciudad que no es justa: su respuesta es que debe apartarse de las opiniones de la mayoría y dedicarse al conocimiento, cuyo fin es la unión con el <strong>intelecto agente</strong>, la inteligencia común que ilumina a todos los seres humanos. Sus comentarios a la <em>Física</em> de Aristóteles, conocidos a través de Averroes, se discutieron en la física medieval latina.</p>",
+  "obras": [
+   "El régimen del solitario",
+   "Comentarios a la Física de Aristóteles"
+  ],
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
  "hildegarda": {
   "name": "Hildegarda de Bingen",
   "dates": "1098 – 1179",
@@ -1035,6 +1097,28 @@ const ILUSTRES = {
    "hf-medieval"
   ]
  },
+ "eloisa": {
+  "name": "Eloísa",
+  "dates": "c. 1100 – 1164",
+  "born": 1100,
+  "died": 1164,
+  "place": "Francia (probablemente París)",
+  "role": "filósofa, escritora y abadesa",
+  "idea": "Lo que cuenta moralmente es la intención con la que se actúa, no lo que se ve desde fuera; y el amor verdadero no busca nada a cambio, ni siquiera el matrimonio.",
+  "bio": "<p>Eloísa se educó en el convento de Argenteuil, cerca de París, y de joven era ya famosa por su cultura: dominaba el latín y, según Abelardo, conocía también el griego y el hebreo, algo excepcional para una mujer del siglo XII. Vivía con su tío Fulberto, canónigo de Notre-Dame, que contrató como profesor a <strong>Pedro Abelardo</strong>, el maestro más célebre de la ciudad. Se enamoraron y tuvieron un hijo, Astrolabio. Eloísa se opuso a casarse: con argumentos tomados de los filósofos antiguos, defendía que el amor libre valía más que un vínculo legal y que el matrimonio estorbaría la vida intelectual de Abelardo. Al final se casaron en secreto, pero la familia de ella, sintiéndose traicionada, hizo castrar a Abelardo, y los dos entraron en la vida religiosa.</p>\n<p>Eloísa llegó a ser abadesa del Paráclito, el monasterio fundado por Abelardo, y lo dirigió durante más de treinta años con gran prestigio; Pedro el Venerable, abad de Cluny, elogió su sabiduría. Se conserva su correspondencia con Abelardo, cuya autoría se discutió durante mucho tiempo y hoy suele aceptarse. En sus cartas reflexiona con una sinceridad inusual sobre el amor, el deseo y su propia vocación: confiesa que entró en el convento por obediencia a Abelardo y no por amor a Dios, y se pregunta qué vale una virtud que solo es apariencia. Es la misma idea que Abelardo desarrolló en su <em>Ética</em>: lo que hace buena o mala una acción es la <strong>intención</strong>. También le envió los <em>Problemas de Eloísa</em>, cuarenta y dos preguntas sobre pasajes difíciles de la Biblia. Hoy se la considera una de las primeras mujeres filósofas de la Edad Media europea.</p>",
+  "obras": [
+   "Cartas (correspondencia con Abelardo)",
+   "Problemas de Eloísa"
+  ],
+  "anecdota": "<p>Eloísa murió en 1164 y fue enterrada en el Paráclito junto a Abelardo, que había muerto veintidós años antes. Sus restos se trasladaron varias veces y en 1817 se colocaron en una tumba común en el cementerio parisino de Père-Lachaise. Desde entonces se ha convertido en lugar de peregrinación de enamorados, que siguen dejando allí flores y cartas. Una leyenda posterior cuenta que, cuando abrieron la tumba de Abelardo para enterrarla a ella, él extendió los brazos para abrazarla.</p>",
+  "fuente": "Crónica de Tours (s. XIII), para la leyenda del abrazo",
+  "tradicion": true,
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
  "averroes": {
   "name": "Averroes",
   "dates": "1126 – 1198",
@@ -1060,6 +1144,68 @@ const ILUSTRES = {
   "temas": [
    "hf-fe-razon"
   ]
+ },
+ "maimonides": {
+  "name": "Maimónides",
+  "dates": "1138 – 1204",
+  "born": 1138,
+  "died": 1204,
+  "place": "Córdoba (al-Ándalus)",
+  "role": "filósofo, médico y rabino",
+  "idea": "La fe y la razón no se contradicen; la Biblia debe leerse a la luz de la razón, y de Dios solo podemos decir lo que no es.",
+  "bio": "<p>Moisés ben Maimón, Maimónides, nació en una familia judía de Córdoba. Cuando los almohades conquistaron la ciudad y persiguieron a judíos y cristianos, su familia tuvo que marcharse; tras años de viaje por al-Ándalus y el norte de África se estableció en Egipto. Allí fue médico de la corte del sultán Saladino y el guía de la comunidad judía. Escribió en hebreo una gran recopilación de la ley judía, la <em>Mishné Torá</em>, que aún se estudia.</p>\n<p>Su obra filosófica principal, escrita en árabe, es la <em>Guía de perplejos</em>, pensada para los creyentes que se sentían confundidos entre lo que dice la Biblia y lo que enseña Aristóteles. Maimónides sostiene que no hay contradicción: cuando un texto sagrado parece ir contra la razón, hay que interpretarlo de forma no literal. Sobre Dios defendió la <strong>teología negativa</strong>: como Dios supera todo lo que podemos pensar, solo podemos decir con verdad lo que <em>no</em> es. Influyó mucho en Tomás de Aquino y en Spinoza.</p>",
+  "obras": [
+   "Guía de perplejos",
+   "Mishné Torá"
+  ],
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "alberto_magno": {
+  "name": "Alberto Magno",
+  "dates": "c. 1200 – 1280",
+  "born": 1200,
+  "died": 1280,
+  "place": "Lauingen (Baviera, Alemania)",
+  "role": "filósofo, teólogo y naturalista dominico",
+  "idea": "La fe y la razón tienen cada una su campo: la naturaleza se conoce observándola y razonando, sin necesidad de recurrir a milagros.",
+  "bio": "<p>Alberto nació en Suabia, en el sur de Alemania, y entró en la orden de los dominicos. Enseñó en la Universidad de París y en Colonia, donde fundó un gran centro de estudios, y fue por poco tiempo obispo de Ratisbona. Sus contemporáneos lo llamaron «Magno» y «Doctor universal» por la amplitud de sus conocimientos. Su alumno más famoso fue <strong>Tomás de Aquino</strong>, al que defendió incluso después de su muerte.</p>\n<p>Alberto se propuso hacer comprensible a <strong>Aristóteles</strong> para los cristianos latinos: comentó casi todas sus obras y mostró que la filosofía, basada en la razón, tiene su propio ámbito, distinto del de la teología. También fue un gran naturalista: escribió sobre plantas, animales y minerales, y añadió observaciones propias a lo que decían los libros antiguos, algo poco habitual en su tiempo. Por eso la Iglesia lo nombró en el siglo XX patrón de quienes se dedican a las ciencias naturales.</p>",
+  "obras": [
+   "Sobre los vegetales",
+   "Sobre los animales",
+   "Comentarios a Aristóteles"
+  ],
+  "anecdota": "<p>Según una tradición recogida por los primeros biógrafos de Tomás de Aquino, sus compañeros de estudios en Colonia lo llamaban «el buey mudo», porque era corpulento y callado. Alberto, que conocía su talento, les respondió: «Llamáis a este buey mudo, pero un día sus mugidos se oirán en todo el mundo».</p>",
+  "fuente": "Guillermo de Tocco, Vida de santo Tomás de Aquino",
+  "tradicion": true,
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "roger_bacon": {
+  "name": "Roger Bacon",
+  "dates": "c. 1220 – c. 1292",
+  "born": 1220,
+  "died": 1292,
+  "place": "Ilchester (Inglaterra)",
+  "role": "filósofo y científico franciscano",
+  "idea": "Sin experiencia no se puede saber nada con seguridad: la ciencia necesita comprobar sus afirmaciones y apoyarse en las matemáticas.",
+  "bio": "<p>Roger Bacon estudió y enseñó en Oxford y en París, y entró en la orden franciscana. Hacia 1267 escribió, a petición del papa Clemente IV, su <em>Obra mayor</em>, una propuesta para reformar todo el saber de su tiempo. Sus admiradores lo llamaron «Doctor admirable». No hay que confundirlo con Francis Bacon, que vivió tres siglos y medio después.</p>\n<p>Bacon criticó que los sabios de su época se fiaran demasiado de las autoridades. Señaló cuatro causas de error: seguir una <strong>autoridad</strong> poco fiable, la <strong>costumbre</strong>, la <strong>opinión de la mayoría</strong> y ocultar la propia ignorancia fingiendo saber. Frente a ellas defendió la <strong>ciencia experimental</strong> y las matemáticas. Estudió la óptica, la refracción de la luz y las lentes, e imaginó máquinas que parecían fantasía, como barcos sin remeros o carros sin animales. Una tradición posterior cuenta que su orden lo encarceló por sus ideas, pero no hay pruebas seguras de ello.</p>",
+  "obras": [
+   "Obra mayor (Opus maius)",
+   "Obra menor",
+   "Obra tercera"
+  ],
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
  },
  "tomas": {
   "name": "Tomás de Aquino",
@@ -1088,6 +1234,65 @@ const ILUSTRES = {
    "hf-fe-razon"
   ]
  },
+ "llull": {
+  "name": "Ramon Llull",
+  "dates": "c. 1232 – c. 1316",
+  "born": 1232,
+  "died": 1316,
+  "place": "Palma (Mallorca)",
+  "role": "filósofo, místico y escritor",
+  "idea": "Combinando unos pocos conceptos básicos se pueden demostrar las verdades de la fe a cualquiera, sea cristiano, musulmán o judío, solo con la razón.",
+  "bio": "<p>Ramon Llull (Raimundo Lulio en castellano) nació en Mallorca, poco después de que el rey Jaime I la conquistara, y fue un noble de la corte. Hacia los treinta años, según su propio relato, tuvo varias visiones de Cristo crucificado que cambiaron su vida: dejó a su familia y se dedicó a convertir a los musulmanes por medio de la razón. Aprendió árabe, fundó una escuela de lenguas para misioneros y viajó varias veces al norte de África. Escribió unas 260 obras en catalán, latín y árabe, y es uno de los creadores de la prosa literaria en catalán.</p>\n<p>Su gran invento es el <strong>Arte</strong>: un sistema que combina, con figuras y círculos giratorios, unos pocos principios básicos (bondad, grandeza, eternidad…) para obtener todas las respuestas posibles a una pregunta. Llull creía que así podría demostrar la verdad del cristianismo a cualquiera sin recurrir a autoridades. Es un antecedente de la <strong>combinatoria</strong> y de la idea de un razonamiento mecánico, que admiró Leibniz. En el <em>Libro del gentil y los tres sabios</em>, un judío, un cristiano y un musulmán exponen sus creencias con respeto ante un pagano, que no dice cuál elige.</p>",
+  "obras": [
+   "Arte magna",
+   "Libro del gentil y los tres sabios",
+   "Blanquerna"
+  ],
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "dante": {
+  "name": "Dante Alighieri",
+  "dates": "1265 – 1321",
+  "born": 1265,
+  "died": 1321,
+  "place": "Florencia (Italia)",
+  "role": "poeta y pensador político",
+  "idea": "El ser humano tiene dos fines, la felicidad en esta vida y en la otra; para la primera hace falta un emperador que garantice la paz, independiente del papa.",
+  "bio": "<p>Dante nació en Florencia y participó activamente en la política de su ciudad, dividida entre bandos enfrentados. En 1302 sus adversarios lo condenaron al destierro y nunca pudo volver: vivió en distintas cortes de Italia y murió en Rávena. En el exilio escribió la <em>Divina Comedia</em>, un viaje imaginario por el Infierno, el Purgatorio y el Paraíso, guiado primero por el poeta Virgilio y después por Beatriz. Es la obra fundadora de la literatura italiana.</p>\n<p>La <em>Comedia</em> está llena de filosofía: en el Limbo aparecen Sócrates, Platón y Aristóteles, «el maestro de los que saben», e incluso Avicena y Averroes. En el <em>Convivio</em> quiso llevar la filosofía a quienes no sabían latín, escribiendo en italiano. Y en <em>Monarquía</em> defendió que el poder del <strong>emperador</strong> viene directamente de Dios y no del papa: la Iglesia debe ocuparse de la salvación, y el poder político, de la paz y la felicidad en la tierra. Por esa tesis el libro fue quemado públicamente en 1329.</p>",
+  "obras": [
+   "Divina Comedia",
+   "Convivio",
+   "Monarquía"
+  ],
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "duns_escoto": {
+  "name": "Juan Duns Escoto",
+  "dates": "c. 1266 – 1308",
+  "born": 1266,
+  "died": 1308,
+  "place": "Duns (Escocia)",
+  "role": "filósofo y teólogo franciscano",
+  "idea": "Cada individuo tiene algo propio que lo hace único, su «esteidad»; y en Dios y en el ser humano la voluntad está por encima del entendimiento.",
+  "bio": "<p>Juan Duns Escoto nació en Duns, en Escocia, y fue fraile franciscano. Enseñó en Oxford, en París, de donde tuvo que marcharse un tiempo por apoyar al papa frente al rey de Francia, y en Colonia, donde murió joven. Por la finura de sus razonamientos lo llamaron el «Doctor sutil».</p>\n<p>Frente a Tomás de Aquino defendió que el concepto de <strong>ser</strong> se aplica en el mismo sentido a Dios y a las criaturas, lo que permite hablar de Dios con rigor. Para explicar qué hace único a cada individuo introdujo la <strong>esteidad</strong> (<em>haecceitas</em>, de <em>haec</em>, «esta»): lo que hace que Sócrates sea este hombre y no otro. También sostuvo la primacía de la <strong>voluntad</strong> sobre el entendimiento: Dios no quiere algo porque sea bueno, sino que es bueno porque Dios lo quiere, dentro de los límites de la lógica. Sus ideas abrieron el camino a Ockham. Curiosamente, en el siglo XVI los humanistas se burlaban de sus seguidores llamándolos <em>dunces</em>, y de ahí viene la palabra inglesa <em>dunce</em>, «burro», «zopenco».</p>",
+  "obras": [
+   "Ordinatio",
+   "Tratado del primer principio"
+  ],
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
  "ockham": {
   "name": "Guillermo de Ockham",
   "dates": "c. 1287 – 1347",
@@ -1114,6 +1319,68 @@ const ILUSTRES = {
    "hf-medieval",
    "hf-fe-razon"
   ]
+ },
+ "nicolas_cusa": {
+  "name": "Nicolás de Cusa",
+  "dates": "1401 – 1464",
+  "born": 1401,
+  "died": 1464,
+  "place": "Kues (junto al Mosela, Alemania)",
+  "role": "filósofo, teólogo y cardenal",
+  "idea": "Lo más alto que podemos saber es que no sabemos: una «docta ignorancia»; en Dios, infinito, coinciden los opuestos.",
+  "bio": "<p>Nicolás nació en Kues, a orillas del río Mosela, y su nombre latino, Cusanus, viene de ahí. Estudió derecho y matemáticas, fue cardenal y diplomático al servicio del papa, y viajó por media Europa y hasta Constantinopla. Vivió entre la Edad Media y el Renacimiento, y su pensamiento anuncia la nueva época.</p>\n<p>En su obra <em>La docta ignorancia</em> sostiene que nuestro conocimiento avanza por comparación, midiendo lo desconocido con lo conocido; por eso lo <strong>infinito</strong> no se puede conocer, y la verdadera sabiduría es saber que no sabemos. En Dios, infinito, se produce la <strong>coincidencia de los opuestos</strong>: lo máximo y lo mínimo son lo mismo. También dijo que el universo no tiene un centro fijo ni un límite, de modo que la Tierra no ocupa un lugar privilegiado, una idea que retomaría Giordano Bruno. Tras la caída de Constantinopla escribió <em>La paz de la fe</em>, un diálogo en el que representantes de distintas religiones buscan lo que las une.</p>",
+  "obras": [
+   "La docta ignorancia",
+   "La paz de la fe"
+  ],
+  "block": "ren",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "pico": {
+  "name": "Giovanni Pico della Mirandola",
+  "dates": "1463 – 1494",
+  "born": 1463,
+  "died": 1494,
+  "place": "Mirandola (Italia)",
+  "role": "humanista y filósofo",
+  "idea": "El ser humano no tiene una naturaleza fija: puede elegir lo que quiere ser, rebajarse hasta las bestias o elevarse hasta lo divino.",
+  "bio": "<p>Pico nació en una familia noble del norte de Italia y tenía una memoria prodigiosa. Estudió en Bolonia, Padua y París, aprendió griego, hebreo y árabe, y se unió en Florencia al círculo platónico de Marsilio Ficino, bajo la protección de Lorenzo de Médici. En 1486 propuso debatir públicamente en Roma <strong>900 tesis</strong> tomadas de todas las tradiciones: Platón, Aristóteles, los árabes, la cábala judía… Quería mostrar que todas las filosofías contienen una parte de la verdad. El papa suspendió el debate y condenó varias tesis, y Pico tuvo que huir a Francia, donde fue detenido por un tiempo. Murió en Florencia con solo 31 años; análisis recientes de sus restos apuntan a un envenenamiento por arsénico.</p>\n<p>El discurso con el que pensaba abrir aquel debate, conocido como <em>Discurso sobre la dignidad del hombre</em>, se considera un manifiesto del Renacimiento. En él, Dios le dice al ser humano que no le ha dado un lugar fijo ni una forma propia, para que sea él mismo quien la elija: puede degenerar hasta las bestias o regenerarse hasta lo divino. La <strong>dignidad humana</strong> está, para Pico, en esa <strong>libertad</strong>.</p>",
+  "obras": [
+   "Discurso sobre la dignidad del hombre",
+   "900 tesis"
+  ],
+  "block": "ren",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "erasmo": {
+  "name": "Erasmo de Róterdam",
+  "dates": "c. 1466 – 1536",
+  "born": 1466,
+  "died": 1536,
+  "place": "Róterdam (Países Bajos)",
+  "role": "humanista y teólogo",
+  "idea": "La verdadera religión es vivir con bondad y en paz siguiendo el Evangelio, no las ceremonias ni las disputas de los teólogos; y para ello hace falta leer bien los textos y educar.",
+  "bio": "<p>Erasmo fue hijo ilegítimo de un sacerdote y quedó huérfano muy joven. Ingresó en un convento de canónigos agustinos y fue ordenado sacerdote, pero pronto dejó la vida de convento para estudiar y viajar: París, Inglaterra, donde fue gran amigo de <strong>Tomás Moro</strong>, Italia y Basilea. Fue el intelectual más famoso de Europa, el «príncipe de los humanistas», y publicó en 1516 la primera edición impresa del Nuevo Testamento en griego, con su propia traducción latina.</p>\n<p>En el <em>Elogio de la locura</em> (1511), dedicado a Moro, la Locura en persona se burla de los teólogos que discuten cuestiones inútiles, de los monjes ignorantes y de los reyes y papas que hacen la guerra. Erasmo defendía una religión sencilla, interior y basada en el Evangelio, y fue un firme <strong>pacifista</strong>. Criticó los abusos de la Iglesia, pero no quiso romper con ella: cuando Lutero negó el libre albedrío, Erasmo escribió en su defensa, y los dos acabaron enfrentados. El programa europeo de intercambios universitarios Erasmus lleva hoy su nombre.</p>",
+  "obras": [
+   "Elogio de la locura",
+   "Manual del caballero cristiano",
+   "Sobre el libre albedrío",
+   "Lamento de la paz"
+  ],
+  "anecdota": "<p>En su época circulaba un dicho: «Erasmo puso el huevo y Lutero lo empolló», es decir, que sus críticas a la Iglesia habían preparado la Reforma. Erasmo contestó con ironía, en una carta, que él había puesto un huevo de gallina y que Lutero había sacado de él un pájaro muy distinto.</p>",
+  "fuente": "Erasmo, carta a Johannes Caesarius (1524)",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
  },
  "maquiavelo": {
   "name": "Nicolás Maquiavelo",
@@ -1167,6 +1434,27 @@ const ILUSTRES = {
    "hf-descartes-makro"
   ]
  },
+ "tomas_moro": {
+  "name": "Tomás Moro",
+  "dates": "1478 – 1535",
+  "born": 1478,
+  "died": 1535,
+  "place": "Londres (Inglaterra)",
+  "role": "humanista, jurista y político",
+  "idea": "Una sociedad justa exige acabar con la propiedad privada y organizar el trabajo de todos para que nadie pase necesidad.",
+  "bio": "<p>Tomás Moro fue abogado, humanista y gran amigo de <strong>Erasmo de Róterdam</strong>, que le dedicó su <em>Elogio de la locura</em>. Llegó a ser lord canciller, el cargo más alto del reino después del rey Enrique VIII. Pero cuando el rey rompió con Roma para poder divorciarse y se proclamó jefe de la Iglesia de Inglaterra, Moro se negó a jurarlo. Fue encarcelado en la Torre de Londres y decapitado en 1535.</p>\n<p>En 1516 publicó <em>Utopía</em>, palabra que inventó él y que significa «en ningún lugar». Describe una isla imaginaria donde no existe la propiedad privada, todos trabajan unas seis horas al día, los gobernantes son elegidos y se respetan las distintas religiones. Al contrastarla con la Inglaterra de su tiempo, en la que los campesinos eran expulsados de sus tierras y los pobres ahorcados por robar, Moro hace una dura crítica social. El libro dio nombre a todo un género: el de las <strong>utopías</strong> o sociedades ideales.</p>",
+  "obras": [
+   "Utopía"
+  ],
+  "anecdota": "<p>Según sus primeros biógrafos, Moro mantuvo el sentido del humor hasta el final. Al subir al cadalso, que se tambaleaba, le dijo al oficial: «Ayudadme a subir; para bajar ya me las arreglaré solo». Y antes de recibir el golpe apartó su barba del tajo, porque, dijo, ella no había cometido ninguna traición.</p>",
+  "fuente": "William Roper, Vida de sir Tomás Moro; Edward Hall, Crónica",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
  "lutero": {
   "name": "Martín Lutero",
   "dates": "1483 – 1546",
@@ -1216,6 +1504,49 @@ const ILUSTRES = {
   "temas": [
    "hf-descartes-makro"
   ]
+ },
+ "giordano_bruno": {
+  "name": "Giordano Bruno",
+  "dates": "1548 – 1600",
+  "born": 1548,
+  "died": 1600,
+  "place": "Nola (cerca de Nápoles, Italia)",
+  "role": "filósofo y cosmólogo",
+  "idea": "El universo es infinito y está lleno de infinitos mundos; cada estrella es un sol con sus propios planetas.",
+  "bio": "<p>Giordano Bruno fue fraile dominico, pero abandonó la orden acusado de herejía y recorrió Europa durante años: Ginebra, Toulouse, París, Londres, Wittenberg, Praga… En todas partes enseñó y discutió, y en muchas acabó enfrentado con las autoridades, católicas o protestantes. En 1592 fue denunciado en Venecia y entregado a la Inquisición romana. Tras un proceso de casi ocho años, se negó a retractarse y fue quemado vivo en Roma, en el Campo de’ Fiori, en 1600.</p>\n<p>Bruno aceptó la teoría de <strong>Copérnico</strong>, según la cual la Tierra gira alrededor del Sol, y fue mucho más lejos: el universo es <strong>infinito</strong>, no tiene centro, y las estrellas son soles rodeados de otros mundos, quizá habitados. Dios no está fuera del mundo, sino presente en toda la naturaleza. Fue condenado sobre todo por negar dogmas cristianos, no solo por su cosmología, pero su figura se convirtió en un símbolo de la libertad de pensamiento: en 1889 se le levantó una estatua en el lugar donde murió.</p>",
+  "obras": [
+   "Sobre el infinito universo y los mundos",
+   "La cena de las cenizas",
+   "De la causa, principio y uno"
+  ],
+  "block": "ren",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
+ "francis_bacon": {
+  "name": "Francis Bacon",
+  "dates": "1561 – 1626",
+  "born": 1561,
+  "died": 1626,
+  "place": "Londres (Inglaterra)",
+  "role": "filósofo, jurista y político",
+  "idea": "Saber es poder: la ciencia debe partir de la observación de la naturaleza y avanzar por inducción, libre de los prejuicios de la mente.",
+  "bio": "<p>Francis Bacon fue abogado y político, y llegó a lord canciller con el rey Jacobo I, hasta que en 1621 fue acusado de aceptar sobornos y apartado de sus cargos. Dedicó entonces sus últimos años a la filosofía. No hay que confundirlo con Roger Bacon, el franciscano medieval.</p>\n<p>En su <em>Novum organum</em> («nuevo instrumento»), cuyo título responde al <em>Organon</em> de Aristóteles, propone un método nuevo para la ciencia: observar muchos casos, compararlos y llegar poco a poco a leyes generales, es decir, la <strong>inducción</strong>. Antes hay que librarse de los <strong>ídolos</strong>, los errores que deforman nuestro conocimiento: los de la tribu (propios de la naturaleza humana), los de la caverna (de cada individuo), los del foro (del lenguaje) y los del teatro (de las teorías heredadas). Para Bacon, el fin del saber es mejorar la vida humana: «saber es poder». En <em>La nueva Atlántida</em> imaginó una sociedad organizada en torno a la investigación científica.</p>",
+  "obras": [
+   "Novum organum",
+   "Ensayos",
+   "La nueva Atlántida"
+  ],
+  "anecdota": "<p>Según John Aubrey, un día de nieve de 1626 Bacon quiso comprobar si el frío conservaba la carne. Paró su carruaje, compró una gallina, la hizo matar y la rellenó él mismo de nieve. Se enfrió tanto que enfermó y murió pocos días después. La historia encaja demasiado bien con su defensa del experimento, y los historiadores dudan de que ocurriera exactamente así.</p>",
+  "fuente": "John Aubrey, Vidas breves",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
  },
  "galileo": {
   "name": "Galileo Galilei",
@@ -1542,7 +1873,7 @@ const ILUSTRES = {
    "Cartas persas (1721)",
    "Del espíritu de las leyes (1748)"
   ],
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],
@@ -1568,7 +1899,7 @@ const ILUSTRES = {
   "anecdota": "<p>En 1729, el matemático La Condamine descubrió un fallo en una lotería organizada por el gobierno francés: los premios superaban lo que costaba comprar todos los billetes. Voltaire se unió a él y a otros socios, compraron billetes en masa durante meses y ganaron una fortuna. Con ese dinero, bien invertido después, Voltaire se hizo rico e independiente. No necesitó protectores ni pensiones, y esa independencia económica le permitió escribir con una libertad que pocos autores de su tiempo podían permitirse.</p>",
   "fuente": "Biografías de Voltaire, a partir de testimonios de la época",
   "tradicion": false,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],
@@ -1592,7 +1923,7 @@ const ILUSTRES = {
   "anecdota": "<p>En noviembre de 1751, La Mettrie acudió a un banquete en casa del embajador francés en Berlín, lord Tyrconnell, a quien había tratado como médico. Poco después cayó enfermo y murió en pocos días; Voltaire y otros testigos atribuyeron el mal a un paté de trufas que habría comido en exceso. Sus enemigos se burlaron de aquel final tan poco filosófico, pero el propio Federico II escribió su elogio fúnebre y lo hizo leer en la Academia de Berlín. Era un gesto insólito: un rey defendía en público la memoria del autor más escandaloso de su tiempo.</p>",
   "fuente": "Cartas de Voltaire desde Berlín; Federico II, Elogio de La Mettrie",
   "tradicion": false,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],
@@ -1618,7 +1949,7 @@ const ILUSTRES = {
   "anecdota": "<p>Se cuenta que Hume, ya corpulento y famoso por su escepticismo religioso, se cayó en una zanja cenagosa al atajar por una zona en obras de Edimburgo. Una vecina que pasaba lo reconoció como «Hume el ateo» y se negó a sacarlo de allí hasta que rezase el padrenuestro y el credo. Él, con su buen humor habitual, los recitó sin protestar, y ella le tendió la mano. La escena resume bien su carácter: tenía ideas incómodas para su época, pero todos sus contemporáneos destacaban su trato afable y su falta de rencor.</p>",
   "fuente": "Tradición de Edimburgo, recogida en biografías de Hume (E. C. Mossner, The Life of David Hume)",
   "tradicion": true,
-  "block": "ren",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],
@@ -1645,7 +1976,7 @@ const ILUSTRES = {
   "anecdota": "<p>En el verano de 1749, Rousseau caminaba desde París hasta el castillo de Vincennes para visitar a su amigo Diderot, que estaba allí preso. Para descansar, hojeaba el <em>Mercure de France</em>, y en él leyó la pregunta de un concurso de la Academia de Dijon: si el progreso de las ciencias y las artes había mejorado las costumbres. Según contó él mismo, sintió una especie de iluminación repentina, tuvo que sentarse bajo un árbol y se encontró llorando. De aquel momento nació su primer <em>Discurso</em> y, con él, la idea que recorre toda su obra.</p>",
   "fuente": "Rousseau, Confesiones, libro VIII; Segunda carta a Malesherbes (1762)",
   "tradicion": false,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],
@@ -1672,13 +2003,32 @@ const ILUSTRES = {
   "anecdota": "<p>Hacia 1765, Diderot necesitaba dinero para dotar a su hija y decidió vender su biblioteca, su bien más preciado. La emperatriz Catalina II de Rusia, admiradora de los ilustrados, la compró por una buena suma, pero con una condición generosa: Diderot conservaría los libros en París mientras viviera y cobraría un sueldo como su bibliotecario. Cuando el pago se retrasó, la zarina le adelantó cincuenta años de salario de una vez. En 1773, Diderot viajó a San Petersburgo para agradecérselo y conversó largamente con ella sobre política y reformas.</p>",
   "fuente": "Correspondencia de Diderot; testimonios de la época (Grimm, Correspondance littéraire)",
   "tradicion": false,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],
   "temas": [
    "hf-ilustracion"
   ]
+ },
+ "helvetius": {
+  "name": "Claude-Adrien Helvétius",
+  "dates": "1715 – 1771",
+  "born": 1715,
+  "died": 1771,
+  "place": "París (Francia)",
+  "role": "filósofo materialista de la Ilustración",
+  "idea": "Las diferencias entre las personas se deben a la educación y al ambiente; el interés guía la conducta, y las buenas leyes hacen que el interés de cada uno coincida con el de todos.",
+  "bio": "<p>Helvétius fue recaudador de impuestos para el rey, un cargo que lo hizo muy rico, y lo abandonó para dedicarse a la filosofía. En 1758 publicó <em>Del espíritu</em>, que causó un enorme escándalo: lo condenaron la Sorbona, el Parlamento de París y el papa, y el libro fue quemado públicamente. Helvétius tuvo que retractarse. Su obra siguiente, <em>Del hombre</em>, se publicó después de su muerte.</p>\n<p>Su tesis más atrevida es que todos nacemos con capacidades parecidas: lo que nos diferencia es la <strong>educación</strong> y el ambiente. Por eso, si se mejora la educación y las leyes, se mejora a las personas. Para Helvétius el motor de toda conducta es el <strong>interés</strong>, la búsqueda del placer y la huida del dolor; la tarea del legislador es organizar la sociedad para que, al buscar su propio interés, cada uno contribuya a la felicidad general. Esta idea inspiró directamente el <strong>utilitarismo</strong> de Bentham.</p>",
+  "obras": [
+   "Del espíritu",
+   "Del hombre"
+  ],
+  "block": "ilu",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
  },
  "dalembert": {
   "name": "Jean le Rond d'Alembert",
@@ -1696,13 +2046,32 @@ const ILUSTRES = {
   "anecdota": "<p>El bebé abandonado en las escaleras de Saint-Jean-le-Rond fue criado por la mujer de un vidriero, y D'Alembert, ya célebre académico, siguió viviendo en su modesta casa hasta pasados los cuarenta años. Según la tradición, su madre biológica, la aristócrata Madame de Tencin, intentó reconocerlo cuando se hizo famoso, y él respondió que su única madre era la vidriera. Sea o no exacta la frase, D'Alembert siempre mostró gratitud a quien lo había cuidado, y su éxito se convirtió en un ejemplo ilustrado: el mérito podía más que el nacimiento.</p>",
   "fuente": "Condorcet, Elogio de D'Alembert; tradición biográfica",
   "tradicion": true,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],
   "temas": [
    "hf-ilustracion"
   ]
+ },
+ "holbach": {
+  "name": "Barón d'Holbach",
+  "dates": "1723 – 1789",
+  "born": 1723,
+  "died": 1789,
+  "place": "Edesheim (Palatinado, Alemania)",
+  "role": "filósofo materialista y enciclopedista",
+  "idea": "Solo existe la materia en movimiento; el ser humano es parte de la naturaleza, y la religión nace del miedo y de la ignorancia.",
+  "bio": "<p>Paul-Henri Thiry, barón d'Holbach, nació en Alemania, pero vivió en París, donde heredó una gran fortuna. Su casa se convirtió en el salón más audaz de la <strong>Ilustración</strong>: allí se reunían cada semana Diderot, Helvétius, D'Alembert y visitantes como Hume, para discutir con una libertad que no existía en ningún otro lugar. Escribió cientos de artículos de ciencia para la <em>Enciclopedia</em>.</p>\n<p>En el <em>Sistema de la naturaleza</em> (1770), publicado con un nombre falso para evitar la persecución, defendió un <strong>materialismo</strong> completo: todo, incluido el pensamiento, se explica por la materia y sus leyes, y no hay alma inmortal ni Dios. Fue uno de los primeros autores en declararse abiertamente <strong>ateo</strong>. Pensaba que la religión se aprovecha del miedo y la ignorancia, y que una moral basada en la razón y en la búsqueda de la felicidad común haría a las personas mejores y más libres.</p>",
+  "obras": [
+   "Sistema de la naturaleza",
+   "El cristianismo desvelado"
+  ],
+  "block": "ilu",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
  },
  "smith": {
   "name": "Adam Smith",
@@ -1720,7 +2089,7 @@ const ILUSTRES = {
   "anecdota": "<p>Adam Smith era famoso por sus despistes. Sus contemporáneos lo describían hablando solo por la calle y moviendo los labios como si discutiera con alguien invisible. Se cuenta que una mañana salió al jardín en bata, sumido en sus pensamientos, y siguió caminando hasta llegar a otra localidad, a varios kilómetros, donde lo despertaron las campanas de la iglesia. Otra historia asegura que, mientras explicaba la división del trabajo durante la visita a una curtiduría, cayó en una de las cubas. Son relatos exagerados, pero reflejan al pensador absorto que imaginaban sus vecinos.</p>",
   "fuente": "Dugald Stewart, Account of the Life and Writings of Adam Smith (sobre sus despistes); anécdotas de la tradición escocesa",
   "tradicion": true,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],
@@ -1746,7 +2115,7 @@ const ILUSTRES = {
   "anecdota": "<p>Según la tradición, los vecinos de Königsberg ponían en hora sus relojes cuando veían pasar a Kant en su paseo diario de la tarde, siempre a la misma hora y por el mismo recorrido. Solo una vez, se cuenta, faltó a la cita: los días en que se quedó en casa absorto leyendo el <em>Emilio</em> de Rousseau, recién publicado. La anécdota quizá esté adornada, pero la admiración era real: Kant tenía en su estudio un único retrato, el de Rousseau, y reconocía que él le había enseñado a respetar la dignidad de cualquier ser humano.</p>",
   "fuente": "Tradición biográfica; sobre sus costumbres, biografías de Borowski, Jachmann y Wasianski",
   "tradicion": true,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],
@@ -1775,7 +2144,7 @@ const ILUSTRES = {
   "anecdota": "<p>Bentham quiso ser útil incluso después de morir. En su testamento dispuso que su cuerpo se usara para la enseñanza de la anatomía y que después su esqueleto, vestido con su ropa y sentado en su silla, se conservara como un «autoicono». Así se hizo: hoy puede verse en una vitrina del University College de Londres, aunque la cabeza es de cera. Circula la leyenda de que asiste a las reuniones del consejo de la universidad con la anotación «presente, pero sin voto». Detrás de la excentricidad había una idea utilitarista: un cadáver también puede servir al bien común.</p>",
   "fuente": "Testamento de Bentham; University College London",
   "tradicion": false,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],
@@ -1799,13 +2168,31 @@ const ILUSTRES = {
   "anecdota": "<p>En diciembre de 1792, cuando la Convención se disponía a juzgar a Luis XVI, Olympe de Gouges escribió a los diputados para ofrecerse como defensora del rey, junto al abogado Malesherbes. No era monárquica: defendía que el rey fuera juzgado, pero no ejecutado, y pensaba que una república fuerte no necesitaba derramar su sangre. La Convención rechazó su oferta alegando, entre otras cosas, que era mujer. El episodio muestra su independencia de criterio y su valentía, que acabaron por enfrentarla con los jacobinos.</p>",
   "fuente": "Carta de Olympe de Gouges a la Convención (diciembre de 1792)",
   "tradicion": false,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],
   "temas": [
    "hf-ilustracion"
   ]
+ },
+ "hamilton": {
+  "name": "Alexander Hamilton",
+  "dates": "c. 1755 – 1804",
+  "born": 1755,
+  "died": 1804,
+  "place": "Nevis (Antillas británicas)",
+  "role": "político y pensador político estadounidense",
+  "idea": "La libertad se protege mejor con un gobierno fuerte y bien equilibrado, en el que los poderes separados se vigilan unos a otros.",
+  "bio": "<p>Alexander Hamilton nació en la isla caribeña de Nevis, hijo ilegítimo y pronto huérfano. Llegó a Nueva York para estudiar, luchó en la guerra de Independencia de Estados Unidos como ayudante del general Washington y fue uno de los principales impulsores de la Constitución de 1787. Fue el primer secretario del Tesoro del país. Murió en 1804, a consecuencia de un duelo con su rival político Aaron Burr.</p>\n<p>Junto con James Madison y John Jay escribió <em>El Federalista</em>, 85 artículos que defendían la nueva Constitución; Hamilton escribió la mayoría. Siguiendo a <strong>Montesquieu</strong>, sostiene que la libertad exige la <strong>separación de poderes</strong> y un sistema de controles mutuos, pero añade que un gobierno débil es tan peligroso como uno tiránico: hace falta un poder ejecutivo con energía y unos jueces independientes capaces de anular las leyes contrarias a la Constitución. Estas ideas siguen en el centro del debate sobre las democracias constitucionales.</p>",
+  "obras": [
+   "El Federalista (con Madison y Jay)"
+  ],
+  "block": "ilu",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
  },
  "wollstonecraft": {
   "name": "Mary Wollstonecraft",
@@ -1824,7 +2211,7 @@ const ILUSTRES = {
   "anecdota": "<p>En 1795, Mary Wollstonecraft emprendió un viaje poco común para una mujer de su tiempo: recorrió Suecia, Noruega y Dinamarca para resolver un asunto comercial de su pareja, acompañada solo por su hija pequeña y una niñera. De esa experiencia nacieron sus <em>Cartas escritas en Suecia, Noruega y Dinamarca</em>, donde mezcla la descripción de paisajes con reflexiones sobre la sociedad y la condición de las mujeres. El libro tuvo mucho éxito, y William Godwin confesó más tarde que, al leerlo, se había enamorado de su autora.</p>",
   "fuente": "Wollstonecraft, Cartas escritas en Suecia, Noruega y Dinamarca; William Godwin, Memorias de la autora de «Vindicación de los derechos de la mujer»",
   "tradicion": false,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],
@@ -1928,7 +2315,7 @@ const ILUSTRES = {
   "anecdota": "<p>En 1865, durante su campaña para el Parlamento, Mill se reunió con un público de trabajadores. Un adversario había difundido un cartel con una frase de uno de sus libros, donde decía que las clases trabajadoras, aunque se avergonzaban de mentir, solían ser mentirosas. Le preguntaron si la había escrito, y Mill respondió sin dudar: «Sí, la escribí». Según su <em>Autobiografía</em>, el público estalló en aplausos, porque valoraba que un candidato no intentara esquivar la pregunta. Mill ganó el escaño y lo usó para defender, entre otras causas, el voto de las mujeres.</p>",
   "fuente": "John Stuart Mill, Autobiografía",
   "tradicion": false,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "hf"
   ],

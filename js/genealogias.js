@@ -1,0 +1,75 @@
+"use strict";
+/* ===== Genealogías: líneas de pensamiento a lo largo de la historia (vista diacrónica) =====
+   (29-09) Complemento de los Cronogramas (sincronía): aquí no hay eje de años, sino el orden en que
+   una tradición pasa de unos pensadores a otros. Relaciones deliberadamente aproximadas.
+   lineas: {id, name, color, desc, ilustre: [ids de ILUSTRES en orden]}; un mismo pensador en varias
+   líneas es un «transbordo». op: [{ilustre: [idA, idB]}] oposiciones clave (línea roja discontinua). Los ids van en campos «ilustre», que la traducción no toca.
+   Solo ids con ficha en Ilustres de Historia de la Filosofía (los nombres salen de ILUSTRES). */
+const GENEALOGIAS = {
+ lineas: [
+  { id: "idea", name: "Razón e Ideas", color: "#2f6fd6",
+    desc: "El verdadero conocimiento viene de la razón, no de los sentidos.",
+    ilustre: ["parmenides", "platon", "plotino", "agustin", "anselmo", "descartes", "spinoza", "leibniz", "kant", "hegel"] },
+  { id: "dual", name: "Dualismo alma-cuerpo", color: "#1b9e9e",
+    desc: "El ser humano es dos cosas distintas: un alma o mente inmaterial y un cuerpo material.",
+    ilustre: ["pitagoras", "platon", "plotino", "agustin", "avicena", "descartes", "malebranche", "leibniz", "chalmers"] },
+  { id: "exp", name: "Experiencia y ciencia", color: "#d95f02",
+    desc: "Todo conocimiento empieza por la experiencia y se comprueba con ella.",
+    ilustre: ["aristoteles", "roger_bacon", "ockham", "francis_bacon", "galileo", "locke", "berkeley", "hume", "mill", "russell", "popper"] },
+  { id: "mat", name: "Materia y naturaleza", color: "#7a5230",
+    desc: "Solo existe la materia; también el ser humano se explica por la naturaleza.",
+    ilustre: ["leucipo", "democrito", "epicuro", "hobbes", "lamettrie", "holbach", "feuerbach", "darwin", "marx"] },
+  { id: "fe", name: "Fe y razón", color: "#8a4b84",
+    desc: "Cómo armonizar lo que se cree con lo que se demuestra.",
+    ilustre: ["plotino", "agustin", "escoto_erigena", "avicena", "anselmo", "averroes", "maimonides", "alberto_magno", "tomas", "duns_escoto", "ockham"] },
+  { id: "esc", name: "Escepticismo", color: "#6b7a8f",
+    desc: "No podemos alcanzar certezas: lo sensato es suspender el juicio o conformarse con lo probable.",
+    ilustre: ["gorgias", "pirron", "timon", "arcesilao", "carneades", "nicolas_cusa", "hume"] },
+  { id: "duda", name: "Duda metódica y crítica", color: "#8f6600",
+    desc: "Dudar para saber: la duda como método y la crítica de los límites del conocimiento.",
+    ilustre: ["socrates", "descartes", "hume", "kant", "popper"] },
+  { id: "vida", name: "Felicidad y vida buena", color: "#2e9e6b",
+    desc: "La ética como arte de vivir bien: virtud, placer, utilidad.",
+    ilustre: ["socrates", "aristipo", "aristoteles", "diogenes", "epicuro", "zenon", "spinoza", "hume", "bentham", "mill", "nussbaum"] },
+  { id: "pol", name: "Poder y Estado", color: "#c0392b",
+    desc: "Quién debe mandar y por qué obedecemos: de la polis al contrato y la democracia.",
+    ilustre: ["platon", "aristoteles", "maquiavelo", "hobbes", "locke", "montesquieu", "rousseau", "hamilton", "marx", "arendt", "rawls", "habermas"] },
+  { id: "dia", name: "Devenir, dialéctica y crítica social", color: "#b44fc4",
+    desc: "La realidad cambia por el choque de contrarios; la filosofía como crítica de la sociedad.",
+    ilustre: ["heraclito", "hegel", "feuerbach", "marx", "horkheimer", "adorno", "habermas"] },
+  { id: "sos", name: "Sospecha y posmodernidad", color: "#e377c2",
+    desc: "Detrás de la verdad y la conciencia hay intereses, pulsiones y poder.",
+    ilustre: ["nietzsche", "freud", "heidegger", "foucault", "lyotard", "baudrillard", "derrida", "vattimo"] },
+  { id: "ex", name: "Existencia y libertad", color: "#3fa7c9",
+    desc: "El ser humano concreto, su libertad y su angustia.",
+    ilustre: ["agustin", "nietzsche", "unamuno", "ortega", "heidegger", "zambrano", "sartre", "beauvoir"] },
+  { id: "fem", name: "Mujeres y feminismo", color: "#a8b82e",
+    desc: "De las filósofas olvidadas a la crítica del patriarcado y del género.",
+    ilustre: ["aspasia", "hipatia", "hildegarda", "eloisa", "isabel", "gouges", "wollstonecraft", "mill", "beauvoir", "butler", "herrero", "preciado"] },
+  { id: "len", name: "Lógica y lenguaje", color: "#5b4fc4",
+    desc: "Pensar bien es hablar con rigor: de la lógica al giro lingüístico.",
+    ilustre: ["aristoteles", "ockham", "llull", "leibniz", "russell", "wittgenstein", "carnap", "ryle", "popper", "chomsky"] }
+ ],
+ op: [
+  { ilustre: ["heraclito", "parmenides"] },
+  { ilustre: ["protagoras", "socrates"] },
+  { ilustre: ["platon", "aristoteles"] },
+  { ilustre: ["epicuro", "zenon"] },
+  { ilustre: ["tomas", "averroes"] },
+  { ilustre: ["tomas", "ockham"] },
+  { ilustre: ["descartes", "hume"] },
+  { ilustre: ["hobbes", "rousseau"] },
+  { ilustre: ["rousseau", "wollstonecraft"] },
+  { ilustre: ["kant", "bentham"] },
+  { ilustre: ["hegel", "marx"] },
+  { ilustre: ["hegel", "nietzsche"] },
+  { ilustre: ["marx", "popper"] },
+  { ilustre: ["habermas", "foucault"] },
+  { ilustre: ["sartre", "foucault"] },
+  { ilustre: ["descartes", "isabel"] },
+  { ilustre: ["descartes", "spinoza"] },
+  { ilustre: ["descartes", "ryle"] },
+  { ilustre: ["descartes", "pirron"] },
+  { ilustre: ["arcesilao", "zenon"] }
+ ]
+};
