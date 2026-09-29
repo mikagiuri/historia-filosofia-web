@@ -48,7 +48,7 @@ const GENEALOGIAS = {
     ilustre: ["aspasia", "hipatia", "hildegarda", "eloisa", "isabel", "gouges", "wollstonecraft", "mill", "beauvoir", "butler", "herrero", "preciado"] },
   { id: "len", name: "Lógica y lenguaje", color: "#5b4fc4",
     desc: "Pensar bien es hablar con rigor: de la lógica al giro lingüístico.",
-    ilustre: ["aristoteles", "ockham", "llull", "leibniz", "russell", "wittgenstein", "carnap", "ryle", "popper", "chomsky"] }
+    ilustre: ["aristoteles", "ockham", "llull", "leibniz", "russell", "wittgenstein", "carnap", "ryle", "popper"] }
  ],
  op: [
   { ilustre: ["heraclito", "parmenides"] },

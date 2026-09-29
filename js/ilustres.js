@@ -2227,7 +2227,7 @@ const ILUSTRES = {
   "place": "Stuttgart (Alemania)",
   "role": "filósofo idealista alemán",
   "idea": "La realidad es un proceso dialéctico en el que el Espíritu se desarrolla a través de la historia; cada filosofía es su propia época expresada en pensamientos.",
-  "bio": "<p>Georg Wilhelm Friedrich Hegel nació en Stuttgart en 1770. Estudió teología en Tubinga, donde fue compañero de Schelling y del poeta Hölderlin, y siguió con entusiasmo la Revolución francesa. Tras enseñar en Jena y Heidelberg, obtuvo en 1818 la cátedra de Berlín, donde alcanzó enorme prestigio. Murió en Berlín en 1831.</p>\n<p>Hegel es la gran figura del <strong>idealismo alemán</strong>. Para él, la realidad no es algo fijo, sino un proceso en el que el <strong>Espíritu</strong> o la Idea se despliega y toma conciencia de sí mismo a lo largo de la historia. Ese movimiento es <strong>dialéctico</strong>: avanza a través de contradicciones que se superan conservando lo valioso de cada momento. Por eso la filosofía es inseparable de la <strong>historicidad</strong>: cada filosofía es su propia época aprehendida en pensamientos. En la <em>Fenomenología del espíritu</em> expone la dialéctica del amo y el esclavo, según la cual la identidad se forma en la lucha por el reconocimiento del otro. En estética, sostiene que el arte es la manifestación sensible de la verdad, pero que en el mundo moderno ha perdido su papel central frente a la religión y la filosofía: es la tesis del «fin del arte».</p>\n<p>Su influencia fue inmensa. Marx transformó su dialéctica en un método materialista para analizar la historia y la sociedad. Simone de Beauvoir aplicó la dialéctica del amo y el esclavo a la relación entre hombres y mujeres.</p>",
+  "bio": "<p>Georg Wilhelm Friedrich Hegel nació en Stuttgart en 1770. Estudió teología en Tubinga, donde fue compañero de Schelling y del poeta Hölderlin, y siguió con entusiasmo la Revolución francesa. Tras enseñar en Jena y Heidelberg, obtuvo en 1818 la cátedra de Berlín, donde alcanzó enorme prestigio. Murió en Berlín en 1831.</p>\n<p>Hegel es la gran figura del <strong>idealismo alemán</strong>. Para él, la realidad no es algo fijo, sino un proceso en el que el <strong>Espíritu</strong> o la Idea se despliega y toma conciencia de sí mismo a lo largo de la historia. Ese movimiento es <strong>dialéctico</strong>: avanza a través de contradicciones que se superan conservando lo valioso de cada momento. Por eso la filosofía es inseparable de la <strong>historicidad</strong>: cada filosofía es su propia época aprehendida en pensamientos. En la <em>Fenomenología del espíritu</em> expone la dialéctica del amo y el esclavo, según la cual la identidad se forma en la lucha por el reconocimiento del otro. En estética, sostiene que el arte es la manifestación sensible de la verdad, pero que en el mundo moderno ha perdido su papel central frente a la religión y la filosofía: es la tesis del «fin del arte».</p>\n<p>Su influencia fue inmensa. Marx transformó su dialéctica en un método materialista para analizar la historia y la sociedad. Simone de Beauvoir aplicó la dialéctica del amo y el esclavo a la relación entre hombres y mujeres.</p>\n<p>Sobre el paso del <strong>mito al logos</strong>, que se estudia en el tema 1 de Filosofía y en el tema 3 de Historia de la Filosofía, Hegel no cree que el mito griego fuera un simple error ni un cuento vacío: «el contenido del mito es el pensamiento». Lo que falla en el mito no es lo que dice, sino la <strong>forma</strong> en que lo dice: imágenes, relatos y dioses en lugar de conceptos. Los dioses griegos expresan de manera bella e inmediata un contenido espiritual que todavía no está pensado como tal. Por eso los primeros filósofos no rompen con el mito, sino que <strong>piensan a partir de él</strong>: la filosofía conserva la verdad que el mito ya contenía, deja atrás su envoltura de imágenes y la eleva al concepto. Es una <strong>superación</strong> (<em>Aufhebung</em>), no una ruptura: el <em>mythos</em> se subordina al <em>logos</em>, pero no porque sea mentira, sino porque lo que el mito representa debe ser pensado por la filosofía.</p>",
   "obras": [
    "Fenomenología del espíritu (1807)",
    "Ciencia de la lógica (1812-1816)",
@@ -3079,31 +3079,6 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-posmodernidad"
-  ]
- },
- "chomsky": {
-  "name": "Noam Chomsky",
-  "dates": "n. 1928",
-  "born": 1928,
-  "died": null,
-  "place": "Filadelfia (Estados Unidos)",
-  "role": "lingüista y activista político",
-  "idea": "Los grandes medios de comunicación, sin necesidad de censura directa, fabrican el consentimiento: seleccionan de qué se habla y moldean la opinión pública al servicio de las élites.",
-  "bio": "<p>Noam Chomsky nació en Filadelfia en una familia judía de origen ucraniano y bielorruso. Estudió en la Universidad de Pensilvania y desde 1955 fue profesor en el Instituto Tecnológico de Massachusetts (MIT). Su carrera tiene dos caras: es uno de los lingüistas más influyentes de la historia y, desde la guerra de Vietnam, un destacado crítico de la política exterior de Estados Unidos.</p>\n<p>En lingüística creó la <strong>gramática generativa</strong>. Sostiene que todos los seres humanos nacen con una capacidad innata para el lenguaje, una <strong>gramática universal</strong> común a todas las lenguas. Así explica que un niño aprenda a hablar tan rápido a partir de pocos ejemplos, frente al conductismo, que lo reducía todo a estímulos y respuestas. En el temario aparece sobre todo por su crítica de los medios. En <em>Los guardianes de la libertad</em> (1988), escrito con Edward S. Herman, analiza la <strong>fabricación del consentimiento</strong> mediante un <strong>modelo de propaganda</strong>. Los medios dependen de grandes empresas, de la publicidad y de fuentes oficiales, y esos filtros deciden qué noticias existen y cómo se cuentan. No prohíben pensar: marcan los límites de lo que se puede pensar.</p>\n<p>Su trabajo cambió la lingüística e influyó en la psicología cognitiva y la filosofía de la mente. Su crítica de los medios conecta con la Escuela de Fráncfort y con la preocupación de Habermas por una esfera pública libre de manipulación.</p>",
-  "obras": [
-   "Estructuras sintácticas (1957)",
-   "Aspectos de la teoría de la sintaxis (1965)",
-   "Los guardianes de la libertad (1988, con E. S. Herman)"
-  ],
-  "anecdota": "<p>Con solo diez años, Chomsky escribió su primer artículo en el periódico de su escuela de Filadelfia. El tema no era infantil: la caída de Barcelona en manos de las tropas de Franco, a comienzos de 1939, y la expansión del fascismo por Europa. El propio Chomsky ha recordado muchas veces este texto. La guerra civil española lo marcó desde niño: más tarde se acercó a las ideas anarquistas y admiró las colectividades de Cataluña y Aragón, que consideró uno de los grandes experimentos de autogestión del siglo XX.</p>",
-  "fuente": "Testimonio del propio Chomsky en entrevistas; R. Barsky, Noam Chomsky: una vida de discrepancia",
-  "tradicion": false,
-  "block": "con",
-  "subjects": [
-   "hf"
-  ],
-  "temas": [
-   "hf-siglo21"
   ]
  },
  "habermas": {

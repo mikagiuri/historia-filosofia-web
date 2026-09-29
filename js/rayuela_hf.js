@@ -994,7 +994,7 @@ const RAYUELA_HF = {
     { "t": "Como precariedad: vínculos, trabajos e identidades de usar y tirar.", "to": "69", "marca": "m-precariedad" },
     { "t": "Como un negocio: el mercado nos quiere consumidores, no ciudadanos.", "to": "28", "marca": "m-consumidores" }
    ],
-   "temas": ["hf-siglo21"], "autores": [{ "id": "bauman" }, { "id": "klein" }, { "id": "chomsky" }]
+   "temas": ["hf-siglo21"], "autores": [{ "id": "bauman" }, { "id": "klein" }]
   },
   "27": {
    "tipo": "pregunta", "red": 4, "linea": "l-siglo21", "xy": [30.4, 8.8],
