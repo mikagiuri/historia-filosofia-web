@@ -107,17 +107,17 @@ const SUBJECTS = {
     "plat-antro"
    ],
    [
-    "Citas · antigua",
+    "Frases · antigua",
     "tarjetas",
     "citasA"
    ],
    [
-    "Citas · moderna",
+    "Frases · moderna",
     "tarjetas",
     "citasB"
    ],
    [
-    "Citas · contemporánea",
+    "Frases · contemporánea",
     "tarjetas",
     "citasC"
    ],
@@ -344,9 +344,10 @@ const DECKS = {
   ]
  },
  "citasA": {
-  "name": "Citas · Antigua (bloque A)",
+  "name": "Frases · Antigua (bloque A)",
   "subject": "hf",
   "block": "A",
+  "tipo": "frases",
   "cards": [
    [
     "🏛️",
@@ -401,9 +402,10 @@ const DECKS = {
   ]
  },
  "citasB": {
-  "name": "Citas · Medieval, moderna e Ilustración (B)",
+  "name": "Frases · Medieval, moderna e Ilustración (B)",
   "subject": "hf",
   "block": "B",
+  "tipo": "frases",
   "cards": [
    [
     "💡",
@@ -558,9 +560,10 @@ const DECKS = {
   ]
  },
  "citasC": {
-  "name": "Citas · Contemporánea (bloque C)",
+  "name": "Frases · Contemporánea (bloque C)",
   "subject": "hf",
   "block": "C",
+  "tipo": "frases",
   "cards": [
    [
     "🌍",
