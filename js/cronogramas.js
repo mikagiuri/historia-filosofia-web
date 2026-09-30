@@ -668,11 +668,11 @@ const CRONOGRAMAS = [
     "note": "Escuela de retórica en Atenas, rival de la Academia"
    },
    {
-    "name": "Academia",
+    "name": "Academia de Platón",
     "start": -387,
-    "end": -86,
+    "end": 529,
     "grp": 0,
-    "note": "Fundada por Platón (c. 387 a.C.); desaparece con el saqueo de Atenas por Sila (86 a.C.)"
+    "note": "Unos mil años: de su fundación por Platón (c. 387 a.C.) al cierre por Justiniano (529 d.C.). Tras el saqueo de Sila (86 a.C.) se enseña fuera de su sede, y hacia el 410 la refunda Plutarco de Atenas como escuela neoplatónica"
    },
    {
     "name": "Liceo (Perípato)",
@@ -722,13 +722,6 @@ const CRONOGRAMAS = [
     "end": 610,
     "grp": 2,
     "note": "Neoplatónicos de Alejandría: de Hipatia (m. 415) a Esteban de Alejandría, que pasa a Constantinopla (c. 610)"
-   },
-   {
-    "name": "Academia neoplatónica",
-    "start": 410,
-    "end": 529,
-    "grp": 2,
-    "note": "Refundada por Plutarco de Atenas (c. 410); Justiniano la cierra en el 529 d.C."
    }
   ],
   "events": []
