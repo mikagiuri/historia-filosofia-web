@@ -1,5 +1,5 @@
 // Generado por tools/cronogramas_extract.js desde zmos.txt (canónico LTFH) + cronogramas_extra.json. NO editar a mano.
-// 42 cronogramas · 41 timeline / 1 épocas.
+// 45 cronogramas · 44 timeline / 1 épocas.
 const CRONOGRAMAS = [
  {
   "id": "A1-OS-KRO-01",
@@ -253,10 +253,10 @@ const CRONOGRAMAS = [
  {
   "id": "A-GRECIA-KRO-01",
   "code": "A-GRECIA-KRO-01",
-  "title": "La filosofía griega por escuelas (siglos VI-II a.C.)",
+  "title": "Los cosmólogos: la pregunta por la physis (siglos VI-V a.C.)",
   "type": "timeline",
-  "start": -625,
-  "end": -100,
+  "start": -630,
+  "end": -360,
   "groups": [
    {
     "name": "Milesios"
@@ -272,19 +272,229 @@ const CRONOGRAMAS = [
    },
    {
     "name": "Pluralistas y atomistas"
+   }
+  ],
+  "axes": [
+   {
+    "name": "Tales de Mileto",
+    "start": -624,
+    "end": -546,
+    "grp": 0
    },
+   {
+    "name": "Anaximandro",
+    "start": -610,
+    "end": -546,
+    "grp": 0
+   },
+   {
+    "name": "Anaxímenes",
+    "start": -586,
+    "end": -526,
+    "grp": 0
+   },
+   {
+    "name": "Jenófanes",
+    "start": -570,
+    "end": -475,
+    "grp": 1
+   },
+   {
+    "name": "Heráclito",
+    "start": -540,
+    "end": -480,
+    "grp": 1
+   },
+   {
+    "name": "Pitágoras",
+    "start": -570,
+    "end": -495,
+    "grp": 2
+   },
+   {
+    "name": "Filolao",
+    "start": -470,
+    "end": -385,
+    "grp": 2
+   },
+   {
+    "name": "Arquitas de Tarento",
+    "start": -430,
+    "end": -350,
+    "grp": 2
+   },
+   {
+    "name": "Parménides",
+    "start": -515,
+    "end": -450,
+    "grp": 3
+   },
+   {
+    "name": "Zenón de Elea",
+    "start": -490,
+    "end": -430,
+    "grp": 3
+   },
+   {
+    "name": "Meliso de Samos",
+    "start": -440,
+    "end": null,
+    "fl": true,
+    "grp": 3
+   },
+   {
+    "name": "Anaxágoras",
+    "start": -500,
+    "end": -428,
+    "grp": 4
+   },
+   {
+    "name": "Empédocles",
+    "start": -495,
+    "end": -435,
+    "grp": 4
+   },
+   {
+    "name": "Leucipo",
+    "start": -440,
+    "end": null,
+    "fl": true,
+    "grp": 4
+   },
+   {
+    "name": "Demócrito",
+    "start": -460,
+    "end": -370,
+    "grp": 4
+   }
+  ],
+  "events": []
+ },
+ {
+  "id": "A-GRECIA-KRO-02",
+  "code": "A-GRECIA-KRO-02",
+  "title": "Sofistas y clásicos: Sócrates, Aspasia, Platón y Aristóteles (siglos V-IV a.C.)",
+  "type": "timeline",
+  "start": -500,
+  "end": -260,
+  "groups": [
    {
     "name": "Sofistas"
    },
    {
-    "name": "Sócrates y socráticos"
+    "name": "Sócrates y su círculo"
    },
    {
-    "name": "Academia (Platón)"
+    "name": "Platón y la Academia"
    },
    {
-    "name": "Liceo (Aristóteles)"
+    "name": "Aristóteles y el Liceo"
+   }
+  ],
+  "axes": [
+   {
+    "name": "Protágoras",
+    "start": -490,
+    "end": -420,
+    "grp": 0
    },
+   {
+    "name": "Gorgias",
+    "start": -483,
+    "end": -375,
+    "grp": 0
+   },
+   {
+    "name": "Pródico de Ceos",
+    "start": -465,
+    "end": -395,
+    "grp": 0
+   },
+   {
+    "name": "Trasímaco",
+    "start": -427,
+    "end": null,
+    "fl": true,
+    "grp": 0
+   },
+   {
+    "name": "Aspasia de Mileto",
+    "start": -470,
+    "end": -400,
+    "grp": 1,
+    "note": "Fechas aproximadas; maestra de retórica, Sócrates la llama «mi maestra» en el Menéxeno"
+   },
+   {
+    "name": "Sócrates",
+    "start": -470,
+    "end": -399,
+    "grp": 1
+   },
+   {
+    "name": "Antístenes",
+    "start": -445,
+    "end": -365,
+    "grp": 1
+   },
+   {
+    "name": "Aristipo de Cirene",
+    "start": -435,
+    "end": -356,
+    "grp": 1
+   },
+   {
+    "name": "Jenofonte",
+    "start": -430,
+    "end": -354,
+    "grp": 1
+   },
+   {
+    "name": "Platón",
+    "start": -427,
+    "end": -347,
+    "grp": 2
+   },
+   {
+    "name": "Espeusipo",
+    "start": -407,
+    "end": -339,
+    "grp": 2
+   },
+   {
+    "name": "Jenócrates",
+    "start": -396,
+    "end": -314,
+    "grp": 2
+   },
+   {
+    "name": "Aristóteles",
+    "start": -384,
+    "end": -322,
+    "grp": 3
+   },
+   {
+    "name": "Teofrasto",
+    "start": -371,
+    "end": -287,
+    "grp": 3
+   },
+   {
+    "name": "Estratón de Lámpsaco",
+    "start": -335,
+    "end": -269,
+    "grp": 3
+   }
+  ],
+  "events": []
+ },
+ {
+  "id": "A-GRECIA-KRO-03",
+  "code": "A-GRECIA-KRO-03",
+  "title": "Las escuelas helenísticas y su eco en Roma (siglos IV a.C.-II d.C.)",
+  "type": "timeline",
+  "start": -420,
+  "end": 190,
+  "groups": [
    {
     "name": "Cínicos"
    },
@@ -300,276 +510,228 @@ const CRONOGRAMAS = [
   ],
   "axes": [
    {
-    "name": "Tales de Mileto",
-    "start": -624,
-    "end": -546,
-    "grp": 0,
-    "per": 0
-   },
-   {
-    "name": "Anaximandro",
-    "start": -610,
-    "end": -546,
-    "grp": 0,
-    "per": 0
-   },
-   {
-    "name": "Anaxímenes",
-    "start": -586,
-    "end": -526,
-    "grp": 0,
-    "per": 0
-   },
-   {
-    "name": "Jenófanes",
-    "start": -570,
-    "end": -475,
-    "grp": 1,
-    "per": 0
-   },
-   {
-    "name": "Heráclito",
-    "start": -540,
-    "end": -480,
-    "grp": 1,
-    "per": 0
-   },
-   {
-    "name": "Pitágoras",
-    "start": -570,
-    "end": -495,
-    "grp": 2,
-    "per": 0
-   },
-   {
-    "name": "Filolao",
-    "start": -470,
-    "end": -385,
-    "grp": 2,
-    "per": 0
-   },
-   {
-    "name": "Arquitas de Tarento",
-    "start": -430,
-    "end": -350,
-    "grp": 2,
-    "per": 0
-   },
-   {
-    "name": "Parménides",
-    "start": -515,
-    "end": -450,
-    "grp": 3,
-    "per": 0
-   },
-   {
-    "name": "Zenón de Elea",
-    "start": -490,
-    "end": -430,
-    "grp": 3,
-    "per": 0
-   },
-   {
-    "name": "Meliso de Samos",
-    "start": -440,
-    "end": null,
-    "fl": true,
-    "grp": 3,
-    "per": 0
-   },
-   {
-    "name": "Anaxágoras",
-    "start": -500,
-    "end": -428,
-    "grp": 4,
-    "per": 0
-   },
-   {
-    "name": "Empédocles",
-    "start": -495,
-    "end": -435,
-    "grp": 4,
-    "per": 0
-   },
-   {
-    "name": "Leucipo",
-    "start": -440,
-    "end": null,
-    "fl": true,
-    "grp": 4,
-    "per": 0
-   },
-   {
-    "name": "Demócrito",
-    "start": -460,
-    "end": -370,
-    "grp": 4,
-    "per": 0
-   },
-   {
-    "name": "Protágoras",
-    "start": -490,
-    "end": -420,
-    "grp": 5,
-    "per": 1
-   },
-   {
-    "name": "Gorgias",
-    "start": -483,
-    "end": -375,
-    "grp": 5,
-    "per": 1
-   },
-   {
-    "name": "Trasímaco",
-    "start": -427,
-    "end": null,
-    "fl": true,
-    "grp": 5,
-    "per": 1
-   },
-   {
-    "name": "Sócrates",
-    "start": -470,
-    "end": -399,
-    "grp": 6,
-    "per": 1
-   },
-   {
-    "name": "Antístenes",
-    "start": -445,
-    "end": -365,
-    "grp": 6,
-    "per": 1
-   },
-   {
-    "name": "Aristipo de Cirene",
-    "start": -435,
-    "end": -356,
-    "grp": 6,
-    "per": 1
-   },
-   {
-    "name": "Platón",
-    "start": -427,
-    "end": -347,
-    "grp": 7,
-    "per": 2
-   },
-   {
-    "name": "Espeusipo",
-    "start": -407,
-    "end": -339,
-    "grp": 7,
-    "per": 2
-   },
-   {
-    "name": "Arcesilao",
-    "start": -316,
-    "end": -241,
-    "grp": 7,
-    "per": 3
-   },
-   {
-    "name": "Carnéades",
-    "start": -214,
-    "end": -129,
-    "grp": 7,
-    "per": 3
-   },
-   {
-    "name": "Aristóteles",
-    "start": -384,
-    "end": -322,
-    "grp": 8,
-    "per": 2
-   },
-   {
-    "name": "Teofrasto",
-    "start": -371,
-    "end": -287,
-    "grp": 8,
-    "per": 2
-   },
-   {
-    "name": "Estratón de Lámpsaco",
-    "start": -335,
-    "end": -269,
-    "grp": 8,
-    "per": 2
-   },
-   {
     "name": "Diógenes de Sinope",
     "start": -412,
     "end": -323,
-    "grp": 9,
-    "per": 3
+    "grp": 0
    },
    {
     "name": "Crates de Tebas",
     "start": -365,
     "end": -285,
-    "grp": 9,
-    "per": 3
+    "grp": 0
+   },
+   {
+    "name": "Hiparquia de Maronea",
+    "start": -325,
+    "end": null,
+    "fl": true,
+    "grp": 0,
+    "note": "Esposa de Crates y filósofa cínica"
    },
    {
     "name": "Pirrón",
     "start": -360,
     "end": -270,
-    "grp": 10,
-    "per": 3
+    "grp": 1
    },
    {
     "name": "Timón de Fliunte",
     "start": -320,
     "end": -230,
-    "grp": 10,
-    "per": 3
+    "grp": 1
+   },
+   {
+    "name": "Arcesilao",
+    "start": -316,
+    "end": -241,
+    "grp": 1,
+    "note": "La Academia escéptica"
+   },
+   {
+    "name": "Carnéades",
+    "start": -214,
+    "end": -129,
+    "grp": 1,
+    "note": "La Academia escéptica"
+   },
+   {
+    "name": "Sexto Empírico",
+    "start": 160,
+    "end": null,
+    "fl": true,
+    "grp": 1,
+    "note": "Recoge el escepticismo pirrónico"
    },
    {
     "name": "Epicuro",
     "start": -341,
     "end": -270,
-    "grp": 11,
-    "per": 3
+    "grp": 2
+   },
+   {
+    "name": "Metrodoro de Lámpsaco",
+    "start": -331,
+    "end": -278,
+    "grp": 2
+   },
+   {
+    "name": "Lucrecio",
+    "start": -99,
+    "end": -55,
+    "grp": 2,
+    "note": "De rerum natura"
    },
    {
     "name": "Zenón de Citio",
     "start": -334,
     "end": -262,
-    "grp": 12,
-    "per": 3
+    "grp": 3
    },
    {
     "name": "Cleantes",
     "start": -331,
     "end": -232,
-    "grp": 12,
-    "per": 3
+    "grp": 3
    },
    {
     "name": "Crisipo",
     "start": -279,
     "end": -206,
-    "grp": 12,
-    "per": 3
+    "grp": 3
+   },
+   {
+    "name": "Panecio de Rodas",
+    "start": -185,
+    "end": -110,
+    "grp": 3
+   },
+   {
+    "name": "Posidonio",
+    "start": -135,
+    "end": -51,
+    "grp": 3
+   },
+   {
+    "name": "Séneca",
+    "start": -4,
+    "end": 65,
+    "grp": 3
+   },
+   {
+    "name": "Epicteto",
+    "start": 50,
+    "end": 135,
+    "grp": 3
+   },
+   {
+    "name": "Marco Aurelio",
+    "start": 121,
+    "end": 180,
+    "grp": 3
    }
   ],
-  "events": [],
-  "periods": [
+  "events": []
+ },
+ {
+  "id": "A-GRECIA-KRO-04",
+  "code": "A-GRECIA-KRO-04",
+  "title": "Dónde se enseñaba filosofía: escuelas e instituciones (siglos VI a.C.-VI d.C.)",
+  "type": "timeline",
+  "start": -560,
+  "end": 640,
+  "groupsLabel": "Periodos",
+  "groups": [
    {
-    "name": "Periodo cosmológico"
+    "name": "Arcaicas y clásicas"
    },
    {
-    "name": "Periodo antropológico-social"
+    "name": "Helenísticas"
    },
    {
-    "name": "Periodo sistemático-clásico"
-   },
-   {
-    "name": "Periodo helenístico"
+    "name": "Romanas y tardoantiguas"
    }
-  ]
+  ],
+  "axes": [
+   {
+    "name": "Comunidad pitagórica",
+    "start": -530,
+    "end": -450,
+    "grp": 0,
+    "note": "Crotona: de la llegada de Pitágoras (c. 530 a.C.) a la revuelta contra los pitagóricos (c. 450 a.C.)"
+   },
+   {
+    "name": "Escuela de Isócrates",
+    "start": -392,
+    "end": -338,
+    "grp": 0,
+    "note": "Escuela de retórica en Atenas, rival de la Academia"
+   },
+   {
+    "name": "Academia",
+    "start": -387,
+    "end": -86,
+    "grp": 0,
+    "note": "Fundada por Platón (c. 387 a.C.); desaparece con el saqueo de Atenas por Sila (86 a.C.)"
+   },
+   {
+    "name": "Liceo (Perípato)",
+    "start": -335,
+    "end": -86,
+    "grp": 0,
+    "note": "Fundado por Aristóteles (335 a.C.); también se pierde en el 86 a.C."
+   },
+   {
+    "name": "Jardín de Epicuro",
+    "start": -306,
+    "end": 200,
+    "grp": 1,
+    "note": "Fundado por Epicuro en Atenas (306 a.C.); hay epicúreos activos hasta el siglo II d.C."
+   },
+   {
+    "name": "Pórtico (Stoa)",
+    "start": -300,
+    "end": -110,
+    "grp": 1,
+    "note": "Zenón de Citio enseña en la Stoa Pecile (c. 300 a.C.); la escuela de Atenas llega hasta Panecio (m. c. 110 a.C.)"
+   },
+   {
+    "name": "Museo de Alejandría",
+    "start": -295,
+    "end": 272,
+    "grp": 1,
+    "note": "Museo y Biblioteca, fundados por los Ptolomeos (c. 295 a.C.); el barrio del Museo se destruye en el 272 d.C."
+   },
+   {
+    "name": "Cátedras de Atenas",
+    "start": 176,
+    "end": null,
+    "grp": 2,
+    "note": "Marco Aurelio dota en Atenas cuatro cátedras: platónica, aristotélica, estoica y epicúrea (176 d.C.)"
+   },
+   {
+    "name": "Escuela de Plotino en Roma",
+    "start": 244,
+    "end": 270,
+    "grp": 2,
+    "note": "Plotino enseña en Roma de 244 a 270 d.C."
+   },
+   {
+    "name": "Escuela de Alejandría",
+    "start": 400,
+    "end": 610,
+    "grp": 2,
+    "note": "Neoplatónicos de Alejandría: de Hipatia (m. 415) a Esteban de Alejandría, que pasa a Constantinopla (c. 610)"
+   },
+   {
+    "name": "Academia neoplatónica",
+    "start": 410,
+    "end": 529,
+    "grp": 2,
+    "note": "Refundada por Plutarco de Atenas (c. 410); Justiniano la cierra en el 529 d.C."
+   }
+  ],
+  "events": []
  },
  {
   "id": "A3-KRO-01",
