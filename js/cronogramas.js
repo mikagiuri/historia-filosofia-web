@@ -2352,238 +2352,253 @@ const CRONOGRAMAS = [
  {
   "id": "C-XX-KRO-01",
   "code": "C-XX-KRO-01",
-  "title": "Los siglos XX y XXI: de la filosofía analítica a los retos de hoy",
+  "title": "Los siglos XX y XXI por países",
   "type": "timeline",
   "start": 1855,
   "end": 2026,
   "groups": [
    {
-    "name": "Filosofía analítica, lenguaje y ciencia"
+    "name": "Alemania"
    },
    {
-    "name": "Fenomenología, hermenéutica y existencialismo"
+    "name": "Austria"
    },
    {
-    "name": "Filosofía en España y Euskal Herria"
+    "name": "Francia"
    },
    {
-    "name": "Teoría crítica y filosofía política"
+    "name": "Reino Unido"
    },
    {
-    "name": "Posmodernidad"
+    "name": "Estados Unidos"
    },
    {
-    "name": "Feminismos"
+    "name": "España y Euskal Herria"
    },
    {
-    "name": "Retos del siglo XXI"
+    "name": "Italia"
+   },
+   {
+    "name": "Otros países"
    }
   ],
   "axes": [
    {
-    "name": "Bertrand Russell",
-    "start": 1872,
-    "end": 1970,
+    "name": "Edmund Husserl",
+    "start": 1859,
+    "end": 1938,
+    "note": "Nace en Moravia (entonces Austria-Hungría); enseña en Alemania",
     "grp": 0
    },
    {
-    "name": "G. E. Moore",
-    "start": 1873,
-    "end": 1958,
+    "name": "Max Weber",
+    "start": 1864,
+    "end": 1920,
     "grp": 0
    },
    {
     "name": "Moritz Schlick",
     "start": 1882,
     "end": 1936,
+    "note": "Nace en Berlín; dirige el Círculo de Viena",
     "grp": 0
    },
    {
-    "name": "Edward Sapir",
-    "start": 1884,
-    "end": 1939,
-    "grp": 0
-   },
-   {
-    "name": "Ludwig Wittgenstein",
+    "name": "Martin Heidegger",
     "start": 1889,
-    "end": 1951,
+    "end": 1976,
     "grp": 0
    },
    {
     "name": "Rudolf Carnap",
     "start": 1891,
     "end": 1970,
+    "note": "Del Círculo de Viena; emigra a EE. UU. (1935)",
     "grp": 0
    },
    {
-    "name": "Benjamin Lee Whorf",
-    "start": 1897,
-    "end": 1941,
+    "name": "Max Horkheimer",
+    "start": 1895,
+    "end": 1973,
+    "note": "Exilio en EE. UU. (1934-1949)",
     "grp": 0
    },
    {
-    "name": "Gilbert Ryle",
-    "start": 1900,
-    "end": 1976,
+    "name": "Theodor W. Adorno",
+    "start": 1903,
+    "end": 1969,
+    "note": "Exilio en Inglaterra y EE. UU. (1934-1949)",
     "grp": 0
+   },
+   {
+    "name": "Hannah Arendt",
+    "start": 1906,
+    "end": 1975,
+    "note": "Emigra a EE. UU. (1941)",
+    "grp": 0
+   },
+   {
+    "name": "Jürgen Habermas",
+    "start": 1929,
+    "end": 2026,
+    "grp": 0
+   },
+   {
+    "name": "Ludwig Wittgenstein",
+    "start": 1889,
+    "end": 1951,
+    "note": "Enseña en Cambridge (Reino Unido)",
+    "grp": 1
    },
    {
     "name": "Karl Popper",
     "start": 1902,
     "end": 1994,
-    "grp": 0
-   },
-   {
-    "name": "Alan Turing",
-    "start": 1912,
-    "end": 1954,
-    "grp": 0
-   },
-   {
-    "name": "Edmund Husserl",
-    "start": 1859,
-    "end": 1938,
-    "grp": 1
-   },
-   {
-    "name": "Martin Heidegger",
-    "start": 1889,
-    "end": 1976,
+    "note": "Enseña en Londres desde 1946",
     "grp": 1
    },
    {
     "name": "Jean-Paul Sartre",
     "start": 1905,
     "end": 1980,
-    "grp": 1
+    "grp": 2
+   },
+   {
+    "name": "Simone de Beauvoir",
+    "start": 1908,
+    "end": 1986,
+    "grp": 2
    },
    {
     "name": "Paul Ricoeur",
     "start": 1913,
     "end": 2005,
-    "grp": 1
-   },
-   {
-    "name": "Miguel de Unamuno",
-    "start": 1864,
-    "end": 1936,
     "grp": 2
    },
    {
-    "name": "José Ortega y Gasset",
-    "start": 1883,
-    "end": 1955,
+    "name": "Jean-François Lyotard",
+    "start": 1924,
+    "end": 1998,
     "grp": 2
    },
    {
-    "name": "María Zambrano",
-    "start": 1904,
-    "end": 1991,
+    "name": "Michel Foucault",
+    "start": 1926,
+    "end": 1984,
     "grp": 2
    },
    {
-    "name": "Txillardegi",
+    "name": "Jean Baudrillard",
     "start": 1929,
-    "end": 2012,
+    "end": 2007,
     "grp": 2
    },
    {
-    "name": "Joxe Azurmendi",
-    "start": 1941,
-    "end": 2025,
+    "name": "Jacques Derrida",
+    "start": 1930,
+    "end": 2004,
+    "note": "Nace en Argelia, entonces francesa",
     "grp": 2
    },
    {
-    "name": "Max Weber",
-    "start": 1864,
-    "end": 1920,
+    "name": "Bertrand Russell",
+    "start": 1872,
+    "end": 1970,
     "grp": 3
    },
    {
-    "name": "Max Horkheimer",
-    "start": 1895,
-    "end": 1973,
+    "name": "G. E. Moore",
+    "start": 1873,
+    "end": 1958,
     "grp": 3
    },
    {
-    "name": "Theodor W. Adorno",
-    "start": 1903,
-    "end": 1969,
+    "name": "Gilbert Ryle",
+    "start": 1900,
+    "end": 1976,
     "grp": 3
    },
    {
-    "name": "Hannah Arendt",
-    "start": 1906,
-    "end": 1975,
+    "name": "Alan Turing",
+    "start": 1912,
+    "end": 1954,
     "grp": 3
+   },
+   {
+    "name": "Geoffrey Ingham",
+    "start": 1942,
+    "end": 2026,
+    "vive": true,
+    "grp": 3
+   },
+   {
+    "name": "Edward Sapir",
+    "start": 1884,
+    "end": 1939,
+    "note": "Nace en Prusia; emigra de niño a EE. UU.",
+    "grp": 4
+   },
+   {
+    "name": "Benjamin Lee Whorf",
+    "start": 1897,
+    "end": 1941,
+    "grp": 4
    },
    {
     "name": "John Rawls",
     "start": 1921,
     "end": 2002,
-    "grp": 3
+    "grp": 4
    },
    {
-    "name": "Jürgen Habermas",
+    "name": "Edward O. Wilson",
     "start": 1929,
-    "end": 2026,
-    "grp": 3
+    "end": 2021,
+    "grp": 4
    },
    {
     "name": "Martha Nussbaum",
     "start": 1947,
     "end": 2026,
     "vive": true,
-    "grp": 3
-   },
-   {
-    "name": "Michel Foucault",
-    "start": 1926,
-    "end": 1984,
     "grp": 4
-   },
-   {
-    "name": "Jean-François Lyotard",
-    "start": 1924,
-    "end": 1998,
-    "grp": 4
-   },
-   {
-    "name": "Zygmunt Bauman",
-    "start": 1925,
-    "end": 2017,
-    "grp": 4
-   },
-   {
-    "name": "Jean Baudrillard",
-    "start": 1929,
-    "end": 2007,
-    "grp": 4
-   },
-   {
-    "name": "Jacques Derrida",
-    "start": 1930,
-    "end": 2004,
-    "grp": 4
-   },
-   {
-    "name": "Gianni Vattimo",
-    "start": 1936,
-    "end": 2023,
-    "grp": 4
-   },
-   {
-    "name": "Simone de Beauvoir",
-    "start": 1908,
-    "end": 1986,
-    "grp": 5
    },
    {
     "name": "Judith Butler",
     "start": 1956,
     "end": 2026,
     "vive": true,
+    "grp": 4
+   },
+   {
+    "name": "Miguel de Unamuno",
+    "start": 1864,
+    "end": 1936,
+    "grp": 5
+   },
+   {
+    "name": "José Ortega y Gasset",
+    "start": 1883,
+    "end": 1955,
+    "grp": 5
+   },
+   {
+    "name": "María Zambrano",
+    "start": 1904,
+    "end": 1991,
+    "note": "Exilio en América y Europa (1939-1984)",
+    "grp": 5
+   },
+   {
+    "name": "Txillardegi",
+    "start": 1929,
+    "end": 2012,
+    "grp": 5
+   },
+   {
+    "name": "Joxe Azurmendi",
+    "start": 1941,
+    "end": 2025,
     "grp": 5
    },
    {
@@ -2601,48 +2616,54 @@ const CRONOGRAMAS = [
     "grp": 5
    },
    {
-    "name": "Edward O. Wilson",
-    "start": 1929,
-    "end": 2021,
+    "name": "Gianni Vattimo",
+    "start": 1936,
+    "end": 2023,
     "grp": 6
    },
    {
-    "name": "Geoffrey Ingham",
-    "start": 1942,
-    "end": 2026,
-    "vive": true,
-    "grp": 6
+    "name": "Zygmunt Bauman",
+    "start": 1925,
+    "end": 2017,
+    "note": "Polonia; desde 1971, en el Reino Unido",
+    "grp": 7
    },
    {
     "name": "Byung-Chul Han",
     "start": 1959,
     "end": 2026,
     "vive": true,
-    "grp": 6
+    "note": "Corea del Sur; trabaja en Alemania",
+    "grp": 7
    },
    {
     "name": "David Chalmers",
     "start": 1966,
     "end": 2026,
     "vive": true,
-    "grp": 6
+    "note": "Australia",
+    "grp": 7
    },
    {
     "name": "Naomi Klein",
     "start": 1970,
     "end": 2026,
     "vive": true,
-    "grp": 6
+    "note": "Canadá",
+    "grp": 7
    },
    {
     "name": "Nick Bostrom",
     "start": 1973,
     "end": 2026,
     "vive": true,
-    "grp": 6
+    "note": "Suecia; trabaja en Oxford",
+    "grp": 7
    }
   ],
-  "events": []
+  "events": [],
+  "groupsLabel": "Países",
+  "porGrupo": true
  },
  {
   "id": "C1-KRO-01",
