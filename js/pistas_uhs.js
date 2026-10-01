@@ -1,6 +1,221 @@
 // Generado por tools/build_subject.js (hf) — alumnado, sin material del profesor.
 const PISTAS = [
  {
+  "id": "hf-caverna",
+  "subject": "hf",
+  "tema": "Tema 6 · Platón",
+  "unidad": "hf-platon",
+  "materia": "Filosofía · Platón",
+  "titulo": "¿Qué significa el mito de la caverna?",
+  "lede": "La alegoría más famosa de la filosofía. Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Qué representan los prisioneros, las sombras y el exterior de la caverna?",
+    "intro": [
+     "Recuerda la escena: unos prisioneros encadenados desde niños miran la pared del fondo de una cueva. Intenta explicar qué quiere decir Platón antes de pedir ayuda."
+    ],
+    "pistas": [
+     "Es una alegoría: cada elemento de la escena representa otra cosa.",
+     "Los prisioneros solo ven sombras y creen que eso es toda la realidad. Piensa en qué tipo de conocimiento tienen.",
+     "Platón distingue dos mundos: el que captan los sentidos y el que solo capta la razón.",
+     "La caverna es el mundo sensible; las sombras, las apariencias (opinión, <em>doxa</em>); el exterior iluminado por el sol, el mundo de las Ideas (ciencia, <em>episteme</em>)."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Qué representa el interior de la caverna?",
+     "opciones": [
+      [
+       "El mundo sensible: lo que conocemos por los sentidos, que es pura apariencia.",
+       true
+      ],
+      [
+       "El mundo de las Ideas.",
+       false,
+       "No: el mundo de las Ideas está fuera, iluminado por el sol."
+      ],
+      [
+       "Una cárcel real de la Atenas de su tiempo.",
+       false,
+       "No es un relato histórico: es una alegoría sobre el conocimiento."
+      ],
+      [
+       "El subconsciente de cada persona.",
+       false,
+       "Eso sería leer a Platón con ideas muy posteriores (Freud)."
+      ]
+     ],
+     "ok": "Bien. Dentro, apariencias; fuera, las Ideas que solo alcanza la razón.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito ver el esquema",
+      "etiqueta": "Esquema de la alegoría",
+      "titulo": "Qué es cada cosa",
+      "definicion": [
+       "<strong>Prisioneros encadenados</strong> → los seres humanos sin educación filosófica.",
+       "<strong>Sombras en la pared</strong> → las apariencias sensibles: opinión (<em>doxa</em>).",
+       "<strong>Salida al exterior</strong> → la educación: el ascenso difícil y doloroso hacia el conocimiento.",
+       "<strong>Objetos del exterior y el sol</strong> → las Ideas y la Idea de Bien: ciencia (<em>episteme</em>)."
+      ],
+      "comprobacion": {
+       "etiqueta": "Comprobación del esquema",
+       "pregunta": "¿Qué representa la salida de la caverna?",
+       "opciones": [
+        [
+         "La educación filosófica: pasar de la opinión al conocimiento verdadero.",
+         true
+        ],
+        [
+         "Un viaje a otro país.",
+         false,
+         "Es una alegoría: la salida no es un viaje físico."
+        ],
+        [
+         "La muerte del prisionero.",
+         false,
+         "No: el prisionero sale vivo y puede volver a entrar."
+        ],
+        [
+         "Dejar de usar la razón.",
+         false,
+         "Justo al contrario: salir es empezar a usar la razón."
+        ]
+       ],
+       "ok": "Correcto. Salir es educarse: un ascenso costoso hacia la verdad.",
+       "mal": "Vuelve a mirarlo.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "Los dos mundos",
+      "definicion": [
+       "Platón separa el <strong>mundo sensible</strong> (cambiante, múltiple, captado por los sentidos) del <strong>mundo inteligible</strong> o de las Ideas (eterno, inmutable, captado por la razón).",
+       "Lo sensible es solo una copia imperfecta de las Ideas, como las sombras son copias de los objetos.",
+       "Conocer de verdad es ascender de las apariencias a las Ideas: de la opinión (<em>doxa</em>) a la ciencia (<em>episteme</em>)."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "Según Platón, ¿qué conocemos solo con los sentidos?",
+       "opciones": [
+        [
+         "Apariencias cambiantes: solo alcanzamos opinión.",
+         true
+        ],
+        [
+         "Las Ideas eternas.",
+         false,
+         "Las Ideas solo las alcanza la razón."
+        ],
+        [
+         "Toda la realidad tal como es.",
+         false,
+         "Eso es lo que creen los prisioneros: confunden sombras con realidad."
+        ],
+        [
+         "Nada en absoluto.",
+         false,
+         "Algo conocemos: apariencias. Pero no es ciencia, sino opinión."
+        ]
+       ],
+       "ok": "Correcto: los sentidos dan opinión; la ciencia exige la razón.",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "¿Por qué el prisionero liberado debe volver a la caverna?",
+    "intro": [
+     "El relato no termina fuera: el que ha visto el sol regresa a buscar a los demás. Piensa qué tiene que ver eso con la política de Platón."
+    ],
+    "pistas": [
+     "Al volver, el liberado no ve bien en la oscuridad y los demás se burlan de él; incluso querrían matarlo. Recuerda qué le pasó a Sócrates.",
+     "Quien conoce el Bien tiene una responsabilidad con quienes siguen dentro.",
+     "En la <em>República</em>, ¿quién debe gobernar la ciudad ideal?",
+     "Debe volver porque quien conoce la Idea de Bien está obligado a guiar a los demás: es el <strong>filósofo gobernante</strong>."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Qué sentido tiene el regreso a la caverna?",
+     "opciones": [
+      [
+       "Quien conoce el Bien debe educar y gobernar a los demás: el filósofo gobernante.",
+       true
+      ],
+      [
+       "Que el conocimiento es peligroso y es mejor no salir.",
+       false,
+       "No: Platón valora la salida; el regreso es un deber, no un arrepentimiento."
+      ],
+      [
+       "Que el prisionero echa de menos las sombras.",
+       false,
+       "No vuelve por nostalgia, sino por responsabilidad hacia los demás."
+      ],
+      [
+       "Que fuera no había nada que ver.",
+       false,
+       "Fuera está lo más real: las Ideas y el sol (el Bien)."
+      ]
+     ],
+     "ok": "Exacto. La alegoría une teoría del conocimiento y política.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "Conocimiento y política",
+      "titulo": "El regreso del filósofo",
+      "definicion": [
+       "El liberado vuelve y, acostumbrado a la luz, ve mal en la oscuridad: los prisioneros se ríen de él y, si pudieran, lo matarían. Es una alusión a la condena de <strong>Sócrates</strong>.",
+       "Para Platón, gobernar bien exige conocer la Idea de Bien. Por eso, en la ciudad justa, gobiernan los <strong>filósofos</strong>, aunque preferirían quedarse contemplando.",
+       "La alegoría une tres temas: el conocimiento (ascenso a las Ideas), la educación (la salida) y la política (el regreso para gobernar)."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿A quién alude la reacción violenta de los prisioneros?",
+       "opciones": [
+        [
+         "A Sócrates, condenado a muerte por Atenas.",
+         true
+        ],
+        [
+         "A Aristóteles, que se marchó de Atenas.",
+         false,
+         "Relee el primer párrafo de la explicación."
+        ],
+        [
+         "A los sofistas.",
+         false,
+         "Los sofistas no fueron condenados: Platón se refiere a su maestro."
+        ],
+        [
+         "A nadie en concreto.",
+         false,
+         "Sí hay una alusión: relee el primer párrafo."
+        ]
+       ],
+       "ok": "Correcto: la muerte de Sócrates marca toda la filosofía de Platón.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar la alegoría",
+   "parrafos": [
+    "La caverna es el mundo sensible y sus sombras, la opinión; el exterior es el mundo de las Ideas, que solo alcanza la razón. Salir es educarse; volver es el deber del filósofo de gobernar la ciudad.",
+    "Para la PAU: relaciona la alegoría con la teoría de las Ideas y con el gobierno de los filósofos en la <em>República</em>."
+   ]
+  }
+ },
+ {
   "id": "kant-imperativo",
   "subject": "hf",
   "tema": "Tema 20 · Kant: la ética del deber",
