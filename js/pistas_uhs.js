@@ -216,6 +216,223 @@ const PISTAS = [
   }
  },
  {
+  "id": "hf-duda",
+  "subject": "hf",
+  "tema": "Tema 14 · Descartes",
+  "unidad": "hf-racionalismo",
+  "materia": "Filosofía · Descartes",
+  "titulo": "¿Para qué duda Descartes?",
+  "lede": "La duda metódica y la primera certeza. Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Qué es la duda metódica y para qué la usa Descartes?",
+    "intro": [
+     "Descartes decide dudar de todo lo que pueda ponerse en duda. Intenta explicar por qué alguien haría algo así antes de pedir ayuda."
+    ],
+    "pistas": [
+     "Descartes busca un conocimiento absolutamente seguro, sobre el que construir todo el saber.",
+     "Su duda no es escepticismo: no duda para quedarse dudando.",
+     "Es un <em>método</em>: rechaza provisionalmente todo lo que tenga la más mínima duda, para ver si queda algo en pie.",
+     "La duda metódica es una herramienta para encontrar una <strong>primera verdad indudable</strong>: usa la duda para superar la duda."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Qué busca Descartes con la duda metódica?",
+     "opciones": [
+      [
+       "Encontrar una verdad indudable sobre la que fundar el conocimiento.",
+       true
+      ],
+      [
+       "Demostrar que no podemos saber nada.",
+       false,
+       "Eso sería escepticismo. Descartes duda precisamente para salir de la duda."
+      ],
+      [
+       "Burlarse de los filósofos anteriores.",
+       false,
+       "Su objetivo es constructivo: fundar un saber firme."
+      ],
+      [
+       "Dudar de los demás, pero no de sí mismo.",
+       false,
+       "Al contrario: duda de todo, incluso de sus propias creencias."
+      ]
+     ],
+     "ok": "Bien. Es una duda con método y con meta: la primera certeza.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito ver los pasos",
+      "etiqueta": "El camino de la duda",
+      "titulo": "Tres motivos para dudar",
+      "definicion": [
+       "<strong>Los sentidos</strong>: a veces nos engañan → la percepción ordinaria no es del todo fiable.",
+       "<strong>El sueño</strong>: no siempre distinguimos con seguridad la vigilia del sueño → el mundo exterior puede ser dudoso.",
+       "<strong>El genio maligno</strong>: quizá un ser poderoso nos engaña incluso en las matemáticas → la duda llega al extremo."
+      ],
+      "parrafos": [
+       "Fíjate en que cada paso es más radical que el anterior. ¿Qué queda cuando se duda de todo?"
+      ],
+      "comprobacion": {
+       "etiqueta": "Comprobación de los pasos",
+       "pregunta": "¿Para qué introduce Descartes el genio maligno?",
+       "opciones": [
+        [
+         "Para llevar la duda al extremo, incluso a las matemáticas.",
+         true
+        ],
+        [
+         "Porque creía de verdad en un demonio engañador.",
+         false,
+         "Es un experimento teórico, no una creencia."
+        ],
+        [
+         "Para demostrar que Dios no existe.",
+         false,
+         "No: más adelante Descartes intentará demostrar que Dios existe y no nos engaña."
+        ],
+        [
+         "Para dudar solo de los sentidos.",
+         false,
+         "De los sentidos ya dudó en el primer paso; el genio maligno va más allá."
+        ]
+       ],
+       "ok": "Correcto. Es la hipótesis más radical: si algo resiste ahí, será indudable.",
+       "mal": "Vuelve a mirar los pasos.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "La duda metódica",
+      "definicion": [
+       "La <strong>duda metódica</strong> consiste en tratar como falso, de forma provisional, todo aquello de lo que se pueda dudar.",
+       "No es <strong>escepticismo</strong>: el escéptico se queda en la duda; Descartes la usa como herramienta para encontrar un fundamento firme.",
+       "Su meta es hallar una verdad tan clara y distinta que ninguna duda pueda tocarla."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "¿En qué se diferencia la duda de Descartes de la del escéptico?",
+       "opciones": [
+        [
+         "Descartes duda para encontrar una certeza; el escéptico se queda en la duda.",
+         true
+        ],
+        [
+         "En nada: los dos niegan que podamos saber algo.",
+         false,
+         "Descartes no niega el conocimiento: lo busca."
+        ],
+        [
+         "Descartes solo duda de los sentidos.",
+         false,
+         "Su duda llega mucho más lejos: al sueño y al genio maligno."
+        ],
+        [
+         "El escéptico duda con método y Descartes no.",
+         false,
+         "Es al revés: la duda cartesiana es metódica."
+        ]
+       ],
+       "ok": "Correcto: es una duda al servicio de la certeza.",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "¿Qué certeza resiste a la duda más radical?",
+    "intro": [
+     "Supón que el genio maligno te engaña en todo. ¿Hay algo de lo que, aun así, no puedas dudar?"
+    ],
+    "pistas": [
+     "Para que el genio maligno te engañe, tiene que haber alguien a quien engañar.",
+     "Mientras dudas, estás haciendo algo. ¿Qué?",
+     "Dudar es una forma de pensar.",
+     "Si dudo, pienso; y si pienso, existo: «pienso, luego existo» (<em>cogito, ergo sum</em>)."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Por qué el cogito resiste a la duda?",
+     "opciones": [
+      [
+       "Porque al dudar estoy pensando, y para pensar tengo que existir.",
+       true
+      ],
+      [
+       "Porque los sentidos me muestran que existo.",
+       false,
+       "De los sentidos ya se ha dudado: el cogito no depende de ellos."
+      ],
+      [
+       "Porque lo dice la tradición filosófica.",
+       false,
+       "Descartes rechaza apoyarse en la autoridad: busca una evidencia propia."
+      ],
+      [
+       "Porque el genio maligno no puede engañar a nadie.",
+       false,
+       "Puede engañarme en todo lo demás, pero no en que existo mientras pienso."
+      ]
+     ],
+     "ok": "Exacto. Cuanto más dudo, más seguro estoy de que pienso, y por tanto de que existo.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "La primera certeza",
+      "titulo": "El cogito",
+      "definicion": [
+       "Aunque todo lo demás sea dudoso, hay algo que no puedo negar: que estoy dudando. Y dudar es pensar.",
+       "Si pienso, existo como cosa que piensa: «<strong>pienso, luego existo</strong>» (<em>cogito, ergo sum</em>).",
+       "El cogito es la <strong>primera verdad</strong> y el modelo de toda certeza: lo que se percibe con la misma <strong>claridad y distinción</strong> será verdadero."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿Qué papel cumple el cogito en el método de Descartes?",
+       "opciones": [
+        [
+         "Es la primera verdad y el modelo de certeza: claridad y distinción.",
+         true
+        ],
+        [
+         "Es una duda más.",
+         false,
+         "No: es lo que resiste a toda duda."
+        ],
+        [
+         "Demuestra que el mundo exterior existe.",
+         false,
+         "Todavía no: el cogito solo asegura la existencia del sujeto que piensa."
+        ],
+        [
+         "Es una conclusión sacada de la experiencia.",
+         false,
+         "No viene de los sentidos, sino de la propia razón."
+        ]
+       ],
+       "ok": "Correcto: desde el cogito, Descartes reconstruye el saber.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar la duda y el cogito",
+   "parrafos": [
+    "Descartes duda con método —los sentidos, el sueño, el genio maligno— para encontrar una verdad indudable. La encuentra en el cogito: si dudo, pienso, y si pienso, existo. Su criterio de verdad será la claridad y la distinción.",
+    "Para la PAU: compara este punto de partida racionalista con el de Hume, para quien todo conocimiento viene de la experiencia."
+   ]
+  }
+ },
+ {
   "id": "kant-imperativo",
   "subject": "hf",
   "tema": "Tema 20 · Kant: la ética del deber",
