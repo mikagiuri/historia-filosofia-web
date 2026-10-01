@@ -569,6 +569,26 @@ const ILUSTRES = {
   "anecdota": "<p>Diógenes Laercio cuenta que el joven Platón tenía ambiciones literarias: escribía poemas y tragedias. Se disponía a presentar una tragedia a concurso cuando escuchó a Sócrates hablar ante el teatro de Dioniso. Quedó tan impresionado que arrojó sus versos al fuego, parodiando un verso de Homero: «Ven aquí, Hefesto, que Platón te necesita». Desde entonces se dedicó a la filosofía. Sin embargo, no dejó de ser un gran escritor: sus diálogos, con personajes, escenas y mitos, conservan mucho del arte dramático que parecía abandonar.</p>",
   "fuente": "Diógenes Laercio, Vidas III",
   "tradicion": true,
+  "vida": [
+   {
+    "a": -399,
+    "t": "Juicio y muerte de Sócrates, su maestro"
+   },
+   {
+    "a": -388,
+    "b": -361,
+    "t": "Viajes a Sicilia (Siracusa)"
+   },
+   {
+    "a": -387,
+    "t": "Funda la Academia en Atenas"
+   },
+   {
+    "a": -380,
+    "b": -370,
+    "t": "Escribe la República"
+   }
+  ],
   "block": "ant",
   "subjects": [
    "hf"
@@ -643,6 +663,26 @@ const ILUSTRES = {
   "anecdota": "<p>A la muerte de Alejandro Magno, en el 323 a. C., creció en Atenas la hostilidad contra los macedonios y contra quienes se relacionaban con ellos. Aristóteles, antiguo preceptor de Alejandro, fue acusado de impiedad, como Sócrates décadas antes. Según las biografías antiguas, decidió marcharse a Calcis y explicó que no quería que los atenienses pecaran dos veces contra la filosofía. La frase, quizá embellecida por la tradición, compara su situación con la condena de Sócrates y muestra que prefería salvar su vida y su trabajo antes que convertirse en mártir.</p>",
   "fuente": "Eliano, Historias curiosas III; biografías antiguas de Aristóteles",
   "tradicion": true,
+  "vida": [
+   {
+    "a": -367,
+    "b": -347,
+    "t": "Alumno en la Academia de Platón"
+   },
+   {
+    "a": -343,
+    "b": -340,
+    "t": "Educa a Alejandro Magno"
+   },
+   {
+    "a": -335,
+    "t": "Funda el Liceo en Atenas"
+   },
+   {
+    "a": -323,
+    "t": "Huye de Atenas"
+   }
+  ],
   "block": "ant",
   "subjects": [
    "hf"
@@ -927,6 +967,31 @@ const ILUSTRES = {
   "anecdota": "<p>En el verano de 386, en un jardín de Milán, Agustín lloraba bajo una higuera, desgarrado entre su deseo de cambiar de vida y su incapacidad para hacerlo. De pronto oyó desde una casa vecina una voz infantil que repetía una especie de cantinela: <strong>«Toma y lee, toma y lee»</strong>. Lo interpretó como una orden divina, abrió al azar las cartas de san Pablo que tenía a mano y leyó un pasaje que invitaba a dejar los excesos. Él mismo lo relata en sus <em>Confesiones</em> como el instante decisivo de su conversión.</p>",
   "fuente": "Agustín de Hipona, Confesiones VIII",
   "tradicion": false,
+  "vida": [
+   {
+    "a": 373,
+    "b": 383,
+    "t": "Etapa maniquea"
+   },
+   {
+    "a": 384,
+    "b": 386,
+    "t": "En Milán, con Ambrosio"
+   },
+   {
+    "a": 386,
+    "t": "Conversión"
+   },
+   {
+    "a": 387,
+    "t": "Bautismo"
+   },
+   {
+    "a": 395,
+    "b": 430,
+    "t": "Obispo de Hipona"
+   }
+  ],
   "block": "med",
   "subjects": [
    "hf"
@@ -1089,6 +1154,23 @@ const ILUSTRES = {
   "anecdota": "<p>En 1178, ya octogenaria, Hildegarda permitió enterrar en su monasterio a un joven noble que había estado excomulgado, porque, según ella, se había reconciliado con la Iglesia antes de morir. Las autoridades de Maguncia le ordenaron desenterrarlo y ella se negó. Como castigo, el convento quedó bajo interdicto y las monjas no pudieron cantar el oficio divino. Hildegarda protestó en una carta a los prelados en la que defendía la música como eco de la armonía del paraíso. El castigo se levantó poco antes de su muerte.</p>",
   "fuente": "Carta de Hildegarda a los prelados de Maguncia; Vida de santa Hildegarda",
   "tradicion": false,
+  "vida": [
+   {
+    "a": 1141,
+    "b": 1151,
+    "t": "Escribe Scivias"
+   },
+   {
+    "a": 1158,
+    "b": 1163,
+    "t": "Escribe Liber vitae meritorum"
+   },
+   {
+    "a": 1163,
+    "b": 1174,
+    "t": "Escribe Liber divinorum operum"
+   }
+  ],
   "block": "med",
   "subjects": [
    "hf"
@@ -1224,6 +1306,18 @@ const ILUSTRES = {
   "anecdota": "<p>Se cuenta que, cuando estudiaba en Colonia con Alberto Magno, Tomás era tan corpulento y callado que sus compañeros lo apodaron «el buey mudo de Sicilia». Un día, tras escucharlo defender con brillantez una cuestión difícil, Alberto dijo a sus alumnos que ellos lo llamaban buey mudo, pero que sus mugidos se oirían en el mundo entero. La escena procede de las biografías escritas para su canonización, con un tono ejemplar, pero retrata bien al pensador reservado que acabaría escribiendo la <em>Suma teológica</em>.</p>",
   "fuente": "Guillermo de Tocco, Historia de santo Tomás de Aquino",
   "tradicion": true,
+  "vida": [
+   {
+    "a": 1259,
+    "b": 1265,
+    "t": "Escribe la Summa contra Gentiles"
+   },
+   {
+    "a": 1265,
+    "b": 1274,
+    "t": "Escribe la Summa Theologiae"
+   }
+  ],
   "block": "med",
   "subjects": [
    "hf"
@@ -1311,6 +1405,16 @@ const ILUSTRES = {
   "anecdota": "<p>Según la tradición, cuando Ockham huyó de Aviñón y se puso bajo la protección del emperador Luis de Baviera, le propuso un trato: «Defiéndeme con la espada, que yo te defenderé con la pluma». La frase no aparece en sus obras y probablemente es posterior, pero resume bien lo que ocurrió: en Múnich, Ockham dedicó sus últimos años a escribir tratados políticos contra el poder temporal del papa y a favor de la independencia del emperador. El lógico se convirtió así en polemista político.</p>",
   "fuente": "Frase atribuida por la tradición posterior; no consta en sus escritos",
   "tradicion": true,
+  "vida": [
+   {
+    "a": 1324,
+    "t": "Llamado a Aviñón por sospecha de herejía"
+   },
+   {
+    "a": 1328,
+    "t": "Huye a Múnich, con el emperador Luis de Baviera"
+   }
+  ],
   "block": "med",
   "subjects": [
    "hf"
@@ -1669,6 +1773,16 @@ const ILUSTRES = {
   "anecdota": "<p>En el invierno de 1619, Descartes, entonces soldado, quedó detenido en un pueblo de Alemania por el frío. Pasó el día entero encerrado en una habitación caldeada por una estufa, sin nadie que lo distrajera, entregado a sus pensamientos. Allí concibió la idea de que las obras hechas por un solo arquitecto son más perfectas que las remendadas por muchos, y decidió reconstruir todo su saber desde los cimientos. Según su biógrafo Baillet, esa misma noche tuvo tres sueños que interpretó como una llamada a esa tarea.</p>",
   "fuente": "Descartes, Discurso del método II; Adrien Baillet, Vida de Descartes",
   "tradicion": false,
+  "vida": [
+   {
+    "a": 1637,
+    "t": "Discurso del método"
+   },
+   {
+    "a": 1641,
+    "t": "Meditaciones metafísicas"
+   }
+  ],
   "block": "ren",
   "subjects": [
    "hf"
@@ -1722,6 +1836,12 @@ const ILUSTRES = {
   "anecdota": "<p>En agosto de 1672, una multitud enfurecida asesinó en La Haya a los hermanos De Witt, líderes de la república holandesa a quienes Spinoza admiraba. Indignado, el filósofo, siempre tan sereno, quiso salir a colgar junto al lugar un cartel con las palabras latinas <em>ultimi barbarorum</em>, «los peores de los bárbaros». Su casero, temiendo que lo mataran también a él, cerró la puerta con llave y no le dejó salir. Spinoza se lo contó años después a Leibniz, que lo anotó.</p>",
   "fuente": "Leibniz, notas de su conversación con Spinoza (1676)",
   "tradicion": false,
+  "vida": [
+   {
+    "a": 1677,
+    "t": "Se publica la Ética, póstuma"
+   }
+  ],
   "block": "mod",
   "subjects": [
    "hf"
@@ -1949,6 +2069,13 @@ const ILUSTRES = {
   "anecdota": "<p>Se cuenta que Hume, ya corpulento y famoso por su escepticismo religioso, se cayó en una zanja cenagosa al atajar por una zona en obras de Edimburgo. Una vecina que pasaba lo reconoció como «Hume el ateo» y se negó a sacarlo de allí hasta que rezase el padrenuestro y el credo. Él, con su buen humor habitual, los recitó sin protestar, y ella le tendió la mano. La escena resume bien su carácter: tenía ideas incómodas para su época, pero todos sus contemporáneos destacaban su trato afable y su falta de rencor.</p>",
   "fuente": "Tradición de Edimburgo, recogida en biografías de Hume (E. C. Mossner, The Life of David Hume)",
   "tradicion": true,
+  "vida": [
+   {
+    "a": 1739,
+    "b": 1740,
+    "t": "Tratado de la naturaleza humana"
+   }
+  ],
   "block": "ilu",
   "subjects": [
    "hf"
