@@ -7157,7 +7157,7 @@ const QUIZZES = {
     "fb": "La historia tradicional marginó a mujeres y pensadores no europeos; el tema señala que esa selección no es neutra y que hay que ampliarla y revisarla."
    },
    {
-    "q": "En un debate sobre inteligencia artificial alguien plantea si una máquina podría ser libre. ¿Qué muestra este caso sobre las preguntas filosóficas?",
+    "q": "En un debate, alguien plantea si una máquina podría ser libre. ¿Qué muestra este caso sobre las preguntas filosóficas?",
     "o": [
      "Que la pregunta por la libertad es nueva y no tiene precedentes filosóficos.",
      "Que la vieja pregunta «¿somos libres?» se replantea con conceptos nuevos.",
@@ -7450,7 +7450,7 @@ const QUIZZES = {
     "fb": "Los dos son razonamientos, pero la falacia solo parece sólida: no justifica debidamente su conclusión."
    },
    {
-    "q": "Antes de criticar un artículo con el que no está de acuerdo, Laura lo relee para exponer su tesis del modo más convincente posible. ¿Qué está aplicando?",
+    "q": "Antes de criticar un artículo con el que no está de acuerdo, una persona lo relee para exponer su tesis del modo más convincente posible. ¿Qué está aplicando?",
     "o": [
      "El principio de caridad",
      "La genealogía de los valores",
@@ -7483,7 +7483,7 @@ const QUIZZES = {
     "fb": "Que mucha gente use algo no demuestra que sea fiable: el razonamiento parece sólido, pero no justifica debidamente la conclusión."
    },
    {
-    "q": "Marta escribe un ensayo con una tesis clara y buenos argumentos, pero no menciona ninguna objeción ni postura contraria. ¿Qué le falta según el tema?",
+    "q": "Alguien escribe un ensayo con una tesis clara y buenos argumentos, pero no menciona ninguna objeción ni postura contraria. ¿Qué le falta según el tema?",
     "o": [
      "Incluir la crítica",
      "Presentar el problema",
@@ -8256,7 +8256,7 @@ const QUIZZES = {
     "fb": "Solo se puede predecir si los fenómenos siguen leyes: la naturaleza es uniforme, causal e inteligible, y todo efecto tiene una causa necesaria."
    },
    {
-    "q": "Laura dice: «No me parezco en nada a la de hace diez años, pero sigo siendo yo: lo que se mantiene es el orden con que me transformo». ¿Con qué filósofo encaja su respuesta?",
+    "q": "Alguien dice: «No me parezco en nada a la de hace diez años, pero sigo siendo yo: lo que se mantiene es el orden con que me transformo». ¿Con qué filósofo encaja su respuesta?",
     "o": [
      "Con Parménides, para quien el yo verdadero es el pensamiento que no cambia.",
      "Con Demócrito, para quien somos solo átomos que chocan en el vacío.",
@@ -9758,7 +9758,7 @@ const QUIZZES = {
     "fb": "La aporía pregunta por qué, si basta con saber para obrar bien, sabemos lo que está bien y aun así lo hacemos mal: los deseos y pasiones parecen arrastrar a la razón."
    },
    {
-    "q": "Marta sabe que dejar el estudio para el último día le perjudica y, aun así, vuelve a hacerlo cada trimestre. ¿Qué tesis pone en cuestión su caso?",
+    "q": "Alguien sabe que dejar el estudio para el último día le perjudica y, aun así, vuelve a hacerlo cada trimestre. ¿Qué tesis pone en cuestión su caso?",
     "o": [
      "El término medio aristotélico, porque su conducta es un vicio por exceso",
      "El intelectualismo socrático, pues saber el bien no le basta para obrar bien",
@@ -11784,7 +11784,7 @@ const QUIZZES = {
     "fb": "La revolución científica sustituye la autoridad (Aristóteles, la Biblia) por la observación y la experimentación."
    },
    {
-    "q": "De pequeño, Mikel creía que los truenos eran el enfado de los dioses; hoy los explica por la electricidad atmosférica. Según Comte, ¿qué recorrido ha hecho?",
+    "q": "De pequeña, una persona creía que los truenos eran el enfado de los dioses; hoy los explica por la electricidad atmosférica. Según Comte, ¿qué recorrido ha hecho?",
     "o": [
      "Del estadio metafísico al teológico.",
      "Del estadio positivo al metafísico.",
@@ -12099,7 +12099,7 @@ const QUIZZES = {
     "fb": "Hume responde desde el lado opuesto: no hay ideas innatas, y todo conocimiento procede de la experiencia."
    },
    {
-    "q": "Tras un sueño muy realista, Lucía se pregunta si no estará soñando también ahora la clase de filosofía. ¿Qué paso de la duda cartesiana reproduce?",
+    "q": "Tras un sueño muy realista, una persona se pregunta si no estará soñando también ahora la clase de filosofía. ¿Qué paso de la duda cartesiana reproduce?",
     "o": [
      "La duda sobre las matemáticas por el genio maligno",
      "La duda sobre la existencia de la realidad exterior",
@@ -12107,7 +12107,7 @@ const QUIZZES = {
      "La crítica de Hume a la idea de un yo permanente"
     ],
     "a": 1,
-    "fb": "Descartes duda de la realidad exterior porque quizá todo sea un sueño: es el mismo paso que da Lucía."
+    "fb": "Descartes duda de la realidad exterior porque quizá todo sea un sueño: es el mismo paso que da esa persona."
    },
    {
     "q": "Un niño ve muchas veces que el fuego quema y espera que la próxima vez también queme. ¿Cómo explicaría Hume esa expectativa?",
@@ -12154,7 +12154,7 @@ const QUIZZES = {
     "fb": "El emotivismo de Hume sostiene que los juicios morales expresan sentimientos, no hechos."
    },
    {
-    "q": "Pablo decide lo que quiere según sus deseos y usa la razón solo para buscar la manera de conseguirlo. ¿Qué tesis ilustra?",
+    "q": "Alguien decide lo que quiere según sus deseos y usa la razón solo para buscar la manera de conseguirlo. ¿Qué tesis ilustra?",
     "o": [
      "La de Descartes: la razón debe guiar y dominar las pasiones",
      "La de Spinoza: todo es expresión de una única sustancia",
@@ -13231,7 +13231,7 @@ const QUIZZES = {
     "fb": "Elegir lo que produce más felicidad a más personas es aplicar el principio de la mayor felicidad de Mill."
    },
    {
-    "q": "Lucía podría pasar la tarde comiendo dulces, pero prefiere una conversación profunda con sus amigos porque dice que la hace más feliz de verdad. ¿Qué tesis ilustra?",
+    "q": "Una persona podría pasar la tarde comiendo dulces, pero prefiere una conversación profunda con sus amigos porque dice que la hace más feliz de verdad. ¿Qué tesis ilustra?",
     "o": [
      "La visión pesimista y egoísta del liberalismo",
      "La medida de la felicidad por la intensidad física",
@@ -16715,7 +16715,7 @@ const QUIZZES = {
     "fb": "Los dos sexos eluden la libertad: ella con la complicidad, él naturalizando su privilegio; de ahí el círculo de reproches mutuos."
    },
    {
-    "q": "Laura deja su carrera porque «es más cómodo que otro decida por mí», pero culpa a su marido de su insatisfacción. ¿Qué concepto de Beauvoir la describe mejor?",
+    "q": "Una persona deja su carrera porque «es más cómodo que otro decida por mí», pero culpa a su marido de su insatisfacción. ¿Qué concepto de Beauvoir la describe mejor?",
     "o": [
      "La trascendencia, pues se proyecta al futuro",
      "La reciprocidad entre dos libertades",
@@ -16748,7 +16748,7 @@ const QUIZZES = {
     "fb": "Para Beauvoir la identidad femenina la construye la sociedad; presentarla como «natural» oculta esa construcción."
    },
    {
-    "q": "Marta pasa el día limpiando, cocinando y ordenando; al día siguiente todo vuelve a empezar y siente que su vida no avanza. ¿Qué concepto lo explica?",
+    "q": "Una persona pasa el día limpiando, cocinando y ordenando; al día siguiente todo vuelve a empezar y siente que su vida no avanza. ¿Qué concepto lo explica?",
     "o": [
      "La trascendencia de un proyecto propio",
      "La reciprocidad de dos sujetos libres",
@@ -17041,7 +17041,7 @@ const QUIZZES = {
     "fb": "Para Han, la sociedad del cansancio es el resultado de la autoexplotación: una epidemia de agotamiento, ansiedad y depresión."
    },
    {
-    "q": "Lucía es autónoma y trabaja hasta la madrugada convencida de que «si quiere, puede». Nadie se lo exige, pero está agotada y ansiosa. ¿Qué concepto lo explica mejor?",
+    "q": "Una persona es autónoma y trabaja hasta la madrugada convencida de que «si quiere, puede». Nadie se lo exige, pero está agotada y ansiosa. ¿Qué concepto lo explica mejor?",
     "o": [
      "El capitalismo del desastre de Klein",
      "La sociedad del rendimiento de Han",
