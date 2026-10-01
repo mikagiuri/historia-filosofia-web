@@ -13319,7 +13319,7 @@ const QUIZZES = {
     "fb": "Adam Smith, en La riqueza de las naciones (1776), une liberalismo y utilitarismo con la idea de la mano invisible."
    },
    {
-    "q": "¿Quién mostró que el éxito evolutivo de especies como la humana se debe a la cooperación y no a la lucha?",
+    "q": "¿Quién sostuvo que el éxito evolutivo de especies como la humana se debe a la cooperación y no a la lucha?",
     "o": [
      "Adam Smith",
      "Geoffrey Ingham",
