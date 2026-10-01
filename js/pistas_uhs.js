@@ -17,10 +17,10 @@ const PISTAS = [
      "Recuerda la escena: unos prisioneros encadenados desde niños miran la pared del fondo de una cueva. Intenta explicar qué quiere decir Platón antes de pedir ayuda."
     ],
     "pistas": [
-     "Es una alegoría: cada elemento de la escena representa otra cosa.",
-     "Los prisioneros solo ven sombras y creen que eso es toda la realidad. Piensa en qué tipo de conocimiento tienen.",
-     "Platón distingue dos mundos: el que captan los sentidos y el que solo capta la razón.",
-     "La caverna es el mundo sensible; las sombras, las apariencias (opinión, <em>doxa</em>); el exterior iluminado por el sol, el mundo de las Ideas (ciencia, <em>episteme</em>)."
+     "Recuerda, para aterrizar: es una <strong>alegoría</strong>, no un relato real. Cada elemento de la escena representa otra cosa.",
+     "Con ella Platón explica <strong>dos niveles de conocimiento</strong>: uno engañoso, el de las apariencias, y otro verdadero, el que solo alcanza la razón.",
+     "No son dos lugares, sino dos saberes: dentro, las sombras son la <strong>opinión</strong> (<em>doxa</em>) sobre lo sensible; fuera están las <strong>Ideas</strong>, que capta la razón (<em>episteme</em>). No confundas la caverna con una cárcel de verdad.",
+     "Imagina que dentro tomas la sombra de un objeto por el objeto mismo; fuera, a plena luz, ves por fin los objetos reales. Esa luz del sol es la verdad."
     ],
     "comprobacion": {
      "pregunta": "¿Qué representa el interior de la caverna?",
@@ -135,10 +135,10 @@ const PISTAS = [
      "El relato no termina fuera: el que ha visto el sol regresa a buscar a los demás. Piensa qué tiene que ver eso con la política de Platón."
     ],
     "pistas": [
-     "Al volver, el liberado no ve bien en la oscuridad y los demás se burlan de él; incluso querrían matarlo. Recuerda qué le pasó a Sócrates.",
-     "Quien conoce el Bien tiene una responsabilidad con quienes siguen dentro.",
-     "En la <em>República</em>, ¿quién debe gobernar la ciudad ideal?",
-     "Debe volver porque quien conoce la Idea de Bien está obligado a guiar a los demás: es el <strong>filósofo gobernante</strong>."
+     "Recuerda: fuera, el liberado ha visto el sol, es decir, la <strong>Idea de Bien</strong>, lo más real y lo que da sentido a todo.",
+     "Ese saber no se queda en la contemplación: trae consigo un <strong>deber</strong> hacia quienes siguen encadenados.",
+     "No vuelve por nostalgia de las sombras ni como castigo: vuelve <strong>obligado</strong> a compartir lo que sabe, aunque preferiría seguir mirando la luz y aunque abajo lo reciban mal.",
+     "Es el <strong>filósofo gobernante</strong>: quien ha visto la luz baja a guiar a los demás. Así la alegoría enlaza conocimiento y política en la <em>República</em>."
     ],
     "comprobacion": {
      "pregunta": "¿Qué sentido tiene el regreso a la caverna?",
@@ -232,10 +232,10 @@ const PISTAS = [
      "Descartes decide dudar de todo lo que pueda ponerse en duda. Intenta explicar por qué alguien haría algo así antes de pedir ayuda."
     ],
     "pistas": [
-     "Descartes busca un conocimiento absolutamente seguro, sobre el que construir todo el saber.",
-     "Su duda no es escepticismo: no duda para quedarse dudando.",
-     "Es un <em>método</em>: rechaza provisionalmente todo lo que tenga la más mínima duda, para ver si queda algo en pie.",
-     "La duda metódica es una herramienta para encontrar una <strong>primera verdad indudable</strong>: usa la duda para superar la duda."
+     "Recuerda, para aterrizar: una <strong>certeza</strong> es algo de lo que no se puede dudar en absoluto. Descartes quiere encontrar al menos una.",
+     "La duda le sirve para <strong>limpiar el terreno</strong>: busca un cimiento seguro sobre el que levantar todo el saber, sin creencias heredadas sin examinar.",
+     "No es <strong>escepticismo</strong> (dudar por dudar): es un <em>método</em>. Da por falso, de momento, todo lo que admita la menor duda, solo para ver qué resiste.",
+     "Usa la duda como una <strong>criba</strong>: lo dudoso cae; si algo queda en el cedazo, será la primera verdad indudable. Duda para superar la duda."
     ],
     "comprobacion": {
      "pregunta": "¿Qué busca Descartes con la duda metódica?",
@@ -352,10 +352,10 @@ const PISTAS = [
      "Supón que el genio maligno te engaña en todo. ¿Hay algo de lo que, aun así, no puedas dudar?"
     ],
     "pistas": [
-     "Para que el genio maligno te engañe, tiene que haber alguien a quien engañar.",
-     "Mientras dudas, estás haciendo algo. ¿Qué?",
-     "Dudar es una forma de pensar.",
-     "Si dudo, pienso; y si pienso, existo: «pienso, luego existo» (<em>cogito, ergo sum</em>)."
+     "Recuerda: por radical que sea el engaño, el genio maligno necesita a <strong>alguien</strong> a quien engañar.",
+     "Fíjate en lo que haces ahora mismo: estás dudando. Dudar no es nada, es una <strong>actividad</strong>.",
+     "Y dudar es una forma de <strong>pensar</strong>. Aunque te engañe en <em>qué</em> piensas, no puede engañarte en <em>que</em> piensas.",
+     "Si pienso, tiene que existir un yo que piensa: «<strong>pienso, luego existo</strong>» (<em>cogito, ergo sum</em>). Cuanto más dudas, más lo confirmas."
     ],
     "comprobacion": {
      "pregunta": "¿Por qué el cogito resiste a la duda?",
@@ -449,10 +449,10 @@ const PISTAS = [
      "Intenta responder antes de abrir una pista. No necesitas una definición perfecta: basta con recuperar su rasgo esencial."
     ],
     "pistas": [
-     "Se opone al imperativo <em>hipotético</em>.",
-     "Un imperativo hipotético tiene la forma «si quieres X, haz Y». ¿Qué le falta al categórico?",
-     "Piensa en «No mientas», mandado aunque mentir te beneficiara. ¿De qué <em>no</em> depende ese «debes»?",
-     "Obliga sin condiciones: no depende de ningún fin que quieras conseguir ni de las consecuencias."
+     "Para aterrizar: un imperativo es un <strong>mandato</strong>, una orden sobre lo que debes hacer.",
+     "El categórico es el que da a una acción su valor moral: ordena actuar <em>por deber</em>, no por interés.",
+     "A diferencia del imperativo <em>hipotético</em> («si quieres X, haz Y»), no pone condiciones: obliga pase lo que pase, sin depender del fin que busques ni de las consecuencias.",
+     "Es un «debes» a secas, no un «debes <em>si…</em>»: la orden no lleva ningún «si» detrás."
     ],
     "comprobacion": {
      "pregunta": "¿Cuál de estas descripciones se acerca más?",
@@ -526,7 +526,7 @@ const PISTAS = [
       "titulo": "Imperativo categórico",
       "definicion": [
        "Es un mandato moral que obliga de manera <strong>incondicional</strong>: no depende de que queramos alcanzar un fin particular.",
-       "Un imperativo hipotético adopta la forma «si quieres X, debes hacer Y». El categórico ordena actuar por deber, aunque la acción no nos beneficie.",
+       "Un imperativo hipotético adopta la forma «si quieres X, debes hacer Y». El categórico ordena actuar por deber, aunque la acción no nos beneficie. Ejemplo: «No mientas» vale incluso cuando mentir te beneficiaría.",
        "La moralidad no se decide por las consecuencias, sino examinando la <strong>máxima</strong> desde la que actuamos y si puede valer racionalmente para todos."
       ],
       "comprobacion": {
@@ -568,10 +568,10 @@ const PISTAS = [
      "Empieza un nuevo ciclo. Ya no buscamos definir qué es el imperativo categórico, sino cómo se usa como prueba. Kant lo expresó de varias formas: ¿recuerdas alguna?"
     ],
     "pistas": [
-     "Una de sus formulaciones habla de <em>universalizar</em> algo.",
-     "Pregúntate qué ocurriría si todo el mundo actuara siguiendo la misma regla que tú.",
-     "Una promesa falsa deja de ser posible si todo el mundo promete en falso: nadie creería ya en las promesas.",
-     "La prueba no examina primero el resultado: examina si puedes querer tu <strong>máxima</strong> como ley universal."
+     "Para aterrizar: una <strong>máxima</strong> es la regla personal desde la que decides actuar.",
+     "La prueba sirve para saber si esa máxima es moral <em>sin</em> mirar las consecuencias.",
+     "Consiste en <em>universalizar</em> la máxima: preguntarte si podrías querer que valiera como ley para todos, no solo juzgar tu caso suelto.",
+     "Es como comprobar si tu regla «aguanta» cuando todo el mundo la sigue a la vez, o si se derrumba sola."
     ],
     "comprobacion": {
      "pregunta": "¿Qué debe poder universalizarse?",
@@ -609,7 +609,8 @@ const PISTAS = [
        "fuente": "Kant, Fundamentación de la metafísica de las costumbres, cap. II"
       },
       "parrafos": [
-       "La pregunta no es solo «¿qué pasaría si todos lo hicieran?», sino si puedes querer racionalmente que la máxima de tu acción valga para cualquiera."
+       "La pregunta no es solo «¿qué pasaría si todos lo hicieran?», sino si puedes querer racionalmente que la máxima de tu acción valga para cualquiera.",
+       "Ejemplo: la máxima «prometo en falso cuando me conviene» no se puede universalizar; si todos prometieran en falso, nadie creería ya en las promesas y prometer dejaría de existir."
       ],
       "comprobacion": {
        "boton": "Terminar comprobando",
@@ -668,10 +669,10 @@ const PISTAS = [
      "Intenta explicarlo con tus palabras antes de pedir ayuda. Piensa en un ejemplo de alguien a quien se «utiliza»."
     ],
     "pistas": [
-     "Kant distingue entre lo que tiene <em>precio</em> y lo que tiene <em>dignidad</em>.",
-     "Usamos a otras personas como medios a todas horas: la panadera, el conductor del autobús. Kant no lo prohíbe. Fíjate en la palabra «<strong>solo</strong>».",
-     "Usar a alguien <em>solo</em> como medio es tratarlo de un modo que no podría aceptar si lo supiera: engañarlo, forzarlo, manipularlo.",
-     "Las personas son fines en sí mismas: tienen dignidad, un valor sin equivalente. Respetarlas es respetar su capacidad de decidir por sí mismas."
+     "Para aterrizar: un <em>fin</em> es algo que vale por sí mismo; un <em>medio</em> es algo que usas para conseguir otra cosa.",
+     "La fórmula marca el límite de cómo puedes tratar a una persona: te dice qué nunca puedes hacerle.",
+     "No prohíbe usar a alguien como medio (eso lo hacemos a todas horas); prohíbe usarlo <strong>solo</strong> como medio, de un modo que no podría aceptar si lo supiera: engañándolo o forzándolo.",
+     "Kant distingue <em>precio</em> y <em>dignidad</em>: una cosa se cambia por otra equivalente; una persona, no. Tratarla como fin es tratarla como alguien que decide, no como una herramienta reemplazable."
     ],
     "comprobacion": {
      "pregunta": "¿Cuál de estas acciones trata a alguien solo como medio?",
@@ -746,7 +747,7 @@ const PISTAS = [
       "definicion": [
        "Para Kant, las cosas tienen <strong>precio</strong>: se pueden sustituir por algo equivalente. Las personas tienen <strong>dignidad</strong>: un valor que no admite equivalente ni intercambio.",
        "La dignidad procede de la <strong>autonomía</strong>: el ser racional es capaz de darse a sí mismo la ley moral. Por eso es un fin en sí mismo y no un simple instrumento.",
-       "Tratar a alguien <em>solo</em> como medio es pasar por encima de esa capacidad: engañarlo o forzarlo para que sirva a un fin que no podría compartir."
+       "Tratar a alguien <em>solo</em> como medio es pasar por encima de esa capacidad: engañarlo o forzarlo para que sirva a un fin que no podría compartir. Ejemplo: usamos como medio a la panadera o al conductor del autobús, y eso Kant no lo prohíbe, porque ellos aceptan libremente el trato."
       ],
       "comprobacion": {
        "boton": "Comprobar comprensión",
@@ -787,10 +788,10 @@ const PISTAS = [
      "Ya conoces la fórmula de la ley universal y la de la humanidad. Ahora toca relacionarlas con un mismo caso: prometer en falso para conseguir dinero."
     ],
     "pistas": [
-     "Empieza por la ley universal: ¿podría existir la práctica de prometer si todo el mundo prometiera en falso?",
-     "Ahora mira a la persona engañada: ¿podría estar de acuerdo con tu plan si lo conociera?",
-     "Kant presenta sus fórmulas como maneras distintas de expresar <em>la misma</em> ley moral.",
-     "La máxima no se puede universalizar (se destruye a sí misma) y, a la vez, usa al otro solo como medio (no podría consentirla)."
+     "Para aterrizar, recuerda qué pide cada fórmula: la de la ley universal, <em>universalizar</em> la máxima; la de la humanidad, no tratar a nadie <em>solo</em> como medio.",
+     "Kant presenta las dos fórmulas como maneras distintas de expresar <em>la misma</em> ley moral: por eso una acción mala debería fallar en las dos a la vez.",
+     "Comprueba cada una por separado: ¿podría universalizarse prometer en falso? ¿Podría consentirlo la persona engañada si conociera tu plan?",
+     "Son como dos ventanas a la misma habitación: una mira la <em>forma</em> de la regla, la otra el <em>respeto</em> a la persona; y por las dos se ve el mismo fallo."
     ],
     "comprobacion": {
      "pregunta": "¿Qué relación hay entre las dos fórmulas?",
