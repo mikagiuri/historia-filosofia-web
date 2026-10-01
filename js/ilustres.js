@@ -334,7 +334,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
-   "hf-sofistas"
+   "hf-sofistas",
+   "hf-platon-superficie"
   ]
  },
  "meliso": {
@@ -427,9 +428,12 @@ const ILUSTRES = {
    "hf-metodos",
    "hf-sofistas",
    "hf-platon",
+   "hf-platon-superficie",
    "hf-antropologia",
    "hf-etica",
-   "hf-politica"
+   "hf-politica",
+   "hf-etica-deber",
+   "hf-sospecha"
   ]
  },
  "aspasia": {
@@ -599,11 +603,16 @@ const ILUSTRES = {
    "hf-preso",
    "hf-sofistas",
    "hf-platon",
+   "hf-platon-superficie",
+   "hf-platon-prejuicio",
    "hf-antropologia",
    "hf-etica",
    "hf-politica",
    "hf-medieval",
+   "hf-platon-agustin",
    "hf-fe-razon",
+   "hf-modernidad",
+   "hf-racionalismo",
    "hf-sospecha",
    "hf-descartes-makro"
   ]
@@ -693,6 +702,8 @@ const ILUSTRES = {
    "hf-antropologia",
    "hf-etica",
    "hf-politica",
+   "hf-medieval",
+   "hf-fe-razon",
    "hf-modernidad",
    "hf-contrato",
    "hf-utilitarismo",
@@ -998,7 +1009,9 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-medieval",
+   "hf-platon-agustin",
    "hf-fe-razon",
+   "hf-racionalismo",
    "hf-descartes-makro"
   ]
  },
@@ -1064,7 +1077,10 @@ const ILUSTRES = {
   "subjects": [
    "hf"
   ],
-  "temas": []
+  "temas": [
+   "hf-medieval",
+   "hf-fe-razon"
+  ]
  },
  "anselmo": {
   "name": "Anselmo de Canterbury",
@@ -1421,7 +1437,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-medieval",
-   "hf-fe-razon"
+   "hf-fe-razon",
+   "hf-modernidad"
   ]
  },
  "nicolas_cusa": {
@@ -1460,7 +1477,9 @@ const ILUSTRES = {
   "subjects": [
    "hf"
   ],
-  "temas": []
+  "temas": [
+   "hf-modernidad"
+  ]
  },
  "erasmo": {
   "name": "Erasmo de Róterdam",
@@ -1484,7 +1503,9 @@ const ILUSTRES = {
   "subjects": [
    "hf"
   ],
-  "temas": []
+  "temas": [
+   "hf-modernidad"
+  ]
  },
  "maquiavelo": {
   "name": "Nicolás Maquiavelo",
@@ -1535,6 +1556,7 @@ const ILUSTRES = {
   "temas": [
    "hf-modernidad",
    "hf-sospecha",
+   "hf-analitica",
    "hf-descartes-makro"
   ]
  },
@@ -1557,7 +1579,9 @@ const ILUSTRES = {
   "subjects": [
    "hf"
   ],
-  "temas": []
+  "temas": [
+   "hf-modernidad"
+  ]
  },
  "lutero": {
   "name": "Martín Lutero",
@@ -1675,6 +1699,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-modernidad",
+   "hf-metafisica",
+   "hf-analitica",
    "hf-descartes-makro"
   ]
  },
@@ -1750,6 +1776,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-medieval",
+   "hf-racionalismo",
    "hf-metafisica",
    "hf-contrato",
    "hf-utilitarismo"
@@ -1789,10 +1817,15 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-metodos",
+   "hf-medieval",
+   "hf-fe-razon",
    "hf-modernidad",
    "hf-racionalismo",
+   "hf-descartes-simulacion",
    "hf-metafisica",
    "hf-kant",
+   "hf-capitalismo",
+   "hf-existencialismo",
    "hf-descartes-makro"
   ]
  },
@@ -1847,7 +1880,9 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-medieval",
    "hf-racionalismo",
+   "hf-metafisica",
    "hf-descartes-makro"
   ]
  },
@@ -1873,6 +1908,9 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-medieval",
+   "hf-racionalismo",
+   "hf-metafisica",
    "hf-contrato",
    "hf-utilitarismo",
    "hf-ilustracion",
@@ -1898,6 +1936,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-racionalismo",
    "hf-metafisica",
    "hf-descartes-makro"
   ]
@@ -1924,7 +1963,10 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-modernidad",
+   "hf-metafisica",
    "hf-ilustracion",
+   "hf-kant",
+   "hf-analitica",
    "hf-descartes-makro"
   ]
  },
@@ -1951,7 +1993,9 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-racionalismo",
    "hf-metafisica",
+   "hf-kant",
    "hf-descartes-makro"
   ]
  },
@@ -1977,6 +2021,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-metafisica",
    "hf-descartes-makro"
   ]
  },
@@ -1998,6 +2043,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-modernidad",
+   "hf-contrato",
    "hf-ilustracion"
   ]
  },
@@ -2081,7 +2128,11 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-medieval",
+   "hf-fe-razon",
+   "hf-modernidad",
    "hf-racionalismo",
+   "hf-metafisica",
    "hf-kant",
    "hf-descartes-makro"
   ]
@@ -2108,8 +2159,10 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-medieval",
    "hf-contrato",
-   "hf-ilustracion"
+   "hf-ilustracion",
+   "hf-kant"
   ]
  },
  "diderot": {
@@ -2248,9 +2301,13 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-metodos",
+   "hf-modernidad",
+   "hf-racionalismo",
+   "hf-metafisica",
    "hf-ilustracion",
    "hf-kant",
    "hf-etica-deber",
+   "hf-sospecha",
    "hf-descartes-makro"
   ]
  },
@@ -2277,7 +2334,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-utilitarismo",
-   "hf-etica-deber"
+   "hf-etica-deber",
+   "hf-posmodernidad"
   ]
  },
  "gouges": {
@@ -2371,6 +2429,11 @@ const ILUSTRES = {
   "temas": [
    "hf-historicidad",
    "hf-metodos",
+   "hf-mito",
+   "hf-modernidad",
+   "hf-sospecha",
+   "hf-capitalismo",
+   "hf-posmodernidad",
    "hf-beauvoir"
   ]
  },
@@ -2421,6 +2484,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-sospecha",
    "hf-capitalismo"
   ]
  },
@@ -2447,6 +2511,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-modernidad",
    "hf-utilitarismo",
    "hf-etica-deber"
   ]
@@ -2473,6 +2538,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-modernidad",
    "hf-sospecha"
   ]
  },
@@ -2500,6 +2566,9 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-metodos",
+   "hf-modernidad",
+   "hf-ilustracion",
+   "hf-etica-deber",
    "hf-sospecha",
    "hf-capitalismo"
   ]
@@ -2553,8 +2622,13 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-metodos",
+   "hf-platon-superficie",
+   "hf-modernidad",
+   "hf-ilustracion",
+   "hf-etica-deber",
    "hf-sospecha",
-   "hf-posmodernidad"
+   "hf-posmodernidad",
+   "hf-existencialismo"
   ]
  },
  "freud": {
@@ -2580,7 +2654,11 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
-   "hf-sospecha"
+   "hf-modernidad",
+   "hf-ilustracion",
+   "hf-sospecha",
+   "hf-capitalismo",
+   "hf-posmodernidad"
   ]
  },
  "unamuno": {
@@ -2729,7 +2807,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
-   "hf-existencialismo"
+   "hf-existencialismo",
+   "hf-beauvoir"
   ]
  },
  "sapir": {
@@ -2802,6 +2881,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-posmodernidad",
    "hf-existencialismo"
   ]
  },
@@ -2828,6 +2908,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-analitica"
+  ]
+ },
+ "benjamin": {
+  "name": "Walter Benjamin",
+  "dates": "1892 – 1940",
+  "born": 1892,
+  "died": 1940,
+  "place": "Berlín",
+  "role": "filósofo y crítico alemán",
+  "idea": "La reproducción técnica de las imágenes destruye el aura de la obra de arte única, pero la acerca a las masas y le da una nueva función política.",
+  "bio": "<p>Walter Benjamin nació en Berlín en 1892, en una familia judía acomodada. Se doctoró con un estudio sobre la crítica de arte en el romanticismo alemán, pero tuvo que retirar su tesis de habilitación sobre el drama barroco, lo que le cerró la carrera universitaria. Vivió como crítico, ensayista y traductor. En 1933 se exilió en París. En 1940, huyendo de los nazis, cruzó los Pirineos y se quitó la vida en Portbou (Girona) ante el temor de ser entregado a la Gestapo.</p>\n<p>Su ensayo más conocido, <em>La obra de arte en la época de su reproductibilidad técnica</em> (1936), analiza cómo la fotografía y el cine transforman el arte. Una obra tradicional poseía <strong>aura</strong>: su carácter único, casi sagrado. La <strong>reproductibilidad técnica</strong> destruye ese aura, pero a cambio acerca el arte a las masas y abre posibilidades políticas nuevas. Benjamin advirtió que el fascismo <strong>estetiza la política</strong>, convirtiéndola en un espectáculo que fascina, y propuso responder <strong>politizando el arte</strong>, poniéndolo al servicio de la emancipación.</p>\n<p>Su obra, fragmentaria y en buena parte póstuma, influyó en la Escuela de Fráncfort, aunque Adorno discutió su confianza en el cine y en el arte de masas. Sus tesis sobre la historia, escritas poco antes de morir, critican la idea de progreso y reivindican la memoria de los vencidos. Sus análisis de la imagen anticipan debates que retomarán autores como Guy Debord o Jean Baudrillard.</p>",
+  "obras": [
+   "El origen del drama barroco alemán (1928)",
+   "La obra de arte en la época de su reproductibilidad técnica (1936)",
+   "Sobre el concepto de historia (1940)",
+   "Libro de los pasajes"
+  ],
+  "anecdota": "<p>En 1921 Benjamin compró una pequeña acuarela de Paul Klee, <em>Angelus Novus</em>, que representa una figura de ángel con los ojos muy abiertos. La guardó toda su vida y la llevó consigo al exilio. Casi veinte años después la convirtió en la imagen central de sus tesis sobre la historia: el <strong>ángel de la historia</strong> mira hacia el pasado y ve una catástrofe que acumula ruinas, mientras una tempestad llamada progreso lo empuja hacia el futuro. Hoy la acuarela se conserva en el Museo de Israel, en Jerusalén.</p>",
+  "fuente": "Benjamin, Sobre el concepto de historia, tesis IX; testimonios de Gershom Scholem",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-capitalismo"
   ]
  },
  "horkheimer": {
@@ -2922,7 +3028,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
-   "hf-capitalismo"
+   "hf-capitalismo",
+   "hf-analitica"
   ]
  },
  "adorno": {
@@ -3027,6 +3134,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-ilustracion",
    "hf-capitalismo"
   ]
  },
@@ -3053,6 +3161,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-ilustracion",
    "hf-beauvoir"
   ]
  },
@@ -3078,6 +3187,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-descartes-makro"
+  ]
+ },
+ "camus": {
+  "name": "Albert Camus",
+  "dates": "1913 – 1960",
+  "born": 1913,
+  "died": 1960,
+  "place": "Mondovi (Argelia)",
+  "role": "escritor y filósofo francés",
+  "idea": "La vida es absurda porque el mundo no responde a nuestra exigencia de sentido; la respuesta no es huir de ella, sino vivirla con lucidez y rebeldía.",
+  "bio": "<p>Albert Camus nació en 1913 en Mondovi, en la Argelia entonces francesa, en una familia muy humilde: su padre murió en la Primera Guerra Mundial cuando él tenía un año. Fue periodista y, durante la ocupación nazi, participó en la Resistencia como redactor jefe del periódico clandestino <em>Combat</em>. Recibió el Premio Nobel de Literatura en 1957. Murió en un accidente de tráfico en Francia en 1960.</p>\n<p>En <em>El mito de Sísifo</em> (1942) describe el <strong>absurdo</strong>: el choque entre el anhelo humano de sentido y un mundo que no responde. Su símbolo es Sísifo, condenado a subir eternamente una roca que vuelve a caer. Camus no propone resignarse, sino la <strong>rebeldía</strong>: asumir el absurdo con lucidez. Aunque rechazó la etiqueta, aparece en el temario junto a los existencialistas por su tesis de que la vida carece de un sentido previo.</p>",
+  "obras": [
+   "El extranjero (1942)",
+   "El mito de Sísifo (1942)",
+   "La peste (1947)",
+   "El hombre rebelde (1951)"
+  ],
+  "anecdota": "<p>De joven, en Argel, Camus fue portero del equipo juvenil del Racing Universitario de Argel (RUA). Según se cuenta, eligió esa posición porque era la que menos desgastaba los zapatos, algo importante en una familia pobre. Tuvo que dejar la portería muy joven, pero el fútbol siguió siendo una de sus pasiones. Años después escribió que lo que sabía con más certeza sobre la moral y las obligaciones de los hombres se lo debía al fútbol: el juego le había enseñado lealtad, reglas compartidas y solidaridad de equipo.</p>",
+  "fuente": "Texto de Camus para el boletín del Racing Universitaire d'Alger (años cincuenta); testimonios biográficos",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-existencialismo"
   ]
  },
  "ricoeur": {
@@ -3130,7 +3265,33 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-historicidad",
-   "hf-capitalismo"
+   "hf-capitalismo",
+   "hf-beauvoir"
+  ]
+ },
+ "kuhn": {
+  "name": "Thomas Kuhn",
+  "dates": "1922 – 1996",
+  "born": 1922,
+  "died": 1996,
+  "place": "Cincinnati (Estados Unidos)",
+  "role": "filósofo de la ciencia",
+  "idea": "La ciencia no avanza solo acumulando verdades: alterna largos periodos de ciencia normal dentro de un paradigma con revoluciones científicas que lo sustituyen por otro.",
+  "bio": "<p>Thomas Kuhn nació en Cincinnati y se doctoró en física en la Universidad de Harvard. Mientras preparaba un curso de ciencia para estudiantes de humanidades leyó la física de Aristóteles y descubrió que no era una física moderna mal hecha, sino un modo distinto de ver el mundo. Ese hallazgo lo llevó a la historia y la filosofía de la ciencia. Fue profesor en Berkeley, Princeton y el MIT.</p>\n<p>En <em>La estructura de las revoluciones científicas</em> (1962) sostuvo que la ciencia no crece solo de forma acumulativa. Durante largos periodos de <strong>ciencia normal</strong>, los científicos trabajan dentro de un <strong>paradigma</strong>: un marco compartido de teorías, métodos, problemas y ejemplos. Cuando se acumulan <strong>anomalías</strong> que el paradigma no explica, llega una crisis y, después, una <strong>revolución científica</strong> que lo sustituye por otro, como el paso de la astronomía de Ptolomeo a la de Copérnico o de la física de Newton a la de Einstein. Según Kuhn, paradigmas rivales son en parte <strong>inconmensurables</strong>: no se pueden comparar punto por punto con una medida común.</p>\n<p>Su obra corrigió la imagen de Popper, para quien la ciencia avanza por conjeturas y refutaciones: Kuhn mostró que los científicos no abandonan una teoría a la primera refutación. Abrió debates con Lakatos y Feyerabend, y la palabra paradigma pasó al lenguaje común.</p>",
+  "obras": [
+   "La revolución copernicana (1957)",
+   "La estructura de las revoluciones científicas (1962)",
+   "La tensión esencial (1977)"
+  ],
+  "anecdota": "<p>La obra que puso en duda la imagen de una ciencia que avanza acumulando verdades se publicó, paradójicamente, dentro de la <em>Enciclopedia Internacional de la Ciencia Unificada</em>, la colección fundada por los positivistas lógicos del Círculo de Viena. Rudolf Carnap, uno de sus editores, leyó el manuscrito y lo recibió con elogios en una carta a Kuhn. Durante años se contó la historia como la de un libro que había derrotado al positivismo desde dentro; hoy los historiadores matizan que la relación entre Kuhn y aquellos filósofos fue más cercana de lo que parecía.</p>",
+  "fuente": "Primera edición de La estructura de las revoluciones científicas (International Encyclopedia of Unified Science, 1962); cartas de Carnap a Kuhn estudiadas por G. Reisch",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-analitica"
   ]
  },
  "lyotard": {
@@ -3205,7 +3366,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
-   "hf-posmodernidad"
+   "hf-posmodernidad",
+   "hf-beauvoir"
   ]
  },
  "habermas": {
@@ -3426,6 +3588,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-beauvoir",
    "hf-siglo21"
   ]
  },
@@ -3452,6 +3615,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-beauvoir",
    "hf-siglo21"
   ]
  },
@@ -3478,6 +3642,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-platon-superficie",
    "hf-siglo21"
   ]
  },
@@ -3524,6 +3689,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-descartes-simulacion",
    "hf-descartes-makro"
   ]
  },
@@ -3590,6 +3756,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-descartes-simulacion",
    "hf-descartes-makro"
   ]
  }
