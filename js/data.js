@@ -117,6 +117,11 @@ const SUBJECTS = {
     "citasC"
    ],
    [
+    "Rincón de lógica: tablas de verdad, silogismos y puertas",
+    "logica",
+    ""
+   ],
+   [
     "Guía y práctica de la PAU",
     "pau",
     ""
