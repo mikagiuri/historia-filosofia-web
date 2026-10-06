@@ -1507,6 +1507,103 @@ const DECKS = {
    ]
   ]
  },
+ "aristoteles": {
+  "name": "Aristóteles: conceptos (temas 7-9)",
+  "subject": "hf",
+  "block": "A",
+  "cards": [
+   [
+    "🧍",
+    "Sustancia",
+    "Lo que existe por sí mismo: un individuo concreto, compuesto de materia y forma."
+   ],
+   [
+    "🧱",
+    "Hilemorfismo",
+    "Doctrina aristotélica: toda sustancia es materia + forma."
+   ],
+   [
+    "🪨",
+    "Materia",
+    "Aquello de lo que algo está hecho: el bronce de una estatua."
+   ],
+   [
+    "🗿",
+    "Forma",
+    "Lo que hace que algo sea lo que es: la figura de la estatua, que no existe sin el bronce."
+   ],
+   [
+    "🌱",
+    "Acto y potencia",
+    "La potencia es la posibilidad de ser; el acto, su realización. El cambio es el paso de una a otra."
+   ],
+   [
+    "4️⃣",
+    "Las cuatro causas",
+    "Material (de qué está hecho), formal (su estructura), eficiente (qué lo produce) y final (para qué)."
+   ],
+   [
+    "⚙️",
+    "Motor inmóvil",
+    "Primer principio del movimiento: acto puro que, sin moverse, atrae todo lo demás como causa final."
+   ],
+   [
+    "🫀",
+    "Alma (psique)",
+    "Forma del cuerpo vivo: lo que lo hace ser lo que es. No puede existir sin el cuerpo."
+   ],
+   [
+    "🔍",
+    "Abstracción",
+    "Conocer es abstraer lo universal a partir de lo que captan los sentidos, no recordar."
+   ],
+   [
+    "🎯",
+    "Eudaimonía",
+    "Fin último que se busca por sí mismo: la vida plena, realizada según la virtud."
+   ],
+   [
+    "🔁",
+    "Virtudes éticas",
+    "Hábitos que orientan las pasiones y acciones hacia el bien; se adquieren por repetición."
+   ],
+   [
+    "🧠",
+    "Virtudes dianoéticas",
+    "Perfecciones del entendimiento, como la sabiduría y la prudencia; se adquieren por la enseñanza."
+   ],
+   [
+    "⚖️",
+    "Término medio",
+    "La virtud ética está entre dos vicios: la valentía, entre la cobardía (defecto) y la temeridad (exceso)."
+   ],
+   [
+    "🤔",
+    "Prudencia",
+    "Virtud que delibera sobre lo que conviene en cada caso y fija el término medio."
+   ],
+   [
+    "🐝",
+    "Zoon politikón",
+    "«Animal político»: el ser humano solo vive plenamente en comunidad; fuera de ella sería una bestia o un dios."
+   ],
+   [
+    "🏛️",
+    "Bien común",
+    "Criterio de los regímenes: son justos los que gobiernan para el bien común y degenerados los que buscan el interés propio."
+   ],
+   [
+    "🧭",
+    "El mejor régimen",
+    "El que se adapta a cada pueblo evitando los extremos; la clase media es la base de la estabilidad."
+   ],
+   [
+    "👀",
+    "Frente a Platón",
+    "Rechaza el dualismo de su maestro: parte de la observación de lo real, no de un mundo de Ideas separado."
+   ]
+  ]
+ },
  "antropologia": {
   "name": "Antropología clásica (tema 7)",
   "subject": "hf",
