@@ -2917,3 +2917,255 @@ const GLOSARIO = [
   "def": "Doctrina de Leibniz: Dios, al crear el mundo, sincronizó las sustancias para siempre, sin influencia externa."
  }
 ];
+const GLOSARIO_TRAMPAS = {
+ "hf": [
+  [
+   "El ser (Parménides)",
+   "Panta rei"
+  ],
+  [
+   "Arkhé",
+   "Ápeiron"
+  ],
+  [
+   "Nous",
+   "Homeomerías"
+  ],
+  [
+   "Átomo",
+   "Homeomerías"
+  ],
+  [
+   "Hilozoísmo",
+   "Physis"
+  ],
+  [
+   "Ironía socrática",
+   "Mayéutica"
+  ],
+  [
+   "Aporía",
+   "Ironía socrática"
+  ],
+  [
+   "Nomos",
+   "Subjetivismo"
+  ],
+  [
+   "Doxa",
+   "Episteme"
+  ],
+  [
+   "Dualismo ontológico",
+   "Teoría de las Ideas"
+  ],
+  [
+   "Mundo sensible",
+   "Participación (méthexis)"
+  ],
+  [
+   "Acto y potencia",
+   "Hilemorfismo"
+  ],
+  [
+   "Sustancia (clásica)",
+   "Hilemorfismo"
+  ],
+  [
+   "Teleología",
+   "Las cuatro causas"
+  ],
+  [
+   "El tercer hombre",
+   "El problema de los dos mundos"
+  ],
+  [
+   "Areté",
+   "Término medio"
+  ],
+  [
+   "Tiranía",
+   "Degeneración de los regímenes"
+  ],
+  [
+   "Ataraxia",
+   "Apatheia"
+  ],
+  [
+   "Aponía",
+   "Ataraxia"
+  ],
+  [
+   "Autarquía",
+   "Cinismo"
+  ],
+  [
+   "Patrística",
+   "Escolástica"
+  ],
+  [
+   "Apologetas",
+   "Patrística"
+  ],
+  [
+   "Interioridad",
+   "Conversión"
+  ],
+  [
+   "Humanismo",
+   "Dignitas hominis"
+  ],
+  [
+   "Racionalismo",
+   "Empirismo"
+  ],
+  [
+   "Innatismo",
+   "Ideas claras y distintas"
+  ],
+  [
+   "Duda metódica",
+   "Solipsismo"
+  ],
+  [
+   "Res cogitans",
+   "Res extensa"
+  ],
+  [
+   "Ocasionalismo",
+   "Armonía preestablecida"
+  ],
+  [
+   "Fenomenismo",
+   "Haz de percepciones"
+  ],
+  [
+   "Impresión",
+   "Hábito"
+  ],
+  [
+   "Dualismo",
+   "Materialismo"
+  ],
+  [
+   "Mecanicismo",
+   "Materialismo"
+  ],
+  [
+   "Fenómeno",
+   "Noúmeno"
+  ],
+  [
+   "A priori",
+   "Trascendental"
+  ],
+  [
+   "Categoría",
+   "Idea regulativa"
+  ],
+  [
+   "Autonomía",
+   "Deber"
+  ],
+  [
+   "Ideología",
+   "Alienación"
+  ],
+  [
+   "Infraestructura / superestructura",
+   "Materialismo histórico"
+  ],
+  [
+   "Plusvalía",
+   "Fetichismo"
+  ],
+  [
+   "Lo apolíneo",
+   "Lo dionisíaco"
+  ],
+  [
+   "Nihilismo",
+   "Perspectivismo"
+  ],
+  [
+   "Voluntad de poder",
+   "Voluntad ciega"
+  ],
+  [
+   "Dialéctica",
+   "Dialéctica materialista"
+  ],
+  [
+   "Razón instrumental",
+   "Razón comunicativa"
+  ],
+  [
+   "Industria cultural",
+   "Sociedad unidimensional"
+  ],
+  [
+   "Necesidades falsas",
+   "Represión excedente"
+  ],
+  [
+   "Deconstrucción",
+   "Différance"
+  ],
+  [
+   "Metarrelato",
+   "Posmodernidad"
+  ],
+  [
+   "Rizoma",
+   "Línea de fuga"
+  ],
+  [
+   "Verificabilidad",
+   "Falsabilidad"
+  ],
+  [
+   "Paradigma",
+   "Programa de investigación"
+  ],
+  [
+   "Juego de lenguaje",
+   "Isomorfismo"
+  ],
+  [
+   "Performatividad",
+   "Teoría de los actos de habla"
+  ],
+  [
+   "Angustia",
+   "El absurdo"
+  ],
+  [
+   "Dasein",
+   "Ser hacia la muerte"
+  ],
+  [
+   "Ser-para-sí",
+   "La existencia primero"
+  ],
+  [
+   "Distinción sexo-género",
+   "La construcción del género"
+  ],
+  [
+   "Teoría queer",
+   "Deshacer el género"
+  ],
+  [
+   "Totalitarismo",
+   "Banalidad del mal"
+  ],
+  [
+   "Modernidad líquida",
+   "Precariedad"
+  ],
+  [
+   "Psicopolítica",
+   "La sociedad del cansancio"
+  ]
+ ]
+};
