@@ -1990,7 +1990,7 @@ const CRONOGRAMAS = [
    },
    {
     "name": "Primera ola: el sufragismo",
-    "color": "#3fa7c9"
+    "color": "#d9c11a"
    },
    {
     "name": "Segunda ola: la igualdad",
@@ -1998,7 +1998,7 @@ const CRONOGRAMAS = [
    },
    {
     "name": "Diferencia, interseccionalidad y género",
-    "color": "#b44fc4"
+    "color": "#e377c2"
    },
    {
     "name": "Justicia, cuidados y ecofeminismo",
