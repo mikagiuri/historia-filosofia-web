@@ -17586,7 +17586,7 @@ const QUIZZES = {
     "fb": "El logos introduce la necesidad: los fenómenos ocurren porque tienen que ocurrir, no por el capricho de seres extraordinarios."
    },
    {
-    "q": "¿Quién formuló con fuerza la idea de que entre el mito y el logos hay continuidad, porque «el contenido del mito es el pensamiento»?",
+    "q": "¿Quién formuló con fuerza la idea de que entre el mito y el logos hay continuidad, porque el contenido del mito es ya pensamiento?",
     "o": [
      "Aristóteles",
      "Bertrand Russell",
