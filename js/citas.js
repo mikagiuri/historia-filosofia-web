@@ -752,5 +752,446 @@ const CITAS = [
   "e": "contemporanea",
   "id": "bauman",
   "img": "media/retratos/ilustres/bauman.jpg"
+ },
+ {
+  "c": "Los pensamientos sin contenido son vacíos; las intuiciones sin conceptos, ciegas.",
+  "a": "Immanuel Kant",
+  "o": "Crítica de la razón pura (1781), Lógica trascendental, Introducción, I (A 51 / B 75)",
+  "e": "moderna",
+  "id": "kant",
+  "img": "media/retratos/museo/kant.jpg"
+ },
+ {
+  "c": "La ilustración es la salida del hombre de su autoculpable minoría de edad. La minoría de edad significa la incapacidad de servirse de su propio entendimiento, sin la guía de otro.",
+  "a": "Immanuel Kant",
+  "o": "Respuesta a la pregunta: ¿Qué es la Ilustración? (1784), § 1 (Ak VIII, 35)",
+  "e": "moderna",
+  "id": "kant",
+  "img": "media/retratos/museo/kant.jpg"
+ },
+ {
+  "c": "El oficial dice: ¡no razones, adiéstrate! El recaudador: ¡no razones, paga! El clérigo: ¡no razones, cree! […] Un único señor en el mundo dice: razonad cuanto queráis y sobre lo que queráis, pero obedeced.",
+  "a": "Immanuel Kant",
+  "o": "Respuesta a la pregunta: ¿Qué es la Ilustración? (1784) (Ak VIII, 36-37)",
+  "e": "moderna",
+  "id": "kant",
+  "img": "media/retratos/museo/kant.jpg"
+ },
+ {
+  "c": "Ni en el mundo, ni, en general, tampoco fuera de él, es posible pensar nada que pueda considerarse como bueno sin restricción, a no ser tan solo una buena voluntad.",
+  "a": "Immanuel Kant",
+  "o": "Fundamentación de la metafísica de las costumbres (1785) I (Ak IV, 393)",
+  "e": "moderna",
+  "id": "kant",
+  "img": "media/retratos/museo/kant.jpg"
+ },
+ {
+  "c": "No hay fenómenos morales, sino solo una interpretación moral de fenómenos.",
+  "a": "Friedrich Nietzsche",
+  "o": "Más allá del bien y del mal (1886), § 108",
+  "e": "contemporanea",
+  "id": "nietzsche",
+  "img": "media/retratos/museo/nietzsche.jpg"
+ },
+ {
+  "c": "Las verdades son ilusiones de las que se ha olvidado que lo son, metáforas que se han desgastado y han perdido su fuerza sensible, monedas que han perdido su efigie […].",
+  "a": "Friedrich Nietzsche",
+  "o": "Sobre verdad y mentira en sentido extramoral (1873), § 1",
+  "e": "contemporanea",
+  "id": "nietzsche",
+  "img": "media/retratos/museo/nietzsche.jpg"
+ },
+ {
+  "c": "¿Qué es bueno? Todo lo que eleva en el hombre el sentimiento de poder, la voluntad de poder, el poder mismo. ¿Qué es malo? Todo lo que procede de la debilidad.",
+  "a": "Friedrich Nietzsche",
+  "o": "El Anticristo (1888), § 2",
+  "e": "contemporanea",
+  "id": "nietzsche",
+  "img": "media/retratos/museo/nietzsche.jpg"
+ },
+ {
+  "c": "En la sociedad humana nada es natural.",
+  "a": "Simone de Beauvoir",
+  "o": "El segundo sexo (1949), vol. II, Conclusión",
+  "e": "contemporanea",
+  "id": "beauvoir",
+  "img": "media/retratos/museo/beauvoir.jpg"
+ },
+ {
+  "c": "Toda opresión crea un estado de guerra.",
+  "a": "Simone de Beauvoir",
+  "o": "El segundo sexo (1949), vol. II, Conclusión",
+  "e": "contemporanea",
+  "id": "beauvoir",
+  "img": "media/retratos/museo/beauvoir.jpg"
+ },
+ {
+  "c": "Pero ¿qué soy entonces? Una cosa que piensa. ¿Y qué es eso? Una cosa que duda, que entiende, que afirma, que niega, que quiere, que no quiere, que imagina también, y que siente.",
+  "a": "René Descartes",
+  "o": "Meditaciones metafísicas (1641) II (AT VII, 28)",
+  "e": "moderna",
+  "id": "descartes",
+  "img": "media/retratos/museo/descartes.jpg"
+ },
+ {
+  "c": "Si hubiera máquinas que tuvieran la semejanza de nuestros cuerpos e imitaran nuestras acciones, tendríamos dos medios muy ciertos para reconocer que no serían por ello verdaderos hombres.",
+  "a": "René Descartes",
+  "o": "Discurso del método (1637) V (AT VI, 56)",
+  "e": "moderna",
+  "id": "descartes",
+  "img": "media/retratos/museo/descartes.jpg"
+ },
+ {
+  "c": "¿Contiene algún razonamiento abstracto sobre la cantidad o el número? No. ¿Contiene algún razonamiento experimental sobre cuestiones de hecho […]? No. Arrojémoslo entonces a las llamas, pues no puede contener más que sofistería e ilusión.",
+  "a": "David Hume",
+  "o": "Investigación sobre el entendimiento humano (1748), sección XII, parte 3",
+  "e": "moderna",
+  "id": "hume",
+  "img": "media/retratos/museo/hume.jpg"
+ },
+ {
+  "c": "Bien podríamos afirmar que un hombre, por permanecer en un navío, consiente libremente en el dominio del capitán, aunque fue llevado a bordo mientras dormía […].",
+  "a": "David Hume",
+  "o": "«Del contrato original» (1748), en Ensayos morales, políticos y literarios",
+  "e": "moderna",
+  "id": "hume",
+  "img": "media/retratos/museo/hume.jpg"
+ },
+ {
+  "c": "Supongamos, pues, que la mente sea, como decimos, un papel en blanco, limpio de todo carácter, sin ninguna idea. ¿Cómo llega a llenarse? […] A esto respondo con una sola palabra: de la experiencia.",
+  "a": "John Locke",
+  "o": "Ensayo sobre el entendimiento humano (1690) II, 1, § 2",
+  "e": "moderna",
+  "id": "locke",
+  "img": "media/retratos/museo/locke.jpg"
+ },
+ {
+  "c": "Se me opondrá ese axioma admitido entre los filósofos: que nada hay en el alma que no venga de los sentidos. Pero hay que exceptuar el alma misma y sus afecciones.",
+  "a": "Leibniz",
+  "o": "Nuevos ensayos sobre el entendimiento humano (1704; publ. 1765) II, 1, § 2",
+  "e": "moderna"
+ },
+ {
+  "c": "Su ser es ser percibidas, y no es posible que tengan existencia alguna fuera de las mentes o cosas pensantes que las perciben.",
+  "a": "Berkeley",
+  "o": "Tratado sobre los principios del conocimiento humano (1710) I, § 3",
+  "e": "moderna"
+ },
+ {
+  "c": "Así como la luz se manifiesta a sí misma y manifiesta las tinieblas, así la verdad es norma de sí misma y de lo falso.",
+  "a": "Spinoza",
+  "o": "Ética (1677) II, proposición 43, escolio",
+  "e": "moderna"
+ },
+ {
+  "c": "Decir de lo que es que no es, o de lo que no es que es, eso es falso; decir de lo que es que es y de lo que no es que no es, es verdadero.",
+  "a": "Aristóteles",
+  "o": "Metafísica IV, 7, 1011b26-27",
+  "e": "antigua",
+  "id": "aristoteles",
+  "img": "media/retratos/museo/aristoteles.jpg"
+ },
+ {
+  "c": "Construyendo casas se hacen constructores, y tocando la cítara, citaristas. Así también, practicando la justicia nos hacemos justos; practicando la moderación, moderados, y practicando la valentía, valientes.",
+  "a": "Aristóteles",
+  "o": "Ética a Nicómaco II, 1, 1103a33-b2",
+  "e": "antigua",
+  "id": "aristoteles",
+  "img": "media/retratos/museo/aristoteles.jpg"
+ },
+ {
+  "c": "Los muchos, cada uno de los cuales no es un hombre virtuoso, reunidos pueden ser mejores que aquellos, no individualmente, sino en conjunto […].",
+  "a": "Aristóteles",
+  "o": "Política III, 11, 1281a42-b3",
+  "e": "antigua",
+  "id": "aristoteles",
+  "img": "media/retratos/museo/aristoteles.jpg"
+ },
+ {
+  "c": "Es evidente que los unos son naturalmente libres y los otros naturalmente esclavos; y que para estos últimos es la esclavitud tan útil como justa.",
+  "a": "Aristóteles",
+  "o": "Política I, 5, 1255a1-3",
+  "e": "antigua",
+  "id": "aristoteles",
+  "img": "media/retratos/museo/aristoteles.jpg"
+ },
+ {
+  "c": "Yo soy de los que con gusto serían refutados si dicen algo que no es verdad, y con gusto refutarían a quien lo dijera […].",
+  "a": "Platón",
+  "o": "Gorgias 458a (habla Sócrates)",
+  "e": "antigua",
+  "id": "platon",
+  "img": "media/retratos/museo/platon.jpg"
+ },
+ {
+  "c": "Si hubiera dos anillos así y se pusiera uno el justo y otro el injusto, nadie sería, al parecer, tan de acero como para mantenerse en la justicia.",
+  "a": "Platón",
+  "o": "República II, 360b (habla Glaucón)",
+  "e": "antigua",
+  "id": "platon",
+  "img": "media/retratos/museo/platon.jpg"
+ },
+ {
+  "c": "Los marineros disputan entre sí por el gobierno de la nave, y cada uno cree que debe pilotarla él, sin haber aprendido nunca el arte […].",
+  "a": "Platón",
+  "o": "República VI, 488b",
+  "e": "antigua",
+  "id": "platon",
+  "img": "media/retratos/museo/platon.jpg"
+ },
+ {
+  "c": "Lo terrible de la escritura, Fedro, es que se parece de veras a la pintura: también las criaturas de esta se presentan como si estuvieran vivas, pero si les preguntas algo callan con toda solemnidad.",
+  "a": "Platón",
+  "o": "Fedro 275d",
+  "e": "antigua",
+  "id": "platon",
+  "img": "media/retratos/museo/platon.jpg"
+ },
+ {
+  "c": "La guerra es padre de todas las cosas y rey de todas: a unos los mostró dioses, a otros hombres; a unos los hizo esclavos, a otros libres.",
+  "a": "Heráclito",
+  "o": "fragmento DK 22 B53",
+  "e": "antigua",
+  "id": "heraclito",
+  "img": "media/retratos/museo2/heraclito.jpg"
+ },
+ {
+  "c": "Lo que es es ingénito e imperecedero, entero, único, inmóvil y sin término. Ni fue nunca ni será, puesto que es ahora, todo junto, uno, continuo.",
+  "a": "Parménides",
+  "o": "fragmento DK 28 B8, 3-6",
+  "e": "antigua",
+  "id": "parmenides",
+  "img": "media/retratos/museo2/parmenides.jpg"
+ },
+ {
+  "c": "Por convención lo dulce y por convención lo amargo; por convención lo caliente, por convención lo frío, por convención el color; pero en realidad, átomos y vacío.",
+  "a": "Demócrito",
+  "o": "fragmento DK 68 B9 (en Sexto Empírico, Contra los matemáticos VII, 135)",
+  "e": "antigua"
+ },
+ {
+  "c": "El discurso es un soberano poderoso que, con un cuerpo pequeñísimo y del todo invisible, lleva a cabo obras divinísimas: puede detener el miedo, quitar la pena, producir alegría y acrecentar la compasión.",
+  "a": "Gorgias",
+  "o": "Elogio de Helena, 8 (DK 82 B11)",
+  "e": "antigua"
+ },
+ {
+  "c": "Que nadie, por joven, aplace el filosofar; ni, por viejo, se canse de filosofar. Para la salud del alma nadie llega ni pronto ni tarde.",
+  "a": "Epicuro",
+  "o": "Carta a Meneceo, 122 (en Diógenes Laercio, Vidas X)",
+  "e": "antigua",
+  "id": "epicuro",
+  "img": "media/retratos/museo/epicuro.jpg"
+ },
+ {
+  "c": "Es propio del ignorante culpar a otros de lo que a él le va mal; del que empieza a instruirse, culparse a sí mismo; y del ya instruido, no culpar ni a otro ni a sí mismo.",
+  "a": "Epicteto",
+  "o": "Enquiridión 5",
+  "e": "antigua",
+  "img": "media/retratos/citas/epicteto.jpg"
+ },
+ {
+  "c": "La filosofía no es un oficio popular ni está hecha para la exhibición; no está en las palabras, sino en los hechos. […] Forma y modela el alma, ordena la vida, rige las acciones.",
+  "a": "Séneca",
+  "o": "Epístolas a Lucilio 16, 3",
+  "e": "antigua"
+ },
+ {
+  "c": "Lo que no es útil al enjambre tampoco lo es para la abeja.",
+  "a": "Marco Aurelio",
+  "o": "Meditaciones VI, 54",
+  "e": "antigua"
+ },
+ {
+  "c": "No eres tú el mortal, sino este cuerpo; ni eres tú aquel que esa forma tuya muestra: la mente de cada uno es cada uno, y no esa figura que puede señalarse con el dedo.",
+  "a": "Cicerón",
+  "o": "Sobre la república VI, 26 («El sueño de Escipión»)",
+  "e": "antigua"
+ },
+ {
+  "c": "No salgas fuera; vuelve a ti mismo: en el hombre interior habita la verdad. Y si encuentras que tu propia naturaleza es mudable, trasciéndete también a ti mismo.",
+  "a": "San Agustín",
+  "o": "De la verdadera religión (390-391) XXXIX, 72",
+  "e": "medieval",
+  "id": "agustin",
+  "img": "media/retratos/museo/agustin.jpg"
+ },
+ {
+  "c": "Los empíricos, a la manera de la hormiga, solo amontonan y usan lo amontonado; los racionales, a la manera de las arañas, sacan de sí mismos su tela. La abeja, en cambio, tiene un modo intermedio.",
+  "a": "Francis Bacon",
+  "o": "Novum Organum (1620) I, aforismo 95",
+  "e": "moderna",
+  "id": "francis_bacon",
+  "img": "media/retratos/museo2/bacon.jpg"
+ },
+ {
+  "c": "Y lo que es peor de todo, miedo continuo, y peligro de muerte violenta; y la vida del hombre, solitaria, pobre, desagradable, brutal, y corta.",
+  "a": "Thomas Hobbes",
+  "o": "Leviatán (1651) I, 13",
+  "e": "moderna",
+  "id": "hobbes",
+  "img": "media/retratos/museo2/hobbes.jpg"
+ },
+ {
+  "c": "Esta es la generación de aquel gran Leviatán, o más bien —hablando con más reverencia— de aquel dios mortal a quien debemos, bajo el Dios inmortal, nuestra paz y nuestra defensa.",
+  "a": "Thomas Hobbes",
+  "o": "Leviatán (1651) II, 17",
+  "e": "moderna",
+  "id": "hobbes",
+  "img": "media/retratos/museo2/hobbes.jpg"
+ },
+ {
+  "c": "El hombre nace libre, y sin embargo en todas partes está encadenado.",
+  "a": "Rousseau",
+  "o": "El contrato social (1762) I, 1",
+  "e": "moderna",
+  "id": "rousseau",
+  "img": "media/retratos/museo/rousseau.jpg"
+ },
+ {
+  "c": "El primero a quien, habiendo cercado un terreno, se le ocurrió decir «esto es mío» y encontró gentes bastante simples para creerle, fue el verdadero fundador de la sociedad civil.",
+  "a": "Rousseau",
+  "o": "Discurso sobre el origen y los fundamentos de la desigualdad entre los hombres (1755), segunda parte",
+  "e": "moderna",
+  "id": "rousseau",
+  "img": "media/retratos/museo/rousseau.jpg"
+ },
+ {
+  "c": "Así pues, toda la educación de las mujeres debe ser relativa a los hombres. Agradarles, serles útiles, hacerse amar y honrar por ellos […]: he aquí los deberes de las mujeres en todo tiempo.",
+  "a": "Rousseau",
+  "o": "Emilio o De la educación (1762) V",
+  "e": "moderna",
+  "id": "rousseau",
+  "img": "media/retratos/museo/rousseau.jpg"
+ },
+ {
+  "c": "Se querría ser lo uno y lo otro; pero, como es difícil juntarlos, es mucho más seguro ser temido que amado cuando haya de faltar uno de los dos.",
+  "a": "Maquiavelo",
+  "o": "El príncipe (1513) XVII",
+  "e": "moderna",
+  "id": "maquiavelo",
+  "img": "media/retratos/museo2/maquiavelo.jpg"
+ },
+ {
+  "c": "Somos todos retazos, y de una contextura tan informe y diversa que cada pieza, cada momento, hace su juego. Y hay tanta diferencia de nosotros a nosotros mismos como de nosotros a otro.",
+  "a": "Montaigne",
+  "o": "Ensayos (1580) II, 1",
+  "e": "moderna"
+ },
+ {
+  "c": "Las ideas de la clase dominante son en cada época las ideas dominantes; es decir, la clase que es el poder material dominante de la sociedad es, al mismo tiempo, su poder espiritual dominante.",
+  "a": "Karl Marx",
+  "o": "La ideología alemana (1845-1846, con F. Engels), I, «Feuerbach»",
+  "e": "contemporanea",
+  "id": "marx",
+  "img": "media/retratos/museo/marx.jpg"
+ },
+ {
+  "c": "La conciencia de Dios es la autoconciencia del hombre; el conocimiento de Dios, el conocimiento que el hombre tiene de sí mismo.",
+  "a": "Feuerbach",
+  "o": "La esencia del cristianismo (1841), Introducción, 2",
+  "e": "contemporanea"
+ },
+ {
+  "c": "La compasión es la base real de toda justicia libre y de todo amor auténtico al prójimo.",
+  "a": "Schopenhauer",
+  "o": "Sobre el fundamento de la moral (1840), § 16",
+  "e": "contemporanea"
+ },
+ {
+  "c": "Sobre sí mismo, sobre su propio cuerpo y su propia mente, el individuo es soberano.",
+  "a": "John Stuart Mill",
+  "o": "Sobre la libertad (1859), cap. I",
+  "e": "contemporanea",
+  "id": "mill",
+  "img": "media/retratos/museo/mill.jpg"
+ },
+ {
+  "c": "El único propósito para el que cabe ejercer legítimamente poder sobre un miembro de una comunidad civilizada, contra su voluntad, es evitar un daño a otros.",
+  "a": "John Stuart Mill",
+  "o": "Sobre la libertad (1859), cap. I",
+  "e": "contemporanea",
+  "id": "mill",
+  "img": "media/retratos/museo/mill.jpg"
+ },
+ {
+  "c": "Los derechos naturales son un sinsentido sin más; los derechos naturales e imprescriptibles, un sinsentido retórico, un sinsentido con zancos.",
+  "a": "Jeremy Bentham",
+  "o": "Falacias anárquicas (escrito en 1796; publ. 1843), artículo II",
+  "e": "moderna",
+  "id": "bentham",
+  "img": "media/retratos/museo2/bentham.jpg"
+ },
+ {
+  "c": "Los Derechos del Hombre, supuestamente inalienables, demostraron ser inaplicables —incluso en países cuyas constituciones se basaban en ellos— en cuanto aparecieron personas que ya no eran ciudadanos de ningún Estado soberano.",
+  "a": "Arendt",
+  "o": "Los orígenes del totalitarismo (1951), parte II, cap. 9",
+  "e": "contemporanea",
+  "id": "arendt",
+  "img": "media/retratos/museo/arendt.jpg"
+ },
+ {
+  "c": "Trabaja por la eliminación de males concretos y no por la realización de bienes abstractos.",
+  "a": "Karl Popper",
+  "o": "«Utopía y violencia» (1947), en Conjeturas y refutaciones (1963), cap. 18",
+  "e": "contemporanea",
+  "id": "popper",
+  "img": "media/retratos/museo/popper.jpg"
+ },
+ {
+  "c": "No temas ser excéntrico en tus opiniones, porque toda opinión hoy aceptada fue excéntrica alguna vez.",
+  "a": "Bertrand Russell",
+  "o": "«The Best Answer to Fanaticism: Liberalism», The New York Times Magazine (16-12-1951), «Decálogo liberal», 7",
+  "e": "contemporanea",
+  "id": "russell",
+  "img": "media/retratos/museo2/russell.jpg"
+ },
+ {
+  "c": "Por decir todavía una palabra sobre el enseñar cómo debe ser el mundo: para eso la filosofía llega siempre demasiado tarde. […] El búho de Minerva no alza el vuelo hasta que cae el crepúsculo.",
+  "a": "Hegel",
+  "o": "Principios de la filosofía del derecho (1820), Prefacio",
+  "e": "contemporanea",
+  "id": "hegel",
+  "img": "media/retratos/museo/hegel.jpg"
+ },
+ {
+  "c": "El hombre no tiene naturaleza, sino que tiene… historia.",
+  "a": "José Ortega y Gasset",
+  "o": "Historia como sistema (1935)",
+  "e": "contemporanea",
+  "id": "ortega",
+  "img": "media/retratos/museo/ortega.jpg"
+ },
+ {
+  "c": "En la poesía encontramos directamente al hombre concreto, individual. En la filosofía al hombre en su historia universal.",
+  "a": "María Zambrano",
+  "o": "Filosofía y poesía (1939)",
+  "e": "contemporanea"
+ },
+ {
+  "c": "Si la injusticia es de tal naturaleza que exige de ti que seas agente de la injusticia contra otro, entonces te digo: quebranta la ley.",
+  "a": "Thoreau",
+  "o": "Desobediencia civil (1849)",
+  "e": "contemporanea"
+ },
+ {
+  "c": "Los desdichados no necesitan en este mundo otra cosa que hombres capaces de prestarles atención. […] La plenitud del amor al prójimo consiste simplemente en ser capaz de preguntarle: «¿Cuál es tu tormento?».",
+  "a": "Simone Weil",
+  "o": "«Reflexiones sobre el buen uso de los estudios escolares como medio de cultivar el amor a Dios» (1942), en A la espera de Dios",
+  "e": "contemporanea"
+ },
+ {
+  "c": "Si todos los hombres nacen libres, ¿cómo es que todas las mujeres nacen esclavas?",
+  "a": "Mary Astell",
+  "o": "Algunas reflexiones sobre el matrimonio, prefacio a la 3.ª ed. (1706)",
+  "e": "moderna"
+ },
+ {
+  "c": "Te comportas como un soberano absoluto que se contenta con los informes de sus más altos cargos […]. Entra en ti, en tus profundidades, y aprende primero a conocerte.",
+  "a": "Freud",
+  "o": "«Una dificultad del psicoanálisis» (1917)",
+  "e": "contemporanea",
+  "id": "freud",
+  "img": "media/retratos/museo2/freud.jpg"
  }
 ];
