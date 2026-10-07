@@ -1814,7 +1814,9 @@ const ILUSTRES = {
   "idea": "Dudando metódicamente de todo, se alcanza una verdad indudable, pienso, luego existo, desde la que la razón reconstruye con certeza todo el conocimiento.",
   "bio": "<p>René Descartes nació en una familia noble francesa y estudió en el colegio jesuita de La Flèche, donde solo la matemática le pareció un saber seguro. Tras servir como soldado voluntario, vivió de 1628 a 1649 en los Países Bajos, donde gozaba de mayor libertad intelectual y escribió sus obras principales. Invitado por la reina Cristina de Suecia, murió en Estocolmo en 1650.</p>\n<p>Descartes es el iniciador del <strong>racionalismo</strong>. Busca un método único para todas las ciencias, inspirado en la matemática. Aplica la <strong>duda metódica</strong>: los sentidos, el sueño y la hipótesis del genio maligno hacen dudar de todo, salvo de una verdad, el <strong>cogito</strong> (pienso, luego existo). De ahí obtiene el criterio de certeza: es verdadero lo que se percibe clara y distintamente. Dios, cuya existencia demuestra, garantiza ese conocimiento. La realidad se compone de tres sustancias: Dios, la <em>res cogitans</em> o sustancia pensante y la <em>res extensa</em> o materia. Este <strong>dualismo</strong> deja abierto el problema de cómo se relacionan alma y cuerpo, que él situó en la glándula pineal.</p>\n<p>Descartes es considerado el padre de la filosofía moderna, porque sitúa la verdad en la evidencia del sujeto pensante. Spinoza, Malebranche y Leibniz intentaron resolver su dualismo; los empiristas, como Locke y Hume, rechazaron sus ideas innatas, y Kant buscó una síntesis entre ambas corrientes.</p>",
   "obras": [
-   "Discurso del método (1637)",
+   "Reglas para la dirección del espíritu (h. 1628; publicada en 1701)",
+   "El mundo (1633; renunció a publicarlo tras la condena de Galileo)",
+   "Discurso del método, con la Dióptrica, los Meteoros y la Geometría (1637)",
    "Meditaciones metafísicas (1641)",
    "Los principios de la filosofía (1644)",
    "Las pasiones del alma (1649)"
@@ -1824,12 +1826,46 @@ const ILUSTRES = {
   "tradicion": false,
   "vida": [
    {
+    "a": 1604,
+    "b": 1612,
+    "t": "Estudia en el colegio jesuita de La Flèche"
+   },
+   {
+    "a": 1616,
+    "t": "Se licencia en Derecho en Poitiers"
+   },
+   {
+    "a": 1618,
+    "t": "Soldado voluntario en los Países Bajos; conoce a Beeckman"
+   },
+   {
+    "a": 1619,
+    "t": "Los tres sueños del 10 de noviembre"
+   },
+   {
+    "a": 1628,
+    "b": 1649,
+    "t": "Vive en los Países Bajos"
+   },
+   {
+    "a": 1633,
+    "t": "Renuncia a publicar El mundo tras la condena de Galileo"
+   },
+   {
     "a": 1637,
     "t": "Discurso del método"
    },
    {
     "a": 1641,
     "t": "Meditaciones metafísicas"
+   },
+   {
+    "a": 1644,
+    "t": "Los principios de la filosofía"
+   },
+   {
+    "a": 1649,
+    "t": "Las pasiones del alma; viaja a Suecia invitado por la reina Cristina"
    }
   ],
   "block": "ren",
