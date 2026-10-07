@@ -1910,7 +1910,7 @@ const CRONOGRAMAS = [
     "start": 1844,
     "end": 1900,
     "colors": [
-     "#d95f02"
+     "#2e9e6b"
     ]
    },
    {
@@ -1926,8 +1926,8 @@ const CRONOGRAMAS = [
     "start": 1883,
     "end": 1955,
     "colors": [
-     "#d95f02",
-     "#2e9e6b"
+     "#2e9e6b",
+     "#d9c11a"
     ]
    },
    {
@@ -1935,7 +1935,7 @@ const CRONOGRAMAS = [
     "start": 1889,
     "end": 1976,
     "colors": [
-     "#d95f02",
+     "#2e9e6b",
      "#7b61d9"
     ]
    },
@@ -1945,7 +1945,7 @@ const CRONOGRAMAS = [
     "end": 1960,
     "colors": [
      "#2f6fd6",
-     "#d95f02",
+     "#2e9e6b",
      "#7b61d9"
     ]
    },
@@ -1955,7 +1955,7 @@ const CRONOGRAMAS = [
     "end": 1980,
     "colors": [
      "#2f6fd6",
-     "#d95f02",
+     "#2e9e6b",
      "#7b61d9"
     ]
    },
@@ -1965,13 +1965,13 @@ const CRONOGRAMAS = [
     "end": 1986,
     "colors": [
      "#2f6fd6",
-     "#d95f02",
+     "#2e9e6b",
      "#7b61d9"
     ]
    }
   ],
   "events": [],
-  "nota": "Colores: azul, Kierkegaard; naranja, Nietzsche; rosa, Unamuno. Los degradados muestran las influencias: Ortega (verde) y Heidegger (morado) parten del naranja de Nietzsche, y Sartre, Beauvoir y Camus reúnen el azul de Kierkegaard, el naranja de Nietzsche y el morado de Heidegger."
+  "nota": "Colores: azul, Kierkegaard; verde, Nietzsche; rosa, Unamuno. Los degradados muestran las influencias: Ortega (amarillo) y Heidegger (morado) parten del verde de Nietzsche, y Sartre, Beauvoir y Camus reúnen el azul de Kierkegaard, el verde de Nietzsche y el morado de Heidegger."
  },
  {
   "id": "C9-KRO-01",
