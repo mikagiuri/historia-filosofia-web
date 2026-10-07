@@ -1389,7 +1389,8 @@ const CRONOGRAMAS = [
     "name": "Positivismo"
    },
    {
-    "name": "Antiidealismo (irracionalismo, vitalismo)"
+    "name": "Antiidealismo (irracionalismo, vitalismo)",
+    "color": "#d9c11a"
    },
    {
     "name": "Postidealismo (marxismo y anarquismo)"
