@@ -17363,5 +17363,4851 @@ const QUIZZES = {
     "fb": "La aporía pregunta si, en un sistema que prioriza el beneficio, reconocer nuestra vulnerabilidad y necesidad de los demás es debilidad o la mayor forma de resistencia."
    }
   ]
+ },
+ "hf-t1-repaso": {
+  "name": "Historicidad y universalidad (HF · T1 · repaso)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "Según el tema, el conjunto de autores y obras considerados «clásicos» recibe el nombre de…",
+    "o": [
+     "historicidad",
+     "universalidad",
+     "canon",
+     "transmisión"
+    ],
+    "a": 2,
+    "fb": "El canon es el conjunto de autores y obras considerados «clásicos», y su selección no es neutra."
+   },
+   {
+    "q": "Según el tema, el pensamiento está siempre situado en…",
+    "o": [
+     "una lengua, una nación y una religión",
+     "una época, una sociedad y una cultura",
+     "un autor, una escuela y un canon",
+     "una pregunta, una respuesta y un método"
+    ],
+    "a": 1,
+    "fb": "La historicidad sostiene que el pensamiento está siempre situado en una época, una sociedad y una cultura concretas."
+   },
+   {
+    "q": "Platón, Tomás de Aquino y Rawls responden de manera distinta, pero los tres afrontan un mismo problema. ¿Cuál es?",
+    "o": [
+     "organizar la convivencia de forma justa",
+     "demostrar la existencia de Dios",
+     "definir la esencia del ser humano",
+     "conciliar la fe con la razón"
+    ],
+    "a": 0,
+    "fb": "Los tres responden a un problema común: cómo organizar la convivencia de forma justa."
+   },
+   {
+    "q": "Según el tema, ¿qué relaciones de poder han decidido en gran medida qué es «clásico» y qué no?",
+    "o": [
+     "las democráticas y liberales",
+     "las religiosas y monásticas",
+     "las económicas y comerciales",
+     "las patriarcales y colonialistas"
+    ],
+    "a": 3,
+    "fb": "Las relaciones de poder patriarcales y colonialistas han decidido, en gran medida, qué es «clásico» y qué no."
+   },
+   {
+    "q": "Según el tema, el proceso por el que los textos y las ideas se copian, se comentan y se conservan a través de escuelas e instituciones se llama…",
+    "o": [
+     "canon",
+     "historicidad",
+     "transmisión",
+     "universalidad"
+    ],
+    "a": 2,
+    "fb": "La transmisión es el proceso por el que los textos y las ideas se copian, se comentan y se conservan."
+   },
+   {
+    "q": "Según el tema, junto a la Academia, el Liceo, los monasterios y las universidades, ¿qué comunidades figuran entre las instituciones que transmitieron los textos?",
+    "o": [
+     "las estoicas y epicúreas",
+     "las pitagóricas y órficas",
+     "las militares y comerciales",
+     "las reales y aristocráticas"
+    ],
+    "a": 0,
+    "fb": "Las comunidades estoicas y epicúreas figuran, junto a la Academia, el Liceo, los monasterios, las universidades y los centros de traducción, entre las instituciones que transmitieron los textos."
+   },
+   {
+    "q": "Según el tema, la historia de la filosofía obliga a…",
+    "o": [
+     "sustituir las preguntas antiguas por respuestas definitivas",
+     "ordenar a los autores en una lista cronológica",
+     "desechar las ideas que carecen de respuesta cerrada",
+     "reorganizar las preguntas con métodos y conceptos nuevos"
+    ],
+    "a": 3,
+    "fb": "La historia obliga a reorganizar las preguntas filosóficas con métodos y conceptos nuevos."
+   },
+   {
+    "q": "Un texto antiguo ha llegado hasta hoy porque una escuela lo copió y comentó durante siglos. ¿Qué concepto del tema describe mejor ese proceso?",
+    "o": [
+     "el canon",
+     "la transmisión",
+     "la historicidad",
+     "la universalidad"
+    ],
+    "a": 1,
+    "fb": "La transmisión es el proceso por el que los textos se copian, se comentan y se conservan a través de escuelas e instituciones."
+   },
+   {
+    "q": "¿Cuál de los siguientes emparejamientos entre concepto y contenido es correcto según el tema?",
+    "o": [
+     "historicidad: pensamiento situado en una época; universalidad: preguntas que reaparecen",
+     "historicidad: preguntas que reaparecen; universalidad: pensamiento situado",
+     "canon: conservación de textos; transmisión: selección de clásicos",
+     "universalidad: selección de clásicos; canon: preguntas que reaparecen"
+    ],
+    "a": 0,
+    "fb": "La historicidad sitúa el pensamiento en una época, una sociedad y una cultura; la universalidad se refiere a las preguntas que reaparecen."
+   },
+   {
+    "q": "En la Grecia antigua el centro fue la naturaleza y el cosmos; en la Edad Media, la existencia de Dios; en la Ilustración, la autonomía humana. ¿Qué concepto del tema explica ese desplazamiento del centro de interés?",
+    "o": [
+     "la universalidad",
+     "la historicidad",
+     "el canon",
+     "la transmisión"
+    ],
+    "a": 1,
+    "fb": "Cada época tuvo sus propias inquietudes centrales: eso ilustra la historicidad, que sitúa el pensamiento en su contexto."
+   },
+   {
+    "q": "Según el tema, que las ideas de otras épocas «sigan interpelándonos hoy» significa que…",
+    "o": [
+     "son idénticas a las que formulamos ahora",
+     "han quedado resueltas de forma definitiva",
+     "siguen teniendo sentido y plantean preguntas en el presente",
+     "solo interesan a los historiadores especializados"
+    ],
+    "a": 2,
+    "fb": "Que sigan interpelándonos hoy significa que siguen teniendo sentido y planteándonos preguntas con significado para el presente."
+   },
+   {
+    "q": "Un manual de filosofía solo estudia a una decena de autores y deja fuera al resto. ¿Qué concepto del tema permite describir esa selección?",
+    "o": [
+     "la historicidad",
+     "la universalidad",
+     "el canon",
+     "la transmisión"
+    ],
+    "a": 2,
+    "fb": "El canon es el conjunto de autores y obras considerados «clásicos»; decidir quién entra y quién queda fuera es una selección no neutra."
+   },
+   {
+    "q": "Según el tema, algunas ideas han sobrevivido porque una escuela las…",
+    "o": [
+     "descartó, ignoró u olvidó",
+     "tradujo, vendió o archivó",
+     "copió, firmó o publicó",
+     "defendió, enseñó o reinterpretó"
+    ],
+    "a": 3,
+    "fb": "Una escuela pudo defenderlas, enseñarlas o reinterpretarlas; sin esa red, otras ideas se debilitaron o desaparecieron."
+   },
+   {
+    "q": "Según el tema, ¿a quién corresponde el deber de ampliar y revisar el canon?",
+    "o": [
+     "a los gobiernos y parlamentos",
+     "a quienes se dedican a la filosofía",
+     "a las academias de la lengua",
+     "a los historiadores del arte"
+    ],
+    "a": 1,
+    "fb": "Ampliar y revisar el canon es un deber de quienes nos dedicamos a la filosofía."
+   },
+   {
+    "q": "Según el tema, las ideas de las mujeres filósofas y de los pensadores no europeos no se perdieron por casualidad: fueron…",
+    "o": [
+     "superadas por otras más rigurosas",
+     "conservadas solo en lenguas minoritarias",
+     "rechazadas por carecer de argumentos",
+     "activamente invalidadas y olvidadas"
+    ],
+    "a": 3,
+    "fb": "Esas ideas fueron activamente invalidadas y olvidadas."
+   }
+  ]
+ },
+ "hf-t3-repaso": {
+  "name": "Del mito al logos (HF · T3 · repaso)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "En el tema, ¿cómo se denomina el principio del que todo procede?",
+    "o": [
+     "El arché",
+     "La polis",
+     "La isegoría",
+     "El logos"
+    ],
+    "a": 0,
+    "fb": "El arché es el principio u origen del que todo procede, la noción que introducen los primeros filósofos al buscar las causas en la propia naturaleza."
+   },
+   {
+    "q": "Según el tema, ¿qué es la physis?",
+    "o": [
+     "La narración tradicional de los poetas sobre los dioses",
+     "El derecho igual de los ciudadanos a hablar en la asamblea",
+     "La ciudad y su comunidad política",
+     "La propia naturaleza, donde se buscan las causas"
+    ],
+    "a": 3,
+    "fb": "La physis es la naturaleza misma: en ella, y no en la voluntad de los dioses, buscan las causas los primeros filósofos."
+   },
+   {
+    "q": "En el tema, la physis deja de entenderse como un caos para comprenderse como…",
+    "o": [
+     "un mito, es decir, un relato sagrado",
+     "un logos, es decir, un discurso",
+     "un cosmos, es decir, un orden",
+     "una polis, es decir, una ciudad"
+    ],
+    "a": 2,
+    "fb": "Al entender la physis como cosmos, los primeros filósofos la conciben como un orden y no como un caos."
+   },
+   {
+    "q": "Con el logos, las cosas ya no ocurren por capricho, sino porque…",
+    "o": [
+     "un dios lo decide en cada momento",
+     "los poetas lo han narrado así",
+     "tienen que ocurrir necesariamente",
+     "la asamblea lo ha aprobado"
+    ],
+    "a": 2,
+    "fb": "El logos introduce la necesidad: los fenómenos ocurren porque tienen que ocurrir, no por el capricho de seres extraordinarios."
+   },
+   {
+    "q": "¿Quién formuló con fuerza la idea de que entre el mito y el logos hay continuidad, porque «el contenido del mito es el pensamiento»?",
+    "o": [
+     "Aristóteles",
+     "Bertrand Russell",
+     "Jenófanes de Colofón",
+     "Hegel"
+    ],
+    "a": 3,
+    "fb": "Hegel sostiene que el mito griego ya contenía una verdad y que los primeros filósofos piensan a partir de él."
+   },
+   {
+    "q": "Según Hegel, la superación del mito por el logos consiste en…",
+    "o": [
+     "borrar el mito por completo y sustituirlo por otro relato",
+     "conservar, negar y elevar ese contenido",
+     "repetir el mito sin introducir cambio alguno",
+     "aceptar el mito y transmitirlo sin discutirlo"
+    ],
+    "a": 1,
+    "fb": "La superación conserva el contenido del mito, niega su forma inadecuada y lo eleva al concepto."
+   },
+   {
+    "q": "¿Cuál de estas afirmaciones sobre el origen del orden es correcta según el tema?",
+    "o": [
+     "Para el mito, el orden procede de la physis misma.",
+     "Para la filosofía, el orden procede de la voluntad divina y del destino.",
+     "Para el mito, el orden procede de la voluntad divina.",
+     "Para la filosofía, el orden procede del relato de los poetas."
+    ],
+    "a": 2,
+    "fb": "En el mito el orden proviene de la voluntad divina y el destino, mientras que en el logos procede de la physis misma."
+   },
+   {
+    "q": "Según el tema, la explicación filosófica y científica responde a la pregunta…",
+    "o": [
+     "«¿quién lo hizo?»",
+     "«¿desde cuándo se cuenta así?»",
+     "«¿por qué ocurre necesariamente?»",
+     "«¿cómo lo narran los poetas?»"
+    ],
+    "a": 2,
+    "fb": "La explicación filosófica y científica no pregunta quién lo hizo, sino por qué ocurre necesariamente, cambiando el tipo de explicación."
+   },
+   {
+    "q": "El tema caracteriza las respuestas del pensamiento mítico como…",
+    "o": [
+     "razonadas, observables y verificables",
+     "impersonales, regulares y necesarias",
+     "críticas, públicas y discutibles",
+     "imaginarias, mágicas y arbitrarias"
+    ],
+    "a": 3,
+    "fb": "El pensamiento mítico da respuestas imaginarias, mágicas y arbitrarias, fruto del capricho de seres extraordinarios."
+   },
+   {
+    "q": "Para Hegel, el mito griego ya contenía una verdad, aunque expresada en una forma inadecuada, mediante…",
+    "o": [
+     "razones y argumentos públicos",
+     "imágenes, relatos y dioses",
+     "números y proporciones",
+     "leyes y decretos de la asamblea"
+    ],
+    "a": 1,
+    "fb": "Hegel piensa que la verdad del mito estaba expresada en imágenes, relatos y dioses, y que el logos la eleva al concepto."
+   },
+   {
+    "q": "Según el tema, ¿qué proporcionaba a los ciudadanos el tiempo libre para el estudio?",
+    "o": [
+     "El trabajo de los esclavos",
+     "Los sacrificios a los dioses",
+     "La escritura alfabética",
+     "Las colonias de ultramar"
+    ],
+    "a": 0,
+    "fb": "El trabajo de los esclavos daba a los ciudadanos tiempo libre para el estudio, dentro de una sociedad dividida en clases."
+   },
+   {
+    "q": "En el paso del mythos al logos, ¿qué recurso se abandona, según el tema?",
+    "o": [
+     "La búsqueda de un orden",
+     "La estructura de contrarios",
+     "Lo sobrenatural y lo arbitrario",
+     "La observación de la naturaleza"
+    ],
+    "a": 2,
+    "fb": "Se conserva la estructura de contrarios y la búsqueda de un orden, pero se abandona el recurso a lo sobrenatural y a lo arbitrario."
+   },
+   {
+    "q": "En el glosario del tema, la polis se define como…",
+    "o": [
+     "la ciudad y la comunidad política",
+     "el derecho igual a hablar en la asamblea",
+     "el principio del que todo procede",
+     "la naturaleza entendida como totalidad ordenada"
+    ],
+    "a": 0,
+    "fb": "La polis es la ciudad y la comunidad política, el espacio del debate, la ley y la participación."
+   },
+   {
+    "q": "Un estudiante sostiene que el agua es aquello de lo que todo procede y que lo sostiene todo. ¿Qué noción del tema está empleando?",
+    "o": [
+     "La isonomía",
+     "El arché",
+     "La physis",
+     "La isegoría"
+    ],
+    "a": 1,
+    "fb": "Buscar un principio del que todo procede y que lo sostiene es la noción de arché."
+   },
+   {
+    "q": "Según el tema, la sociedad que vio nacer la filosofía era…",
+    "o": [
+     "teocrática, sacerdotal y dogmática",
+     "igualitaria, pacífica y letrada",
+     "nómada, pastoril y oral",
+     "aristocrática, agrícola y guerrera"
+    ],
+    "a": 3,
+    "fb": "La filosofía surgió en una sociedad aristocrática, agrícola y guerrera, dividida en clases sociales."
+   },
+   {
+    "q": "Además de las colonias griegas de Jonia, el tema sitúa el nacimiento de la filosofía en…",
+    "o": [
+     "el norte de África",
+     "la península ibérica",
+     "el centro de Asia",
+     "la Magna Grecia"
+    ],
+    "a": 3,
+    "fb": "La filosofía nació en las colonias griegas de Jonia y en la Magna Grecia."
+   }
+  ]
+ },
+ "hf-t4-repaso": {
+  "name": "Los presocráticos (HF · T4 · repaso)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "¿Por qué sostiene Tales de Mileto que el agua es el principio de todo lo que existe?",
+    "o": [
+     "Porque todo lo vivo la necesita y de ella brota.",
+     "Porque es el único elemento que jamás cambia de aspecto.",
+     "Porque al condensarse da lugar a los demás elementos.",
+     "Porque es la sustancia más abundante del universo."
+    ],
+    "a": 0,
+    "fb": "Tales elige un principio natural y lo justifica: todo lo vivo necesita el agua y de ella brota, por eso la propone como arché."
+   },
+   {
+    "q": "Según Anaximandro, ¿qué relación guardan las cosas con el ápeiron?",
+    "o": [
+     "Lo componen sumándose unas a otras.",
+     "Salen de él y, al perecer, regresan a él.",
+     "Se mantienen siempre idénticas a él.",
+     "Lo contemplan sin poder llegar a captarlo."
+    ],
+    "a": 1,
+    "fb": "El ápeiron es lo indefinido e ilimitado del que las cosas salen y al que vuelven: nacen de él y a él retornan."
+   },
+   {
+    "q": "¿Qué sostienen los pitagóricos acerca del alma?",
+    "o": [
+     "Que es una parte del cuerpo y desaparece con él.",
+     "Que no existe, pues solo hay números y proporciones.",
+     "Que es inmortal y transmigra de un cuerpo a otro.",
+     "Que es el vacío en el que se mueven los cuerpos."
+    ],
+    "a": 2,
+    "fb": "Para los pitagóricos el alma es inmortal y pasa de un cuerpo a otro; además, el cuerpo es su cárcel."
+   },
+   {
+    "q": "¿Cuál de estas frases recoge el nuevo modo de explicar que inauguran los presocráticos?",
+    "o": [
+     "Explicar es relatar quién causó cada acontecimiento.",
+     "Explicar es repetir lo que la tradición ya ha contado.",
+     "Explicar es mostrar que los dioses lo han querido así.",
+     "Explicar es decir por qué algo ocurre necesariamente."
+    ],
+    "a": 3,
+    "fb": "El paso decisivo es dejar de contar quién lo hizo y pasar a señalar por qué ocurre necesariamente, esto es, dar la causa."
+   },
+   {
+    "q": "Para los primeros filósofos, la naturaleza en su conjunto es un cosmos. ¿Qué expresa esa idea?",
+    "o": [
+     "Que constituye un orden y no un desorden.",
+     "Que carece de cualquier principio unificador.",
+     "Que depende por entero de la voluntad divina.",
+     "Que se compone de partes inconexas entre sí."
+    ],
+    "a": 0,
+    "fb": "Llamar cosmos a la totalidad significa que esa totalidad es un orden, frente al caos o desorden."
+   },
+   {
+    "q": "Para Parménides, ¿qué es lo que de verdad permanece en una persona a lo largo de su vida?",
+    "o": [
+     "El cuerpo, que conserva siempre la misma materia.",
+     "El pensamiento, por ser lo único que no cambia.",
+     "Los recuerdos, que fijan el pasado sin variarlo.",
+     "Los sentidos, que captan lo real tal como es."
+    ],
+    "a": 1,
+    "fb": "Parménides sostiene que lo único que en nosotros no cambia es el pensamiento, de modo que el yo verdadero es la razón, no el cuerpo ni los sentidos."
+   },
+   {
+    "q": "¿Cómo caracteriza Anaxágoras sus semillas u homeomerías?",
+    "o": [
+     "Cada una es indivisible y no contiene nada más.",
+     "Solo existen cuatro, una por cada elemento.",
+     "En cada cosa hay partes de todas las demás.",
+     "Se mueven por sí mismas sin causa alguna."
+    ],
+    "a": 2,
+    "fb": "Las homeomerías son las semillas de Anaxágoras: en cada cosa hay partes de todas las demás."
+   },
+   {
+    "q": "¿En qué consiste el pluralismo como respuesta al problema del arché?",
+    "o": [
+     "En negar que exista principio alguno tras el cambio.",
+     "En sostener un único principio fundamental e inmutable.",
+     "En reducir toda la realidad a una sola sustancia.",
+     "En aceptar varios principios eternos que se mezclan."
+    ],
+    "a": 3,
+    "fb": "El pluralismo opone al monismo varios principios eternos e inmutables que se mezclan y separan."
+   },
+   {
+    "q": "Cuando el arché se entiende como causa, ¿qué función se le asigna?",
+    "o": [
+     "Explicar las transformaciones de las cosas.",
+     "Ser aquello de lo que todo procede.",
+     "Ser aquello en lo que todo consiste.",
+     "Dar nombre a cada uno de los seres."
+    ],
+    "a": 0,
+    "fb": "El arché es también causa: aquello que explica las transformaciones de las cosas."
+   },
+   {
+    "q": "¿Qué función cumple el vacío en la propuesta de los atomistas?",
+    "o": [
+     "Es la materia de la que están hechos los átomos.",
+     "Permite que las partículas se muevan.",
+     "Es la mente que ordena las partículas.",
+     "Es la fuerza que mantiene unidas las cosas."
+    ],
+    "a": 1,
+    "fb": "El vacío es el espacio no lleno que hace posible el movimiento y la multiplicidad, según los atomistas."
+   },
+   {
+    "q": "¿Cuál de estas afirmaciones expresa la visión presocrática de la causalidad?",
+    "o": [
+     "Los dioses deciden a capricho cada acontecimiento.",
+     "Solo los asuntos humanos siguen leyes.",
+     "Cada efecto se debe a una causa natural y necesaria.",
+     "El azar gobierna todo cuanto sucede."
+    ],
+    "a": 2,
+    "fb": "Para los presocráticos el cosmos no depende del capricho de los dioses: todo efecto tiene una causa natural y necesaria."
+   },
+   {
+    "q": "¿En qué se distingue Anaxágoras de Empédocles a la hora de fijar los principios de la realidad?",
+    "o": [
+     "Reduce todos los principios a uno solo material.",
+     "Introduce átomos que se mueven en el vacío.",
+     "Sustituye los principios por una única mente divina.",
+     "Multiplica las raíces hasta convertirlas en infinitas semillas."
+    ],
+    "a": 3,
+    "fb": "Anaxágoras lleva al límite la propuesta pluralista: en lugar de las cuatro raíces de Empédocles, habla de infinitas semillas u homeomerías."
+   },
+   {
+    "q": "Según la teoría, ¿qué idea de los pitagóricos influirá directamente en Platón?",
+    "o": [
+     "El dualismo de alma y cuerpo, con el cuerpo como cárcel.",
+     "La tesis de que todo fluye sin descanso.",
+     "La afirmación de que el ser es único e inmutable.",
+     "La doctrina de los átomos y el vacío."
+    ],
+    "a": 0,
+    "fb": "Los pitagóricos enseñan que el alma es inmortal y el cuerpo su cárcel; estas ideas influirán directamente en Platón."
+   },
+   {
+    "q": "En la explicación de Anaxímenes, ¿qué sucede cuando el aire se enrarece?",
+    "o": [
+     "Se convierte en agua y tierra.",
+     "Se transforma en fuego.",
+     "Se vuelve ápeiron indefinido.",
+     "Se divide en átomos."
+    ],
+    "a": 1,
+    "fb": "Anaxímenes explica el cambio con un mecanismo: por condensación el aire se hace agua y tierra, y por rarefacción se hace fuego."
+   },
+   {
+    "q": "«El Amor, que las une, y el Odio, que las separa, constituyendo un equilibrio.» ¿A qué filósofo corresponde esta idea?",
+    "o": [
+     "Pitágoras.",
+     "Anaxágoras.",
+     "Demócrito.",
+     "Empédocles."
+    ],
+    "a": 3,
+    "fb": "Empédocles explica la mezcla y separación de las cuatro raíces mediante dos fuerzas: el Amor, que une, y el Odio, que separa."
+   }
+  ]
+ },
+ "hf-t5-repaso": {
+  "name": "Sofistas, Sócrates y Aspasia (HF · T5 · repaso)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "¿Qué significaba «isonomía» en la Atenas democrática?",
+    "o": [
+     "La igualdad de todos los ciudadanos ante la ley.",
+     "El derecho de todos los ciudadanos a hablar en la asamblea.",
+     "El poder absoluto de los magistrados sobre el pueblo.",
+     "La reclusión de las mujeres en el ámbito doméstico."
+    ],
+    "a": 0,
+    "fb": "La isonomía es la igualdad de todos los ciudadanos ante la ley, uno de los rasgos de la ciudadanía ateniense."
+   },
+   {
+    "q": "¿Qué designaba «isegoría» en la democracia ateniense?",
+    "o": [
+     "La igualdad de todos los ciudadanos ante la ley.",
+     "El derecho de los ciudadanos a hablar por igual en la asamblea.",
+     "La condena de un filósofo a beber cicuta.",
+     "La enseñanza de la oratoria a cambio de dinero."
+    ],
+    "a": 1,
+    "fb": "La isegoría es el derecho igual de los ciudadanos a hablar en la asamblea, frente a la isonomía, que es la igualdad ante la ley."
+   },
+   {
+    "q": "En el método socrático, ¿cómo se llama el callejón sin salida al que llega el interlocutor al reconocer su ignorancia?",
+    "o": [
+     "Mayéutica.",
+     "Erística.",
+     "Aporía.",
+     "Retórica."
+    ],
+    "a": 2,
+    "fb": "La aporía es el callejón sin salida al que conduce la ironía cuando el interlocutor descubre su propia ignorancia."
+   },
+   {
+    "q": "¿Qué es la retórica, tal como se presenta en este tema?",
+    "o": [
+     "El arte de refutar paso a paso las opiniones del interlocutor.",
+     "La búsqueda de definiciones válidas para todos.",
+     "El examen de la propia vida y de la propia ignorancia.",
+     "El arte de persuadir mediante la palabra."
+    ],
+    "a": 3,
+    "fb": "La retórica es el arte de persuadir mediante la palabra, decisivo para intervenir en la asamblea democrática."
+   },
+   {
+    "q": "¿Qué diferencia hay entre el relativismo y el convencionalismo de los sofistas?",
+    "o": [
+     "El primero niega toda verdad única; el segundo ve las leyes como acuerdo.",
+     "El primero sostiene que existe una naturaleza fija e inmutable; el segundo lo rechaza.",
+     "El primero es una tesis de Sócrates; el segundo pertenece a Gorgias.",
+     "El primero defiende una justicia natural válida para todos; el segundo la niega."
+    ],
+    "a": 0,
+    "fb": "El relativismo sostiene que no hay una verdad ni una justicia únicas, mientras el convencionalismo afirma que las leyes y valores son acuerdo humano (nomos)."
+   },
+   {
+    "q": "Frente a los sofistas, ¿qué procedimiento distingue a Sócrates?",
+    "o": [
+     "El discurso continuo dirigido a la asamblea.",
+     "El intercambio de preguntas y respuestas con el interlocutor.",
+     "La defensa simultánea de dos tesis opuestas.",
+     "La enseñanza cobrada a sus discípulos."
+    ],
+    "a": 1,
+    "fb": "Sócrates usa el diálogo (preguntas y respuestas) y no el discurso, a diferencia de los sofistas."
+   },
+   {
+    "q": "Según Hipias, ¿cómo son las leyes naturales frente a las establecidas por los individuos?",
+    "o": [
+     "Variables y válidas solo en cada comunidad.",
+     "Producto del acuerdo entre los ciudadanos.",
+     "Inmutables y universales.",
+     "Sujetas al voto de la asamblea."
+    ],
+    "a": 2,
+    "fb": "Hipias distingue las leyes naturales, inmutables y universales, de las convencionales, variables y válidas solo en cada comunidad."
+   },
+   {
+    "q": "Además de la causa filosófica, ¿qué factor político-social impulsó el giro antropológico?",
+    "o": [
+     "El retroceso del comercio marítimo en el Egeo.",
+     "El estudio de la naturaleza por los presocráticos.",
+     "La desaparición de la retórica en la vida pública.",
+     "La democracia, que hizo decisivos el debate y la palabra."
+    ],
+    "a": 3,
+    "fb": "La democracia se apoya en la deliberación y el debate público, de modo que la retórica y la argumentación se vuelven decisivas."
+   },
+   {
+    "q": "¿En qué se distinguen la retórica y la erística?",
+    "o": [
+     "La primera persuade; la segunda disputa solo por disputar.",
+     "La primera es una técnica exclusiva de Sócrates; la segunda, de Hipias.",
+     "La primera niega por completo la verdad; la segunda la afirma.",
+     "La primera se practica en privado; la segunda, solo en la asamblea."
+    ],
+    "a": 0,
+    "fb": "La retórica es el arte de persuadir mediante la palabra, mientras la erística es el arte de disputar por disputar, vinculada a Gorgias."
+   },
+   {
+    "q": "Condenado en el 399 a. C., ¿de qué manera cumplió Sócrates su sentencia?",
+    "o": [
+     "Huyendo de Atenas con sus discípulos.",
+     "Bebiendo él mismo la cicuta.",
+     "Pagando una multa al tribunal.",
+     "Renunciando públicamente a sus ideas."
+    ],
+    "a": 1,
+    "fb": "Sócrates fue condenado a muerte y él mismo ejecutó la sentencia bebiendo cicuta."
+   },
+   {
+    "q": "¿Qué aspecto de Aspasia de Mileto desafiaba las convenciones de su época?",
+    "o": [
+     "Su negativa a intervenir en la vida pública.",
+     "Su dedicación exclusiva al ámbito doméstico.",
+     "Su actividad e influencia en el espacio público y político.",
+     "Su desconocimiento de la oratoria y la retórica."
+    ],
+    "a": 2,
+    "fb": "Aspasia sobresalió como oradora y tuvo gran influencia en los círculos de poder, desafiando la exclusión de la mujer del ámbito público."
+   },
+   {
+    "q": "¿Con qué reformadores se asocia la instauración de la democracia en Atenas?",
+    "o": [
+     "Pericles y Aspasia.",
+     "Gorgias y Protágoras.",
+     "Sócrates y Platón.",
+     "Solón y Clístenes."
+    ],
+    "a": 3,
+    "fb": "Con las reformas de Solón y Clístenes se instaura la democracia en Atenas."
+   },
+   {
+    "q": "¿Cómo describe la teoría a los sofistas en cuanto a su condición?",
+    "o": [
+     "Maestros viajeros, a menudo extranjeros, que cobraban.",
+     "Ciudadanos atenienses que enseñaban gratuitamente.",
+     "Sacerdotes vinculados al templo de Delfos.",
+     "Discípulos permanentes de Sócrates en Atenas."
+    ],
+    "a": 0,
+    "fb": "Los sofistas eran maestros itinerantes, a menudo extranjeros, que cobraban por enseñar el dominio de la palabra."
+   },
+   {
+    "q": "¿Qué pensador se enfrentó a la vez al relativismo y al escepticismo de los sofistas?",
+    "o": [
+     "Protágoras.",
+     "Sócrates.",
+     "Gorgias.",
+     "Hipias."
+    ],
+    "a": 1,
+    "fb": "Sócrates comparte con los sofistas el interés por el ser humano, pero ataca tanto el relativismo como el escepticismo."
+   },
+   {
+    "q": "¿Cómo se suceden las dos partes del método socrático?",
+    "o": [
+     "Primero la mayéutica y, solo después, la ironía.",
+     "Ambas se aplican a la vez, sin ningún orden.",
+     "Primero la ironía y, a continuación, la mayéutica.",
+     "La ironía construye y la mayéutica destruye."
+    ],
+    "a": 2,
+    "fb": "El método socrático tiene dos partes: primero la ironía (destructiva) y después la mayéutica (constructiva)."
+   },
+   {
+    "q": "Según Sócrates, ¿cuál es el punto de partida del conocimiento?",
+    "o": [
+     "Dominar el arte de la persuasión.",
+     "Defender dos tesis opuestas a la vez.",
+     "Cobrar por las enseñanzas impartidas.",
+     "Reconocer la propia ignorancia."
+    ],
+    "a": 3,
+    "fb": "El punto de partida de Sócrates es reconocer la propia ignorancia («Solo sé que no sé nada»)."
+   },
+   {
+    "q": "En la Atenas clásica, una mujer libre pretende hablar en la asamblea para defender una propuesta. ¿Qué se lo impedía, según la teoría?",
+    "o": [
+     "Solo los ciudadanos varones tenían derecho a tomar la palabra.",
+     "La ley permitía hablar a todos los adultos sin distinción.",
+     "Únicamente los extranjeros tenían vetado el uso de la palabra.",
+     "Ese foro estaba reservado a sacerdotes y magistrados."
+    ],
+    "a": 0,
+    "fb": "La ciudadanía y el derecho a hablar en el ágora (isegoría) los ostentaban solo los varones libres; las mujeres quedaban relegadas a la esfera privada."
+   }
+  ]
+ },
+ "hf-t6-repaso": {
+  "name": "Platón: Ideas y República (HF · T6 · repaso)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "¿De quién recoge Platón la idea de que el mundo sensible está en cambio permanente?",
+    "o": [
+     "De Parménides",
+     "De los pitagóricos",
+     "De Sócrates",
+     "De Heráclito"
+    ],
+    "a": 3,
+    "fb": "La teoría atribuye a Heráclito la tesis de que lo sensible está en cambio permanente, que Platón integra para distinguir dos mundos."
+   },
+   {
+    "q": "Para Platón, las cosas del mundo sensible son, respecto de las Ideas,…",
+    "o": [
+     "copias imperfectas de esos modelos",
+     "modelos eternos e inmutables",
+     "abstracciones creadas por la mente",
+     "el único objeto de la ciencia"
+    ],
+    "a": 0,
+    "fb": "El mundo sensible reúne las cosas concretas, cambiantes y múltiples, que son copias imperfectas de las Ideas."
+   },
+   {
+    "q": "¿Qué encuentra la razón, según Platón, en el mundo inteligible?",
+    "o": [
+     "cosas concretas que cambian sin cesar",
+     "las Ideas, modelos eternos y universales",
+     "sombras y reflejos de las cosas",
+     "opiniones heredadas de la mayoría"
+    ],
+    "a": 1,
+    "fb": "El mundo inteligible es el de las Ideas o Formas, modelos eternos, inmutables y universales, lo verdaderamente real."
+   },
+   {
+    "q": "Dentro de la opinión, Platón distingue dos grados. ¿Cuál es la diferencia entre ellos?",
+    "o": [
+     "el primero es ciencia firme y el segundo, una opinión sin valor",
+     "el primero versa sobre las Ideas y el segundo, sobre los números",
+     "el primero atiende a sombras e imágenes y el segundo, a las cosas físicas",
+     "ambos conocen por igual las Ideas eternas e inmutables"
+    ],
+    "a": 2,
+    "fb": "En la doxa, la imaginación se queda en imágenes y sombras, mientras que la creencia versa sobre las cosas físicas."
+   },
+   {
+    "q": "En el símil de la línea, ¿en qué se separan los dos grados superiores del conocimiento?",
+    "o": [
+     "el inferior contempla las Ideas puras y el superior, solo imágenes",
+     "ambos parten de hipótesis y ninguno logra superarlas del todo",
+     "el inferior sube al principio no hipotético y el superior se queda en figuras",
+     "el inferior parte de supuestos no justificados y el superior asciende al principio no hipotético"
+    ],
+    "a": 3,
+    "fb": "El pensamiento matemático usa hipótesis sin dar cuenta última de ellas; la dialéctica asciende hasta el principio no hipotético."
+   },
+   {
+    "q": "Según la teoría, ¿qué hace el alma inmortal que debe purificarse?",
+    "o": [
+     "transmigra de un cuerpo a otro",
+     "se disuelve cuando muere el cuerpo",
+     "asciende a la Idea del Bien sin esfuerzo",
+     "queda fijada para siempre en un cuerpo"
+    ],
+    "a": 0,
+    "fb": "Platón recoge de los pitagóricos la idea de un alma inmortal que transmigra de un cuerpo a otro y debe purificarse."
+   },
+   {
+    "q": "Para Platón, el cuerpo es, respecto del alma inmortal,…",
+    "o": [
+     "su instrumento para conocer",
+     "su cárcel",
+     "su origen y fundamento",
+     "su copia perfecta"
+    ],
+    "a": 1,
+    "fb": "El dualismo antropológico concibe al ser humano como un alma inmortal unida a un cuerpo mortal, que es como su cárcel."
+   },
+   {
+    "q": "¿Qué virtud consiste en dominar los apetitos del vientre?",
+    "o": [
+     "el valor",
+     "la prudencia",
+     "la templanza",
+     "la sabiduría"
+    ],
+    "a": 2,
+    "fb": "La templanza es la virtud de la parte concupiscible, situada en el vientre: consiste en dominar los apetitos."
+   },
+   {
+    "q": "¿Qué virtud corresponde a la parte racional del alma?",
+    "o": [
+     "la templanza",
+     "el valor",
+     "la justicia",
+     "la prudencia"
+    ],
+    "a": 3,
+    "fb": "La parte racional tiene por virtud la prudencia (o sabiduría), que le permite gobernar a las demás."
+   },
+   {
+    "q": "En la ciudad, ¿en qué consiste la justicia para Platón?",
+    "o": [
+     "en que cada clase cumpla su función sin invadir la ajena",
+     "en que todos participen por igual en las decisiones del gobierno",
+     "en que la mayoría imponga siempre su opinión a la minoría",
+     "en la igualdad de riquezas entre todos los ciudadanos"
+    ],
+    "a": 0,
+    "fb": "La justicia en la ciudad consiste en que cada clase haga lo que le corresponde, sin invadir la función de las demás."
+   },
+   {
+    "q": "Una persona acierta al decir que un acto es justo, pero no sabe explicar por qué. Según la teoría, su opinión…",
+    "o": [
+     "es ciencia plena, porque acierta",
+     "carece de fundamento, aunque sea verdadera",
+     "es idéntica a la dialéctica",
+     "ha contemplado ya la Idea del Bien"
+    ],
+    "a": 1,
+    "fb": "La opinión recta puede ser útil, pero carece de fundamento (logos); solo la dialéctica conduce a las Ideas."
+   },
+   {
+    "q": "Según Platón, ¿cuál de estas afirmaciones es correcta?",
+    "o": [
+     "El mundo sensible se conoce por la razón y es eterno",
+     "Las Ideas se perciben por los sentidos, como las cosas",
+     "Conocer es ascender de lo sensible a las Ideas",
+     "La opinión es más firme que la ciencia"
+    ],
+    "a": 2,
+    "fb": "Platón entiende el conocimiento como un ascenso desde lo sensible hasta las Ideas; las demás opciones invierten su esquema."
+   },
+   {
+    "q": "¿De quién toma Platón la idea de que la verdad matemática es el modelo del saber?",
+    "o": [
+     "De Sócrates",
+     "De Parménides",
+     "De Heráclito",
+     "De los pitagóricos"
+    ],
+    "a": 3,
+    "fb": "Platón recoge de los pitagóricos la verdad matemática como modelo del saber, junto con la idea de un alma inmortal que transmigra."
+   },
+   {
+    "q": "Además de participar de las Ideas, las cosas sensibles también las…",
+    "o": [
+     "imitan",
+     "crean",
+     "contienen en su interior",
+     "sustituyen"
+    ],
+    "a": 0,
+    "fb": "Las cosas sensibles participan de las Ideas y las imitan; por eso las muchas cosas bellas remiten a la Idea de Belleza."
+   },
+   {
+    "q": "Al distinguir dos mundos, Platón sostiene que las Ideas…",
+    "o": [
+     "están dentro de cada cosa como una propiedad más",
+     "existen en un plano separado de lo sensible",
+     "son inventadas por la mente de cada uno",
+     "cambian con cada cosa que las imita"
+    ],
+    "a": 1,
+    "fb": "Distinguir dos mundos separa las Ideas del mundo sensible: no son una propiedad más de las cosas, sino lo verdaderamente real."
+   },
+   {
+    "q": "Según Platón, las Ideas se conocen con…",
+    "o": [
+     "los sentidos, no con la razón",
+     "la imaginación y los sentidos",
+     "la memoria de la infancia",
+     "la razón, no con los sentidos"
+    ],
+    "a": 3,
+    "fb": "Las Ideas son eternas e inmutables y solo la razón las capta, frente al mundo sensible que percibimos por los sentidos."
+   }
+  ]
+ },
+ "hf-t7-repaso": {
+  "name": "Antropología clásica (HF · T7 · repaso)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "Antes del giro antropológico, ¿de qué se ocupaba principalmente la filosofía griega?",
+    "o": [
+     "De la naturaleza y del cosmos.",
+     "Del estudio del alma y de sus partes.",
+     "De la organización justa de la ciudad.",
+     "Del método para alcanzar la felicidad."
+    ],
+    "a": 0,
+    "fb": "Antes de Sócrates, la filosofía preguntaba por la physis (el cosmos); con el giro se vuelve hacia el ser humano."
+   },
+   {
+    "q": "¿Qué expresa la frase «solo sé que no sé nada»?",
+    "o": [
+     "La confianza absoluta en su propio saber.",
+     "El reconocimiento de la propia ignorancia.",
+     "El rechazo de toda forma de conocimiento.",
+     "La superioridad de la práctica sobre la teoría."
+    ],
+    "a": 1,
+    "fb": "La frase expresa la conciencia socrática de la propia ignorancia, punto de partida de su método."
+   },
+   {
+    "q": "¿En qué consiste la ironía socrática?",
+    "o": [
+     "Ayudar a dar a luz la verdad que el otro lleva dentro.",
+     "Refutar al adversario mediante argumentos sólidos.",
+     "Mostrar al otro que ignora lo que creía saber.",
+     "Buscar la definición universal de un concepto."
+    ],
+    "a": 2,
+    "fb": "La ironía es el primer momento del método: mostrar al interlocutor que ignora lo que creía saber."
+   },
+   {
+    "q": "Un docente, en lugar de explicar, formula preguntas para que el alumnado descubra por sí mismo la respuesta. ¿Qué momento del método socrático practica?",
+    "o": [
+     "La ironía, que muestra la ignorancia del otro.",
+     "La refutación de las opiniones ajenas.",
+     "La búsqueda de definiciones universales.",
+     "La mayéutica, que ayuda a dar a luz la verdad."
+    ],
+    "a": 3,
+    "fb": "La mayéutica guía con preguntas para que el otro «dé a luz» la verdad que lleva dentro."
+   },
+   {
+    "q": "¿Qué tres partes distingue Platón en el alma?",
+    "o": [
+     "Racional, irascible y concupiscible.",
+     "Vegetativa, sensitiva y racional.",
+     "Irascible, sensitiva y concupiscible.",
+     "Vegetativa, racional y concupiscible."
+    ],
+    "a": 0,
+    "fb": "Platón distingue la parte racional (el auriga), la irascible (el caballo noble) y la concupiscible (el caballo rebelde)."
+   },
+   {
+    "q": "Según Platón, ¿cuándo es justa una persona?",
+    "o": [
+     "Cuando sus deseos y apetitos se satisfacen por completo.",
+     "Cuando la razón gobierna a las otras dos partes.",
+     "Cuando el valor domina sobre el miedo y la cobardía.",
+     "Cuando cada deseo se equilibra con su contrario."
+    ],
+    "a": 1,
+    "fb": "La persona justa es aquella en la que la razón gobierna a las otras dos partes del alma."
+   },
+   {
+    "q": "¿Qué tienen en común la reminiscencia y la metempsicosis?",
+    "o": [
+     "Ambas describen la relación entre el alma y la ciudad.",
+     "Ambas se refieren a las virtudes del alma racional.",
+     "Ambas suponen un alma inmortal que preexiste al cuerpo.",
+     "Ambas explican cómo se forma el conocimiento desde los sentidos."
+    ],
+    "a": 2,
+    "fb": "Ambas doctrinas presuponen un alma inmortal: recordar (reminiscencia) y transmigrar (metempsicosis)."
+   },
+   {
+    "q": "¿Qué tres funciones o niveles distingue Aristóteles en el alma?",
+    "o": [
+     "Racional, irascible y concupiscible.",
+     "Sensitiva, irascible y vegetativa.",
+     "Concupiscible, vegetativa y racional.",
+     "Vegetativa, sensitiva y racional."
+    ],
+    "a": 3,
+    "fb": "Aristóteles distingue la función vegetativa, la sensitiva (animales) y la racional (exclusiva del ser humano)."
+   },
+   {
+    "q": "Según Aristóteles, ¿qué capacidades comprende el alma sensitiva?",
+    "o": [
+     "Percepción, deseo y movimiento.",
+     "Nutrición, crecimiento y reproducción.",
+     "Entendimiento y voluntad.",
+     "Memoria, lenguaje y abstracción."
+    ],
+    "a": 0,
+    "fb": "El alma sensitiva, propia de los animales, añade a la vegetativa la percepción, el deseo y el movimiento."
+   },
+   {
+    "q": "¿Qué nivel del alma es exclusivo del ser humano, según Aristóteles?",
+    "o": [
+     "El sensitivo, que poseen también los animales.",
+     "El racional, con entendimiento y voluntad.",
+     "El vegetativo, que poseen también las plantas.",
+     "El irascible, que regula el valor y el coraje."
+    ],
+    "a": 1,
+    "fb": "Solo el alma racional, con el entendimiento y la voluntad, es propia del ser humano."
+   },
+   {
+    "q": "Según Platón, ¿con qué distrae el cuerpo al alma?",
+    "o": [
+     "Con los placeres de la vida contemplativa.",
+     "Con la búsqueda de la inmortalidad.",
+     "Con deseos, temores y enfermedades.",
+     "Con la ambición de poder y de honores."
+    ],
+    "a": 2,
+    "fb": "El cuerpo, como «cárcel», distrae al alma con deseos, temores y enfermedades, impidiéndole la verdad."
+   },
+   {
+    "q": "¿Qué filósofo concibe el alma como inmortal y anterior al cuerpo?",
+    "o": [
+     "Aristóteles, que la concibe como forma del cuerpo.",
+     "Sócrates, que la identifica con el conocimiento.",
+     "Aristóteles, que la considera inseparable de él.",
+     "Platón, defensor de una visión dualista."
+    ],
+    "a": 3,
+    "fb": "Frente a Aristóteles, Platón concibe el alma como inmortal y anterior al cuerpo, que es su cárcel."
+   },
+   {
+    "q": "¿Quién sostiene que el ser humano es una sustancia compuesta de materia y forma?",
+    "o": [
+     "Aristóteles, que la llama hilemorfismo.",
+     "Platón, que separa alma y cuerpo.",
+     "Sócrates, que reduce el alma a la razón.",
+     "Platón, que considera el cuerpo una cárcel."
+    ],
+    "a": 0,
+    "fb": "Para Aristóteles el ser humano es materia (cuerpo) más forma (alma): el hilemorfismo."
+   },
+   {
+    "q": "Según el glosario del tema, ¿en qué consiste el cambio?",
+    "o": [
+     "En la unión de materia y forma.",
+     "En el paso de la potencia al acto.",
+     "En la transmigración del alma de un cuerpo a otro.",
+     "En la purificación del alma mediante la filosofía."
+    ],
+    "a": 1,
+    "fb": "El glosario define el cambio como el paso de la potencia (posibilidad de ser) al acto (su realización)."
+   },
+   {
+    "q": "¿Cuándo sitúa la teoría el giro antropológico de la filosofía?",
+    "o": [
+     "En el siglo VI a. C., con los presocráticos.",
+     "En el siglo IV a. C., con Aristóteles.",
+     "En el siglo V a. C., con Sócrates.",
+     "En el siglo III a. C., con el helenismo."
+    ],
+    "a": 2,
+    "fb": "El tema sitúa el giro en el siglo V a. C., de la mano de Sócrates."
+   }
+  ]
+ },
+ "hf-t8-repaso": {
+  "name": "Ética clásica (HF · T8 · repaso)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "Según la teoría del tema, ¿qué es la ética?",
+    "o": [
+     "La reflexión racional sobre cómo vivir bien y alcanzar la felicidad",
+     "El estudio de la naturaleza y del movimiento del cosmos",
+     "La técnica de persuadir y vencer en la asamblea pública",
+     "El arte de discutir sin llegar nunca a una conclusión"
+    ],
+    "a": 0,
+    "fb": "La ética es la reflexión racional sobre cómo vivir bien, actuar correctamente y alcanzar la felicidad."
+   },
+   {
+    "q": "¿Quién vincula la prudencia, la valentía y la templanza con las tres partes del alma?",
+    "o": [
+     "Sócrates",
+     "Platón",
+     "Aristóteles",
+     "Los sofistas"
+    ],
+    "a": 1,
+    "fb": "Platón relaciona las virtudes con las tres partes del alma: la prudencia con la racional, la valentía con la irascible y la templanza con la concupiscible."
+   },
+   {
+    "q": "Un político miente al electorado convencido de que así sale ganando. Desde el intelectualismo socrático, ¿cómo se explica su conducta?",
+    "o": [
+     "Actúa a sabiendas contra su propio bien, pese a conocerlo",
+     "Su razón está sana, pero una voluntad débil le domina",
+     "Obra por ignorancia, al confundir su verdadero bien con una ganancia aparente",
+     "Obra mal por pura maldad, sin cometer error alguno"
+    ],
+    "a": 2,
+    "fb": "Para Sócrates, nadie elige el mal a sabiendas: quien obra mal lo hace por ignorancia, creyendo que ese mal es un bien para él."
+   },
+   {
+    "q": "Ana estudia para aprobar, aprueba para trabajar, trabaja para comprar una casa y quiere la casa para vivir tranquila, sin buscar nada más allá. Según Aristóteles, ¿qué representa «vivir tranquila» en esta cadena?",
+    "o": [
+     "Un medio que apunta a otro fin todavía superior",
+     "Un placer momentáneo y pasajero",
+     "La contemplación de la Idea del Bien",
+     "Un fin que se busca por sí mismo y no por otra cosa"
+    ],
+    "a": 3,
+    "fb": "Aristóteles observa que todos los fines se ordenan hacia un fin último que se busca por sí mismo y no por otra cosa."
+   },
+   {
+    "q": "Un cuchillo es bueno cuando corta bien y un ojo cuando ve bien. ¿Qué idea de Aristóteles ilustra este razonamiento?",
+    "o": [
+     "El bien de cada cosa consiste en cumplir su función propia",
+     "La virtud está en el término medio entre dos vicios",
+     "La felicidad es un placer que no se puede prolongar",
+     "El alma es inmortal y transmigra de un cuerpo a otro"
+    ],
+    "a": 0,
+    "fb": "Aristóteles sostiene que el bien de cada cosa es cumplir su función: el del cuchillo es cortar y el del ojo es ver."
+   },
+   {
+    "q": "¿En qué se diferencia Platón de su maestro respecto al conocimiento del bien?",
+    "o": [
+     "La virtud no es conocimiento, sino un hábito adquirido por repetición",
+     "La virtud es necesaria para la sabiduría, pero no se confunde con ella",
+     "Sabiduría y virtud son exactamente lo mismo",
+     "No guardan ninguna relación entre sí"
+    ],
+    "a": 1,
+    "fb": "A diferencia de Sócrates, Platón no identifica del todo sabiduría y virtud: la virtud es necesaria para la sabiduría, pero no se confunde con ella."
+   },
+   {
+    "q": "¿Cuál de las siguientes es una virtud ética según Aristóteles?",
+    "o": [
+     "La sabiduría",
+     "La prudencia",
+     "La generosidad",
+     "La temeridad"
+    ],
+    "a": 2,
+    "fb": "La generosidad es una virtud ética, un hábito que orienta las acciones hacia el bien; la sabiduría y la prudencia son dianoéticas, y la temeridad es un vicio."
+   },
+   {
+    "q": "Según Aristóteles, ¿cómo se adquieren las virtudes dianoéticas?",
+    "o": [
+     "Por la repetición de actos",
+     "Por la purificación del alma",
+     "Por la contemplación de la Idea del Bien",
+     "Por la enseñanza"
+    ],
+    "a": 3,
+    "fb": "Las virtudes dianoéticas perfeccionan el entendimiento y se adquieren por la enseñanza."
+   },
+   {
+    "q": "¿Quién concibe la virtud como un hábito que se adquiere por la repetición de actos?",
+    "o": [
+     "Aristóteles",
+     "Sócrates",
+     "Platón",
+     "Gorgias"
+    ],
+    "a": 0,
+    "fb": "Para Aristóteles, las virtudes éticas son hábitos adquiridos por la repetición de actos, a diferencia del intelectualismo de Sócrates y Platón."
+   },
+   {
+    "q": "¿Cuál de estas afirmaciones expresa correctamente la idea aristotélica de la felicidad?",
+    "o": [
+     "Es un placer momentáneo que se repite una y otra vez",
+     "Es la actividad del alma conforme a la virtud durante toda la vida",
+     "Es la contemplación de la Idea del Bien eterna e inmutable",
+     "Es la purificación del alma respecto de los deseos del cuerpo"
+    ],
+    "a": 1,
+    "fb": "Para Aristóteles, la felicidad es la actividad del alma conforme a la virtud a lo largo de toda una vida, no un placer pasajero."
+   },
+   {
+    "q": "¿Cuál de estas afirmaciones sobre las virtudes aristotélicas es correcta?",
+    "o": [
+     "Las virtudes dianoéticas se adquieren por la repetición de actos",
+     "Las virtudes éticas se adquieren por la enseñanza",
+     "Las virtudes éticas se adquieren por la repetición de actos",
+     "Las virtudes dianoéticas regulan las pasiones y las acciones"
+    ],
+    "a": 2,
+    "fb": "Las virtudes éticas son hábitos que se adquieren por la repetición de actos; las dianoéticas, en cambio, se adquieren por la enseñanza."
+   },
+   {
+    "q": "¿Cómo define el glosario el «término medio»?",
+    "o": [
+     "La media aritmética que se calcula entre dos cantidades",
+     "El equilibrio que se produce entre el alma y el cuerpo",
+     "La coincidencia total entre lo que dicta la razón y el deseo",
+     "El punto intermedio entre dos vicios, por exceso y por defecto"
+    ],
+    "a": 3,
+    "fb": "El término medio es el punto intermedio entre dos vicios, uno por exceso y otro por defecto."
+   },
+   {
+    "q": "Según Aristóteles, ¿entre qué dos vicios se sitúa la valentía?",
+    "o": [
+     "La cobardía y la temeridad",
+     "La cobardía y la prudencia",
+     "La temeridad y la templanza",
+     "El miedo y el placer"
+    ],
+    "a": 0,
+    "fb": "La valentía es el término medio entre la cobardía (defecto) y la temeridad (exceso)."
+   },
+   {
+    "q": "¿Cuáles son, para Aristóteles, las dos virtudes dianoéticas?",
+    "o": [
+     "La valentía y la templanza",
+     "La sabiduría y la prudencia",
+     "La generosidad y la justicia",
+     "La fe y la esperanza"
+    ],
+    "a": 1,
+    "fb": "Las virtudes dianoéticas perfeccionan el entendimiento y son la sabiduría y la prudencia."
+   },
+   {
+    "q": "¿Quién sostiene que la virtud es conocimiento, de modo que quien conoce el bien obra bien?",
+    "o": [
+     "Aristóteles",
+     "Protágoras",
+     "Sócrates",
+     "Gorgias"
+    ],
+    "a": 2,
+    "fb": "Sócrates sostiene que la virtud es conocimiento: quien conoce de verdad qué es el bien, obra bien."
+   },
+   {
+    "q": "¿Cuál de estas afirmaciones sobre la virtud es correcta?",
+    "o": [
+     "Sócrates la concibe como un hábito adquirido por repetición",
+     "Platón la concibe como un término medio entre dos vicios",
+     "Aristóteles la concibe como conocimiento y purificación del alma",
+     "Aristóteles la concibe como un hábito situado entre dos vicios"
+    ],
+    "a": 3,
+    "fb": "Para Aristóteles, la virtud es un hábito que consiste en el término medio entre dos vicios; el conocimiento y la purificación corresponden a Sócrates y Platón."
+   }
+  ]
+ },
+ "hf-t9-repaso": {
+  "name": "Política clásica (HF · T9 · repaso)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "Según Aristóteles, ¿cómo se llama el régimen en el que una sola persona gobierna en favor de todos?",
+    "o": [
+     "Monarquía",
+     "Tiranía",
+     "Oligarquía",
+     "Aristocracia"
+    ],
+    "a": 0,
+    "fb": "Para Aristóteles, la monarquía es el gobierno justo de uno solo; cuando ese uno busca su propio interés, degenera en tiranía."
+   },
+   {
+    "q": "Un jefe concentra todo el poder y legisla únicamente para enriquecerse y perpetuarse en el cargo. Según Aristóteles, ¿qué régimen es este?",
+    "o": [
+     "Oligarquía",
+     "Tiranía",
+     "Demagogia",
+     "Monarquía"
+    ],
+    "a": 1,
+    "fb": "La tiranía es la degeneración de la monarquía: el gobierno de uno para el interés propio, no para el bien común."
+   },
+   {
+    "q": "En la clasificación de Aristóteles, ¿cómo se denomina el gobierno justo ejercido por un grupo reducido de personas?",
+    "o": [
+     "Oligarquía",
+     "Monarquía",
+     "Aristocracia",
+     "República"
+    ],
+    "a": 2,
+    "fb": "La aristocracia es el gobierno justo de unos pocos (los mejores); su degeneración es la oligarquía."
+   },
+   {
+    "q": "Aristóteles empareja cada forma justa de gobierno con su degeneración. ¿Qué serie es la correcta?",
+    "o": [
+     "Monarquía y tiranía; aristocracia y oligarquía; república y demagogia",
+     "Monarquía y oligarquía; aristocracia y tiranía; república y demagogia",
+     "Monarquía y demagogia; aristocracia y tiranía; república y oligarquía",
+     "Monarquía y tiranía; aristocracia y demagogia; república y oligarquía"
+    ],
+    "a": 0,
+    "fb": "Cada forma justa degenera en su contrapartida: la monarquía en tiranía, la aristocracia en oligarquía y la república en demagogia."
+   },
+   {
+    "q": "¿En qué orden presenta Aristóteles los niveles de la comunidad, de lo más simple a lo más perfecto?",
+    "o": [
+     "Aldea, familia, polis",
+     "Familia, aldea, polis",
+     "Polis, familia, aldea",
+     "Familia, polis, aldea"
+    ],
+    "a": 1,
+    "fb": "La comunidad se organiza en familia (vida cotidiana), aldea (unión de familias) y polis (la comunidad perfecta que busca vivir bien)."
+   },
+   {
+    "q": "¿Qué afirmación es correcta sobre cómo valoran Platón y Aristóteles el gobierno en el que manda la multitud?",
+    "o": [
+     "El primero lo juzga justo; el segundo lo sitúa en su ciclo de degeneración.",
+     "El primero lo incluye entre las formas degeneradas; el segundo distingue la república de la demagogia.",
+     "Ambos lo consideran la mejor de todas las formas de gobierno.",
+     "Ambos lo omiten por completo en sus clasificaciones de los regímenes."
+    ],
+    "a": 1,
+    "fb": "Para Platón la democracia es una etapa del ciclo de degeneración que acaba en desorden; Aristóteles reserva la forma justa para la república y llama demagogia a su corrupción."
+   },
+   {
+    "q": "Para Aristóteles, ¿quién es capaz de vivir al margen de la ciudad?",
+    "o": [
+     "El filósofo, que se basta con la contemplación.",
+     "El ciudadano que participa en la asamblea.",
+     "Una bestia o un dios.",
+     "El esclavo, que obedece a su amo."
+    ],
+    "a": 2,
+    "fb": "El ser humano solo puede vivir plenamente en comunidad; quien prescinde de ella no es miembro de la ciudad, sino una bestia o un dios."
+   },
+   {
+    "q": "¿Con qué finalidad diseña Platón su ciudad ideal en la República?",
+    "o": [
+     "Para que la justicia sea posible en ella.",
+     "Para aumentar el poder militar de Atenas.",
+     "Para repartir la riqueza entre todos por igual.",
+     "Para imitar la democracia de su época."
+    ],
+    "a": 0,
+    "fb": "Platón diseña una ciudad ideal (una utopía) con la finalidad de que la justicia sea posible en ella."
+   },
+   {
+    "q": "En el ciclo de degeneración de Platón, ¿qué distingue a la timocracia de la oligarquía?",
+    "o": [
+     "La primera la forman militares y la segunda, ricos.",
+     "La primera es justa y la segunda, degenerada.",
+     "La primera la ejerce uno y la segunda, muchos.",
+     "La primera es la peor forma y la segunda, la mejor."
+    ],
+    "a": 0,
+    "fb": "En el ciclo platónico, la timocracia es el gobierno de los militares y la oligarquía el de los ricos, cada una peor que la anterior."
+   },
+   {
+    "q": "¿Qué suceso del año 399 a. C. marcó profundamente a Platón y a la filosofía política posterior?",
+    "o": [
+     "La fundación de la Academia.",
+     "La condena a muerte de Sócrates.",
+     "La victoria de Atenas sobre Esparta.",
+     "El exilio de Aristóteles de Atenas."
+    ],
+    "a": 1,
+    "fb": "La condena a muerte de Sócrates (399 a. C.) marcó a Platón y abrió la pregunta por el mejor orden social, a la que responderán él y, más tarde, Aristóteles."
+   },
+   {
+    "q": "En la clasificación de Aristóteles, tanto la monarquía como la aristocracia son formas justas. ¿Qué las distingue?",
+    "o": [
+     "Que una es hereditaria y la otra electiva.",
+     "Que una busca el bien común y la otra no.",
+     "El número de quienes gobiernan: uno frente a unos pocos.",
+     "Que una se apoya en la clase media y la otra no."
+    ],
+    "a": 2,
+    "fb": "Ambas buscan el bien común; lo que las diferencia es cuántos gobiernan: la monarquía es de uno y la aristocracia de unos pocos."
+   },
+   {
+    "q": "¿Cuántas formas de gobierno distingue Aristóteles en total al cruzar quién gobierna y para quién?",
+    "o": [
+     "Tres, una por cada clase social.",
+     "Cuatro, dos justas y dos degeneradas.",
+     "Seis, tres justas y tres degeneradas.",
+     "Dos, una justa y una degenerada."
+    ],
+    "a": 2,
+    "fb": "Al cruzar quién gobierna (uno, pocos, muchos) con para quién (bien común o interés propio), Aristóteles obtiene seis formas: tres justas y tres degeneradas."
+   },
+   {
+    "q": "¿Qué tienen en común la tiranía, la oligarquía y la demagogia en la clasificación de Aristóteles?",
+    "o": [
+     "Que todas buscan el interés propio y no el bien común.",
+     "Que todas las ejerce una sola persona.",
+     "Que todas son formas justas de gobierno.",
+     "Que todas se apoyan en la clase media."
+    ],
+    "a": 0,
+    "fb": "Las tres son las degeneraciones de las formas justas, y coinciden en que quienes gobiernan buscan su propio interés en lugar del bien común."
+   },
+   {
+    "q": "En la organización de la comunidad según Aristóteles, ¿qué es la aldea?",
+    "o": [
+     "La comunidad perfecta que busca vivir bien.",
+     "La unión de varias familias.",
+     "El gobierno de los militares.",
+     "La asociación de ciudadanos para legislar."
+    ],
+    "a": 1,
+    "fb": "La aldea es el segundo nivel de la comunidad: la unión de varias familias, que precede a la polis."
+   }
+  ]
+ },
+ "hf-t10-repaso": {
+  "name": "El helenismo (HF · T10 · repaso)",
+  "subject": "hf",
+  "block": "A",
+  "items": [
+   {
+    "q": "¿Qué escuela helenística tiene como ideal la autarquía?",
+    "o": [
+     "El cinismo",
+     "El estoicismo",
+     "El epicureísmo",
+     "El escepticismo"
+    ],
+    "a": 0,
+    "fb": "La autarquía, la autosuficiencia de no depender de nada exterior, es el ideal propio del cinismo."
+   },
+   {
+    "q": "¿Quién fundó el cinismo?",
+    "o": [
+     "Zenón de Citio",
+     "Antístenes",
+     "Pirrón de Elis",
+     "Epicuro"
+    ],
+    "a": 1,
+    "fb": "El cinismo fue fundado por Antístenes y llevado a su extremo por Diógenes de Sínope."
+   },
+   {
+    "q": "¿Quién llevó el cinismo a su extremo?",
+    "o": [
+     "Zenón de Citio",
+     "Antístenes",
+     "Diógenes de Sínope",
+     "Pirrón de Elis"
+    ],
+    "a": 2,
+    "fb": "Diógenes de Sínope llevó el cinismo a su extremo, viviendo con lo mínimo."
+   },
+   {
+    "q": "¿Quién fundó el estoicismo?",
+    "o": [
+     "Antístenes",
+     "Epicuro",
+     "Pirrón de Elis",
+     "Zenón de Citio"
+    ],
+    "a": 3,
+    "fb": "El estoicismo fue fundado por Zenón de Citio."
+   },
+   {
+    "q": "En el glosario del tema, ¿qué es la koiné?",
+    "o": [
+     "El ideal de vivir oculto",
+     "La lengua griega común del helenismo",
+     "La razón divina que ordena el cosmos",
+     "La autosuficiencia del sabio"
+    ],
+    "a": 1,
+    "fb": "La koiné es la lengua griega común que se habló durante el helenismo."
+   },
+   {
+    "q": "Epicuro define el placer como ausencia de dolor y de turbación. ¿A qué corresponde cada una de esas dos ausencias?",
+    "o": [
+     "Al alma la primera y al cuerpo la segunda",
+     "Ambas al cuerpo",
+     "Al cuerpo la primera y al alma la segunda",
+     "Ambas al alma"
+    ],
+    "a": 2,
+    "fb": "La ausencia de dolor en el cuerpo es la aponía, y la ausencia de turbación en el alma es la ataraxia."
+   },
+   {
+    "q": "¿Qué significa para el cinismo vivir conforme a la naturaleza?",
+    "o": [
+     "Acumular bienes para no depender de nadie",
+     "Retirarse a meditar en soledad",
+     "Estudiar la física del cosmos",
+     "Limitar las necesidades a lo indispensable"
+    ],
+    "a": 3,
+    "fb": "Vivir conforme a la naturaleza consiste en reducir las necesidades a lo estrictamente natural y despreciar lo artificial."
+   },
+   {
+    "q": "¿Qué detalle de la vida de Diógenes ilustra su ideal de autosuficiencia?",
+    "o": [
+     "Que vivía en un tonel",
+     "Que dirigía una escuela en Alejandría",
+     "Que fundó el estoicismo",
+     "Que gobernaba un imperio"
+    ],
+    "a": 0,
+    "fb": "Diógenes vivía en un tonel, mostrando con su ejemplo que apenas necesitaba nada exterior."
+   },
+   {
+    "q": "El sabio estoico alcanza la apatía y la ataraxia. ¿Cuál es la diferencia entre ambas?",
+    "o": [
+     "Ambas son la indiferencia ante todo lo que ocurre",
+     "La primera es la ausencia de pasiones que perturban; la segunda, la paz interior",
+     "La primera es un dolor del cuerpo y la segunda una turbación del alma",
+     "La primera es la suspensión del juicio y la segunda la autosuficiencia"
+    ],
+    "a": 1,
+    "fb": "La apatía es la ausencia de pasiones que perturban y la ataraxia es la paz interior; no son la indiferencia."
+   },
+   {
+    "q": "¿Qué es el logos, según el estoicismo?",
+    "o": [
+     "La suspensión del juicio",
+     "La ausencia de dolor en el cuerpo",
+     "La razón divina que ordena el universo",
+     "La lengua griega común"
+    ],
+    "a": 2,
+    "fb": "El logos es la razón divina que ordena todo el universo, según el estoicismo."
+   },
+   {
+    "q": "Según el tetrafármaco, ¿cuál de estas afirmaciones es correcta?",
+    "o": [
+     "Hay que temer a los dioses",
+     "El bien es difícil de alcanzar",
+     "El mal es difícil de soportar",
+     "No hay que temer a la muerte"
+    ],
+    "a": 3,
+    "fb": "El tetrafármaco enseña que no hay que temer a los dioses ni a la muerte, y que el bien es fácil de alcanzar y el mal fácil de soportar."
+   },
+   {
+    "q": "Además de satisfacer las necesidades naturales, ¿qué recomienda Epicuro para vivir sin turbación?",
+    "o": [
+     "Entregarse a los excesos",
+     "Acumular riquezas",
+     "Buscar la fama",
+     "Evitar el miedo"
+    ],
+    "a": 3,
+    "fb": "Epicuro aconseja satisfacer las necesidades naturales y necesarias y evitar el miedo."
+   },
+   {
+    "q": "¿Cuál de las siguientes afirmaciones sobre los ideales de las escuelas es correcta?",
+    "o": [
+     "El cinismo busca la apatía",
+     "El escepticismo busca la ataraxia",
+     "El epicureísmo busca la epojé",
+     "El estoicismo busca el placer"
+    ],
+    "a": 1,
+    "fb": "Según la tabla comparativa, el escepticismo tiene como ideal la ataraxia, alcanzada mediante la epojé."
+   }
+  ]
+ },
+ "hf-t11-repaso": {
+  "name": "Filosofía medieval y universales (HF · T11 · repaso)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "¿Cuál es el problema nuevo que, según el tema, define toda la filosofía medieval?",
+    "o": [
+     "La relación entre fe y razón",
+     "La demostración de la existencia de Dios",
+     "El origen del lenguaje y sus signos",
+     "La crítica del poder político y eclesiástico"
+    ],
+    "a": 0,
+    "fb": "La filosofía medieval no se define por un calendario, sino por un problema nuevo: si la razón puede comprender, justificar o profundizar las verdades que la religión revela."
+   },
+   {
+    "q": "Frente a la idea de un principio abstracto, ¿cómo presenta el cristianismo a Dios?",
+    "o": [
+     "Como una energía impersonal que mueve el cosmos",
+     "Como eterno, trascendente y personal",
+     "Como la materia de la que todo procede",
+     "Como un ser limitado y semejante a los mortales"
+    ],
+    "a": 1,
+    "fb": "El cristianismo presenta a Dios como eterno, trascendente y personal, no como un principio abstracto o una fuerza anónima."
+   },
+   {
+    "q": "¿Qué sostiene el cristianismo sobre el origen del mundo?",
+    "o": [
+     "Que es una materia eterna que nadie creó",
+     "Que surgió por azar de la nada",
+     "Que lo ha creado Dios",
+     "Que es idéntico a la divinidad"
+    ],
+    "a": 2,
+    "fb": "Para el cristianismo el mundo no es una materia eterna, sino que Dios lo ha creado y lo mantiene dentro de su providencia."
+   },
+   {
+    "q": "¿Cómo entiende el cristianismo al ser humano?",
+    "o": [
+     "Como un alma pura atrapada en una materia ajena",
+     "Como un animal guiado solo por los instintos",
+     "Como una mente sin vínculo con el cuerpo",
+     "Como unidad de cuerpo y alma, imagen de Dios"
+    ],
+    "a": 3,
+    "fb": "El cristianismo no ve al ser humano como un alma pura, sino como una unidad de cuerpo y alma hecha a imagen de Dios, capaz de distinguir el bien del mal y responsable de sus actos."
+   },
+   {
+    "q": "Para Agustín, ¿qué es el mal?",
+    "o": [
+     "La falta de un bien, no una sustancia",
+     "Una sustancia creada por Dios",
+     "El resultado inevitable de la materia",
+     "Una fuerza igual y opuesta al bien"
+    ],
+    "a": 0,
+    "fb": "Agustín entiende el mal como privación: no es una sustancia, sino la ausencia de un bien, nacida de una voluntad desordenada."
+   },
+   {
+    "q": "¿Dónde se vive el tiempo, según Agustín?",
+    "o": [
+     "En el movimiento regular de los astros",
+     "En el interior, como memoria, atención y espera",
+     "En una sucesión cíclica que se repite",
+     "En la medida externa de los relojes"
+    ],
+    "a": 1,
+    "fb": "Para Agustín el tiempo no se mide fuera, sino que se vive en el interior del sujeto como memoria, atención y espera."
+   },
+   {
+    "q": "Según la frase de Agustín, ¿qué fundan «dos amores»?",
+    "o": [
+     "La ciudad de Dios y la ciudad terrena",
+     "Atenas y Jerusalén",
+     "La patrística y la escolástica",
+     "El Imperio romano y el Imperio bizantino"
+    ],
+    "a": 0,
+    "fb": "Agustín sostiene que dos amores fundaron dos ciudades: el amor a Dios funda la Ciudad de Dios y el amor desordenado a uno mismo la ciudad terrena."
+   },
+   {
+    "q": "¿Cómo concibe Agustín la historia?",
+    "o": [
+     "Como un ciclo que se repite sin término",
+     "Como un progreso indefinido y sin meta",
+     "Como un declive constante desde un origen perfecto",
+     "Como una línea con inicio, centro y fin"
+    ],
+    "a": 3,
+    "fb": "Frente al ciclo griego, Agustín concibe la historia como lineal, con un inicio (la creación), un centro (la encarnación) y un fin (el juicio final)."
+   },
+   {
+    "q": "Según Agustín, ¿qué necesita la mente para conocer las verdades eternas?",
+    "o": [
+     "Ser iluminada por Dios",
+     "Recordar lo visto antes de nacer",
+     "Recibir más datos de los sentidos",
+     "Liberarse de toda creencia previa"
+    ],
+    "a": 0,
+    "fb": "Para Agustín la razón no se basta a sí misma: la mente necesita la luz de Dios, es decir, la iluminación, para conocer las verdades eternas."
+   },
+   {
+    "q": "Ante un dogma que no comprende del todo, una creyente decide aceptarlo primero para poder luego comprenderlo mejor. ¿Qué principio agustiniano aplica?",
+    "o": [
+     "La duda metódica",
+     "El «cree para entender»",
+     "La doble verdad",
+     "La separación entre fe y razón"
+    ],
+    "a": 1,
+    "fb": "Agustín resume la colaboración entre fe y razón en «cree para entender»: la fe orienta y la razón comprende, de modo que aceptar primero permite entender después."
+   },
+   {
+    "q": "Según Agustín, ¿por qué no basta con enseñar la verdad?",
+    "o": [
+     "Porque la verdad es del todo incognoscible",
+     "Porque faltan datos de los sentidos",
+     "Porque la voluntad está herida y hay que salvar",
+     "Porque el conocimiento es solo recuerdo"
+    ],
+    "a": 2,
+    "fb": "No basta con enseñar porque la voluntad humana está herida por el pecado original e inclinada al mal: además de conocer hay que salvar, y la gracia es iniciativa de Dios."
+   },
+   {
+    "q": "¿En qué planos se despliega el dualismo que Agustín hereda de Platón?",
+    "o": [
+     "En el físico, el químico y el biológico",
+     "En el lógico, el retórico y el gramatical",
+     "En el individual, el social y el político",
+     "En el teológico, el moral y el histórico"
+    ],
+    "a": 3,
+    "fb": "El dualismo agustiniano se despliega en tres planos: teológico (Dios y criatura), moral (caritas y cupiditas) e histórico (creación, encarnación y fin)."
+   },
+   {
+    "q": "¿Quiénes fueron los apologetas?",
+    "o": [
+     "Autores que defendieron el cristianismo ante las acusaciones",
+     "Monjes que copiaban los manuscritos antiguos",
+     "Maestros de las primeras universidades",
+     "Jueces de los tribunales imperiales"
+    ],
+    "a": 0,
+    "fb": "Los apologetas son autores que defendieron el cristianismo frente a las acusaciones políticas y religiosas, releyendo conceptos como logos, alma, creación o justicia."
+   },
+   {
+    "q": "¿Qué eran el trivium y el quadrivium?",
+    "o": [
+     "Las dos órdenes de frailes mendicantes",
+     "Las siete artes liberales del currículo escolástico",
+     "Los dos testamentos de la Biblia",
+     "Dos escuelas rivales de la patrística"
+    ],
+    "a": 1,
+    "fb": "El trivium (gramática, retórica y dialéctica) y el quadrivium (aritmética, geometría, astronomía y música) formaban las siete artes liberales, currículo básico de la escolástica."
+   },
+   {
+    "q": "Sobre la escolástica, ¿cuál de estas afirmaciones es correcta?",
+    "o": [
+     "Fue una guerra abierta entre la fe y la razón",
+     "Redujo la filosofía a un simple juego de palabras",
+     "Es un esfuerzo por unir la fe y la razón de forma sistemática",
+     "Renunció a la razón para quedarse solo con la fe"
+    ],
+    "a": 2,
+    "fb": "La escolástica no fue una guerra entre fe y razón, sino un esfuerzo por unirlas de forma sistemática; confundirla con una guerra es un error frecuente."
+   },
+   {
+    "q": "Según el realismo moderado, ¿dónde se encuentran los universales?",
+    "o": [
+     "En un mundo aparte, separado de las cosas",
+     "Solo en la mente, como meros conceptos",
+     "Solo en el lenguaje, como meros nombres",
+     "En las cosas, y la mente los extrae por abstracción"
+    ],
+    "a": 3,
+    "fb": "Para el realismo moderado (Aristóteles, Tomás de Aquino) los universales están en las cosas mismas, y la mente los extrae mediante la abstracción."
+   },
+   {
+    "q": "Junto a la salvación, ¿qué pone el cristianismo en el centro de su mensaje?",
+    "o": [
+     "La encarnación y el amor como modelo",
+     "La contemplación de las Ideas",
+     "La imitación de los héroes clásicos",
+     "El dominio racional de las pasiones"
+    ],
+    "a": 0,
+    "fb": "La figura de Jesucristo pone en el centro la salvación, la encarnación y el amor como modelo, no la mera contemplación ni la virtud heroica."
+   },
+   {
+    "q": "¿Qué es la providencia?",
+    "o": [
+     "El azar que rige los acontecimientos",
+     "El plan divino que ordena la historia hacia su fin",
+     "La autonomía del mundo respecto a su creador",
+     "El ciclo eterno del cosmos"
+    ],
+    "a": 1,
+    "fb": "La providencia es el plan divino que ordena la historia hacia su fin; frente al ciclo griego, la historia tiene inicio, centro y fin."
+   },
+   {
+    "q": "En cuanto creado por Dios, el mundo es, según el tema...",
+    "o": [
+     "Un caos sin sentido que hay que ordenar",
+     "Idéntico a la propia divinidad",
+     "Inteligible y bueno",
+     "Una ilusión producida por los sentidos"
+    ],
+    "a": 2,
+    "fb": "El mundo no es Dios ni un caos: en cuanto creado, es inteligible y bueno, y se mantiene dentro de la providencia."
+   },
+   {
+    "q": "En el pensamiento de Hildegarda, ¿qué es el pecado?",
+    "o": [
+     "La ignorancia del alma que desconoce el bien",
+     "La materia que aprisiona al espíritu",
+     "El castigo que impone la comunidad",
+     "La pérdida de la armonía del cosmos"
+    ],
+    "a": 3,
+    "fb": "Para Hildegarda el pecado no es solo la ruptura de una norma moral, sino también la pérdida de la armonía cósmica; por eso salud, ética y espiritualidad van unidas."
+   },
+   {
+    "q": "¿Cómo considera Hildegarda el cuerpo humano?",
+    "o": [
+     "Como parte de la creación, no una cárcel del alma",
+     "Como una cárcel de la que el alma debe huir",
+     "Como un obstáculo para todo saber verdadero",
+     "Como algo ajeno a la naturaleza"
+    ],
+    "a": 0,
+    "fb": "Hildegarda no ve el cuerpo como una cárcel del alma: forma parte de la creación, y su salud se relaciona con los ritmos de la naturaleza y la vida espiritual."
+   }
+  ]
+ },
+ "hf-t12-repaso": {
+  "name": "Fe y razón (HF · T12 · repaso)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "¿Qué es la patrística, según el tema?",
+    "o": [
+     "La tradición de los primeros pensadores de la Iglesia, que explica la fe con el lenguaje griego y romano.",
+     "El método de las universidades medievales, basado en preguntas, argumentos y objeciones.",
+     "La corriente que relee a Platón a través de Plotino para pensar la trascendencia de Dios.",
+     "El conjunto de autores que defendieron el cristianismo frente a las acusaciones del Imperio."
+    ],
+    "a": 0,
+    "fb": "El glosario define la patrística como la tradición de los primeros pensadores de la Iglesia que intenta explicar la fe cristiana con el lenguaje conceptual griego y romano; Agustín es una de sus cumbres."
+   },
+   {
+    "q": "¿Cómo se define la escolástica en el tema?",
+    "o": [
+     "La obra de los primeros pensadores cristianos que fijaron la doctrina frente a otras interpretaciones.",
+     "El método de pensamiento de las universidades medievales, que busca la verdad con preguntas, argumentos y objeciones.",
+     "La corriente que separa la fe de la razón y deja la teología fuera de la ciencia.",
+     "El sistema de Tomás de Aquino que integra la filosofía de Aristóteles en el cristianismo."
+    ],
+    "a": 1,
+    "fb": "La escolástica se define como el método de pensamiento de las universidades medievales, que busca la verdad con preguntas, argumentos, objeciones y respuestas sistemáticas."
+   },
+   {
+    "q": "¿Cuál de estas afirmaciones sobre las cinco vías es correcta?",
+    "o": [
+     "Son pruebas de la ciencia experimental moderna, con el mismo alcance que un experimento.",
+     "Demuestran la existencia de Dios partiendo del mero concepto, sin mirar al mundo.",
+     "Son argumentos metafísicos que buscan la explicación última de los seres finitos, del cambio y del orden.",
+     "Demuestran por completo verdades como la Trinidad o la Encarnación."
+    ],
+    "a": 2,
+    "fb": "El tema insiste en que no deben tomarse como pruebas de la ciencia experimental moderna, sino como argumentos metafísicos que buscan la explicación última de los seres finitos, del cambio y del orden."
+   },
+   {
+    "q": "Según Tomás, ¿qué verdad puede conocerse tanto por la razón como por la fe?",
+    "o": [
+     "La Trinidad, que la razón demuestra por sí sola sin ayuda.",
+     "La Encarnación, accesible únicamente a la revelación.",
+     "Toda verdad sobrenatural, sin excepción alguna.",
+     "La existencia de Dios, que puede alcanzarse por los dos caminos."
+    ],
+    "a": 3,
+    "fb": "El tema distingue verdades naturales y sobrenaturales, y señala que algunas, como la existencia de Dios, pueden conocerse por los dos caminos: la razón y la fe."
+   },
+   {
+    "q": "¿Qué expresa la idea de Tomás de que «la gracia no destruye la naturaleza»?",
+    "o": [
+     "Que la fe no anula la razón, sino que la lleva a su plenitud.",
+     "Que la razón debe someterse por completo a la autoridad de la fe.",
+     "Que la naturaleza es un obstáculo que la gracia ha de eliminar.",
+     "Que fe y razón son dos verdades independientes y ajenas entre sí."
+    ],
+    "a": 0,
+    "fb": "La fórmula expresa el equilibrio de su síntesis: la gracia (la fe) no suprime la naturaleza (la razón), sino que la perfecciona, por eso fe y razón colaboran."
+   },
+   {
+    "q": "¿Qué actitud adopta Tomás ante el estudio de la naturaleza?",
+    "o": [
+     "Lo considera un residuo del pecado, sin valor alguno para la fe.",
+     "No lo ve como enemigo de la fe: la razón tiene su propio camino para examinar el mundo.",
+     "Lo prohíbe, porque la fe lo explica todo por revelación.",
+     "Lo sustituye por la teología, único saber legítimo."
+    ],
+    "a": 1,
+    "fb": "Para Tomás, estudiar la naturaleza no es enemigo de la fe: la razón tiene su camino y puede examinar, desde la experiencia, el orden, el movimiento y las causas."
+   },
+   {
+    "q": "Según Tomás, ¿qué alcance tienen las cinco vías?",
+    "o": [
+     "Describen al Dios cristiano en su totalidad, con todos sus misterios.",
+     "Demuestran su conclusión sin partir de la experiencia, solo de la fe.",
+     "Establecen un primer principio, pero no verdades como la Trinidad o la Encarnación.",
+     "Sustituyen por completo a la revelación y a la teología."
+    ],
+    "a": 2,
+    "fb": "Las vías concluyen en un primer motor, una causa primera o un ser necesario, pero verdades como la Trinidad o la Encarnación pertenecen a la revelación y la razón no puede demostrarlas por sí sola."
+   },
+   {
+    "q": "Según Tomás, ¿en qué se distinguen los dos caminos del conocimiento que él armoniza?",
+    "o": [
+     "Ambos parten de la revelación y solo difieren en el estilo.",
+     "El primero recibe la verdad revelada y el segundo la demuestra con razones.",
+     "Son dos verdades contradictorias que no pueden reconciliarse.",
+     "Uno busca la verdad racional por medio de la razón; el otro recibe la verdad revelada por medio de la fe."
+    ],
+    "a": 3,
+    "fb": "El proyecto de Tomás es armonizar ambas: la filosofía busca la verdad racional con la razón y la teología recibe la verdad revelada con la fe, sin que tengan por qué negarse."
+   },
+   {
+    "q": "Según la síntesis de Tomás, ¿qué ocurre si un razonamiento parece contradecir la fe?",
+    "o": [
+     "Está mal planteado, porque la verdad es una sola.",
+     "Hay que aceptar dos verdades distintas, una para cada ámbito.",
+     "La fe debe ceder siempre ante la conclusión de la razón.",
+     "La razón debe silenciarse y renunciar a argumentar."
+    ],
+    "a": 0,
+    "fb": "Para Tomás, la razón natural y la fe no pueden contradecirse porque la verdad es una sola; por eso una aparente contradicción revela un error en el razonamiento."
+   },
+   {
+    "q": "Según la síntesis de Tomás, ¿qué riesgo entraña el fideísmo?",
+    "o": [
+     "Someter la fe por completo a los dictados de la razón.",
+     "Rechazar la razón y renunciar a su aportación.",
+     "Afirmar dos verdades contradictorias y separadas.",
+     "Negar que exista ninguna verdad sobrenatural."
+    ],
+    "a": 1,
+    "fb": "Tomás señala que el fideísmo corre el riesgo de rechazar la razón, mientras que el racionalismo teológico corre el de someter la fe por completo a la razón; él quiere evitar ambos extremos."
+   },
+   {
+    "q": "¿Qué defendía el maniqueísmo, la doctrina que Agustín rechazó?",
+    "o": [
+     "Que el mal es una simple privación o corrupción del bien.",
+     "Que un único principio divino gobierna todo lo real.",
+     "Dos principios opuestos, el bien y el mal, casi como dos fuerzas cósmicas.",
+     "Que la voluntad humana no interviene en la aparición del mal."
+    ],
+    "a": 2,
+    "fb": "El maniqueísmo proponía dos principios opuestos, el bien y el mal, casi como dos fuerzas cósmicas; Agustín rechaza esa visión porque para él el mal no es un ser positivo, sino privación del bien."
+   },
+   {
+    "q": "Según el nominalismo de Ockham, ¿qué existe realmente?",
+    "o": [
+     "Los universales, que tienen una realidad independiente de las cosas.",
+     "Las ideas ejemplares situadas en la mente de Dios.",
+     "Las formas generales que están dentro de cada cosa singular.",
+     "Solo los individuos; los conceptos generales son nombres de la mente."
+    ],
+    "a": 3,
+    "fb": "Ockham refuerza que «hombre» o «caballidad» no existen aparte de las cosas: son nombres o conceptos generales, y lo que existe realmente son los individuos."
+   },
+   {
+    "q": "¿Qué postura atribuye el tema a Avicena ante la relación entre fe y razón?",
+    "o": [
+     "«Creo porque es absurdo»: la fe no necesita de la razón.",
+     "La fe guía y la razón comprende lo ya creído.",
+     "Fe y razón se separan: la razón no alcanza las verdades de la fe.",
+     "La razón demuestra un ser necesario: la metafísica sirve a la comprensión de Dios."
+    ],
+    "a": 3,
+    "fb": "En el cuadro de posturas, a Avicena se le atribuye que la razón demuestra un ser necesario, de modo que la metafísica sirve a la comprensión de Dios."
+   },
+   {
+    "q": "Un alumno afirma que «la humanidad» existe por sí misma, además de cada persona concreta. Según Ockham, ¿qué le respondería?",
+    "o": [
+     "Que tiene razón: es una realidad independiente de las personas.",
+     "Que no existe aparte de las personas concretas: es un nombre o concepto general.",
+     "Que es una idea ejemplar situada en la mente divina.",
+     "Que el problema no puede resolverse con la razón, solo con la fe."
+    ],
+    "a": 1,
+    "fb": "Para Ockham, lo que existe realmente son los individuos; «humanidad» no existe aparte de las personas concretas, sino que es un nombre o concepto general de nuestra mente y nuestro lenguaje."
+   }
+  ]
+ },
+ "hf-t13-repaso": {
+  "name": "Renacimiento y revolución científica (HF · T13 · repaso)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "El texto aclara que el antropocentrismo renacentista no es solo «poner al ser humano en el centro», sino...",
+    "o": [
+     "pensar de otro modo su libertad, su creatividad y su responsabilidad",
+     "sustituir por completo la fe por la razón en la vida pública",
+     "rechazar toda herencia de la cultura medieval",
+     "demostrar que el cosmos gira alrededor de la Tierra"
+    ],
+    "a": 0,
+    "fb": "Según el texto, el antropocentrismo no se reduce a colocar al ser humano en el centro, sino que consiste en pensar de otro modo su libertad, su creatividad y su responsabilidad."
+   },
+   {
+    "q": "¿Qué autor renacentista defendió que el ser humano es capaz de elegir su propio destino?",
+    "o": [
+     "Erasmo de Rotterdam",
+     "Pico della Mirandola",
+     "Tomás Moro",
+     "Francis Bacon"
+    ],
+    "a": 1,
+    "fb": "Pico della Mirandola presentó al ser humano como un ser capaz de elegir su propio destino en su Discurso sobre la dignidad del hombre (1486)."
+   },
+   {
+    "q": "¿Quién criticó el dogmatismo y la corrupción durante el humanismo renacentista?",
+    "o": [
+     "Pico della Mirandola",
+     "Tomás Moro",
+     "Erasmo de Rotterdam",
+     "Nicolás Maquiavelo"
+    ],
+    "a": 2,
+    "fb": "Erasmo criticó el dogmatismo y la corrupción, mientras que Pico defendió la libertad del ser humano y Moro analizó la desigualdad social."
+   },
+   {
+    "q": "¿Con qué obra analizó Tomás Moro la desigualdad social?",
+    "o": [
+     "Discurso sobre la dignidad del hombre",
+     "El Príncipe",
+     "Novum Organum",
+     "Utopía"
+    ],
+    "a": 3,
+    "fb": "Tomás Moro analizó la desigualdad social a través de la Utopía (1516), una obra característica del humanismo renacentista."
+   },
+   {
+    "q": "¿Qué designa la expresión latina «dignitas hominis»?",
+    "o": [
+     "La dignidad del ser humano, centro del humanismo renacentista",
+     "La libre interpretación de la Escritura por el creyente",
+     "La energía del gobernante frente al azar",
+     "El retorno a los textos originales de la Antigüedad"
+    ],
+    "a": 0,
+    "fb": "«Dignitas hominis» significa la dignidad del ser humano, que el humanismo renacentista situó como centro de su reflexión."
+   },
+   {
+    "q": "¿Qué aportó la «conciencia histórica» desarrollada por los humanistas?",
+    "o": [
+     "Repetir los textos clásicos exactamente como se transmitieron",
+     "Entender a los autores antiguos en su contexto y su época reales",
+     "Sustituir el latín y el griego por las lenguas vulgares",
+     "Considerar a Platón y Aristóteles como nombres intercambiables"
+    ],
+    "a": 1,
+    "fb": "Los humanistas quisieron entender a los autores clásicos en su contexto real, no como nombres vacíos, y por eso desarrollaron una conciencia histórica."
+   },
+   {
+    "q": "¿Qué aportó Kepler a la nueva imagen del cosmos?",
+    "o": [
+     "Situar el Sol en el centro del sistema",
+     "Observar con el telescopio los satélites de Júpiter",
+     "Describir las órbitas elípticas de los planetas",
+     "Unificar la física con la gravitación universal"
+    ],
+    "a": 2,
+    "fb": "Kepler describió las órbitas elípticas de los planetas; el heliocentrismo es de Copérnico, el telescopio de Galileo y la gravitación universal de Newton."
+   },
+   {
+    "q": "En la física que consolida Galileo, ¿qué propiedades pasan a considerarse más objetivas?",
+    "o": [
+     "Las sensibles, como el sabor o el color",
+     "Las simbólicas, ligadas a los fines del cosmos",
+     "Las cualitativas, propias de la jerarquía natural",
+     "Las cuantitativas, medibles y calculables"
+    ],
+    "a": 3,
+    "fb": "Con Galileo las propiedades cuantitativas se consideraron más objetivas que las sensibles, como el sabor o el color."
+   },
+   {
+    "q": "¿Qué secuencia resume el modelo de ciencia moderna que se consolida con Galileo?",
+    "o": [
+     "Observar, medir, formular y comprobar",
+     "Creer, deducir, demostrar y obedecer",
+     "Revelar, interpretar, predicar y difundir",
+     "Imitar, memorizar, repetir y transmitir"
+    ],
+    "a": 0,
+    "fb": "Con Galileo se consolidó el modelo de la ciencia moderna, que consiste en observar, medir, formular y comprobar."
+   },
+   {
+    "q": "¿Qué subrayó Francis Bacon en el nacimiento de la ciencia moderna?",
+    "o": [
+     "La autoridad de Aristóteles como criterio de verdad",
+     "La importancia de la experiencia y del método",
+     "La superioridad de las matemáticas puras sobre la observación",
+     "La necesidad de mantener el geocentrismo"
+    ],
+    "a": 1,
+    "fb": "Bacon subrayó la importancia de la experiencia y del método, en contra de apoyarse únicamente en la autoridad antigua."
+   },
+   {
+    "q": "Según el texto, uno de los desplazamientos del nacimiento de la modernidad es...",
+    "o": [
+     "de la naturaleza matematizada al cosmos cualitativo",
+     "del método y del experimento a la autoridad única",
+     "de la interpretación crítica a la tradición",
+     "de Dios a la capacidad de acción del ser humano"
+    ],
+    "a": 3,
+    "fb": "El texto señala cuatro desplazamientos, entre ellos el que va de Dios a la capacidad de acción del ser humano; las demás opciones invierten la dirección real del cambio."
+   },
+   {
+    "q": "¿Qué tensión acompaña, según el texto, al nacimiento de la modernidad tras la Reforma?",
+    "o": [
+     "Se abre una libertad mayor, pero aparecen más divisiones y conflictos",
+     "Se unifica toda Europa bajo una sola autoridad religiosa",
+     "Se eliminan por completo los conflictos entre confesiones",
+     "Se abandona definitivamente el problema de la interpretación"
+    ],
+    "a": 0,
+    "fb": "La Reforma abrió una libertad mayor, pero al mismo tiempo trajo más divisiones y conflictos, que son parte del nacimiento conflictivo de la modernidad."
+   },
+   {
+    "q": "¿Por qué no debe contarse el Renacimiento como un corte total con la Edad Media?",
+    "o": [
+     "Porque rechaza por entero la religión y la técnica de la época anterior",
+     "Porque en él conviven continuidades y rupturas, con elementos mezclados",
+     "Porque supone un retorno idéntico a la Antigüedad clásica",
+     "Porque deja intactas todas las prácticas del saber medieval"
+    ],
+    "a": 1,
+    "fb": "En el Renacimiento conviven continuidades y rupturas: la religión, la magia natural, la técnica, la filología y la ciencia nueva aparecen mezcladas, por lo que no es un corte limpio."
+   },
+   {
+    "q": "Según el texto, la Edad Moderna no irrumpe de golpe, sino que...",
+    "o": [
+     "nace de un rechazo absoluto de todo lo medieval",
+     "es un simple despertar repentino sin antecedentes",
+     "se prepara desde las crisis internas de la Edad Media",
+     "reproduce sin cambios las escuelas de la escolástica"
+    ],
+    "a": 2,
+    "fb": "La Edad Moderna se prepara desde las crisis internas de la Edad Media, como el nominalismo de Ockham o el creciente valor de la experiencia."
+   },
+   {
+    "q": "¿Qué paso decisivo da Maquiavelo en el nacimiento de la modernidad, según el texto?",
+    "o": [
+     "Unir la política a la moral teológica",
+     "Defender el heliocentrismo frente al geocentrismo",
+     "Recuperar el latín y el griego clásicos",
+     "Liberar la política de su dependencia de la moral teológica"
+    ],
+    "a": 3,
+    "fb": "Maquiavelo da el paso decisivo de liberar la política de su dependencia de la moral teológica, algo que el texto sitúa entre los cambios del Renacimiento."
+   },
+   {
+    "q": "En la física que consolida Galileo, ¿cómo pasa a entenderse el movimiento?",
+    "o": [
+     "Como un estado natural, no como algo que exige una causa constante",
+     "Como una cualidad sensible, igual que el sabor o el color",
+     "Como un símbolo dentro de una jerarquía de fines",
+     "Como una prueba de la voluntad divina sobre los cuerpos"
+    ],
+    "a": 0,
+    "fb": "Con la nueva física el movimiento se pensó como un estado natural y el principio de inercia ganó peso."
+   },
+   {
+    "q": "Según el texto, ¿cómo se lee el «libro de la naturaleza» tras la revolución científica?",
+    "o": [
+     "Como un texto que solo la Iglesia puede interpretar",
+     "Como si estuviera escrito en lenguaje matemático",
+     "Como una colección de símbolos con fines jerárquicos",
+     "Como una obra que la razón humana no puede estudiar"
+    ],
+    "a": 1,
+    "fb": "Tras la revolución científica, el libro de la naturaleza se lee como si estuviera escrito en lenguaje matemático."
+   },
+   {
+    "q": "¿Qué buscaba la vuelta «a las fuentes» (ad fontes) del humanismo?",
+    "o": [
+     "Repetir fielmente el pasado tal como había llegado",
+     "Abandonar los textos antiguos por completo",
+     "Releer los textos originales y usar la autoridad de otra manera",
+     "Imponer una única lectura dogmática de la Escritura"
+    ],
+    "a": 2,
+    "fb": "La vuelta a las fuentes no quería repetir el pasado, sino releer los textos originales y usar la autoridad de otra manera."
+   },
+   {
+    "q": "¿Qué reforzó la relación más rigurosa de los humanistas con el pasado?",
+    "o": [
+     "La autoridad única de la Iglesia sobre la cultura",
+     "El geocentrismo y la física de Aristóteles",
+     "La repetición literal de la tradición recibida",
+     "La educación, la filología y el pensamiento crítico"
+    ],
+    "a": 3,
+    "fb": "La actitud de los humanistas reforzó la educación, la filología y el pensamiento crítico, al tratar las fuentes de manera más rigurosa."
+   }
+  ]
+ },
+ "hf-t14-repaso": {
+  "name": "Racionalismo y empirismo (HF · T14 · repaso)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "Mientras levanta su sistema filosófico, Descartes propone una moral provisional. ¿Cuál de estas máximas forma parte de ella?",
+    "o": [
+     "Obedecer las leyes y costumbres del propio país",
+     "Dudar de toda norma hasta hallar una certeza evidente",
+     "Suspender el juicio ante cualquier decisión práctica",
+     "Seguir únicamente los dictados de las pasiones"
+    ],
+    "a": 0,
+    "fb": "Para no quedarse sin criterio práctico mientras construye su sistema, Descartes recomienda, como primera máxima, obedecer las leyes y costumbres del propio país."
+   },
+   {
+    "q": "En la estructura del conocimiento de Descartes, ¿qué papel cumplen, respectivamente, la intuición y la deducción?",
+    "o": [
+     "La primera examina los sentidos; la segunda, las ideas innatas",
+     "La primera da los principios; la segunda, las conclusiones",
+     "La primera es siempre dudosa; la segunda, siempre indudable",
+     "La primera se aplica a la moral; la segunda, a la física"
+    ],
+    "a": 1,
+    "fb": "La intuición ofrece la luz intelectual inmediata de los principios, y la deducción extrae de ellos las consecuencias mediante una cadena lógica."
+   },
+   {
+    "q": "¿Cuál es el criterio de certeza que Descartes descubre junto al cogito?",
+    "o": [
+     "Es verdadero lo que aprueba la mayoría de los sabios",
+     "Es verdadero lo que confirman los experimentos sensibles",
+     "Es verdadero lo que se percibe sin confusión y con nitidez",
+     "Es verdadero lo que manda la autoridad de los antiguos"
+    ],
+    "a": 2,
+    "fb": "El cogito es cierto porque se capta clara y distintamente; de ahí que Descartes erija esa claridad y distinción en criterio general de verdad."
+   },
+   {
+    "q": "¿Qué respuesta da Malebranche al problema de cómo se relacionan el alma y el cuerpo?",
+    "o": [
+     "Se comunican a través de un órgano situado en el cerebro",
+     "No hay problema alguno, porque existe una sola sustancia",
+     "Dios las sincronizó desde el principio, como dos relojes",
+     "Dios produce en cada momento el efecto correspondiente"
+    ],
+    "a": 3,
+    "fb": "Malebranche niega que las sustancias actúen directamente unas sobre otras: para él la única causa es Dios, que produce cada efecto en su momento."
+   },
+   {
+    "q": "En el sistema cartesiano, ¿cómo se define la sustancia?",
+    "o": [
+     "Aquello que existe sin necesitar de otra cosa",
+     "La propiedad que captamos mediante los sentidos",
+     "El conjunto de ideas que llenan la mente humana",
+     "La causa oculta de los cambios que observamos"
+    ],
+    "a": 0,
+    "fb": "Para Descartes, sustancia es lo que existe de tal manera que no necesita de ninguna otra cosa para existir; por eso Dios es la sustancia por excelencia."
+   },
+   {
+    "q": "Un autor del siglo XVII explica toda la naturaleza por la extensión, la figura y el movimiento, sin apelar a fines ni a fuerzas ocultas. ¿Qué concepción está defendiendo?",
+    "o": [
+     "El innatismo",
+     "El mecanicismo",
+     "El ocasionalismo",
+     "El emotivismo"
+    ],
+    "a": 1,
+    "fb": "Esa reducción de la naturaleza a materia y movimiento, sin formas sustanciales ni causas finales, es justamente el mecanicismo que inspira la física de Descartes."
+   },
+   {
+    "q": "El cogito tiene un antecedente directo en una fórmula de San Agustín. ¿Cuál es?",
+    "o": [
+     "Dios, o sea, la Naturaleza",
+     "Conócete a ti mismo",
+     "Si me equivoco, existo",
+     "Solo sé que no sé nada"
+    ],
+    "a": 2,
+    "fb": "Agustín escribió si fallor, sum («si me engaño, existo»): aun dudando o equivocándose, el sujeto no puede negar su propio ser, idea que Descartes radicaliza en el cogito."
+   },
+   {
+    "q": "Una alumna imagina una sirena uniendo la figura de una mujer con la de un pez. Para Descartes, ¿qué clase de idea es esa?",
+    "o": [
+     "Una idea adventicia",
+     "Una idea innata",
+     "Una idea simple",
+     "Una idea facticia"
+    ],
+    "a": 3,
+    "fb": "Las ideas facticias son las que el propio entendimiento construye combinando otras, como la sirena o el caballo alado; no vienen de fuera ni las posee la razón por sí misma."
+   },
+   {
+    "q": "Para Hume, ¿qué es en realidad la idea de sustancia?",
+    "o": [
+     "Un concepto sin una impresión clara de la que proceda",
+     "La realidad básica que sostiene todo lo demás",
+     "Un principio innato de la razón humana",
+     "El fundamento necesario de la materia"
+    ],
+    "a": 0,
+    "fb": "Para Hume hay que preguntar de qué impresión procede cada concepto; la sustancia no tiene una base directa en la experiencia, así que es un concepto sospechoso, igual que el yo permanente, que es solo un haz de percepciones."
+   },
+   {
+    "q": "Descartes compara el saber con un árbol. En esa imagen, ¿qué representan las raíces?",
+    "o": [
+     "La física",
+     "La metafísica",
+     "La moral",
+     "La medicina"
+    ],
+    "a": 1,
+    "fb": "En el árbol del saber, las raíces son la metafísica, el tronco la física y las ramas las ciencias particulares como la medicina, la mecánica o la moral."
+   },
+   {
+    "q": "Según Descartes, ¿cómo deben tratarse las pasiones para que no resulten perjudiciales?",
+    "o": [
+     "Deben ser erradicadas por completo del alma",
+     "Deben someterse a la autoridad de la tradición",
+     "Deben ponerse bajo la guía de la razón",
+     "Deben dejarse a su curso espontáneo sin freno"
+    ],
+    "a": 2,
+    "fb": "Las pasiones no son buenas ni malas en sí mismas; para Descartes su peligro se evita poniéndolas bajo la guía de la razón."
+   },
+   {
+    "q": "¿Qué son, para Leibniz, las mónadas?",
+    "o": [
+     "Las reglas del método para alcanzar la certeza",
+     "Las ideas innatas del entendimiento humano",
+     "Los tres niveles de sustancia cartesianos",
+     "Sustancias simples, activas e indivisibles"
+    ],
+    "a": 3,
+    "fb": "Leibniz concibe la realidad compuesta de infinitas mónadas: sustancias simples, activas e indivisibles que no reciben influencia desde fuera."
+   },
+   {
+    "q": "¿En qué se diferencia la duda de Descartes de la del escéptico?",
+    "o": [
+     "En Descartes es un medio; en el escéptico, un fin",
+     "En Descartes es definitiva; en el escéptico, provisional",
+     "En Descartes parte de los sentidos; en el escéptico, de la razón",
+     "En Descartes afecta a la moral; en el escéptico, a la física"
+    ],
+    "a": 0,
+    "fb": "La duda cartesiana es metódica: es un instrumento para hallar un fundamento firme. En cambio, para el escéptico la suspensión del juicio es ya su conclusión."
+   },
+   {
+    "q": "¿De qué tradición procede, en Descartes, la convicción de que el saber no viene de fuera sino que el alma ya lo lleva dentro?",
+    "o": [
+     "Del empirismo de Locke",
+     "De la anámnesis platónica",
+     "Del ocasionalismo de Malebranche",
+     "Del materialismo de Hobbes"
+    ],
+    "a": 1,
+    "fb": "Platón sostenía que el alma recuerda (anámnesis) lo que ya sabía; de ahí procede en Descartes la idea de que las verdades no las recibe la razón de los sentidos."
+   },
+   {
+    "q": "¿Con qué finalidad introduce Descartes la hipótesis de un genio maligno?",
+    "o": [
+     "Para demostrar que existe un ser poderoso y malvado",
+     "Para probar la fiabilidad de las matemáticas",
+     "Para llevar la duda a su extremo y ver qué resiste",
+     "Para justificar la obediencia a la religión"
+    ],
+    "a": 2,
+    "fb": "El genio maligno no es una tesis de Descartes, sino un experimento teórico: llevar la duda hasta el máximo para comprobar si queda algo indudable."
+   },
+   {
+    "q": "La segunda regla del método de Descartes, el análisis, prescribe...",
+    "o": [
+     "Aceptar solo lo que se presenta claro y distinto",
+     "Conducir el pensamiento de lo simple a lo complejo",
+     "Hacer enumeraciones completas para no omitir nada",
+     "Dividir cada problema en sus partes más pequeñas"
+    ],
+    "a": 3,
+    "fb": "El análisis manda descomponer cada dificultad en sus partes más pequeñas; las otras opciones corresponden a la evidencia, la síntesis y la revisión."
+   },
+   {
+    "q": "¿En qué se apoya el argumento de la causalidad con el que Descartes prueba a Dios?",
+    "o": [
+     "En que lo finito no puede producir la idea de infinito",
+     "En que la existencia es una perfección del ser perfecto",
+     "En que el orden del mundo exige un artífice que lo fabrique",
+     "En que todos los pueblos han creído en alguna divinidad"
+    ],
+    "a": 0,
+    "fb": "La idea de Dios tiene una realidad infinita que un ser finito no puede haber producido; por eso debe haberla puesto en mí un ser infinito."
+   },
+   {
+    "q": "Según Hume, ¿qué distingue a las impresiones de las ideas?",
+    "o": [
+     "Su origen matemático o experimental",
+     "Su grado de fuerza y vivacidad",
+     "Su carácter necesario o contingente",
+     "Su función moral o teórica"
+    ],
+    "a": 1,
+    "fb": "Las impresiones son percepciones vivas e inmediatas; las ideas son sus copias más débiles. Lo que las separa es justamente la fuerza y la vivacidad."
+   },
+   {
+    "q": "¿Por qué afirma Descartes que el cogito no es la conclusión de un largo silogismo?",
+    "o": [
+     "Porque se apoya en la experiencia de los sentidos",
+     "Porque depende de la autoridad de los antiguos",
+     "Porque es una intuición inmediata del que está pensando",
+     "Porque exige un razonamiento deductivo muy extenso"
+    ],
+    "a": 2,
+    "fb": "El cogito no parte de una premisa general para aplicarla a un caso: es una intuición inmediata, pues quien duda no puede negar su pensar mientras piensa."
+   },
+   {
+    "q": "En la estructura de la realidad de Descartes, ¿qué es la res infinita?",
+    "o": [
+     "La sustancia pensante que constituye el yo",
+     "La sustancia extensa que forma los cuerpos",
+     "El punto de unión entre el alma y el cuerpo",
+     "La sustancia divina, que no depende de nada"
+    ],
+    "a": 3,
+    "fb": "La res infinita es Dios, la sustancia infinita cuya existencia no depende de ninguna otra cosa; de ella se distinguen la res cogitans y la res extensa."
+   }
+  ]
+ },
+ "hf-t15-repaso": {
+  "name": "Dualismo y materialismo (HF · T15 · repaso)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "Según la tabla de términos de este tema, ¿qué caracteriza al fundamento último de la realidad en la metafísica moderna?",
+    "o": [
+     "Poder existir por sí mismo, sin necesitar de otro",
+     "Ser una idea innata grabada por Dios en la mente",
+     "Ser una cualidad secundaria de los objetos",
+     "Ser un modo concreto de la naturaleza única"
+    ],
+    "a": 0,
+    "fb": "La sustancia es lo que existe por sí mismo y sirve de fundamento último a las demás cosas."
+   },
+   {
+    "q": "¿Cómo explica la naturaleza la visión mecanicista, frente a las viejas explicaciones teleológicas?",
+    "o": [
+     "Un mundo regido por fines y propósitos",
+     "Un mundo explicado por cuerpos, movimiento y leyes matemáticas",
+     "Un mundo gobernado por la intervención divina en cada suceso",
+     "Un mundo reducido a puras ideas percibidas"
+    ],
+    "a": 1,
+    "fb": "El mecanicismo explica la naturaleza por cuerpos, movimiento y leyes matemáticas, relegando las viejas explicaciones teleológicas."
+   },
+   {
+    "q": "¿Qué forma da Spinoza a su Ética para presentar su sistema?",
+    "o": [
+     "Un diálogo en el que varios personajes discuten",
+     "Un tratado basado en experimentos y observaciones",
+     "Una cadena de definiciones, axiomas y demostraciones",
+     "Una colección de normas morales y consejos"
+    ],
+    "a": 2,
+    "fb": "Spinoza escribe la Ética con método geométrico, mediante definiciones, axiomas, proposiciones y demostraciones."
+   },
+   {
+    "q": "Según Spinoza, ¿cómo debe entenderse Dios?",
+    "o": [
+     "Como un creador que interviene desde fuera del mundo",
+     "Como una sustancia finita junto a la extensión",
+     "Como una garantía externa de la verdad de las ideas",
+     "Como el orden necesario interno a toda la realidad"
+    ],
+    "a": 3,
+    "fb": "Para Spinoza, Dios no es un creador antropomórfico fuera del mundo, sino el orden necesario interno a toda la realidad."
+   },
+   {
+    "q": "¿Cómo evita Spinoza el problema de la interacción entre alma y cuerpo?",
+    "o": [
+     "Haciendo de ambos dos expresiones paralelas de una misma realidad",
+     "Separándolos en dos sustancias que no se tocan",
+     "Encomendando a Dios que los coordine en cada ocasión",
+     "Negando la existencia del cuerpo como realidad"
+    ],
+    "a": 0,
+    "fb": "Spinoza afirma que alma y cuerpo no necesitan una interacción misteriosa porque son dos expresiones paralelas de la misma realidad."
+   },
+   {
+    "q": "¿Cómo describe Locke la mente en el momento de nacer?",
+    "o": [
+     "Como un almacén colmado de ideas innatas",
+     "Como una hoja en blanco que la experiencia va llenando",
+     "Como una sustancia pensante ya completa",
+     "Como un conjunto de principios lógicos previos"
+    ],
+    "a": 1,
+    "fb": "Locke sostiene que al nacer la mente es una tabula rasa, una hoja en blanco en la que escribe la experiencia."
+   },
+   {
+    "q": "¿Qué argumento emplea Locke para negar las ideas innatas?",
+    "o": [
+     "Que la razón es la única fuente segura del saber",
+     "Que Dios las garantiza de modo directo",
+     "Que no existe acuerdo universal sobre ellas",
+     "Que la imaginación las fabrica sin experiencia"
+    ],
+    "a": 2,
+    "fb": "Locke niega las ideas innatas señalando que no hay acuerdo universal: los niños y otros pueblos no las tienen."
+   },
+   {
+    "q": "Según Locke, ¿de qué dos fuentes procede todo el contenido de la mente?",
+    "o": [
+     "De la razón y de la fe",
+     "De la memoria y de la imaginación",
+     "De la intuición y de la deducción",
+     "De la sensación y de la reflexión"
+    ],
+    "a": 3,
+    "fb": "Las dos fuentes de la experiencia son la sensación (el mundo exterior) y la reflexión (las operaciones internas de la mente)."
+   },
+   {
+    "q": "¿Qué papel desempeña la mente ante una idea simple y ante una idea compleja, respectivamente?",
+    "o": [
+     "Pasivo ante la simple y activo ante la compleja",
+     "Activo ante la simple y pasivo ante la compleja",
+     "Pasivo en ambos casos",
+     "Activo en ambos casos"
+    ],
+    "a": 0,
+    "fb": "La mente recibe pasivamente las ideas simples y construye activamente las complejas combinando, comparando y abstrayendo."
+   },
+   {
+    "q": "¿Dónde sitúa Locke cualidades como el color, el sonido o el calor?",
+    "o": [
+     "En el objeto mismo, tal como lo percibimos",
+     "En nuestra percepción, como efectos subjetivos",
+     "En la sustancia pensante, como ideas innatas",
+     "En la naturaleza, como propiedades objetivas"
+    ],
+    "a": 1,
+    "fb": "Las cualidades secundarias no están en el objeto, sino en nuestra percepción; son efectos que se producen en nuestros sentidos."
+   },
+   {
+    "q": "¿Cuál de las siguientes propiedades sería una cualidad primaria según Locke?",
+    "o": [
+     "La blancura de una pared",
+     "El olor de una rosa",
+     "La extensión de una mesa",
+     "El frío del hielo"
+    ],
+    "a": 2,
+    "fb": "La extensión es una cualidad primaria, una propiedad objetiva que el objeto tiene en sí mismo, a diferencia del color o el olor."
+   },
+   {
+    "q": "¿Cuál de los tres grados de conocimiento de Locke es el más seguro y cuál el de menor certeza?",
+    "o": [
+     "El sensitivo es el más seguro y el intuitivo el de menor certeza",
+     "El demostrativo es el más seguro y el sensitivo el de menor certeza",
+     "El intuitivo es el más seguro y el demostrativo el de menor certeza",
+     "El intuitivo es el más seguro y el sensitivo el de menor certeza"
+    ],
+    "a": 3,
+    "fb": "Locke distingue el conocimiento intuitivo (inmediato y el más seguro), el demostrativo y el sensitivo, de menor certeza."
+   },
+   {
+    "q": "¿Qué conclusión radical extrae Berkeley del empirismo?",
+    "o": [
+     "Que la materia no existe como sustancia independiente",
+     "Que el conocimiento matemático es innato",
+     "Que el alma es una sustancia material",
+     "Que solo existen la materia y el movimiento"
+    ],
+    "a": 0,
+    "fb": "Berkeley defiende el inmaterialismo: lo que existe son las ideas percibidas y las mentes que las perciben, no la materia."
+   },
+   {
+    "q": "En la filosofía política de Locke, ¿de dónde procede el poder del gobierno?",
+    "o": [
+     "De la herencia dinástica",
+     "Del consentimiento del pueblo",
+     "Del derecho divino del monarca",
+     "De la fuerza militar del Estado"
+    ],
+    "a": 1,
+    "fb": "Para Locke el poder del gobierno es limitado y procede del consentimiento del pueblo, que conserva sus derechos naturales básicos."
+   },
+   {
+    "q": "¿Cómo concibe Locke el estado de naturaleza, en contraste con Hobbes?",
+    "o": [
+     "Como una guerra de todos contra todos",
+     "Como un orden impuesto por la Iglesia",
+     "Como una paz relativa entre seres razonables",
+     "Como un caos sin ningún derecho natural"
+    ],
+    "a": 2,
+    "fb": "Locke imagina un estado de naturaleza pacífico y razonable, frente a la «guerra de todos contra todos» que describe Hobbes."
+   },
+   {
+    "q": "Sobre las tres grandes respuestas al debate metafísico moderno, ¿cuál de estas afirmaciones es correcta?",
+    "o": [
+     "El monismo defiende una sola realidad de la que pensamiento y cuerpo son expresiones",
+     "El materialismo separa el pensamiento y la extensión en dos ámbitos",
+     "El dualismo reduce todo lo real a materia y movimiento",
+     "Las tres coinciden en que solo existe la materia"
+    ],
+    "a": 0,
+    "fb": "El monismo sostiene que hay una sola realidad, y el pensamiento y el cuerpo son expresiones o perspectivas distintas de ella."
+   },
+   {
+    "q": "Sobre la tolerancia religiosa defendida por Locke, ¿cuál de estas afirmaciones es correcta?",
+    "o": [
+     "El Estado debe imponer la religión verdadera",
+     "La religión debe gobernar el poder político",
+     "El Estado no debe imponer una religión a los ciudadanos",
+     "La tolerancia obliga a suprimir toda creencia"
+    ],
+    "a": 2,
+    "fb": "Locke defiende la tolerancia religiosa: el Estado no debe imponer una religión, aunque le pone algunos límites."
+   },
+   {
+    "q": "Un alumno distingue lo que le llega desde fuera y lo que capta mirando dentro de su mente. ¿A qué dos fuentes de Locke corresponden?",
+    "o": [
+     "A la intuición y a la deducción",
+     "A la memoria y a la imaginación",
+     "A las ideas innatas y a las adventicias",
+     "A la sensación y a la reflexión"
+    ],
+    "a": 3,
+    "fb": "La sensación trae las ideas del mundo exterior por los sentidos; la reflexión es la conciencia de las operaciones internas de la mente."
+   }
+  ]
+ },
+ "hf-t16-repaso": {
+  "name": "Sociedad y poder: el contrato social (HF · T16 · repaso)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "¿Qué necesita un poder para ser legítimo, según esta unidad?",
+    "o": [
+     "Un origen natural o divino",
+     "Seguridad, derechos y consentimiento",
+     "La fuerza más eficaz posible",
+     "Una costumbre inmemorial"
+    ],
+    "a": 1,
+    "fb": "El poder legítimo es el que tiene una razón pública para mandar; para ello necesita seguridad, derechos y consentimiento."
+   },
+   {
+    "q": "La idea del «zoon politikón», según la cual el ser humano es social por naturaleza, se atribuye a...",
+    "o": [
+     "Maquiavelo",
+     "Hobbes",
+     "Aristóteles",
+     "Rousseau"
+    ],
+    "a": 2,
+    "fb": "Fue Aristóteles quien sostuvo que el ser humano es social por naturaleza; los contractualistas modernos rompen con esa idea."
+   },
+   {
+    "q": "¿A qué pensador se debe la intuición de que el poder debe frenar al poder mediante la separación de poderes?",
+    "o": [
+     "Hobbes",
+     "Locke",
+     "Rousseau",
+     "Montesquieu"
+    ],
+    "a": 3,
+    "fb": "Montesquieu resume esa idea: distinguir el poder legislativo, el ejecutivo y el judicial es una condición de la libertad política."
+   },
+   {
+    "q": "Según Hobbes, ¿qué sucede si falta un poder común fuerte?",
+    "o": [
+     "Las palabras quedan vacías y la ley no obliga a nadie",
+     "La ley se vuelve más justa por sí sola",
+     "Los individuos cooperan de forma natural",
+     "La sociedad alcanza por fin la paz"
+    ],
+    "a": 0,
+    "fb": "Hobbes sostiene que sin un poder común fuerte las palabras pueden quedarse vacías y la ley no tiene fuerza; por eso es necesario el Leviatán."
+   },
+   {
+    "q": "¿Cuál es, según el tema, el principal riesgo del modelo de Hobbes?",
+    "o": [
+     "Que falte fuerza para imponer la ley",
+     "Que el poder acabe absorbiéndolo todo",
+     "Que los ciudadanos dejen de obedecer",
+     "Que la propiedad quede sin protección"
+    ],
+    "a": 1,
+    "fb": "La aportación de Hobbes es la fuerza; su riesgo, que el poder lo absorba todo."
+   },
+   {
+    "q": "Según Locke, ¿qué papel tiene el gobierno respecto a los derechos naturales?",
+    "o": [
+     "Los crea y los reparte a su gusto",
+     "Los posee como su dueño legítimo",
+     "Los protege como guardián, no como dueño",
+     "Los transfiere a un poder absoluto"
+    ],
+    "a": 2,
+    "fb": "Para Locke el gobierno no es el dueño de los derechos, sino su guardián: debe proteger la vida, la libertad y la propiedad."
+   },
+   {
+    "q": "Según Locke, ¿cuándo pierde el gobierno su legitimidad?",
+    "o": [
+     "Cuando lleva mucho tiempo gobernando",
+     "Cuando pierde el favor de la mayoría",
+     "Cuando el pueblo deja de temerlo",
+     "Cuando viola los derechos que debe proteger"
+    ],
+    "a": 3,
+    "fb": "Si el gobierno rompe el fin de proteger la vida, la libertad y la propiedad, pierde su legitimidad."
+   },
+   {
+    "q": "Para Rousseau, ¿dónde reside la soberanía?",
+    "o": [
+     "En el pueblo",
+     "En el gobernante elegido",
+     "En un poder absoluto",
+     "En un árbitro neutral"
+    ],
+    "a": 0,
+    "fb": "En Rousseau la soberanía reside en el pueblo: es la soberanía popular, que no se delega."
+   },
+   {
+    "q": "¿Para qué usan los contractualistas el estado de naturaleza?",
+    "o": [
+     "Para narrar un hecho histórico comprobado",
+     "Como experimento para pensar por qué hace falta el poder",
+     "Para describir la vida de los primeros humanos",
+     "Para fundar el origen divino de la sociedad"
+    ],
+    "a": 1,
+    "fb": "El estado de naturaleza no es historia, sino un experimento filosófico: desde él se ve por qué hace falta el poder y por qué es peligroso cuando crece demasiado."
+   },
+   {
+    "q": "Según esta unidad, ¿qué debe hacer el poder para no ser mera imposición?",
+    "o": [
+     "Multiplicar su fuerza sin controles",
+     "Apoyarse en un origen divino",
+     "Proteger algo y aceptar ciertos límites",
+     "Exigir obediencia incondicional"
+    ],
+    "a": 2,
+    "fb": "El poder no es legítimo por sí mismo: tiene que proteger algo y aceptar ciertos límites."
+   },
+   {
+    "q": "Ante una medida que limita libertades en nombre de la seguridad, ¿qué conviene preguntarse según el criterio final del tema?",
+    "o": [
+     "Si la medida agrada a la mayoría",
+     "Si el gobernante la juzga necesaria",
+     "Si resulta más barata que la alternativa",
+     "En qué situación quedan los derechos y los controles"
+    ],
+    "a": 3,
+    "fb": "El criterio final no es solo quién manda, sino si el mando tiene justificación pública, protección eficaz y control compartido; por eso hay que mirar qué pasa con los derechos y los controles."
+   },
+   {
+    "q": "¿En qué se diferencia la voluntad general de la suma de los intereses particulares?",
+    "o": [
+     "Persigue el bien común de la comunidad",
+     "Coincide siempre con lo que pide la mayoría",
+     "Expresa el deseo de cada individuo",
+     "Depende de la decisión del gobernante"
+    ],
+    "a": 0,
+    "fb": "La voluntad general no es la suma de los intereses particulares, sino el interés común."
+   },
+   {
+    "q": "¿Qué distingue a Maquiavelo de los contractualistas que le siguen?",
+    "o": [
+     "Firma un pacto para limitar el poder del soberano",
+     "Describe el poder tal como es, sin llegar a justificarlo",
+     "Sitúa el origen del poder en el consentimiento",
+     "Defiende la separación de poderes contra los abusos"
+    ],
+    "a": 1,
+    "fb": "Maquiavelo describe el poder tal como es, pero no busca todavía un contrato que justifique el poder; esa pregunta la abren después los contractualistas."
+   },
+   {
+    "q": "¿Qué tensión central de la modernidad política muestran los modelos de Hobbes, Locke y Rousseau?",
+    "o": [
+     "La que separa la moral de la religión",
+     "La que opone el trabajo al capital",
+     "La que enfrenta la seguridad y la libertad",
+     "La que distingue lo natural de lo divino"
+    ],
+    "a": 2,
+    "fb": "Hobbes prioriza el orden, Locke los derechos y Rousseau la libertad civil; juntos muestran la tensión entre seguridad y libertad, propiedad e igualdad, representación y participación."
+   },
+   {
+    "q": "Según Locke, ¿cuál es el fin de la ley?",
+    "o": [
+     "Abolir la libertad para imponer el orden",
+     "Restringir la libertad de los gobernantes",
+     "Sustituir la libertad por la seguridad",
+     "Preservar y ampliar la libertad"
+    ],
+    "a": 3,
+    "fb": "Locke afirma que el fin de la ley no es abolir o restringir la libertad, sino preservarla y ampliarla."
+   },
+   {
+    "q": "¿Cuál de estas exigencias forma parte de la prueba de legitimidad del poder?",
+    "o": [
+     "Consentimiento, protección de derechos y control institucional",
+     "Que baste la fuerza para justificar la obediencia",
+     "Que la seguridad esté siempre sobre la libertad",
+     "Que el poder sea juez de sí mismo"
+    ],
+    "a": 0,
+    "fb": "La prueba de legitimidad exige consentimiento en el origen, protección de los derechos y control institucional; lo contrario son respuestas equivocadas."
+   },
+   {
+    "q": "¿A qué se desplaza la justificación del poder en la modernidad, frente a la Edad Media?",
+    "o": [
+     "A la jerarquía religiosa y teológica",
+     "Al consentimiento, los derechos y la voluntad del pueblo",
+     "Al orden natural e inmutable de las cosas",
+     "A la costumbre transmitida sin discusión"
+    ],
+    "a": 1,
+    "fb": "En la modernidad la justificación del poder se desplaza hacia el consentimiento, los derechos, la seguridad y la voluntad del pueblo."
+   },
+   {
+    "q": "¿Quién escribió el «Leviatán» (1651), donde se defiende un soberano absoluto?",
+    "o": [
+     "Locke",
+     "Rousseau",
+     "Hobbes",
+     "Maquiavelo"
+    ],
+    "a": 2,
+    "fb": "Thomas Hobbes escribió el Leviatán (1651), donde los individuos ceden todo su poder a un soberano absoluto."
+   },
+   {
+    "q": "¿Qué posición ocupa Montesquieu frente a los contractualistas?",
+    "o": [
+     "No parte de un pacto, pero busca cómo frenar los abusos",
+     "Firma un pacto como Hobbes, Locke y Rousseau",
+     "Niega que haga falta limitar el poder",
+     "Defiende el estado de naturaleza como ideal"
+    ],
+    "a": 0,
+    "fb": "Montesquieu no parte de un contrato, pero se suma a ellos pensando cómo frenar los abusos del poder."
+   }
+  ]
+ },
+ "hf-t17-repaso": {
+  "name": "Utilitarismo y liberalismo (HF · T17 · repaso)",
+  "subject": "hf",
+  "block": "B",
+  "items": [
+   {
+    "q": "¿Quién hizo célebre la fórmula de «la mayor felicidad para el mayor número»?",
+    "o": [
+     "Jeremy Bentham",
+     "John Stuart Mill",
+     "Adam Smith",
+     "John Locke"
+    ],
+    "a": 0,
+    "fb": "Bentham hizo célebre esa fórmula como medida de lo correcto y lo incorrecto; Mill la recogió después como principio de la mayor felicidad."
+   },
+   {
+    "q": "¿Cuál de estas afirmaciones describe la visión antropológica del liberalismo según el tema?",
+    "o": [
+     "El ser humano es bueno por naturaleza y la sociedad lo corrompe.",
+     "El ser humano se mueve sobre todo por intereses egoístas.",
+     "El ser humano solo se realiza como animal político en la ciudad.",
+     "El ser humano es cooperativo y solidario por naturaleza."
+    ],
+    "a": 1,
+    "fb": "El liberalismo es un movimiento laico y empirista con una visión pesimista: concibe al ser humano movido ante todo por intereses egoístas."
+   },
+   {
+    "q": "En el esquema de los planos del liberalismo, ¿qué plano se ocupa de la propiedad y el libre intercambio?",
+    "o": [
+     "El político",
+     "El utilitarista",
+     "El económico",
+     "El cooperativo"
+    ],
+    "a": 2,
+    "fb": "El plano económico defiende la propiedad y el libre intercambio; el político defiende los derechos y el poder limitado."
+   },
+   {
+    "q": "Aunque defiende que el Estado intervenga lo menos posible, ¿qué tareas le reserva Adam Smith?",
+    "o": [
+     "La sanidad, la educación y las pensiones",
+     "Los precios, los salarios y el comercio exterior",
+     "La moral, la religión y la cultura",
+     "La defensa, la justicia y las obras públicas"
+    ],
+    "a": 3,
+    "fb": "Smith reserva al Estado la defensa, la justicia y las obras públicas; el resto debe dejarse al mercado."
+   },
+   {
+    "q": "Según el tema, ¿qué necesita el mercado además de la competencia para funcionar?",
+    "o": [
+     "Confianza, normas morales y cooperación",
+     "Una autoridad que fije todos los precios",
+     "La eliminación de toda regulación",
+     "El aislamiento de los individuos"
+    ],
+    "a": 0,
+    "fb": "El mercado puede crear oportunidades, pero necesita confianza, normas morales y cooperación; no es una pura mecánica de competencia."
+   },
+   {
+    "q": "Un alumno tiene reconocido el derecho a la educación, pero no puede pagar los materiales y abandona. ¿Qué límite del liberalismo político muestra este caso?",
+    "o": [
+     "Que el Estado debe imponer una única idea del bien.",
+     "Que la libertad jurídica no produce por sí sola igualdad material.",
+     "Que la sociabilidad es elegida y no natural.",
+     "Que el principio del daño permite restringir toda conducta."
+    ],
+    "a": 1,
+    "fb": "Tener un derecho no siempre significa tener una oportunidad real: la libertad jurídica no genera por sí sola igualdad material."
+   },
+   {
+    "q": "¿En qué obra entiende Adam Smith al ser humano a través de la simpatía y las relaciones sociales?",
+    "o": [
+     "La riqueza de las naciones",
+     "Sobre la libertad",
+     "Teoría de los sentimientos morales",
+     "El contrato social"
+    ],
+    "a": 2,
+    "fb": "En la Teoría de los sentimientos morales (1759) Smith explica al ser humano por la simpatía, la aprobación y las relaciones sociales, más allá del mercado."
+   },
+   {
+    "q": "Según Bentham, ¿qué deberían hacer la moral y las leyes en lugar de limitarse a repetir la tradición?",
+    "o": [
+     "Examinar las consecuencias",
+     "Copiar las costumbres antiguas",
+     "Obedecer a la autoridad religiosa",
+     "Deducir reglas sin mirar resultados"
+    ],
+    "a": 0,
+    "fb": "Bentham afirma que la moral y las leyes tienen que examinar las consecuencias, no limitarse a repetir la tradición."
+   },
+   {
+    "q": "Según la tabla de criterios del tema, ¿qué riesgo acompaña a la pregunta por el mercado?",
+    "o": [
+     "Sacrificar a las minorías",
+     "Naturalizar la desigualdad",
+     "No ver el daño",
+     "Reducirla a puro cálculo"
+    ],
+    "a": 1,
+    "fb": "El criterio del mercado pregunta si amplía las oportunidades; su señal de alarma es naturalizar la desigualdad."
+   },
+   {
+    "q": "Frente al cálculo utilitarista, ¿qué recuerda el liberalismo político sobre la persona?",
+    "o": [
+     "Que su valor se reduce a su utilidad social",
+     "Que debe someterse a la suma de bienestar",
+     "Que posee derechos, libertad y dignidad",
+     "Que su felicidad depende solo del mercado"
+    ],
+    "a": 2,
+    "fb": "El liberalismo político recuerda que la persona no es una mera pieza del cálculo social: tiene derechos, libertad y dignidad."
+   },
+   {
+    "q": "Un adulto quiere llevar una vida arriesgada que solo le afecta a él, y un gobernante quiere prohibírselo «por su propio bien». ¿Qué diría Mill?",
+    "o": [
+     "Que debe prohibírselo, porque la seguridad prima sobre todo lo demás",
+     "Que no cabe prohibirlo, pues solo se puede coaccionar para impedir un perjuicio a otros",
+     "Que debe prohibírselo si la mayoría así lo vota",
+     "Que debe prohibírselo, pues el poder es paternal por naturaleza"
+    ],
+    "a": 1,
+    "fb": "Para Mill la única razón legítima para coaccionar es impedir que alguien perjudique a otros, no obligarle a hacer lo que es bueno para él mismo."
+   },
+   {
+    "q": "Según el tema, ¿para qué sirven el utilitarismo y el liberalismo más allá de ser teorías morales privadas?",
+    "o": [
+     "Para describir la vida interior de cada persona",
+     "Para sustituir al derecho y a la economía",
+     "Para juzgar leyes, instituciones, mercados y políticas públicas",
+     "Para fundamentar una religión civil"
+    ],
+    "a": 2,
+    "fb": "Ambos ofrecen un lenguaje para juzgar leyes, instituciones, mercados y políticas públicas, no solo para la moral privada."
+   },
+   {
+    "q": "Según la prueba de la decisión del tema, ¿qué señal de alarma acompaña a la pregunta por la justicia?",
+    "o": [
+     "No contar las pérdidas invisibles",
+     "Introducir el paternalismo en nombre de la protección",
+     "Dejar la carga siempre al mismo grupo",
+     "Naturalizar la desigualdad"
+    ],
+    "a": 2,
+    "fb": "Al preguntar quién paga el coste, la señal de alarma es dejar la carga siempre al mismo grupo."
+   }
+  ]
+ },
+ "hf-t18-repaso": {
+  "name": "La Ilustración (HF · T18 · repaso)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "¿Qué rasgo de la razón ilustrada consiste en no depender de la teología ni de la autoridad?",
+    "o": [
+     "Su carácter empírico",
+     "Su carácter crítico",
+     "Su carácter autónomo",
+     "Su carácter analítico"
+    ],
+    "a": 2,
+    "fb": "La teoría caracteriza la razón ilustrada como autónoma precisamente porque no depende de la teología ni de la autoridad."
+   },
+   {
+    "q": "¿Cómo llama la teoría a la actitud de aceptar verdades sin someterlas a crítica?",
+    "o": [
+     "Deísmo",
+     "Dogmatismo",
+     "Fanatismo",
+     "Secularización"
+    ],
+    "a": 1,
+    "fb": "El dogmatismo consiste en aceptar verdades sin someterlas a crítica, justo lo contrario de la razón crítica."
+   },
+   {
+    "q": "La Ilustración confiaba en que la sociedad mejora de forma constante gracias al saber y al avance. ¿Qué rasgo describe esa convicción?",
+    "o": [
+     "El pesimismo histórico",
+     "El dogmatismo",
+     "El progreso y el optimismo",
+     "La secularización"
+    ],
+    "a": 2,
+    "fb": "La teoría señala que la Ilustración cree en un progreso constante, visible en proyectos como la Enciclopedia."
+   },
+   {
+    "q": "¿Por qué, según la teoría, la tolerancia debe proteger la convivencia entre los diferentes?",
+    "o": [
+     "Porque solo una religión posee la verdad completa",
+     "Porque nadie puede reclamar la propiedad privada de toda la verdad",
+     "Porque la convivencia exige un único dogma",
+     "Porque el poder debe imponer una sola creencia"
+    ],
+    "a": 1,
+    "fb": "Si nadie puede reclamar para sí toda la verdad, hay que proteger la convivencia entre quienes piensan distinto."
+   },
+   {
+    "q": "Sobre la visión mecanicista de la naturaleza que adopta la Ilustración, ¿cuál de las siguientes afirmaciones es correcta?",
+    "o": [
+     "Explica los fenómenos por leyes, sin necesidad de Dios",
+     "Recurre a Dios para explicar cada fenómeno",
+     "Niega que la naturaleza pueda investigarse",
+     "Exige volver a los textos sagrados"
+    ],
+    "a": 0,
+    "fb": "Gracias a la física de Newton, la naturaleza aparece regida por leyes, de modo que ya no hace falta recurrir a Dios para explicar los fenómenos."
+   },
+   {
+    "q": "¿Qué concepto político sostiene que el poder reside en el conjunto de la ciudadanía y no en el monarca?",
+    "o": [
+     "La división de poderes",
+     "Los derechos naturales",
+     "La presunción de inocencia",
+     "La soberanía popular"
+    ],
+    "a": 3,
+    "fb": "La soberanía popular hace que el poder corresponda al pueblo y no a un monarca absoluto."
+   },
+   {
+    "q": "Según la teoría, ¿contra qué cobra fuerza el lenguaje de los derechos naturales?",
+    "o": [
+     "Contra el avance de la ciencia",
+     "Contra los privilegios estamentales",
+     "Contra la difusión del saber",
+     "Contra el espacio público"
+    ],
+    "a": 1,
+    "fb": "El lenguaje de los derechos naturales cobra fuerza contra los privilegios estamentales, en el marco de la ruptura con el absolutismo."
+   },
+   {
+    "q": "¿Qué autor afirmó que los hombres no pueden decir que su libertad es completa mientras excluyan a las mujeres de los derechos políticos?",
+    "o": [
+     "Condorcet",
+     "Montesquieu",
+     "Voltaire",
+     "Locke"
+    ],
+    "a": 0,
+    "fb": "Condorcet subraya esa coherencia: la libertad no es completa si se excluye a las mujeres de los derechos políticos."
+   },
+   {
+    "q": "¿Cuál es la diferencia que establece la teoría entre la razón crítica y el dogmatismo?",
+    "o": [
+     "La razón crítica repite las costumbres; el dogmatismo las juzga",
+     "Ambas aceptan las verdades sin someterlas a examen",
+     "La razón crítica solo sirve para conservar las tradiciones",
+     "La razón crítica juzga autoridades y prejuicios; el dogmatismo acepta sin crítica"
+    ],
+    "a": 3,
+    "fb": "La razón crítica juzga las autoridades, las tradiciones y los propios prejuicios, mientras que el dogmatismo acepta verdades sin someterlas a crítica."
+   },
+   {
+    "q": "Al cerrar el tema, la teoría advierte que la herencia ilustrada no debe volverse dogma. ¿Cuál de estas afirmaciones recoge esa idea?",
+    "o": [
+     "La razón solo libera si renuncia a examinarse a sí misma",
+     "La crítica consiste en negarlo todo",
+     "La razón que quiere liberar debe examinar también sus propios límites",
+     "La herencia ilustrada debe aceptarse sin discusión"
+    ],
+    "a": 2,
+    "fb": "Si la razón quiere liberar, tiene que examinar también sus propios límites, en lugar de convertirse en un dogma nuevo."
+   },
+   {
+    "q": "Para la Ilustración, dar razones y usar el propio entendimiento implica que todo poder debe...",
+    "o": [
+     "justificarse ante los demás",
+     "heredarse solo por nacimiento",
+     "imponerse mediante la fuerza",
+     "quedar libre de todo examen"
+    ],
+    "a": 0,
+    "fb": "Usar el propio entendimiento y dar razones implica aceptar que todo poder debe justificarse."
+   },
+   {
+    "q": "¿Cuál de las siguientes afirmaciones distingue correctamente el deísmo y el dogmatismo?",
+    "o": [
+     "El deísmo acepta verdades sin crítica; el dogmatismo es una religión racional sin milagros",
+     "El deísmo es una religión racional sin dogmas ni milagros; el dogmatismo acepta verdades sin crítica",
+     "El deísmo juzga las autoridades; el dogmatismo repite las costumbres",
+     "Ambos son religiones racionales que rechazan los milagros"
+    ],
+    "a": 1,
+    "fb": "El deísmo es una religión racional sin dogmas ni milagros, mientras que el dogmatismo consiste en aceptar verdades sin someterlas a crítica."
+   }
+  ]
+ },
+ "hf-t19-repaso": {
+  "name": "Kant: crítica y metafísica (HF · T19 · repaso)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "¿Qué autor mostró a Kant que el progreso social y cultural no asegura por sí solo la libertad ni la dignidad, preparando el camino de su ética?",
+    "o": [
+     "Rousseau",
+     "Hume",
+     "Descartes",
+     "Newton"
+    ],
+    "a": 0,
+    "fb": "Fue Rousseau quien le mostró que la civilización puede crear nuevas dependencias, y eso prepara la exigencia kantiana de autonomía moral."
+   },
+   {
+    "q": "Para Kant, ¿qué significa someter la razón a una «crítica»?",
+    "o": [
+     "Negar todo conocimiento para empezar de cero",
+     "Examinar sus capacidades, límites y usos legítimos",
+     "Demostrar que solo existe el pensamiento",
+     "Construir un sistema completo sobre el alma y el mundo"
+    ],
+    "a": 1,
+    "fb": "La crítica no es negarlo todo, sino distinguir, juzgar y fijar los límites legítimos de lo que la razón puede y no puede hacer."
+   },
+   {
+    "q": "Cuando la razón pretende demostrar que el alma es una sustancia simple y permanente, ¿en qué tipo de error cae, según Kant?",
+    "o": [
+     "En una antinomia",
+     "En una ilusión de los sentidos",
+     "En un juicio sintético a priori",
+     "En un paralogismo"
+    ],
+    "a": 3,
+    "fb": "Los intentos de demostrar el alma como sustancia simple y permanente producen paralogismos, razonamientos engañosos que convierten una idea en un supuesto objeto de conocimiento."
+   },
+   {
+    "q": "¿Cuáles son, para Kant, las tres ideas con las que la razón busca lo incondicionado?",
+    "o": [
+     "El alma, el mundo como totalidad y Dios",
+     "El espacio, el tiempo y la causalidad",
+     "El sujeto, el objeto y el conocimiento",
+     "La materia, la forma y el fenómeno"
+    ],
+    "a": 0,
+    "fb": "Detrás de lo condicionado la razón busca lo incondicionado, y de ahí surgen las tres ideas trascendentales: el alma, el mundo como totalidad y Dios."
+   },
+   {
+    "q": "Aunque las ideas de la razón no pueden conocerse como objetos, para Kant no son inútiles. ¿Qué función cumplen?",
+    "o": [
+     "Determinar el contenido de cada experiencia concreta",
+     "Orientar el pensamiento y la investigación hacia la unidad",
+     "Demostrar la existencia de la realidad exterior",
+     "Sustituir a las categorías dentro de la ciencia"
+    ],
+    "a": 1,
+    "fb": "Las ideas tienen una función regulativa: ordenan la investigación, empujan a buscar la unidad y orientan el pensamiento, sin tomarlas por objetos como los fenómenos."
+   },
+   {
+    "q": "De los usos de la metafísica que distingue Kant, ¿cuál genera ilusiones al pretender conocer objetos fuera de la experiencia?",
+    "o": [
+     "El uso crítico",
+     "El uso regulativo",
+     "El uso dogmático",
+     "El uso práctico"
+    ],
+    "a": 2,
+    "fb": "El uso dogmático actúa como si conociera objetos fuera del límite de los fenómenos, y eso genera ilusiones; el crítico y el regulativo son legítimos."
+   },
+   {
+    "q": "¿Qué nombre da Kant al medio que une el concepto puro y la intuición sensible aplicando las categorías a los fenómenos a través del tiempo?",
+    "o": [
+     "La sensibilidad",
+     "El noúmeno",
+     "La antinomia",
+     "El esquematismo"
+    ],
+    "a": 3,
+    "fb": "El esquematismo es el medio que permite aplicar las categorías a los fenómenos a través del tiempo, uniendo el concepto puro y la intuición sensible."
+   },
+   {
+    "q": "Para Kant, el enunciado «todos los cuerpos son extensos» es un ejemplo de juicio…",
+    "o": [
+     "Sintético a posteriori",
+     "Sintético a priori",
+     "Analítico",
+     "Contradictorio"
+    ],
+    "a": 2,
+    "fb": "En este juicio el predicado ya está contenido en el concepto del sujeto: no amplía el conocimiento, solo aclara lo que el concepto ya incluía."
+   },
+   {
+    "q": "¿Cómo clasificaría Kant el enunciado «la línea recta es la más corta entre dos puntos»?",
+    "o": [
+     "Analítico",
+     "Sintético a posteriori",
+     "Contradictorio",
+     "Sintético a priori"
+    ],
+    "a": 3,
+    "fb": "Amplía el conocimiento y, a la vez, es necesario sin depender de la experiencia: por eso es el ejemplo de juicio sintético a priori."
+   },
+   {
+    "q": "¿Cuál de estas afirmaciones contradice el idealismo trascendental de Kant?",
+    "o": [
+     "Conocemos los fenómenos y no las cosas en sí",
+     "El sujeto crea el mundo a su gusto",
+     "El objeto se ajusta a las estructuras del sujeto",
+     "Lo que conocemos es la realidad tal como aparece"
+    ],
+    "a": 1,
+    "fb": "El idealismo trascendental no afirma que el sujeto invente el mundo a su antojo: lo que conocemos es el fenómeno, organizado por las estructuras del sujeto."
+   },
+   {
+    "q": "Cuando Kant afirma que limitó el saber «para dejar sitio a la fe», ¿qué quiere decir con esa «fe»?",
+    "o": [
+     "La aceptación de un dogma religioso concreto",
+     "La renuncia a todo conocimiento científico",
+     "La distinción de los horizontes que necesita la razón práctica",
+     "La confianza en que la metafísica llegará a ser ciencia"
+    ],
+    "a": 2,
+    "fb": "Esa «fe» no es aceptar un dogma: una vez aceptado el límite del conocimiento teórico, se distinguen los horizontes que necesita la razón práctica."
+   },
+   {
+    "q": "La frase «¡Ten valor de servirte de tu propio entendimiento!» («Sapere aude») es, según la teoría, de…",
+    "o": [
+     "Rousseau",
+     "Descartes",
+     "Hume",
+     "Kant"
+    ],
+    "a": 3,
+    "fb": "Es el lema que Kant recoge en su Respuesta a la pregunta: ¿qué es la Ilustración? (1784), llamando a usar el propio entendimiento."
+   },
+   {
+    "q": "Según la arquitectura del conocimiento que describe Kant, ¿qué tres niveles se coordinan para conocer?",
+    "o": [
+     "La sensibilidad, el entendimiento y la razón",
+     "La materia, la forma y la esencia",
+     "El objeto, el sujeto y la naturaleza",
+     "El espacio, el tiempo y el noúmeno"
+    ],
+    "a": 0,
+    "fb": "El conocimiento no es un único componente: la sensibilidad da los datos, el entendimiento los piensa mediante categorías y la razón busca la unidad."
+   },
+   {
+    "q": "Para Kant, llamar «a priori» a ciertas estructuras no significa que sean ideas innatas. ¿Qué significa realmente?",
+    "o": [
+     "Que se aprenden mediante la experiencia repetida",
+     "Que son estructuras que valen antes de la experiencia concreta",
+     "Que las inventa libremente cada individuo",
+     "Que existen como cosas fuera del sujeto"
+    ],
+    "a": 1,
+    "fb": "«A priori» designa una condición o estructura que vale antes de la experiencia concreta, no un contenido o una idea innata."
+   }
+  ]
+ },
+ "hf-t20-repaso": {
+  "name": "Éticas de la felicidad y del deber (HF · T20 · repaso)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "¿Qué pregunta del sistema crítico de Kant se ocupa del ámbito de la moral?",
+    "o": [
+     "¿Qué debo hacer?",
+     "¿Qué puedo saber?",
+     "¿Qué me cabe esperar?",
+     "¿Qué es el hombre?"
+    ],
+    "a": 0,
+    "fb": "La segunda pregunta, «¿qué debo hacer?», estudia la acción moral, la autonomía y la ley universal."
+   },
+   {
+    "q": "¿Quién es considerado el fundador del utilitarismo clásico?",
+    "o": [
+     "John Stuart Mill",
+     "Immanuel Kant",
+     "Jeremy Bentham",
+     "Auguste Comte"
+    ],
+    "a": 2,
+    "fb": "Jeremy Bentham es el fundador del utilitarismo clásico; Mill lo corrigió más tarde añadiendo la calidad del placer."
+   },
+   {
+    "q": "¿Qué distingue al imperativo hipotético del categórico?",
+    "o": [
+     "El primero vale para todos; el segundo, solo para quien lo desea",
+     "El segundo se cumple en ocasiones; el primero, en toda situación",
+     "El segundo ordena los medios; el primero, los fines",
+     "El primero depende de un fin querido; el segundo obliga sin condiciones"
+    ],
+    "a": 3,
+    "fb": "El imperativo hipotético es condicional («si quieres un fin, haz esto»); el categórico es incondicionado y manda al margen de los deseos."
+   },
+   {
+    "q": "Para Kant, ¿en qué consiste la heteronomía?",
+    "o": [
+     "En poner el principio de la acción fuera de uno mismo",
+     "En darse a uno mismo la propia ley moral",
+     "En actuar sin principio ni norma alguna",
+     "En seguir la ley universal de la razón"
+    ],
+    "a": 0,
+    "fb": "La heteronomía consiste en poner el principio de la acción fuera: en los intereses, el premio, la costumbre o la autoridad."
+   },
+   {
+    "q": "Según Kant, ¿qué distingue a una persona de una mera cosa?",
+    "o": [
+     "La persona puede sustituirse por otra de valor equivalente",
+     "La persona no tiene precio ni puede sustituirse; la cosa, sí",
+     "La cosa vale por sí misma y no admite ser cambiada",
+     "La cosa es un fin y la persona, un simple medio útil"
+    ],
+    "a": 1,
+    "fb": "La persona no tiene precio y no puede sustituirse por otra cosa; las cosas, en cambio, tienen precio y pueden cambiarse."
+   },
+   {
+    "q": "¿Qué son los postulados de la razón práctica en Kant?",
+    "o": [
+     "Pruebas científicas que demuestran la existencia de un ser divino",
+     "Reglas para medir y sumar el placer y el dolor",
+     "Condiciones que la moral necesita aunque no pueda probarlas",
+     "Máximas que pueden convertirse en una ley universal"
+    ],
+    "a": 2,
+    "fb": "La libertad, Dios y la inmortalidad son postulados: no se demuestran teóricamente, pero la moral los necesita para tener sentido."
+   },
+   {
+    "q": "¿Por qué se habla de la primacía de la razón práctica en la ética de Kant?",
+    "o": [
+     "Porque la moral puede demostrar lo que la ciencia desmiente",
+     "Porque el deber sustituye por completo al conocimiento",
+     "Porque actuar es siempre más fiable que pensar",
+     "Porque la práctica necesita lo que la teoría no logra probar"
+    ],
+    "a": 3,
+    "fb": "La razón teórica no puede demostrar la libertad, Dios ni la inmortalidad; la razón práctica los necesita para comprender la moral."
+   },
+   {
+    "q": "De las tres disposiciones que Kant distingue en el ser humano, ¿cuál marca lo propiamente moral?",
+    "o": [
+     "La personalidad, ligada a respetar la ley moral",
+     "La animalidad, ligada al instinto de conservación",
+     "La humanidad, ligada a la vida en sociedad",
+     "La racionalidad, ligada al cálculo de intereses"
+    ],
+    "a": 0,
+    "fb": "La tercera disposición, la personalidad, es la capacidad de respetar la ley moral; en ella reside la dignidad."
+   },
+   {
+    "q": "¿Qué entiende Kant por la «insociable sociabilidad» del ser humano?",
+    "o": [
+     "La imposibilidad de convivir pacíficamente en ningún caso",
+     "La tendencia a convivir y, a la vez, a competir",
+     "El rechazo natural de toda organización política",
+     "El deseo de aislarse por completo de los demás"
+    ],
+    "a": 1,
+    "fb": "El ser humano tiende a vivir en sociedad, pero a la vez quiere competir, separarse e imponerse."
+   },
+   {
+    "q": "¿Qué condiciones propone Kant en Hacia la paz perpetua para lograr una paz duradera?",
+    "o": [
+     "La conquista militar y el sometimiento de los vecinos",
+     "El abandono de toda organización jurídica y política",
+     "Una constitución republicana y una federación de Estados",
+     "Un tratado comercial firmado solo entre dos potencias"
+    ],
+    "a": 2,
+    "fb": "En Hacia la paz perpetua piensa una constitución republicana, una federación de Estados libres y un derecho cosmopolita."
+   },
+   {
+    "q": "Según Kant, ¿qué relación debe guardar la religión con la moral?",
+    "o": [
+     "La religión debe imponer a la moral sus propios dogmas",
+     "La moral debe someterse a la autoridad religiosa",
+     "La moral y la religión no guardan relación alguna",
+     "La religión debe ponerse al servicio de la moral"
+    ],
+    "a": 3,
+    "fb": "La moral no necesita un mandato heterónomo de la religión; la religión, si tiene sentido, debe ponerse al servicio de la moral."
+   },
+   {
+    "q": "¿Cómo empieza el método crítico de Kant ante un problema?",
+    "o": [
+     "Examinando las condiciones y los límites de la razón",
+     "Preguntando qué se desea y qué conviene lograr",
+     "Buscando una autoridad que decida por nosotros",
+     "Sumando las consecuencias favorables y desfavorables"
+    ],
+    "a": 0,
+    "fb": "Ante un problema, el método crítico pregunta primero en qué condiciones es posible el conocimiento y qué límites tiene la razón."
+   },
+   {
+    "q": "¿Cuál es un error frecuente al interpretar la autonomía en Kant?",
+    "o": [
+     "Entenderla como darse la propia ley",
+     "Confundirla con hacer lo que a uno le apetece",
+     "Relacionarla con juzgar las propias máximas",
+     "Vincularla a la responsabilidad de la razón"
+    ],
+    "a": 1,
+    "fb": "La autonomía no es hacer lo que quiero: es juzgar las máximas según la ley moral; la libertad no es el nombre del capricho."
+   },
+   {
+    "q": "Según Joxe Azurmendi, ¿cuál es el origen del mal?",
+    "o": [
+     "El relativismo, que disuelve todos los valores",
+     "La ausencia de un fundamento religioso firme",
+     "El dogmatismo, y no el relativismo",
+     "El cálculo egoísta de las consecuencias"
+    ],
+    "a": 2,
+    "fb": "Azurmendi defiende el relativismo frente a quienes lo condenan: el origen del mal es el dogmatismo, no el relativismo."
+   },
+   {
+    "q": "¿Qué pensador criticó la abstracción de la forma moral, señalando que es peligroso hablar de dignidad sin las condiciones materiales?",
+    "o": [
+     "Friedrich Nietzsche",
+     "John Stuart Mill",
+     "Jeremy Bentham",
+     "Karl Marx"
+    ],
+    "a": 3,
+    "fb": "Marx criticó la abstracción de la forma moral: es peligroso hablar de dignidad sin tener en cuenta las condiciones materiales."
+   },
+   {
+    "q": "Según el enfoque kantiano, ¿basta con que alguien acepte unas condiciones para que su decisión sea realmente autónoma?",
+    "o": [
+     "No, porque debe comprender de verdad y decidir por sí",
+     "Sí, porque aceptar algo lo convierte en legítimo",
+     "Sí, porque el bien de la mayoría lo justifica",
+     "No, porque las decisiones las toma siempre el Estado"
+    ],
+    "a": 0,
+    "fb": "No basta el consentimiento formal: la decisión es autónoma si el sujeto entiende de verdad lo que acepta y puede decidir por sí."
+   },
+   {
+    "q": "¿Por qué rechaza Kant los sentimientos como fundamento último de la moral?",
+    "o": [
+     "Porque los sentimientos no existen realmente en el ser humano",
+     "Porque son cambiantes y la moral pide universalidad",
+     "Porque solo importa lo que siente la mayoría de la gente",
+     "Porque la moral debe apoyarse en la costumbre recibida"
+    ],
+    "a": 1,
+    "fb": "Los sentimientos son cambiantes y empíricos; si la moral necesita universalidad, debe basarse en la ley de la razón práctica."
+   },
+   {
+    "q": "Un alumno no copia en un examen porque teme la expulsión, no por convicción. ¿Cómo calificaría Kant el principio que mueve su acción?",
+    "o": [
+     "Autónomo, pues respeta la norma por sí misma",
+     "Formal, pues sigue la forma de la norma",
+     "Heterónomo, pues lo mueve un premio o un castigo",
+     "Categórico, pues obedece sin condiciones"
+    ],
+    "a": 2,
+    "fb": "La heteronomía pone el principio de la acción fuera de uno: en el premio o el castigo, no en la propia razón."
+   },
+   {
+    "q": "Respecto al ser humano, ¿cuál de estas afirmaciones es correcta según Kant?",
+    "o": [
+     "Su conocimiento es ilimitado y su moral se apoya en la experiencia",
+     "Conoce toda la realidad y no necesita ninguna ley",
+     "Su acción se reduce a calcular el placer y el dolor",
+     "Conoce con límites, pero es capaz de ser sujeto de la ley moral"
+    ],
+    "a": 3,
+    "fb": "El hombre es un ser de conocimiento limitado, pero capaz de ser sujeto de la ley moral."
+   },
+   {
+    "q": "Un tratamiento médico es eficaz, pero se aplica sin informar al paciente ni contar con él. Según el enfoque kantiano, ¿por qué resulta problemático?",
+    "o": [
+     "Porque ignora la decisión del sujeto sobre su vida",
+     "Porque no produce la mayor felicidad para el mayor número",
+     "Porque el placer físico supera al intelectual",
+     "Porque aumenta el dolor en lugar de reducirlo"
+    ],
+    "a": 0,
+    "fb": "Si el tratamiento deja de lado la voluntad informada del paciente, el beneficio biológico no borra el problema moral."
+   }
+  ]
+ },
+ "hf-t21-repaso": {
+  "name": "Los filósofos de la sospecha (HF · T21 · repaso)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "Auguste Comte da nombre a la corriente del siglo XIX que confía en la ciencia como único saber válido y rechaza la especulación metafísica. ¿Cómo se llama esta corriente?",
+    "o": [
+     "El positivismo",
+     "El romanticismo",
+     "El vitalismo",
+     "El existencialismo"
+    ],
+    "a": 0,
+    "fb": "Comte define el positivismo como la confianza extrema en la ciencia: solo es verdadero el conocimiento basado en la observación empírica y en los hechos verificables."
+   },
+   {
+    "q": "Una cultura explica las tormentas diciendo que son el castigo que envían los dioses. Según la ley de los tres estadios de Comte, ¿en qué fase se encuentra?",
+    "o": [
+     "En la positiva",
+     "En la teológica",
+     "En la metafísica",
+     "En la científica"
+    ],
+    "a": 1,
+    "fb": "En el estadio teológico los hechos se explican por la voluntad de dioses; después vienen el metafísico y, por último, el positivo."
+   },
+   {
+    "q": "¿Qué disciplina nació, según Comte, de aplicar el método científico al estudio de la sociedad?",
+    "o": [
+     "La psicología",
+     "La antropología",
+     "La sociología",
+     "La economía política"
+    ],
+    "a": 2,
+    "fb": "Comte defendió que la sociedad debía estudiarse científicamente; de esa idea nació la sociología."
+   },
+   {
+    "q": "Según Feuerbach, ¿qué es Dios?",
+    "o": [
+     "El fundamento objetivo de la moral",
+     "La causa primera del universo",
+     "Una ilusión inventada por los sacerdotes",
+     "Una proyección del propio ser humano"
+    ],
+    "a": 3,
+    "fb": "Feuerbach entiende la religión como una proyección: el ser humano pone en Dios sus fuerzas, deseos e ideales y luego queda sometido a esa creación."
+   },
+   {
+    "q": "¿Qué es el darwinismo social, a diferencia de la teoría de Darwin?",
+    "o": [
+     "Un uso ideológico que justifica la desigualdad",
+     "La teoría biológica del cambio de las especies",
+     "La tesis de que el ser humano no es el centro",
+     "Una doctrina moral fundada en la compasión"
+    ],
+    "a": 0,
+    "fb": "La teoría de Darwin es biológica; el darwinismo social convierte la «lucha por la supervivencia» en norma moral para justificar el poder y la desigualdad."
+   },
+   {
+    "q": "Para Schopenhauer, ¿qué hay en el fondo de la realidad?",
+    "o": [
+     "La razón transparente de la Ilustración",
+     "Una voluntad ciega e insaciable",
+     "El espíritu que se desarrolla en la historia",
+     "Una sustancia material"
+    ],
+    "a": 1,
+    "fb": "Según Schopenhauer, la cosa en sí no es una razón clara, sino una voluntad ciega: un querer y un impulso que no pueden saciarse."
+   },
+   {
+    "q": "¿Qué es la praxis para Marx?",
+    "o": [
+     "La interpretación desinteresada de la historia",
+     "El análisis económico del capital",
+     "La crítica moral de la sociedad",
+     "La unión de la teoría y la transformación"
+    ],
+    "a": 3,
+    "fb": "La praxis une la teoría y la acción histórica: entender la sociedad abre a los sujetos la posibilidad de ver su situación y cambiarla."
+   },
+   {
+    "q": "En el mercado, las cosas parecen tener valor por sí mismas, cuando en realidad ese valor procede de las relaciones de trabajo entre personas. ¿Qué concepto nombra esta apariencia?",
+    "o": [
+     "El fetichismo",
+     "La plusvalía",
+     "La alienación",
+     "La ideología"
+    ],
+    "a": 0,
+    "fb": "El fetichismo de la mercancía hace que las relaciones sociales aparezcan como propiedades naturales de las cosas, ocultando el trabajo que hay detrás."
+   },
+   {
+    "q": "¿Qué función cumple el eterno retorno en Nietzsche?",
+    "o": [
+     "Describir el ciclo cósmico del universo",
+     "Medir la fuerza con que se afirma la vida",
+     "Consolar al ser humano ante el sufrimiento",
+     "Predecir el fin de la historia"
+    ],
+    "a": 1,
+    "fb": "El eterno retorno es una prueba existencial: la pregunta de si aceptaríamos vivir la vida una y otra vez mide la fuerza de la afirmación."
+   },
+   {
+    "q": "En las tres transformaciones del espíritu de Zaratustra, ¿qué figura expresa el «no» y la liberación frente a los valores viejos?",
+    "o": [
+     "El camello",
+     "El niño",
+     "El león",
+     "El superhombre"
+    ],
+    "a": 2,
+    "fb": "El león aprende a decir «no»: rechaza la autoridad exterior y abre un espacio para sí mismo, aunque todavía no crea valores nuevos."
+   },
+   {
+    "q": "Freud sostiene que lapsus, sueños y síntomas no son meros ruidos, sino huellas de un sentido. ¿Qué principio se desprende de ello?",
+    "o": [
+     "Que el ser humano es plenamente libre en sus actos",
+     "Que los síntomas son ruidos sin significado",
+     "Que la conciencia controla toda la vida psíquica",
+     "Que en la vida psíquica nada ocurre por azar"
+    ],
+    "a": 3,
+    "fb": "Para Freud, lapsus, sueños y síntomas no son casuales: pueden ser huellas de un sentido, de modo que nada en la vida psíquica es puro azar."
+   },
+   {
+    "q": "Cuando una pulsión no puede satisfacerse directamente y se encauza hacia el arte o el saber, ¿cómo llama Freud a ese proceso?",
+    "o": [
+     "La sublimación",
+     "La represión",
+     "La condensación",
+     "El desplazamiento"
+    ],
+    "a": 0,
+    "fb": "La sublimación encauza una pulsión insatisfecha hacia actividades como el arte o el saber; la cultura es, en parte, esa transformación de la energía pulsional."
+   },
+   {
+    "q": "Según Freud, ¿qué hay debajo del contenido manifiesto de un sueño?",
+    "o": [
+     "Lo que soñamos y recordamos al despertar",
+     "El deseo reprimido que el sueño disfraza",
+     "El relato que el paciente cuenta en terapia",
+     "Una palabra dicha sin querer"
+    ],
+    "a": 1,
+    "fb": "El contenido manifiesto es lo que se recuerda; el contenido latente es el deseo reprimido que el sueño expresa de forma disfrazada."
+   },
+   {
+    "q": "¿Qué es el ello en la segunda tópica de Freud?",
+    "o": [
+     "La razón que media con la realidad",
+     "Las normas morales interiorizadas",
+     "El campo de las pulsiones que busca satisfacción",
+     "La conciencia transparente del sujeto"
+    ],
+    "a": 2,
+    "fb": "El ello es el campo de las pulsiones y los instintos, ligado al principio de placer y a la búsqueda de satisfacción inmediata."
+   },
+   {
+    "q": "Para Marx, ¿qué es el Estado?",
+    "o": [
+     "Un juez neutral entre las clases",
+     "El garante de la igualdad jurídica",
+     "El resultado del contrato entre individuos",
+     "Un instrumento de dominación de la clase propietaria"
+    ],
+    "a": 3,
+    "fb": "Para Marx el Estado no es neutral: sus leyes e instituciones ayudan a sostener la estructura económica y los intereses de la clase dominante."
+   },
+   {
+    "q": "¿Qué es la conciencia de clase para Marx?",
+    "o": [
+     "Ver los propios problemas como efecto de una estructura común, no como fracaso personal",
+     "La defensa de los intereses de la clase propietaria",
+     "El temor de los trabajadores a perder su empleo",
+     "La rivalidad entre trabajadores por un puesto"
+    ],
+    "a": 0,
+    "fb": "La conciencia de clase nace cuando los trabajadores dejan de ver su problema como un fracaso personal y lo entienden como consecuencia de una estructura común."
+   },
+   {
+    "q": "¿Qué estudia el materialismo histórico de Marx?",
+    "o": [
+     "La sustancia material del cosmos",
+     "Las sociedades a partir de sus modos de producción",
+     "Las ideas puras de la conciencia",
+     "La naturaleza biológica del ser humano"
+    ],
+    "a": 1,
+    "fb": "El materialismo histórico entiende las sociedades a partir de sus modos de producción, no es una tesis sobre la sustancia del cosmos como el materialismo metafísico."
+   }
+  ]
+ },
+ "hf-t22-repaso": {
+  "name": "Crítica del capitalismo: de Marx a Rawls (HF · T22 · repaso)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "«La historia de todas las sociedades que han existido hasta nuestros días es la historia de la lucha de clases»: ¿a quiénes se atribuye esta tesis?",
+    "o": [
+     "Friedrich Engels y Karl Marx",
+     "Jürgen Habermas y Karl Popper",
+     "Hannah Arendt y John Rawls",
+     "Theodor Adorno y Max Horkheimer"
+    ],
+    "a": 0,
+    "fb": "La fórmula procede del Manifiesto del Partido Comunista (1848), firmado por Marx y Engels."
+   },
+   {
+    "q": "¿Qué distingue a la teoría crítica de la teoría tradicional, según la Escuela de Fráncfort?",
+    "o": [
+     "Que se limita a describir el mundo tal como es",
+     "Que rechaza todo conocimiento posible",
+     "Que desvela la dominación para transformarla",
+     "Que solo analiza los hechos económicos"
+    ],
+    "a": 2,
+    "fb": "La teoría crítica no se conforma con describir la sociedad: saca a la luz sus formas de dominación para transformarlas y construir una sociedad más libre."
+   },
+   {
+    "q": "Según Marcuse, la sociedad de consumo crea deseos fabricados socialmente que el sujeto vive como si fueran suyos. ¿Cómo los denomina?",
+    "o": [
+     "Represión excedente",
+     "Necesidades falsas",
+     "Sociedad unidimensional",
+     "Industria cultural"
+    ],
+    "a": 1,
+    "fb": "Marcuse llama necesidades falsas a los deseos creados por el mercado que atan al individuo al consumo, aunque este los sienta como propios."
+   },
+   {
+    "q": "Walter Benjamin analizó cómo la fotografía y el cine debilitan la presencia única e irrepetible de la obra de arte. ¿Qué nombre da a esa presencia?",
+    "o": [
+     "El ángel de la historia",
+     "La dialéctica negativa",
+     "La acción",
+     "El aura"
+    ],
+    "a": 3,
+    "fb": "Benjamin llama aura al brillo de ser única, aquí y ahora, que la reproducción técnica debilita y con el que cambia el sentido social del arte."
+   },
+   {
+    "q": "Benjamin critica la idea de progreso como camino tranquilo hacia lo mejor. ¿Qué imagen emplea para representar el progreso como acumulación de catástrofes?",
+    "o": [
+     "El ángel de la historia",
+     "La dialéctica negativa",
+     "El aura",
+     "La sociedad unidimensional"
+    ],
+    "a": 0,
+    "fb": "El ángel de la historia, tomado del Angelus Novus de Paul Klee, mira las ruinas del pasado mientras la tempestad del progreso lo empuja hacia el futuro."
+   },
+   {
+    "q": "Habermas distingue tres intereses del conocimiento. ¿Cuál es, según él, el principal y el que debe orientar a los otros dos?",
+    "o": [
+     "El interés técnico",
+     "El interés práctico",
+     "El interés emancipatorio",
+     "El interés económico"
+    ],
+    "a": 2,
+    "fb": "Para Habermas, el interés emancipatorio —hacer libre y autónomo a todo ser humano— es el principal y debe orientar a los otros dos."
+   },
+   {
+    "q": "Para que un diálogo sea válido, Habermas exige una condición en la que todos argumentan en igualdad, con libertad y sin coacción. ¿Cómo llama a esa condición?",
+    "o": [
+     "La esfera pública",
+     "La acción estratégica",
+     "La sociedad abierta",
+     "La situación ideal de habla"
+    ],
+    "a": 3,
+    "fb": "Habermas llama situación ideal de habla a la condición en la que todos argumentan en igualdad y libertad, y se impone la fuerza del mejor argumento, no el poder."
+   },
+   {
+    "q": "Habermas sitúa la deliberación democrática en un espacio donde los ciudadanos critican el poder y justifican las normas comunes. ¿Cómo llama a ese espacio?",
+    "o": [
+     "El partido de vanguardia",
+     "La esfera pública",
+     "La sociedad de masas",
+     "La posición original"
+    ],
+    "a": 1,
+    "fb": "La esfera pública es el espacio social y político en el que los ciudadanos debaten los asuntos comunes y forman una opinión razonada."
+   },
+   {
+    "q": "Lenin sostiene que la experiencia de la opresión no se convierte por sí sola en estrategia política. ¿Qué instrumento defiende para articular la lucha dispersa de la clase trabajadora?",
+    "o": [
+     "La huelga de masas",
+     "La esfera pública",
+     "El partido revolucionario",
+     "La sociedad abierta"
+    ],
+    "a": 2,
+    "fb": "Lenin defiende el partido revolucionario como instrumento para dar una dirección política a la lucha dispersa de la clase trabajadora."
+   },
+   {
+    "q": "Según Lenin, cuando el capitalismo avanzado necesita nuevos mercados, materias primas y zonas de influencia, la explotación deja de limitarse a las clases dentro de una nación. ¿Qué concepto describe esa expansión global?",
+    "o": [
+     "El imperialismo",
+     "La descolonización",
+     "El fascismo de consumo",
+     "La hegemonía cultural"
+    ],
+    "a": 0,
+    "fb": "Lenin llama imperialismo a la expansión global del capitalismo avanzado, que crea dependencias a escala mundial mediante mercados, materias primas, colonias y poder financiero."
+   },
+   {
+    "q": "«La libertad es siempre libertad para el que piensa de otra manera»: ¿a quién se atribuye esta frase?",
+    "o": [
+     "A Clara Zetkin",
+     "A Hannah Arendt",
+     "A Frantz Fanon",
+     "A Rosa Luxemburg"
+    ],
+    "a": 3,
+    "fb": "La frase aparece en La Revolución rusa (1918) de Rosa Luxemburg, quien advirtió que la dictadura de un partido podía traicionar a la revolución."
+   },
+   {
+    "q": "¿Quién propuso en 1910 celebrar un Día Internacional de la Mujer, que acabaría fijándose el 8 de marzo?",
+    "o": [
+     "Rosa Luxemburg",
+     "Clara Zetkin",
+     "Hannah Arendt",
+     "Simone de Beauvoir"
+    ],
+    "a": 1,
+    "fb": "Fue Clara Zetkin quien propuso en 1910 el Día Internacional de la Mujer, uniendo la liberación de las mujeres y la lucha de clases."
+   },
+   {
+    "q": "Fanon sostiene que al colonizado no solo se le quita la tierra, sino que también quedan marcados su lengua, su cuerpo y su imagen de sí mismo. ¿Qué concluye de ello?",
+    "o": [
+     "Que para liberarse basta con cambiar la bandera y el gobierno",
+     "Que el colonialismo es solo una administración extranjera sin más",
+     "Que la opresión material va unida a la subjetividad",
+     "Que la lucha de clases explica por completo el problema colonial"
+    ],
+    "a": 2,
+    "fb": "Para Fanon, el colonialismo hiere también la dignidad y la imagen que el sujeto tiene de sí mismo, por lo que opresión material y subjetividad van unidas."
+   },
+   {
+    "q": "Pasolini sostiene que la sociedad de consumo puede igualar deseos, lenguajes y formas de vida mediante la seducción y la publicidad, no solo mediante la prohibición. ¿Qué idea emplea para nombrar ese poder?",
+    "o": [
+     "El fascismo de consumo",
+     "La sociedad unidimensional",
+     "La represión excedente",
+     "La industria cultural"
+    ],
+    "a": 0,
+    "fb": "Pasolini habla de fascismo de consumo para nombrar el poder de la sociedad de consumo de homogeneizar a los sujetos de forma suave pero profunda."
+   },
+   {
+    "q": "Según Arendt, ¿en qué se diferencia el totalitarismo de la tiranía clásica, el despotismo o la dictadura?",
+    "o": [
+     "En que reprime a la oposición política",
+     "En que concentra el poder en una sola persona",
+     "En que usa la fuerza contra sus enemigos",
+     "En que busca el dominio total del individuo"
+    ],
+    "a": 3,
+    "fb": "Arendt sostiene que el totalitarismo no es una tiranía clásica, sino una forma nueva de poder que absorbe y controla por completo al individuo en nombre de una ideología totalizadora."
+   },
+   {
+    "q": "Sobre el papel del terror en el régimen totalitario, según Arendt, ¿cuál de las siguientes afirmaciones es correcta?",
+    "o": [
+     "Es un mero instrumento para conservar el poder del dirigente",
+     "Es el medio para lograr el control total de la población",
+     "Es un recurso excepcional que aparece en épocas de crisis",
+     "Es una consecuencia imprevista de la propaganda"
+    ],
+    "a": 1,
+    "fb": "Para Arendt, el terror no es solo un instrumento para mantener el poder: es el mecanismo para lograr el control total, sembrando miedo y aislamiento."
+   },
+   {
+    "q": "En el juicio a Eichmann, Arendt observó que no era un monstruo sádico, sino un burócrata que se limitaba a cumplir órdenes. ¿Qué conclusión extrajo de ello?",
+    "o": [
+     "Que el mal siempre nace de una intención deliberadamente malvada",
+     "Que solo los fanáticos ideológicos cometen atrocidades",
+     "Que el mal puede nacer de personas corrientes que no piensan",
+     "Que la burocracia elimina toda responsabilidad personal"
+    ],
+    "a": 2,
+    "fb": "Arendt llama banalidad del mal al hecho de que el mal a veces lo cometen personas normales que renuncian a pensar, como Eichmann."
+   },
+   {
+    "q": "En su teoría de la vita activa, Arendt distingue tres actividades humanas. ¿Cuál se ejerce junto con otros, por medio de la palabra, en el espacio público?",
+    "o": [
+     "La labor",
+     "El trabajo",
+     "La natalidad",
+     "La acción"
+    ],
+    "a": 3,
+    "fb": "Arendt reserva la acción para obrar junto con otros mediante la palabra en el espacio público; la labor es biológica y el trabajo crea el mundo artificial."
+   },
+   {
+    "q": "Del experimento del velo de ignorancia, Rawls deriva dos principios. ¿Qué establece el primero de ellos?",
+    "o": [
+     "Igualdad de oportunidades efectiva",
+     "Máximas libertades básicas para todos",
+     "Redistribución total de la riqueza",
+     "Supresión de toda desigualdad"
+    ],
+    "a": 1,
+    "fb": "El primer principio de Rawls es el de libertad: máximas libertades básicas para todos, y solo después se aplica el de igualdad."
+   }
+  ]
+ },
+ "hf-t23-repaso": {
+  "name": "Nietzsche y la posmodernidad (HF · T23 · repaso)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "¿Qué idea introduce Foucault con el término «biopolítica»?",
+    "o": [
+     "Que las instituciones administran procesos colectivos como la salud o la natalidad",
+     "Que el poder se limita a dictar leyes penales y prohibiciones",
+     "Que la vida íntima escapa por completo a toda regulación",
+     "Que el Estado moderno deja de ocuparse de la población"
+    ],
+    "a": 0,
+    "fb": "Foucault sostiene que el poder moderno también administra la vida: gestiona poblaciones, salud, sexualidad y demografía, no solo prohíbe."
+   },
+   {
+    "q": "¿En qué se distinguen las dos formas de razón que contrapone Habermas?",
+    "o": [
+     "Una es propia de los expertos; la otra, de la gente común",
+     "Una reduce todo al cálculo de medios; la otra busca el entendimiento mutuo",
+     "Una pertenece en exclusiva a la religión; la otra, a la política",
+     "Una es siempre moral; la otra, siempre inmoral"
+    ],
+    "a": 1,
+    "fb": "Habermas opone la razón que solo calcula medios eficaces a la que persigue entenderse en el diálogo, y propone sustituir la primera por la segunda."
+   },
+   {
+    "q": "¿Qué imagen oponen Deleuze y Guattari a la del árbol para pensar las conexiones?",
+    "o": [
+     "Una cadena lineal con un principio y un final marcados",
+     "Una jerarquía rígida con una raíz y un tronco únicos",
+     "Un entramado de vínculos múltiples y cambiantes, sin centro fijo",
+     "Un sistema cerrado que rechaza toda conexión nueva"
+    ],
+    "a": 2,
+    "fb": "El rizoma sugiere conexiones en muchas direcciones, sin una raíz principal ni un centro único, a diferencia del árbol jerárquico."
+   },
+   {
+    "q": "¿Cómo entienden Deleuze y Guattari el deseo, frente a la idea de una simple carencia?",
+    "o": [
+     "Como un vacío privado que solo se sacia consumiendo",
+     "Como un impulso que siempre debe ser reprimido",
+     "Como algo que el capitalismo libera por completo",
+     "Como una fuerza que crea relaciones, imágenes e instituciones"
+    ],
+    "a": 3,
+    "fb": "El deseo no es solo una carencia privada: es productivo, crea relaciones, imágenes e instituciones, aunque el capitalismo lo atrapa en el mercado."
+   },
+   {
+    "q": "¿Qué propone Richard Rorty cuidar en la democracia liberal en lugar de buscar una verdad absoluta?",
+    "o": [
+     "La conversación, la ironía y la solidaridad",
+     "Un fundamento metafísico sólido e indiscutible",
+     "Un vocabulario último, único y sagrado",
+     "La ruptura total con el lenguaje público"
+    ],
+    "a": 0,
+    "fb": "Rorty prefiere cuidar la conversación, la ironía y la solidaridad antes que buscar un fundamento metafísico último, sin encerrar verdad ni justicia en un vocabulario sagrado."
+   },
+   {
+    "q": "¿A qué llama Lyotard «crisis de legitimación»?",
+    "o": [
+     "A la ciencia que logra justificarse a sí misma sin ayuda",
+     "A la pérdida de un juez único que dé sentido a todos los discursos",
+     "Al triunfo de un relato global y definitivo",
+     "Al silencio absoluto de la sociedad ante los relatos"
+    ],
+    "a": 1,
+    "fb": "Lyotard llama crisis de legitimación a que ya no hay un juez único y superior que dé sentido a todos los discursos; ni la ciencia puede legitimarse solo buscando la verdad."
+   },
+   {
+    "q": "¿Qué sostiene Foucault sobre la relación entre el poder y la resistencia?",
+    "o": [
+     "La resistencia anula por completo todo poder",
+     "El poder solo existe donde no hay resistencia",
+     "Allí donde hay poder surge también resistencia",
+     "La resistencia es anterior a toda forma de poder"
+    ],
+    "a": 2,
+    "fb": "Foucault afirma que donde hay poder hay resistencia: ambos van juntos y el poder nunca logra suprimirla del todo."
+   },
+   {
+    "q": "¿Qué lectura del nihilismo ofrece Vattimo?",
+    "o": [
+     "Una vuelta a la metafísica sólida de Occidente",
+     "La simple ruina y desaparición de todos los valores",
+     "La negación de toda interpretación posible",
+     "La imposibilidad de cerrar el mundo con un fundamento último"
+    ],
+    "a": 3,
+    "fb": "Para Vattimo el nihilismo no es solo la ruina de los valores: muestra que el mundo no puede cerrarse con un fundamento único, de ahí el pensamiento débil."
+   },
+   {
+    "q": "¿Qué recuerda la hermenéutica frente a la pretensión de una interpretación neutral?",
+    "o": [
+     "Que existe una mirada libre de todo prejuicio e historia",
+     "Que comprendemos siempre dentro de una tradición y un lenguaje",
+     "Que solo importan las estructuras profundas, no quien interpreta",
+     "Que el texto se explica por sí mismo sin lector alguno"
+    ],
+    "a": 1,
+    "fb": "La hermenéutica sostiene que comprender no es adoptar un punto de vista neutral: interpretamos dentro de una tradición, un lenguaje y unos prejuicios históricos."
+   },
+   {
+    "q": "Según Habermas, ¿qué hace que una norma sea válida?",
+    "o": [
+     "Que coincida con una verdad revelada y fija",
+     "Que la imponga una autoridad legítima",
+     "Que todos los afectados la acepten en una discusión libre",
+     "Que resulte útil para calcular medios eficaces"
+    ],
+    "a": 2,
+    "fb": "Para Habermas, válido es lo que todos los afectados podrían aceptar en una conversación libre y sin coacciones: la verdad entendida como consenso."
+   },
+   {
+    "q": "¿Qué corriente de pensamiento centró su crítica en la conversión de la razón en dominación?",
+    "o": [
+     "La hermenéutica",
+     "El estructuralismo",
+     "El perspectivismo de Nietzsche",
+     "La Escuela de Fráncfort"
+    ],
+    "a": 3,
+    "fb": "La Escuela de Fráncfort afila la pregunta sobre la razón instrumental: cuando la razón se reduce al cálculo de medios, el ser humano y la naturaleza se vuelven objetos que controlar."
+   },
+   {
+    "q": "¿Qué son las «líneas de fuga» en el pensamiento de Deleuze y Guattari?",
+    "o": [
+     "Grietas por donde se abren otras conexiones y formas de vida",
+     "Caminos que refuerzan el control del sistema",
+     "Jerarquías que fijan a los sujetos en su lugar",
+     "Centros únicos que ordenan todo vínculo"
+    ],
+    "a": 0,
+    "fb": "Cuando un sistema quiere fijar a los sujetos y las prácticas, las líneas de fuga abren otras conexiones y formas de vida; no son una mera huida privada."
+   },
+   {
+    "q": "¿Qué gran relato asigna la teoría a Hegel dentro de los metarrelatos?",
+    "o": [
+     "La promesa de una sociedad sin clases",
+     "El desarrollo de la conciencia hacia la libertad",
+     "La emancipación por medio de la razón ilustrada",
+     "El progreso ilimitado de la ciencia"
+    ],
+    "a": 1,
+    "fb": "Entre los metarrelatos, la teoría atribuye a Hegel el desarrollo de la conciencia de la libertad; la emancipación por la razón corresponde a la Ilustración y la sociedad sin clases al marxismo."
+   },
+   {
+    "q": "¿Qué distinción señala la teoría entre dos fórmulas cercanas atribuidas a Habermas?",
+    "o": [
+     "La «comunidad ideal de comunicación» es obra de Habermas; la otra, de Lyotard",
+     "Ambas son de Habermas y significan exactamente lo mismo",
+     "Habermas habla de «situación ideal de habla»; la «comunidad ideal de comunicación» es de Apel",
+     "La «situación ideal de habla» la propuso primero Baudrillard"
+    ],
+    "a": 2,
+    "fb": "En rigor, Habermas habla de «situación ideal de habla»; la fórmula «comunidad ideal de comunicación» es de su colega Karl-Otto Apel."
+   },
+   {
+    "q": "¿Qué busca el estructuralismo detrás del sujeto?",
+    "o": [
+     "Un fundamento metafísico sólido",
+     "La conciencia libre y autónoma",
+     "El lenguaje, los sistemas y las estructuras profundas",
+     "La interpretación neutral de la historia"
+    ],
+    "a": 2,
+    "fb": "El estructuralismo busca, detrás del sujeto, el lenguaje, los sistemas y las estructuras profundas, cuestionando el mito del sujeto autónomo y transparente."
+   },
+   {
+    "q": "¿Qué diferencia separa a Rorty de Habermas?",
+    "o": [
+     "Habermas prefiere una práctica histórica; Rorty, condiciones universales",
+     "Habermas busca condiciones universales; Rorty, una práctica más histórica",
+     "Rorty defiende una metafísica sólida; Habermas, el abandono del diálogo",
+     "Ambos proponen un vocabulario último y sagrado"
+    ],
+    "a": 1,
+    "fb": "Habermas busca las condiciones universales de la razón comunicativa, mientras Rorty propone una práctica más histórica: reducir el sufrimiento y escuchar más voces."
+   }
+  ]
+ },
+ "hf-t24-repaso": {
+  "name": "Filosofía analítica (HF · T24 · repaso)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "J. L. Austin observó que no todas las oraciones se limitan a describir el mundo. ¿Qué caracteriza a las que, al pronunciarlas, ejecutan una acción?",
+    "o": [
+     "Que son verdaderas o falsas según se correspondan con los hechos",
+     "Que logran o fracasan, en lugar de ser verdaderas o falsas",
+     "Que carecen de todo significado al no poder comprobarse",
+     "Que son tautologías lógicas sin contenido empírico alguno"
+    ],
+    "a": 1,
+    "fb": "Austin opone los enunciados constatativos (verdaderos o falsos) a los performativos, que no describen sino que realizan una acción y, por eso, salen bien o fracasan."
+   },
+   {
+    "q": "La teoría de los actos de habla, iniciada por Austin, fue sistematizada y desarrollada por otro filósofo del lenguaje. ¿Quién?",
+    "o": [
+     "Ludwig Wittgenstein",
+     "Bertrand Russell",
+     "John Searle",
+     "Karl Popper"
+    ],
+    "a": 2,
+    "fb": "John Searle sistematizó la teoría de los actos de habla iniciada por Austin en su obra Actos de habla (1969)."
+   },
+   {
+    "q": "Al pronunciar «lo juro» en una ceremonia, el hablante no enuncia un hecho: realiza el acto de jurar. ¿Qué concepto acuñado por Austin recoge este fenómeno?",
+    "o": [
+     "Performatividad",
+     "Verificabilidad",
+     "Isomorfismo",
+     "Inconmensurabilidad"
+    ],
+    "a": 0,
+    "fb": "Austin llama performativas a las oraciones que realizan una acción: decir «lo juro» es jurar, no describir algo."
+   },
+   {
+    "q": "Austin distingue en todo acto de habla tres niveles: locutivo, ilocutivo y perlocutivo. ¿Qué designa este último?",
+    "o": [
+     "Las palabras mismas que se pronuncian",
+     "Lo que se hace al hablar, como ordenar o prometer",
+     "La estructura lógica oculta de la oración",
+     "El efecto que la emisión produce en quien la escucha"
+    ],
+    "a": 3,
+    "fb": "El acto perlocutivo es el efecto en el oyente, distinto del locutivo (decir las palabras) y del ilocutivo (hacer algo al hablar)."
+   },
+   {
+    "q": "En el Tractatus, Wittgenstein sostiene que la estructura del lenguaje y la de los hechos pueden compartir una misma forma. ¿Cómo se denomina esa coincidencia?",
+    "o": [
+     "Juego de lenguaje",
+     "Isomorfismo",
+     "Falsabilidad",
+     "Performatividad"
+    ],
+    "a": 1,
+    "fb": "El isomorfismo es la coincidencia de forma entre la estructura lógica del lenguaje y la de los hechos del mundo; por eso el lenguaje es una imagen lógica del mundo."
+   },
+   {
+    "q": "Wittgenstein pone el ejemplo de la palabra «dolor»: no cobra sentido al mirar una sensación interior, sino en las prácticas compartidas de expresarla y responder a ella. ¿Qué tesis ilustra este ejemplo?",
+    "o": [
+     "Que el lenguaje es un espejo de los hechos del mundo",
+     "Que solo lo verificable empíricamente tiene sentido",
+     "Que no puede existir un lenguaje privado",
+     "Que cada proposición elemental corresponde a un hecho simple"
+    ],
+    "a": 2,
+    "fb": "Con el ejemplo del «dolor», Wittgenstein critica la idea de un lenguaje privado: el significado no se reduce a un objeto interior, sino que depende de las prácticas compartidas de una comunidad."
+   },
+   {
+    "q": "¿Quién es el autor de la célebre afirmación «los límites de mi lenguaje significan los límites de mi mundo»?",
+    "o": [
+     "Ludwig Wittgenstein",
+     "Bertrand Russell",
+     "J. L. Austin",
+     "John Searle"
+    ],
+    "a": 0,
+    "fb": "La frase es la proposición 5.6 del Tractatus logico-philosophicus, de Ludwig Wittgenstein."
+   },
+   {
+    "q": "¿Qué autor sostuvo que no existe ningún método científico universal, resumiendo su postura en el lema «todo vale»?",
+    "o": [
+     "Karl Popper",
+     "Thomas Kuhn",
+     "Paul Feyerabend",
+     "Imre Lakatos"
+    ],
+    "a": 2,
+    "fb": "Paul Feyerabend defiende el anarquismo metodológico: no hay un método universal, y los grandes avances se lograron rompiendo reglas; su lema es «todo vale»."
+   },
+   {
+    "q": "Según Thomas Kuhn, la mayor parte del tiempo los científicos no intentan derribar la teoría dominante, sino resolver problemas dentro de ella. ¿Cómo llama a esa actividad cotidiana?",
+    "o": [
+     "Revolución científica",
+     "Falsación",
+     "Anarquismo metodológico",
+     "Ciencia normal"
+    ],
+    "a": 3,
+    "fb": "Kuhn llama ciencia normal al trabajo de resolver rompecabezas dentro de un paradigma, distinto de la revolución que lo sustituye tras una crisis."
+   },
+   {
+    "q": "Kuhn señala que términos como «planeta» no significan lo mismo en el sistema de Ptolomeo que en el de Copérnico. ¿Qué concepto designa esa imposibilidad de comparar dos paradigmas con una misma medida?",
+    "o": [
+     "Inconmensurabilidad",
+     "Isomorfismo",
+     "Verificabilidad",
+     "Performatividad"
+    ],
+    "a": 0,
+    "fb": "La inconmensurabilidad es la idea de que los términos de paradigmas distintos no pueden traducirse ni compararse directamente entre sí."
+   },
+   {
+    "q": "El criterio de verificabilidad del Círculo de Viena tenía un límite interno: la propia afirmación «una oración tiene sentido si es verificable» no puede comprobarse empíricamente. ¿Qué revela este hecho?",
+    "o": [
+     "Que toda oración verificable es automáticamente verdadera",
+     "Que el criterio no podía verificarse a sí mismo",
+     "Que la metafísica tiene pleno significado científico",
+     "Que las leyes de la ciencia son siempre falsas"
+    ],
+    "a": 1,
+    "fb": "El principio de verificabilidad no es él mismo verificable: es un principio metafísico, por eso el positivismo lógico llegó a la autocrítica y perdió vigencia."
+   },
+   {
+    "q": "Txillardegi sostiene que cada lengua lleva una manera global de ver y organizar el mundo. ¿Qué término alemán recoge esa visión?",
+    "o": [
+     "Volksgeist",
+     "Sprachspiel",
+     "Weltanschauung",
+     "Sinnlos"
+    ],
+    "a": 2,
+    "fb": "Txillardegi usa la idea de cosmovisión (Weltanschauung): cada lengua lleva consigo una manera de organizar el mundo, y perderla supone perder un modo de ordenar la realidad."
+   },
+   {
+    "q": "Para Txillardegi, recuperar el uso social completo de una lengua afecta a la educación, la administración y el prestigio, no solo a la gramática. ¿Cómo se llama ese proceso?",
+    "o": [
+     "Diglosia",
+     "Verificación",
+     "Revolución científica",
+     "Normalización lingüística"
+    ],
+    "a": 3,
+    "fb": "La normalización lingüística es el proceso por el que una lengua recupera o refuerza su uso social completo; no es solo una cuestión de gramática."
+   },
+   {
+    "q": "Según Txillardegi, la lengua no es algo que usemos «después» de pensar: su estructura determina cómo organizamos la realidad. ¿Qué papel le atribuye?",
+    "o": [
+     "El de un estructurador inconsciente",
+     "El de un espejo neutral de los hechos",
+     "El de un conjunto de tautologías",
+     "El de un criterio de verificación"
+    ],
+    "a": 0,
+    "fb": "Txillardegi sostiene que la lengua actúa como estructurador inconsciente: determina cómo organizamos la realidad, porque pensamos gracias a que tenemos lenguaje."
+   },
+   {
+    "q": "«El Sol sale todos los días» es científica porque, si un día no saliera, quedaría refutada; en cambio, «Dios creó el mundo» no lo es. ¿Qué criterio distingue aquí a la ciencia?",
+    "o": [
+     "La verificabilidad",
+     "La falsabilidad",
+     "La inconmensurabilidad",
+     "La performatividad"
+    ],
+    "a": 1,
+    "fb": "Según Popper, una teoría es científica si asume el riesgo de ser refutada por la experiencia: «Dios creó el mundo» no puede ser refutada por ningún hecho posible."
+   },
+   {
+    "q": "Según Lakatos, un programa de investigación es progresivo cuando...",
+    "o": [
+     "abandona su núcleo duro ante cualquier anomalía",
+     "se limita a ajustar su cinturón protector a posteriori",
+     "no asume ningún riesgo de ser refutado",
+     "predice continuamente hechos nuevos"
+    ],
+    "a": 3,
+    "fb": "Un programa es progresivo si predice continuamente hechos nuevos, y degenerativo si solo ajusta a posteriori su cinturón protector."
+   },
+   {
+    "q": "Popper sostiene que acumular miles de casos favorables no da seguridad completa a una teoría, porque siempre puede aparecer un contraejemplo. ¿Qué método considera por ello insuficiente?",
+    "o": [
+     "La inducción",
+     "La deducción",
+     "La falsación",
+     "La performatividad"
+    ],
+    "a": 0,
+    "fb": "Popper critica la inducción: no da una seguridad completa, por eso propone como criterio la falsabilidad."
+   }
+  ]
+ },
+ "hf-t25-repaso": {
+  "name": "El existencialismo (HF · T25 · repaso)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "¿Quién es considerado el gran precursor del existencialismo por haber situado la decisión del individuo por encima del sistema?",
+    "o": [
+     "Kierkegaard",
+     "Husserl",
+     "Camus",
+     "Zambrano"
+    ],
+    "a": 0,
+    "fb": "Kierkegaard reaccionó contra la filosofía de sistema y se le considera el gran precursor del existencialismo por poner la decisión del individuo, la fe y la angustia por encima del sistema."
+   },
+   {
+    "q": "¿En qué dos vertientes se divide el existencialismo según la salida que da al problema de la existencia?",
+    "o": [
+     "En una racionalista y otra empirista",
+     "En una religiosa y otra atea",
+     "En una idealista y otra materialista",
+     "En una política y otra estética"
+    ],
+    "a": 1,
+    "fb": "La teoría distingue el existencialismo religioso de Kierkegaard y el ateo de Sartre o Camus, que comparten el problema pero no la misma salida."
+   },
+   {
+    "q": "¿Qué rasgo de la fenomenología expresa que la conciencia es siempre «conciencia de algo», dirigida a un objeto?",
+    "o": [
+     "La angustia",
+     "El ser-para-la-muerte",
+     "La intencionalidad",
+     "La mala fe"
+    ],
+    "a": 2,
+    "fb": "La intencionalidad es el rasgo básico de la fenomenología: la conciencia es siempre conciencia de algo, dirigida a un objeto."
+   },
+   {
+    "q": "¿Cuál de estas afirmaciones sobre Heidegger es correcta?",
+    "o": [
+     "Fundó el existencialismo como una escuela cerrada",
+     "Rechazó por completo la pregunta por el ser",
+     "Negó que el ser humano esté situado en el mundo",
+     "Influyó en esta corriente sin considerarse parte de ella"
+    ],
+    "a": 3,
+    "fb": "Ser y tiempo (1927) tuvo gran influencia en el existencialismo, pero Heidegger no se consideró existencialista."
+   },
+   {
+    "q": "Según Sartre, ¿en qué se diferencian las cosas y la conciencia?",
+    "o": [
+     "Las cosas son cerradas y completas; la conciencia toma distancia de sí misma",
+     "Las cosas eligen libremente; la conciencia está ya fijada",
+     "Las cosas tienen un proyecto; la conciencia es un objeto acabado",
+     "Las cosas se superan sin cesar; la conciencia es exactamente lo que es"
+    ],
+    "a": 0,
+    "fb": "Las cosas son en-sí (cerradas, completas); la conciencia es para-sí, una realidad que toma distancia de sí misma y se supera sin cesar."
+   },
+   {
+    "q": "¿Cómo llama Camus al choque entre la búsqueda humana de sentido y un mundo que no da respuestas?",
+    "o": [
+     "La angustia",
+     "El absurdo",
+     "La náusea",
+     "La agonía"
+    ],
+    "a": 1,
+    "fb": "Camus llama absurdo al choque entre la exigencia humana de sentido, unidad y razón, y un mundo que no da respuestas claras."
+   },
+   {
+    "q": "¿Qué problema considera Camus el único verdaderamente serio de la filosofía?",
+    "o": [
+     "La inmortalidad",
+     "La angustia",
+     "El suicidio",
+     "La mala fe"
+    ],
+    "a": 2,
+    "fb": "Camus afirma que no hay más que un problema filosófico verdaderamente serio: el suicidio."
+   },
+   {
+    "q": "¿En qué consiste la rebelión de la que habla Camus?",
+    "o": [
+     "En huir de la realidad inventando un sentido falso",
+     "En acabar con la vida al descubrir su falta de sentido",
+     "En someterse al orden establecido para evitar el caos",
+     "En negarse a la sumisión y afirmar la vida a pesar de todo"
+    ],
+    "a": 3,
+    "fb": "La rebelión es negarse a la sumisión y no rendirse ni cubrir el mundo con una mentira; el sentido no está garantizado, pero se puede responder afirmando la vida."
+   },
+   {
+    "q": "En su sentido griego, ¿qué significa la «agonía» en el pensamiento de Unamuno?",
+    "o": [
+     "Una lucha interior, no la antesala de la muerte",
+     "El final inevitable de la vida",
+     "El miedo a lo desconocido",
+     "El vértigo que produce la libertad"
+    ],
+    "a": 0,
+    "fb": "Unamuno usa «agonía» en el sentido griego de lucha: no la antesala de la muerte, sino la lucha interior entre la razón y el corazón."
+   },
+   {
+    "q": "¿Qué pensador español representa el existencialismo cristiano?",
+    "o": [
+     "José Ortega y Gasset",
+     "Miguel de Unamuno",
+     "María Zambrano",
+     "Albert Camus"
+    ],
+    "a": 1,
+    "fb": "La teoría señala que Miguel de Unamuno representa el existencialismo cristiano."
+   },
+   {
+    "q": "¿Qué dos posturas quiere superar Ortega con la razón vital?",
+    "o": [
+     "El empirismo y el idealismo",
+     "El materialismo y el espiritualismo",
+     "El racionalismo puro y el vitalismo irracional",
+     "El escepticismo y el dogmatismo"
+    ],
+    "a": 2,
+    "fb": "Ortega quiere superar tanto el racionalismo puro como el vitalismo irracional con la razón vital."
+   },
+   {
+    "q": "¿Qué relación guarda la razón poética de Zambrano con el pensamiento de Ortega?",
+    "o": [
+     "Recibe su influencia, pero no es una continuación mecánica",
+     "Es una copia exacta de sus ideas",
+     "Lo rechaza por completo sin recibir nada de él",
+     "Lo sustituye por la razón pura de la Ilustración"
+    ],
+    "a": 0,
+    "fb": "Zambrano recibió la influencia de Ortega, pero su propuesta no es una continuación mecánica."
+   },
+   {
+    "q": "¿Qué aportó Nietzsche como precursor del existencialismo?",
+    "o": [
+     "La distinción entre el ser y los entes",
+     "La defensa de una esencia fija del ser humano",
+     "La crisis de los valores tradicionales y la creación de uno mismo",
+     "La propuesta de la razón vital como herramienta de la vida"
+    ],
+    "a": 2,
+    "fb": "Nietzsche subrayó la crisis de los valores tradicionales y la creación de uno mismo, como precursor del existencialismo."
+   },
+   {
+    "q": "Según Camus, ¿qué actitud propone ante la conciencia del absurdo?",
+    "o": [
+     "Decir sí a la vida sin negarla, rechazando los sentidos falsos",
+     "Negar la vida por carecer de un sentido garantizado",
+     "Inventar un sentido falso para no sufrir",
+     "Rendirse a la desesperación"
+    ],
+    "a": 0,
+    "fb": "El camino de Camus es rechazar el consuelo de los sentidos falsos y, aun así, decir sí a la vida."
+   },
+   {
+    "q": "Según Sartre, ¿qué ocurre cuando una persona elige?",
+    "o": [
+     "Descubre una esencia que ya estaba fijada en su naturaleza",
+     "Propone a la vez una imagen de lo que el ser humano puede ser",
+     "Se limita a seguir el plan que Dios trazó para ella",
+     "Queda liberada de toda responsabilidad sobre los demás"
+    ],
+    "a": 1,
+    "fb": "Al elegir no nos hacemos solo a nosotros mismos: proponemos también una imagen del ser humano, lo que genera angustia y responsabilidad."
+   },
+   {
+    "q": "Según Kierkegaard, ¿cómo se sitúa el individuo ante la decisión última?",
+    "o": [
+     "Protegido por la masa que decide por él",
+     "Guiado por un sistema que le da la respuesta",
+     "Liberado de toda responsabilidad",
+     "Solo ante Dios, mostrando la tensión de la existencia"
+    ],
+    "a": 3,
+    "fb": "Para Kierkegaard, el individuo ante Dios está solo frente a la decisión última, y esa soledad muestra la tensión de la existencia."
+   }
+  ]
+ },
+ "hf-t26-repaso": {
+  "name": "El feminismo (HF · T26 · repaso)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "Beauvoir afirma que ciertos relatos sobre las mujeres —como «la mujer es un misterio» o «la mujer está llamada a la maternidad»— cumplen una función. ¿Cuál?",
+    "o": [
+     "Convertir en natural lo que en realidad es histórico",
+     "Describir con exactitud cómo se comportan las mujeres",
+     "Reemplazar a la ciencia en el estudio de la feminidad",
+     "Invitar a las mujeres a reclamar más derechos"
+    ],
+    "a": 0,
+    "fb": "Los mitos tienen una función ideológica: presentan como natural lo que es histórico, naturalizando así la opresión."
+   },
+   {
+    "q": "¿Por qué la historia del feminismo no puede entenderse como una mera lista de libros y autoras?",
+    "o": [
+     "Porque se trata de una doctrina cerrada que se transmite sin cambios",
+     "Porque sus textos principales se han perdido con el tiempo",
+     "Porque es un movimiento social que une protesta y reivindicación",
+     "Porque solo la investigan especialistas de las universidades"
+    ],
+    "a": 2,
+    "fb": "El feminismo es ante todo un movimiento social: une organización, protesta, reivindicación de derechos y lenguajes nuevos."
+   },
+   {
+    "q": "¿Qué distingue la igualdad formal de la igualdad material?",
+    "o": [
+     "La primera solo protege a quienes tienen recursos y la segunda a todos por igual",
+     "La primera es jurídica; la segunda exige tiempo, recursos y reconocimiento",
+     "La primera procede de la religión y la segunda de la política moderna",
+     "La primera se aplica en democracia y la segunda en los demás regímenes"
+    ],
+    "a": 1,
+    "fb": "La ley puede reconocer la misma oportunidad, pero si no hay tiempo, recursos o reconocimiento para usarla de verdad, la desigualdad se reproduce."
+   },
+   {
+    "q": "¿Qué pregunta central plantea Martha Nussbaum al hablar de justicia, según la teoría?",
+    "o": [
+     "Cuántos bienes ha acumulado a lo largo de su vida cada individuo",
+     "Qué derechos figuran escritos en las constituciones de cada país",
+     "Cómo repartir el trabajo entre varones y mujeres",
+     "Qué puede hacer y ser realmente cada persona"
+    ],
+    "a": 3,
+    "fb": "Nussbaum usa el enfoque de las capacidades: pregunta qué puede hacer y ser realmente cada persona, no solo qué derechos tiene sobre el papel."
+   },
+   {
+    "q": "¿Por qué, según Nussbaum, una ley aparentemente neutra puede reproducir desigualdades?",
+    "o": [
+     "Porque no tiene en cuenta la perspectiva de género al elaborarse",
+     "Porque toda ley es necesariamente injusta por naturaleza",
+     "Porque las leyes solo sirven para proteger a los varones",
+     "Porque las mujeres rechazan por principio toda regulación"
+    ],
+    "a": 0,
+    "fb": "Nussbaum defiende que al hacer las leyes hay que tener en cuenta la perspectiva de género, porque una neutralidad aparente reproduce muchas veces las desigualdades."
+   },
+   {
+    "q": "Nancy Fraser distingue dos tipos de injusticia de género. ¿Cuál de las siguientes es simbólica?",
+    "o": [
+     "La brecha salarial entre mujeres y varones",
+     "La dependencia económica dentro del matrimonio",
+     "No ser escuchada ni tomada en serio",
+     "La precariedad en el empleo"
+    ],
+    "a": 2,
+    "fb": "Para Fraser son simbólicas el desprecio, el silenciamiento o no ser tomada en serio; las materiales son la brecha salarial o la precariedad."
+   },
+   {
+    "q": "¿Cómo entiende Beauvoir la ambigüedad de la existencia humana?",
+    "o": [
+     "Como la confusión entre lo que es bueno y lo que es malo",
+     "Como una esencia cerrada que determina cada destino",
+     "Como una libertad pura sin ningún tipo de límite",
+     "Como el hecho de ser a la vez libres y condicionados"
+    ],
+    "a": 3,
+    "fb": "Para Beauvoir el ser humano es a la vez libre y condicionado: la existencia no es una esencia cerrada ni una libertad pura y sin límites."
+   },
+   {
+    "q": "¿Qué idea expresa Beauvoir con el término «situación»?",
+    "o": [
+     "Que el sujeto no elige desde la nada, sino desde su cuerpo y sus condiciones",
+     "Que la libertad consiste en ignorar el propio cuerpo",
+     "Que cada persona nace con un destino ya fijado",
+     "Que las relaciones sociales no influyen en las decisiones"
+    ],
+    "a": 0,
+    "fb": "La situación indica que el sujeto no elige desde la nada: lo sitúan su cuerpo, las condiciones de su época y las relaciones sociales."
+   },
+   {
+    "q": "¿Qué añade Judith Butler a la tesis de Beauvoir sobre la construcción de la mujer?",
+    "o": [
+     "Que el cuerpo es un dato puramente natural e invariable",
+     "Que solo el género se construye y el sexo permanece intacto",
+     "Que tampoco el sexo es un dato neutro y anterior a la cultura",
+     "Que la diferencia sexual desaparece por completo"
+    ],
+    "a": 2,
+    "fb": "Butler radicaliza a Beauvoir: los cuerpos se clasifican a través de la medicina, el lenguaje, la ley y las normas sociales; también el sexo se lee culturalmente."
+   },
+   {
+    "q": "¿De dónde toma Butler la idea de que hay enunciados que no describen, sino que hacen lo que dicen?",
+    "o": [
+     "Del psicoanálisis de Freud",
+     "De la teoría de los actos de habla de Austin",
+     "Del materialismo histórico de Marx",
+     "De la dialéctica de Hegel"
+    ],
+    "a": 1,
+    "fb": "Butler parte de los actos de habla de Austin: hay enunciados que no describen, sino que hacen lo que dicen, y el género se produce así performativamente."
+   },
+   {
+    "q": "¿Qué expresa el término «queer» dentro de la teoría, según Butler?",
+    "o": [
+     "La defensa de una identidad sexual única y estable",
+     "Una nueva identidad que se suma a la lista existente",
+     "El rechazo de todo análisis de las categorías",
+     "Una actitud contraria a las identidades y categorías de género fijas"
+    ],
+    "a": 3,
+    "fb": "El término queer expresa una actitud contraria a las identidades sexuales y a las categorías de género fijas; no añade otra identidad, sino que analiza cómo surgen las categorías."
+   },
+   {
+    "q": "¿Qué busca Butler con su propuesta de «deshacer el género»?",
+    "o": [
+     "Mostrar que no existe una identidad original y pura que imitar",
+     "Sustituir un modelo de género por otro más rígido",
+     "Restaurar la distinción tradicional entre sexo y género",
+     "Imponer una única identidad femenina universal"
+    ],
+    "a": 0,
+    "fb": "Butler no busca crear otra identidad fija: según ella no hay una identidad de género verdadera u original; el género surge al repetir normas."
+   },
+   {
+    "q": "¿Qué sostiene Butler sobre el modelo binario y heterosexual de ser mujer o varón?",
+    "o": [
+     "Que es el único modo natural y válido de existir",
+     "Que debe conservarse para evitar el desorden social",
+     "Que pueden surgir otros modos de identidad más allá de él",
+     "Que solo puede superarse mediante una identidad fija"
+    ],
+    "a": 2,
+    "fb": "Butler sostiene que la identidad no tiene que construirse según el modelo binario y heterosexual; pueden surgir otros modos de identidad."
+   },
+   {
+    "q": "¿Qué límite histórico señala la teoría a la primera ola feminista?",
+    "o": [
+     "Que rechazó por completo el derecho al voto",
+     "Que puso en el centro la experiencia de mujeres burguesas y blancas",
+     "Que negó el acceso de las mujeres a la educación",
+     "Que se limitó a la crítica de la vida cotidiana"
+    ],
+    "a": 1,
+    "fb": "La primera ola puso el centro en los derechos políticos, pero a menudo se centró en las mujeres burguesas y blancas, dejando en segundo plano a obreras y racializadas."
+   },
+   {
+    "q": "¿Qué señala Beauvoir sobre el trabajo doméstico?",
+    "o": [
+     "Que carece de todo valor y por eso debe desaparecer",
+     "Que es el único camino de trascendencia para la mujer",
+     "Que la mujer lo elige libremente y sin presiones",
+     "Que es productivo pero no recibe estatus ni valor económico"
+    ],
+    "a": 3,
+    "fb": "Beauvoir advirtió que el trabajo doméstico es productivo pero no se reconoce: no tiene estatus social ni un valor económico claro, y empuja a la inmanencia."
+   },
+   {
+    "q": "¿Cómo trata Beauvoir la idea de que la mujer tiene un destino fijado?",
+    "o": [
+     "Lo entiende como una construcción histórica que la libertad puede romper",
+     "Lo acepta como una ley biológica imposible de cambiar",
+     "Lo atribuye a la voluntad de cada mujer individual",
+     "Lo reduce a una simple cuestión de azar"
+    ],
+    "a": 0,
+    "fb": "Para Beauvoir el destino de la mujer no lo deciden la biología ni la tradición: es una construcción histórica, y la libertad puede romperlo."
+   },
+   {
+    "q": "¿Qué dos riesgos debe evitar el feminismo según la teoría de la interseccionalidad?",
+    "o": [
+     "Excluir a los varones y abandonar la política",
+     "Ignorar la historia y descuidar la filosofía",
+     "Hablar de una experiencia única o fragmentar hasta impedir la acción común",
+     "Copiar el modelo masculino y olvidar los derechos legales"
+    ],
+    "a": 2,
+    "fb": "La interseccionalidad evita dos riesgos: hablar como si todas las mujeres tuvieran la misma experiencia y fragmentar tanto las diferencias que la acción común sea imposible."
+   },
+   {
+    "q": "¿Qué realidad de la vida humana pone en primer plano la ética del cuidado?",
+    "o": [
+     "La competencia entre individuos autónomos",
+     "La interdependencia que nos hace necesitar el trabajo de otros",
+     "La independencia total de cada persona adulta",
+     "La neutralidad del mercado en la vida doméstica"
+    ],
+    "a": 1,
+    "fb": "La vida real está hecha de interdependencia: en la infancia, la enfermedad o la vejez necesitamos el trabajo invisible de otras personas."
+   },
+   {
+    "q": "¿Mediante qué mecanismo se ha construido, según Beauvoir, la separación entre lo masculino y lo femenino?",
+    "o": [
+     "Mediante un pacto político acordado entre las naciones europeas",
+     "Mediante la observación desinteresada y neutra de la realidad social",
+     "Mediante una ley divina que ninguna sociedad puede cambiar",
+     "Mediante oposiciones que reservan lo racional y lo fuerte al varón"
+    ],
+    "a": 3,
+    "fb": "Beauvoir describe una lógica de oposiciones: lo positivo para el hombre, lo negativo para la mujer; así la mujer no puede ocupar el lugar del sujeto universal."
+   }
+  ]
+ },
+ "hf-t27-repaso": {
+  "name": "Retos del siglo XXI (HF · T27 · repaso)",
+  "subject": "hf",
+  "block": "C",
+  "items": [
+   {
+    "q": "Según el tema, la aportación de Noam Chomsky se desarrolla en dos campos. ¿Cuáles son?",
+    "o": [
+     "La economía y la ecología",
+     "La biología y la medicina",
+     "La lingüística y la política",
+     "La estética y la metafísica"
+    ],
+    "a": 2,
+    "fb": "La aportación de Chomsky es doble: estudia las estructuras de la capacidad lingüística y, en política, denuncia cómo se moldea la opinión pública."
+   },
+   {
+    "q": "La frase «la propaganda es a la democracia lo que la porra es al Estado totalitario» pertenece a…",
+    "o": [
+     "Byung-Chul Han",
+     "Zygmunt Bauman",
+     "Naomi Klein",
+     "Noam Chomsky"
+    ],
+    "a": 3,
+    "fb": "Es una cita de Chomsky en Media Control, con la que compara el papel de la propaganda en las democracias con el de la porra en el totalitarismo."
+   },
+   {
+    "q": "Según Han, la sociedad disciplinaria se organizaba en torno a…",
+    "o": [
+     "las prohibiciones y las órdenes externas",
+     "el mandato constante de mejorar y producir",
+     "la exhibición voluntaria de uno mismo",
+     "la autoexplotación del sujeto"
+    ],
+    "a": 0,
+    "fb": "La sociedad disciplinaria sometía al sujeto a prohibiciones y órdenes externas, a diferencia de la sociedad del rendimiento, que se apoya en la autoexigencia."
+   },
+   {
+    "q": "«El sujeto de rendimiento se explota a sí mismo.» ¿De qué autor es esta idea central?",
+    "o": [
+     "Martha Nussbaum",
+     "Byung-Chul Han",
+     "Judith Butler",
+     "Noam Chomsky"
+    ],
+    "a": 1,
+    "fb": "Es la idea central de Byung-Chul Han en La sociedad del cansancio: el sujeto actual se empuja a sí mismo a rendir más, sin necesidad de un vigilante externo."
+   },
+   {
+    "q": "Según el tema, el enfoque de las capacidades rechaza reducir el bienestar…",
+    "o": [
+     "a una media económica o al mero poder de consumo",
+     "a la felicidad subjetiva de cada persona",
+     "a la participación política",
+     "al desarrollo de las capacidades"
+    ],
+    "a": 0,
+    "fb": "El enfoque de Nussbaum muestra que el bienestar no puede reducirse a una media económica ni al mero poder de consumo, sino a las capacidades reales."
+   },
+   {
+    "q": "Entre las capacidades que Nussbaum considera necesarias para una vida digna figura…",
+    "o": [
+     "la acumulación ilimitada de riqueza",
+     "la relación adecuada con el entorno",
+     "el consumo de bienes de lujo",
+     "el éxito profesional a toda costa"
+    ],
+    "a": 1,
+    "fb": "La lista de capacidades de Nussbaum incluye, entre otras, la «relación adecuada con el entorno», junto a la vida, la salud, el juego o la afiliación."
+   },
+   {
+    "q": "Butler explica que lo que se presenta como «normal» no es simplemente natural, sino el resultado de una norma repetida. ¿Cómo denomina el tema a esa norma?",
+    "o": [
+     "biopolítica",
+     "contrasexualidad",
+     "heteronorma",
+     "psicopolítica"
+    ],
+    "a": 2,
+    "fb": "El tema denomina «heteronorma» a lo que se presenta como normal, que no es natural sino el resultado de una norma repetida, según Butler."
+   },
+   {
+    "q": "Según el glosario del tema, ¿qué es la performatividad?",
+    "o": [
+     "La esencia biológica e inmutable del sexo",
+     "La prohibición externa de los roles sociales",
+     "La clasificación natural de los cuerpos",
+     "El género como acto repetido"
+    ],
+    "a": 3,
+    "fb": "La performatividad designa el género como acto repetido: algo que hacemos mediante la repetición de gestos, ropa y formas de hablar."
+   },
+   {
+    "q": "Según el glosario, la ecodependencia es la idea de que…",
+    "o": [
+     "el ser humano es un sujeto soberano situado fuera de la naturaleza",
+     "la economía funciona al margen de la biosfera",
+     "la vida humana depende de las condiciones materiales y energéticas de la naturaleza",
+     "solo las sociedades rurales dependen del entorno"
+    ],
+    "a": 2,
+    "fb": "La ecodependencia sostiene que la vida humana depende de las condiciones materiales y energéticas de la naturaleza: no hay economía fuera de la biosfera."
+   },
+   {
+    "q": "Frente a un sistema «en guerra contra la vida», ¿qué propone Yayo Herrero?",
+    "o": [
+     "acelerar el crecimiento económico sin límites",
+     "reducir al mínimo el papel de la política",
+     "confiar en que el mercado se autorregule",
+     "poner la vida y los cuidados en el centro de la política"
+    ],
+    "a": 3,
+    "fb": "Herrero propone poner la vida y los cuidados en el centro de la política, en lugar de la acumulación de capital, frente a un sistema que niega los límites."
+   },
+   {
+    "q": "El tema sostiene que muchos trabajos y cuerpos que sostienen la vida…",
+    "o": [
+     "se han vuelto invisibles y a menudo no se reconocen como es debido",
+     "son la parte más valorada y reconocida de la economía",
+     "quedan por completo fuera de toda actividad económica",
+     "son responsabilidad exclusiva del mercado"
+    ],
+    "a": 0,
+    "fb": "Los cuidados, la reproducción social y los vínculos comunitarios sostienen la economía, pero se han vuelto invisibles y a menudo no se reconocen como es debido."
+   },
+   {
+    "q": "Según el tema, ¿qué necesita la esfera pública para que la democracia funcione de verdad?",
+    "o": [
+     "velocidad, escándalo y polarización constantes",
+     "una publicidad más agresiva",
+     "información fiable, debate razonado y atención compartida",
+     "la desaparición de todos los medios"
+    ],
+    "a": 2,
+    "fb": "La esfera pública necesita información fiable, debate razonado y atención compartida, condiciones que la lógica de las plataformas suele debilitar."
+   },
+   {
+    "q": "Un sistema automático de selección de personal descarta a candidatas de ciertos barrios porque aprende de datos históricos sesgados. ¿Qué concepto del glosario lo explica mejor?",
+    "o": [
+     "La discriminación algorítmica",
+     "La fabricación del consentimiento",
+     "La sociedad del cansancio",
+     "La era farmacopornográfica"
+    ],
+    "a": 0,
+    "fb": "Es discriminación algorítmica: el sistema automatizado repite y refuerza las desigualdades presentes en los datos históricos con los que fue entrenado."
+   }
+  ]
  }
 };
