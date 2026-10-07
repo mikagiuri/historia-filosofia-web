@@ -745,7 +745,7 @@ const GLOSARIO = [
   "bloque": "B",
   "unidad": "BH",
   "tema": "Hume",
-  "def": "La tendencia a extraer conclusiones generales sobre el futuro desde las experiencias pasadas; para Hume no puede demostrarse lógicamente, la sostienen el hábito y la probabilidad."
+  "def": "La dificultad de justificar la inducción: que algo haya ocurrido siempre no garantiza lógicamente que vaya a seguir ocurriendo. Para Hume, esa expectativa no la funda la razón, sino el hábito."
  },
  {
   "subject": "hf",
