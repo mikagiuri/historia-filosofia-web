@@ -9,6 +9,7 @@ const THEORY_SUBJECTS = { fil: "Filosofía 1.º", hf: "Historia de la Filosofía
 const THEORY_BLOCKS = { A: "Bloque A · Antigua", B: "Bloque B · Medieval-Moderna", C: "Bloque C · Contemporánea" };
 
 function blockOf(t){
+  if (t.sigla) return t.sigla.charAt(0);   /* (07-10) AP/AA: temas sin número; la sigla empieza por su bloque */
   /* «Tema 19» en castellano; «19. gaia» en euskera (antes, en la web vasca, el filtro de bloque vaciaba la lista) */
   const m = (t.tema || "").match(/Tema (\d+)|(\d+)\. gaia/);
   if (!m && typeof t.temaN !== "number") return null;   /* anexos: sin «Tema N» en el nombre, con temaN */
