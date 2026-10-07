@@ -1903,19 +1903,9 @@ const CRONOGRAMAS = [
     "end": 1855
    },
    {
-    "name": "Temor y temblor",
-    "start": 1843,
-    "end": 1843
-   },
-   {
     "name": "Ortega y Gasset",
     "start": 1883,
     "end": 1955
-   },
-   {
-    "name": "Meditaciones del Quijote",
-    "start": 1914,
-    "end": 1914
    },
    {
     "name": "Heidegger",
@@ -1923,19 +1913,9 @@ const CRONOGRAMAS = [
     "end": 1976
    },
    {
-    "name": "Ser y tiempo",
-    "start": 1927,
-    "end": 1927
-   },
-   {
     "name": "Camus",
     "start": 1913,
     "end": 1960
-   },
-   {
-    "name": "El mito de Sísifo",
-    "start": 1942,
-    "end": 1942
    },
    {
     "name": "Sartre",
@@ -1943,24 +1923,9 @@ const CRONOGRAMAS = [
     "end": 1980
    },
    {
-    "name": "El ser y la nada",
-    "start": 1943,
-    "end": 1943
-   },
-   {
-    "name": "El existencialismo es un humanismo",
-    "start": 1946,
-    "end": 1946
-   },
-   {
     "name": "Beauvoir",
     "start": 1908,
     "end": 1986
-   },
-   {
-    "name": "El segundo sexo",
-    "start": 1949,
-    "end": 1949
    }
   ],
   "events": []
