@@ -542,6 +542,13 @@ const CITAS = [
   "img": "media/retratos/citas/dussel.jpg"
  },
  {
+  "c": "El ser humano es un animal simbólico.",
+  "a": "Ernst Cassirer",
+  "o": "Antropología filosófica (1944), cap. II",
+  "e": "contemporanea",
+  "img": "media/retratos/museo/cassirer.jpg"
+ },
+ {
   "c": "El saber no está hecho para comprender, sino para cortar.",
   "a": "Foucault",
   "o": "«Nietzsche, la genealogía, la historia» (1971)",
