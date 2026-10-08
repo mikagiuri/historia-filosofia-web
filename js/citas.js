@@ -208,6 +208,13 @@ const CITAS = [
   "img": "media/retratos/museo2/adam-smith.jpg"
  },
  {
+  "c": "El hombre no es más que una caña, la más débil de la naturaleza, pero es una caña que piensa.",
+  "a": "Blaise Pascal",
+  "o": "Pensamientos, fr. 200 (ed. Lafuma) / 347 (ed. Brunschvicg)",
+  "e": "moderna",
+  "img": "media/retratos/museo2/pascal.jpg"
+ },
+ {
   "c": "La razón es, y solo debe ser, esclava de las pasiones.",
   "a": "David Hume",
   "o": "Tratado de la naturaleza humana II, 3, 3",
@@ -1076,6 +1083,12 @@ const CITAS = [
   "c": "Somos todos retazos, y de una contextura tan informe y diversa que cada pieza, cada momento, hace su juego. Y hay tanta diferencia de nosotros a nosotros mismos como de nosotros a otro.",
   "a": "Montaigne",
   "o": "Ensayos (1580) II, 1",
+  "e": "moderna"
+ },
+ {
+  "c": "Nada hay justo ni injusto que no cambie de cualidad al cambiar de clima. […] ¡Graciosa justicia la que limita un río! Verdad de este lado de los Pirineos, error del otro.",
+  "a": "Blaise Pascal",
+  "o": "Pensamientos, fr. 60 (ed. Lafuma) / 294 (ed. Brunschvicg)",
   "e": "moderna"
  },
  {
