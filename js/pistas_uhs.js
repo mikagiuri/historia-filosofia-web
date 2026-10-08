@@ -190,7 +190,7 @@ const PISTAS = [
          "Relee el primer párrafo de la explicación."
         ],
         [
-         "A los sofistas.",
+         "A un sofista.",
          false,
          "No. El que vuelve no es un sofista, y los sofistas no condenaron a nadie. Quienes lo rechazan son los prisioneros, la gente corriente de Atenas; el que muere es el maestro de Platón."
         ],
