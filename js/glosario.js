@@ -3,6 +3,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "A priori",
+  "et": "Del latín *a priori*, «desde lo que va antes»: antes de la experiencia.",
   "area": "Epistemología",
   "bloque": "C",
   "unidad": "CK",
@@ -12,6 +13,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Abstracción",
+  "et": "Del latín *abstrahere*, «arrastrar fuera, separar» (*abs-* «fuera» + *trahere* «arrastrar»).",
   "area": "Epistemología",
   "bloque": "A",
   "unidad": "AA",
@@ -21,6 +23,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Acto y potencia",
+  "et": "Del latín *actus*, «acción, hecho», y *potentia*, «poder, capacidad». Traducen el griego ἐνέργεια (*enérgeia*) y δύναμις (*dýnamis*): de ahí *energía* y *dinámica*.",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "AA",
@@ -39,6 +42,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Alienación",
+  "et": "Del latín *alienatio*, de *alienus*, «ajeno, de otro»: volverse extraño a uno mismo.",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "CM",
@@ -48,6 +52,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Alteridad",
+  "et": "Del latín *alter*, «el otro» (de dos).",
   "area": "Feminismo",
   "bloque": "C",
   "unidad": "C9",
@@ -57,6 +62,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Anarquismo metodológico",
+  "et": "*Anarquía*, del griego ἀναρχία (*anarkhía*): ἀν- (*an-*) «sin» + ἀρχή (*arkhé*) «mando».",
   "area": "Método",
   "bloque": "C",
   "unidad": "C7",
@@ -66,6 +72,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Angustia",
+  "et": "Del latín *angustia*, «estrechez», de *angustus*, «estrecho»: la sensación de que falta el aire.",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "C8",
@@ -75,6 +82,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Anticapitalismo",
+  "et": "*Capital*, del latín *capitalis*, de *caput*, «cabeza»: lo principal de una deuda o de unos bienes.",
   "area": "Economía",
   "bloque": "C",
   "unidad": "C5A",
@@ -84,6 +92,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Antinomia",
+  "et": "Del griego ἀντινομία (*antinomía*): ἀντί (*antí*) «contra» + νόμος (*nómos*) «ley»: dos leyes que chocan.",
   "area": "Metafísica",
   "bloque": "C",
   "unidad": "CK",
@@ -93,6 +102,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Apatheia",
+  "et": "Del griego ἀπάθεια (*apátheia*): ἀ- (*a-*) «sin» + πάθος (*páthos*) «pasión, lo que se padece». De ahí *apatía*.",
   "area": "Ética",
   "bloque": "A",
   "unidad": "A10",
@@ -102,6 +112,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Apologetas",
+  "et": "Del griego ἀπολογία (*apología*), «defensa» ante un tribunal: los apologetas defendían el cristianismo de sus acusadores.",
   "area": "Religión",
   "bloque": "B",
   "unidad": "B1",
@@ -111,6 +122,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Aponía",
+  "et": "Del griego ἀπονία (*aponía*): ἀ- (*a-*) «sin» + πόνος (*pónos*) «dolor, fatiga».",
   "area": "Ética",
   "bloque": "A",
   "unidad": "A10",
@@ -120,6 +132,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Aporía",
+  "et": "Del griego ἀπορία (*aporía*): ἀ- (*a-*) «sin» + πόρος (*póros*) «paso, camino»: «sin salida».",
   "area": "Método",
   "bloque": "A",
   "unidad": "A5",
@@ -129,6 +142,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Areté",
+  "et": "Del griego ἀρετή (*areté*), «excelencia»: lo mejor que algo o alguien puede llegar a ser. Se suele emparentar con ἄριστος (*áristos*), «el mejor», de donde viene *aristocracia*.",
   "area": "Ética",
   "bloque": "A",
   "unidad": "A8",
@@ -138,6 +152,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Argumento ontológico",
+  "et": "*Ontológico*, del griego ὄν, ὄντος (*on, óntos*), «lo que es», y λόγος (*lógos*), «razón, estudio»: un argumento que parte solo de lo que es Dios.",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "BD",
@@ -147,6 +162,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Arkhé",
+  "et": "Del griego ἀρχή (*arkhé*), «principio, origen» y también «mando». De ahí *arqueología* y *monarquía*.",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "A4",
@@ -156,6 +172,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Ataraxia",
+  "et": "Del griego ἀταραξία (*ataraxía*): ἀ- (*a-*) «sin» + ταράσσειν (*tarássein*) «agitar, perturbar».",
   "area": "Ética",
   "bloque": "A",
   "unidad": "A10",
@@ -165,6 +182,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Aura",
+  "et": "Del griego αὔρα (*aúra*), «brisa, soplo».",
   "area": "Estética",
   "bloque": "C",
   "unidad": "C5A",
@@ -174,6 +192,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Autarquía",
+  "et": "Del griego αὐτάρκεια (*autárkeia*): αὐτός (*autós*) «uno mismo» + ἀρκεῖν (*arkéin*) «bastar»: «bastarse a sí mismo».",
   "area": "Ética",
   "bloque": "A",
   "unidad": "A10",
@@ -183,6 +202,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Autonomía",
+  "et": "Del griego αὐτός (*autós*) «uno mismo» + νόμος (*nómos*) «ley»: «darse a sí mismo la ley».",
   "area": "Ética",
   "bloque": "C",
   "unidad": "CK",
@@ -192,6 +212,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Banalidad del mal",
+  "et": "*Banal*, del francés *banal*: al principio, lo que era de uso común para todos los vecinos de un señorío (el horno, el molino); de ahí, «corriente, trivial».",
   "area": "Ética",
   "bloque": "C",
   "unidad": "C5B",
@@ -201,6 +222,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Biopolítica",
+  "et": "Del griego βίος (*bíos*) «vida» + πολιτική (*politiké*) «lo que toca a la ciudad».",
   "area": "Política",
   "bloque": "C",
   "unidad": "C6",
@@ -219,6 +241,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Categoría",
+  "et": "Del griego κατηγορία (*kategoría*), «acusación», de κατηγορεῖν (*kategoréin*), «acusar, decir algo de alguien». Aristóteles lo usó para los modos de decir algo de algo.",
   "area": "Epistemología",
   "bloque": "C",
   "unidad": "CK",
@@ -228,6 +251,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Cinismo",
+  "et": "Del griego κυνικός (*kynikós*), «perruno», de κύων (*kýon*), «perro»: así llamaban a Diógenes y a los suyos por vivir sin vergüenza ni convenciones.",
   "area": "Ética",
   "bloque": "A",
   "unidad": "A10",
@@ -237,6 +261,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Circunstancia",
+  "et": "Del latín *circumstantia*: *circum* «alrededor» + *stare* «estar»: lo que está alrededor de mí.",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "C8",
@@ -264,6 +289,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Cogito",
+  "et": "Del latín *cogito*, «pienso», de *cogitare* (*co-* + *agitare*): «darle vueltas a algo en la cabeza».",
   "area": "Antropología",
   "bloque": "B",
   "unidad": "BD",
@@ -273,6 +299,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Colaboración fe-razón",
+  "et": "*Fe*, del latín *fides*, «confianza». *Razón*, del latín *ratio*, «cálculo, cuenta».",
   "area": "Religión",
   "bloque": "B",
   "unidad": "B1",
@@ -282,6 +309,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Colonialismo",
+  "et": "*Colonia*, del latín *colonus*, «labrador», de *colere*, «cultivar, habitar».",
   "area": "Política",
   "bloque": "C",
   "unidad": "C5A",
@@ -291,6 +319,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Consumismo",
+  "et": "Del latín *consumere*, «gastar, agotar».",
   "area": "Economía",
   "bloque": "C",
   "unidad": "C10",
@@ -309,6 +338,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Contrato social",
+  "et": "*Contrato*, del latín *contractus*, de *contrahere*, «juntar, cerrar un trato».",
   "area": "Política",
   "bloque": "B",
   "unidad": "B6",
@@ -318,6 +348,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Conversión",
+  "et": "Del latín *conversio*, de *convertere*, «darse la vuelta, girarse» hacia otra dirección.",
   "area": "Religión",
   "bloque": "B",
   "unidad": "B1",
@@ -327,6 +358,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Cosmopolitismo",
+  "et": "Del griego κοσμοπολίτης (*kosmopolítes*): κόσμος (*kósmos*) «mundo» + πολίτης (*polítes*) «ciudadano». Diógenes se llamaba a sí mismo «ciudadano del mundo».",
   "area": "Política",
   "bloque": "C",
   "unidad": "CK",
@@ -336,6 +368,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Crisis ecológica",
+  "et": "*Crisis*, del griego κρίσις (*krísis*), «decisión, momento decisivo». *Ecología*, del griego οἶκος (*oîkos*) «casa» + λόγος (*lógos*) «estudio».",
   "area": "Ecología",
   "bloque": "C",
   "unidad": "C10",
@@ -345,6 +378,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Criticismo",
+  "et": "Del griego κρίνειν (*krínein*), «separar, juzgar, decidir». La crítica separa lo que la razón puede conocer de lo que no.",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "B4",
@@ -354,6 +388,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Crítica",
+  "et": "Del griego κρίνειν (*krínein*), «separar, juzgar, decidir».",
   "area": "Método",
   "bloque": "C",
   "unidad": "CK",
@@ -381,6 +416,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Dasein",
+  "et": "Del alemán *da* «ahí» + *sein* «ser»: «ser-ahí». En el alemán de todos los días significa «existencia».",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "C8",
@@ -390,6 +426,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Deber",
+  "et": "Del latín *debere* (*de-* + *habere*, «tener»): tener algo recibido de otro y estar obligado a devolverlo.",
   "area": "Ética",
   "bloque": "C",
   "unidad": "CK",
@@ -417,6 +454,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Derechos naturales",
+  "et": "*Derecho*, del latín *directum*, «lo recto». *Natural*, de *natura*, que viene de *nasci*, «nacer».",
   "area": "Política",
   "bloque": "B",
   "unidad": "B6",
@@ -435,6 +473,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Descolonización",
+  "et": "*Colonia*, del latín *colonus*, «labrador», de *colere*, «cultivar, habitar».",
   "area": "Política",
   "bloque": "C",
   "unidad": "C5A",
@@ -471,6 +510,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Deus sive Natura",
+  "et": "Del latín: «Dios, o sea, la Naturaleza» (*sive*, «o sea»).",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "BS",
@@ -480,6 +520,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Dialéctica",
+  "et": "Del griego διαλεκτική (*dialektiké*), de διαλέγεσθαι (*dialégesthai*), «conversar»: el arte del diálogo.",
   "area": "Método",
   "bloque": "C",
   "unidad": "CXIX",
@@ -489,6 +530,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Dialéctica materialista",
+  "et": "*Dialéctica*, del griego διαλέγεσθαι (*dialégesthai*), «conversar»: el arte del diálogo.",
   "area": "Método",
   "bloque": "C",
   "unidad": "CM",
@@ -498,6 +540,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Dialéctica negativa",
+  "et": "*Dialéctica*, del griego διαλέγεσθαι (*dialégesthai*), «conversar»: el arte del diálogo.",
   "area": "Método",
   "bloque": "C",
   "unidad": "C5A",
@@ -507,6 +550,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Différance",
+  "et": "Palabra inventada por Derrida: mezcla el francés *différence*, «diferencia», y *différer*, «aplazar». La *a* solo se nota al escribir; al oírla, suena igual que *différence*.",
   "area": "Lenguaje",
   "bloque": "C",
   "unidad": "C6",
@@ -516,6 +560,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Dignidad",
+  "et": "Del latín *dignitas*, de *dignus*, «merecedor».",
   "area": "Ética",
   "bloque": "C",
   "unidad": "CK",
@@ -525,11 +570,12 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Dignitas hominis",
+  "et": "Del latín: «la dignidad del ser humano». *Dignitas* viene de *dignus*, «merecedor».",
   "area": "Antropología",
   "bloque": "B",
   "unidad": "B3",
   "tema": "Renacimiento y ciencia",
-  "def": "La dignidad del hombre (lat.): el humanismo renacentista (Pico della Mirandola) defendió que el ser humano no tiene una naturaleza fija, que es un ser capaz de construirse a sí mismo en libertad."
+  "def": "La dignidad del hombre: el humanismo renacentista (Pico della Mirandola) defendió que el ser humano no tiene una naturaleza fija, que es un ser capaz de construirse a sí mismo en libertad."
  },
  {
   "subject": "hf",
@@ -552,6 +598,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Doxa",
+  "et": "Del griego δόξα (*dóxa*), «opinión, parecer», de δοκεῖν (*dokéin*), «parecer». De ahí *ortodoxo* y *paradoja*.",
   "area": "Epistemología",
   "bloque": "A",
   "unidad": "AP",
@@ -561,6 +608,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Dualismo",
+  "et": "Del latín *duo*, «dos».",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "B5",
@@ -570,6 +618,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Dualismo ontológico",
+  "et": "*Dualismo*, del latín *duo*, «dos». *Ontológico*, del griego ὄν, ὄντος (*on, óntos*), «lo que es», y λόγος (*lógos*), «estudio».",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "AP",
@@ -579,6 +628,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Duda metódica",
+  "et": "*Duda*, del latín *dubitare*, emparentado con *duo*, «dos»: estar entre dos posibilidades. *Método*, del griego μέθοδος (*méthodos*), «camino».",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "BD",
@@ -588,6 +638,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Ecodependencia",
+  "et": "*Eco-*, del griego οἶκος (*oîkos*), «casa»: la Tierra como la casa común.",
   "area": "Ecología",
   "bloque": "C",
   "unidad": "C10",
@@ -606,6 +657,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "El absurdo",
+  "et": "Del latín *absurdus*, «que suena mal, disonante» (*ab-* + *surdus*, «sordo»).",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "C8",
@@ -642,6 +694,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "El Canon de medicina",
+  "et": "*Canon*, del griego κανών (*kanón*), «vara de medir, regla».",
   "area": "Ciencia",
   "bloque": "B",
   "unidad": "BAV",
@@ -651,6 +704,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "El criterio de autoridad",
+  "et": "*Criterio*, del griego κριτήριον (*kritérion*), «lo que sirve para juzgar». *Autoridad*, del latín *auctoritas*, de *auctor*, «el que hace crecer, el autor».",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "B3",
@@ -678,6 +732,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "El genio maligno",
+  "et": "*Genio*, del latín *genius*, el espíritu que acompaña a cada persona. *Maligno*, de *malus*, «malo».",
   "area": "Método",
   "bloque": "B",
   "unidad": "BD",
@@ -696,6 +751,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "El Liceo",
+  "et": "Del griego Λύκειον (*Lýkeion*), el gimnasio de Atenas junto al templo de Apolo Liceo donde enseñaba Aristóteles. De ahí *liceo*, «escuela».",
   "area": "Educación",
   "bloque": "A",
   "unidad": "AA",
@@ -714,6 +770,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "El mito de la caverna",
+  "et": "*Mito*, del griego μῦθος (*mýthos*), «relato, narración».",
   "area": "Epistemología",
   "bloque": "A",
   "unidad": "AP",
@@ -732,6 +789,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "El mundo de la vida (Lebenswelt)",
+  "et": "Del alemán *Leben* «vida» + *Welt* «mundo».",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "C8",
@@ -741,6 +799,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "El problema de la inducción",
+  "et": "*Inducción*, del latín *inductio*, de *inducere*, «conducir hacia»: de los casos a la regla. Traduce el griego ἐπαγωγή (*epagogé*).",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "BH",
@@ -822,6 +881,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Emotivismo",
+  "et": "*Emoción*, del latín *emovere*, «sacar de su sitio, conmover».",
   "area": "Ética",
   "bloque": "B",
   "unidad": "BH",
@@ -831,6 +891,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Empirismo",
+  "et": "Del griego ἐμπειρία (*empeiría*), «experiencia», de πεῖρα (*peîra*), «prueba, intento».",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "B4",
@@ -840,6 +901,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Episteme",
+  "et": "Del griego ἐπιστήμη (*epistéme*), «conocimiento firme, ciencia». De ahí *epistemología*.",
   "area": "Epistemología",
   "bloque": "A",
   "unidad": "AP",
@@ -858,6 +920,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Escolástica",
+  "et": "Del griego σχολή (*skholé*), «ocio, tiempo libre», que pasó a significar «lugar de estudio». De ahí *escuela*.",
   "area": "Método",
   "bloque": "B",
   "unidad": "BT",
@@ -885,6 +948,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Espíritu objetivo",
+  "et": "*Espíritu*, del latín *spiritus*, «soplo, aliento». Traduce el alemán *Geist*.",
   "area": "Política",
   "bloque": "C",
   "unidad": "CXIX",
@@ -894,6 +958,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Esquematismo",
+  "et": "Del griego σχῆμα (*skhêma*), «forma, figura».",
   "area": "Epistemología",
   "bloque": "C",
   "unidad": "CK",
@@ -912,15 +977,17 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Falacia",
+  "et": "Del latín *fallacia*, «engaño», de *fallere*, «engañar».",
   "area": "Método",
   "bloque": "A",
   "unidad": "A1-A2",
   "tema": "En el umbral de la filosofía",
-  "def": "Etimología: del latín fallacia, engaño. Definición: Razonamiento que parece sólido pero no justifica debidamente su conclusión."
+  "def": "Razonamiento que parece sólido pero no justifica debidamente su conclusión."
  },
  {
   "subject": "hf",
   "t": "Falsabilidad",
+  "et": "Del latín *falsus*, «engañoso, falso».",
   "area": "Ciencia",
   "bloque": "C",
   "unidad": "C7",
@@ -939,6 +1006,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Feminismo",
+  "et": "Del latín *femina*, «mujer».",
   "area": "Feminismo",
   "bloque": "C",
   "unidad": "C9",
@@ -948,6 +1016,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Fenomenismo",
+  "et": "Del griego φαινόμενον (*phainómenon*), «lo que aparece», de φαίνεσθαι (*phaínesthai*), «aparecer, mostrarse».",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "BH",
@@ -957,6 +1026,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Fenómeno",
+  "et": "Del griego φαινόμενον (*phainómenon*), «lo que aparece», de φαίνεσθαι (*phaínesthai*), «mostrarse».",
   "area": "Epistemología",
   "bloque": "C",
   "unidad": "CK",
@@ -966,6 +1036,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Fetichismo",
+  "et": "*Fetiche*, del portugués *feitiço*, «hechizo, objeto mágico», y este del latín *facticius*, «hecho a mano, artificial».",
   "area": "Economía",
   "bloque": "C",
   "unidad": "CM",
@@ -975,6 +1046,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Genealogía de la moral",
+  "et": "*Genealogía*, del griego γενεά (*geneá*) «linaje» + λόγος (*lógos*) «estudio»: buscar de dónde viene algo.",
   "area": "Política",
   "bloque": "C",
   "unidad": "CN",
@@ -984,6 +1056,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Giro antropológico",
+  "et": "*Antropológico*, del griego ἄνθρωπος (*ánthropos*), «ser humano», y λόγος (*lógos*), «estudio».",
   "area": "Antropología",
   "bloque": "A",
   "unidad": "A5",
@@ -1002,6 +1075,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Globalización",
+  "et": "Del latín *globus*, «bola».",
   "area": "Sociedad",
   "bloque": "C",
   "unidad": "C10",
@@ -1020,6 +1094,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Haz de percepciones",
+  "et": "*Percepción*, del latín *perceptio*, de *percipere* (*per-* + *capere* «tomar»): «captar».",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "BH",
@@ -1029,6 +1104,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Hegemonía cultural",
+  "et": "*Hegemonía*, del griego ἡγεμονία (*hegemonía*), «dirección», de ἡγεμών (*hegemón*), «el que guía, el que va delante».",
   "area": "Política",
   "bloque": "C",
   "unidad": "C5A",
@@ -1038,6 +1114,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Helenismo",
+  "et": "Del griego Ἕλλην (*Héllen*), «griego»: los griegos se llamaban a sí mismos helenos.",
   "area": "Historia",
   "bloque": "A",
   "unidad": "A10",
@@ -1047,6 +1124,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Hermenéutica",
+  "et": "Del griego ἑρμηνευτική (*hermeneutiké*), de ἑρμηνεύειν (*hermeneúein*), «interpretar, traducir». Se suele relacionar con Hermes, el mensajero de los dioses, aunque esa relación es dudosa.",
   "area": "Lenguaje",
   "bloque": "C",
   "unidad": "C4",
@@ -1056,6 +1134,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Hilemorfismo",
+  "et": "Del griego ὕλη (*hýle*) «materia» (al principio, «madera») + μορφή (*morphé*) «forma».",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "AA",
@@ -1065,15 +1144,17 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Hilozoísmo",
+  "et": "Del griego ὕλη (*hýle*) «materia» + ζωή (*zoé*) «vida»: «materia viva».",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "A4",
   "tema": "Los primeros filósofos",
-  "def": "La visión de que la materia está viva por sí misma y dotada de movimiento (gr. hýlē, materia + zōḗ, vida). Los físicos de Mileto entendieron el arkhé como algo viviente, sin separar vida y materia."
+  "def": "La visión de que la materia está viva por sí misma y dotada de movimiento. Los físicos de Mileto entendieron el arkhé como algo viviente, sin separar vida y materia."
  },
  {
   "subject": "hf",
   "t": "Historicidad",
+  "et": "*Historia*, del griego ἱστορία (*historía*), «indagación, investigación».",
   "area": "Historia",
   "bloque": "A",
   "unidad": "A1-A2",
@@ -1092,6 +1173,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Homeomerías",
+  "et": "Del griego ὅμοιος (*hómoios*) «semejante» + μέρος (*méros*) «parte»: «partes semejantes».",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "A4",
@@ -1110,6 +1192,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Humanismo",
+  "et": "Del latín *humanitas*, de *humanus*. *Homo*, «ser humano», está emparentado con *humus*, «tierra».",
   "area": "Antropología",
   "bloque": "B",
   "unidad": "B3",
@@ -1119,6 +1202,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Hábito",
+  "et": "Del latín *habitus*, «manera de ser», de *habere*, «tener».",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "BH",
@@ -1137,6 +1221,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Ideas claras y distintas",
+  "et": "*Idea*, del griego ἰδέα (*idéa*), «aspecto, forma visible». *Distinto*, del latín *distinctus*, «separado» de lo demás.",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "BD",
@@ -1146,6 +1231,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Ideología",
+  "et": "Del griego ἰδέα (*idéa*) + λόγος (*lógos*): la palabra la inventó Destutt de Tracy en 1796 para una «ciencia de las ideas».",
   "area": "Sociedad",
   "bloque": "C",
   "unidad": "CM",
@@ -1164,6 +1250,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Imperialismo",
+  "et": "Del latín *imperium*, «mando».",
   "area": "Economía",
   "bloque": "C",
   "unidad": "C5A",
@@ -1173,6 +1260,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Impresión",
+  "et": "Del latín *impressio*, de *imprimere*, «apretar encima, dejar marca», como un sello en la cera.",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "BH",
@@ -1182,6 +1270,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Inconmensurabilidad",
+  "et": "Del latín *in-* «no» + *commensurabilis* «que se puede medir con la misma medida»: sin medida común.",
   "area": "Ciencia",
   "bloque": "C",
   "unidad": "C7",
@@ -1191,6 +1280,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Industria cultural",
+  "et": "*Industria*, del latín *industria*, «actividad, laboriosidad».",
   "area": "Estética",
   "bloque": "C",
   "unidad": "C5A",
@@ -1200,6 +1290,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Infraestructura / superestructura",
+  "et": "Del latín *infra* «debajo» y *super* «encima» + *structura*, de *struere*, «construir».",
   "area": "Sociedad",
   "bloque": "C",
   "unidad": "CM",
@@ -1209,6 +1300,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Inmaterialismo",
+  "et": "*Materia*, del latín *materia*, «madera, material de construcción», emparentado con *mater*, «madre».",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "BL",
@@ -1218,6 +1310,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Innatismo",
+  "et": "Del latín *innatus*, «nacido dentro» (*in* + *nasci* «nacer»).",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "BD",
@@ -1227,6 +1320,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Intelectualismo moral",
+  "et": "*Intelecto*, del latín *intellectus*, de *intellegere*, «entender» (literalmente, «escoger entre»).",
   "area": "Ética",
   "bloque": "A",
   "unidad": "A5",
@@ -1236,6 +1330,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Intencionalidad",
+  "et": "Del latín *intendere*, «tender hacia»: la conciencia siempre apunta hacia algo.",
   "area": "Epistemología",
   "bloque": "C",
   "unidad": "C8",
@@ -1245,6 +1340,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Interioridad",
+  "et": "Del latín *interior*, «más adentro».",
   "area": "Religión",
   "bloque": "B",
   "unidad": "B1",
@@ -1254,6 +1350,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Interseccionalidad",
+  "et": "Del latín *intersectio*, de *inter* «entre» + *secare* «cortar»: el punto donde se cruzan dos líneas.",
   "area": "Feminismo",
   "bloque": "C",
   "unidad": "C9",
@@ -1263,6 +1360,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Intuiciones puras",
+  "et": "*Intuición*, del latín *intuitus*, de *intueri*, «mirar atentamente».",
   "area": "Epistemología",
   "bloque": "C",
   "unidad": "CK",
@@ -1272,6 +1370,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Ironía socrática",
+  "et": "Del griego εἰρωνεία (*eironeía*), «disimulo»: fingir que no se sabe.",
   "area": "Método",
   "bloque": "A",
   "unidad": "A5",
@@ -1281,6 +1380,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Isegoría",
+  "et": "Del griego ἰσηγορία (*isegoría*): ἴσος (*ísos*) «igual» + ἀγορεύειν (*agoreúein*) «hablar en la asamblea», el ἀγορά (*agorá*): el mismo derecho a tomar la palabra.",
   "area": "Política",
   "bloque": "A",
   "unidad": "A3",
@@ -1290,6 +1390,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Isomorfismo",
+  "et": "Del griego ἴσος (*ísos*) «igual» + μορφή (*morphé*) «forma».",
   "area": "Lenguaje",
   "bloque": "C",
   "unidad": "C7",
@@ -1299,6 +1400,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Isonomía",
+  "et": "Del griego ἰσονομία (*isonomía*): ἴσος (*ísos*) «igual» + νόμος (*nómos*) «ley»: igualdad ante la ley.",
   "area": "Política",
   "bloque": "A",
   "unidad": "A3",
@@ -1326,6 +1428,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Justicia",
+  "et": "Del latín *iustitia*, de *ius*, «derecho».",
   "area": "Política",
   "bloque": "A",
   "unidad": "AP",
@@ -1335,11 +1438,12 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Koiné",
+  "et": "Del griego κοινὴ διάλεκτος (*koiné diálektos*), «lengua común».",
   "area": "Historia",
   "bloque": "A",
   "unidad": "A10",
   "tema": "El helenismo",
-  "def": "El griego común (gr. koinḗ) que se extendió por el Mediterráneo oriental en la época helenística. Esa lengua compartida hizo posibles el saber, el comercio y la cultura cosmopolita en el mundo posterior a Alejandro."
+  "def": "El griego común que se extendió por el Mediterráneo oriental en la época helenística. Esa lengua compartida hizo posibles el saber, el comercio y la cultura cosmopolita en el mundo posterior a Alejandro."
  },
  {
   "subject": "hf",
@@ -1353,6 +1457,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "La Academia",
+  "et": "Del griego Ἀκαδήμεια (*Akadémeia*), el jardín de Atenas dedicado al héroe Akádemo donde Platón fundó su escuela.",
   "area": "Educación",
   "bloque": "A",
   "unidad": "AP",
@@ -1371,6 +1476,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "La armonía del cosmos",
+  "et": "*Armonía*, del griego ἁρμονία (*harmonía*), «ajuste, ensamblaje». *Cosmos*, del griego κόσμος (*kósmos*), «orden» y también «adorno»: de ahí *cosmética*.",
   "area": "Psicología",
   "bloque": "B",
   "unidad": "BHvB",
@@ -1407,6 +1513,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "La existencia primero",
+  "et": "*Existencia*, del latín *exsistere* (*ex-* «fuera» + *sistere* «ponerse»): «salir, surgir».",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "C8",
@@ -1416,6 +1523,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "La felicidad de la mayoría",
+  "et": "*Felicidad*, del latín *felicitas*, de *felix*, que primero significó «fértil» y después «afortunado».",
   "area": "Ética",
   "bloque": "B",
   "unidad": "B7",
@@ -1488,6 +1596,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "La verdad interior",
+  "et": "*Verdad*, del latín *veritas*, de *verus*, «verdadero». El griego decía ἀλήθεια (*alétheia*), «lo que no está oculto».",
   "area": "Antropología",
   "bloque": "B",
   "unidad": "BD",
@@ -1515,6 +1624,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Las raíces del totalitarismo",
+  "et": "*Totalitario*, del latín *totus*, «todo».",
   "area": "Política",
   "bloque": "C",
   "unidad": "C5B",
@@ -1524,6 +1634,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Las tres partes del alma",
+  "et": "*Alma*, del latín *anima*, «soplo, aliento», igual que el griego ψυχή (*psykhé*). De ahí *psicología*.",
   "area": "Antropología",
   "bloque": "A",
   "unidad": "AP",
@@ -1533,11 +1644,12 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Lathe biosas",
+  "et": "Del griego λάθε βιώσας (*láthe biósas*), «vive oculto»: el consejo de Epicuro de apartarse de la vida pública.",
   "area": "Ética",
   "bloque": "A",
   "unidad": "A10",
   "tema": "El helenismo",
-  "def": "El consejo de vida de Epicuro: «vive oculto» (gr. láthe biṓsas). Lejos de la agitada vida política, la serenidad (ataraxia) se busca en el pequeño círculo de amigos y en el placer medido."
+  "def": "El consejo de vida de Epicuro: «vive oculto». Lejos de la agitada vida política, la serenidad (ataraxia) se busca en el pequeño círculo de amigos y en el placer medido."
  },
  {
   "subject": "hf",
@@ -1560,6 +1672,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Liberalismo político",
+  "et": "Del latín *liber*, «libre».",
   "area": "Política",
   "bloque": "B",
   "unidad": "B7",
@@ -1569,6 +1682,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Lo apolíneo",
+  "et": "De Apolo, Ἀπόλλων (*Apóllon*), dios de la luz, la medida y la forma.",
   "area": "Estética",
   "bloque": "C",
   "unidad": "CN",
@@ -1578,6 +1692,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Lo dionisíaco",
+  "et": "De Dioniso, Διόνυσος (*Diónysos*), dios del vino, la embriaguez y la fiesta.",
   "area": "Estética",
   "bloque": "C",
   "unidad": "CN",
@@ -1587,6 +1702,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Logos",
+  "et": "Del griego λόγος (*lógos*), «palabra, razón, discurso» y también «cuenta, cálculo», de λέγειν (*légein*), «decir, reunir». De ahí *lógica* y todas las palabras en *-logía*.",
   "area": "Historia",
   "bloque": "A",
   "unidad": "A3",
@@ -1596,6 +1712,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Logos pharmakon",
+  "et": "Del griego φάρμακον (*phármakon*), que significaba a la vez «remedio» y «veneno». De ahí *farmacia*.",
   "area": "Lenguaje",
   "bloque": "A",
   "unidad": "A5",
@@ -1614,6 +1731,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Los límites de la razón",
+  "et": "*Razón*, del latín *ratio*, «cálculo, cuenta», de *reri*, «calcular, pensar».",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "BOC",
@@ -1623,6 +1741,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Lucha de clases",
+  "et": "*Clase*, del latín *classis*: en Roma, cada uno de los grupos en que se dividía a los ciudadanos según su riqueza.",
   "area": "Política",
   "bloque": "C",
   "unidad": "CM",
@@ -1641,6 +1760,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Maestros de la sospecha",
+  "et": "*Sospecha*, del latín *suspectare*, de *suspicere*, «mirar de abajo arriba».",
   "area": "Método",
   "bloque": "C",
   "unidad": "C4",
@@ -1650,6 +1770,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Materialismo",
+  "et": "*Materia*, del latín *materia*, «madera, material de construcción», emparentado con *mater*, «madre».",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "B5",
@@ -1659,6 +1780,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Materialismo histórico",
+  "et": "*Materia*, del latín *materia*, «madera, material de construcción», emparentado con *mater*, «madre».",
   "area": "Historia",
   "bloque": "C",
   "unidad": "CM",
@@ -1668,6 +1790,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Mayéutica",
+  "et": "Del griego μαιευτικὴ τέχνη (*maieutiké tékhne*), «el arte de la partera», de μαῖα (*maîa*), «partera»: la madre de Sócrates lo era.",
   "area": "Método",
   "bloque": "A",
   "unidad": "A5",
@@ -1677,15 +1800,17 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Mecanicismo",
+  "et": "Del griego μηχανή (*mekhané*), «máquina, artificio».",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "B5",
   "tema": "El debate metafísico moderno",
-  "def": "(gr. mēchanē, máquina) La perspectiva que explica la naturaleza según cuerpos, movimiento y leyes matemáticas; relega a segundo plano las viejas explicaciones teleológicas. Antónimo: teleología."
+  "def": "La perspectiva que explica la naturaleza según cuerpos, movimiento y leyes matemáticas; relega a segundo plano las viejas explicaciones teleológicas. Antónimo: teleología."
  },
  {
   "subject": "hf",
   "t": "Metarrelato",
+  "et": "*Meta-*, del griego μετά (*metá*), «más allá»: un relato por encima de los demás relatos.",
   "area": "Lenguaje",
   "bloque": "C",
   "unidad": "C6",
@@ -1695,6 +1820,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Modernidad inacabada",
+  "et": "*Moderno*, del latín tardío *modernus*, de *modo*, «ahora mismo».",
   "area": "Historia",
   "bloque": "C",
   "unidad": "C6",
@@ -1704,6 +1830,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Modernidad líquida",
+  "et": "*Moderno*, del latín tardío *modernus*, de *modo*, «ahora mismo».",
   "area": "Sociedad",
   "bloque": "C",
   "unidad": "C10",
@@ -1713,6 +1840,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Modo",
+  "et": "Del latín *modus*, «medida, manera».",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "BS",
@@ -1731,6 +1859,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Mundo sensible",
+  "et": "*Sensible*, del latín *sentire*, «percibir por los sentidos».",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "AP",
@@ -1740,6 +1869,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Método crítico",
+  "et": "*Crítica*, del griego κρίνειν (*krínein*), «separar, juzgar, decidir».",
   "area": "Síntesis",
   "bloque": "C",
   "unidad": "CK",
@@ -1749,6 +1879,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Método experimental",
+  "et": "*Experimento*, del latín *experiri*, «probar, intentar».",
   "area": "Método",
   "bloque": "B",
   "unidad": "B3",
@@ -1758,15 +1889,17 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Método filosófico",
+  "et": "*Método*, del griego μέθοδος (*méthodos*): μετά (*metá*) «tras, a lo largo de» + ὁδός (*hodós*) «camino». *Filosofía*: φίλος (*phílos*) «amigo» + σοφία (*sophía*) «sabiduría».",
   "area": "Método",
   "bloque": "A",
   "unidad": "A1-A2",
   "tema": "En el umbral de la filosofía",
-  "def": "Etimología: del griego methodos, camino o modo de proceder. Definición: Procedimiento que organiza las preguntas, los conceptos y los argumentos para trabajar un problema."
+  "def": "Procedimiento que organiza las preguntas, los conceptos y los argumentos para trabajar un problema."
  },
  {
   "subject": "hf",
   "t": "Método geométrico",
+  "et": "*Geometría*, del griego γεωμετρία (*geometría*): γῆ (*ge*) «tierra» + μέτρον (*métron*) «medida».",
   "area": "Método",
   "bloque": "B",
   "unidad": "BS",
@@ -1776,6 +1909,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Mónadas",
+  "et": "Del griego μονάς (*monás*), «unidad», de μόνος (*mónos*), «solo, único».",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "B4",
@@ -1785,6 +1919,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Natalidad",
+  "et": "Del latín *natalis*, de *nasci*, «nacer».",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "C5B",
@@ -1803,6 +1938,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Neoplatonismo",
+  "et": "*Neo-*, del griego νέος (*néos*), «nuevo».",
   "area": "Religión",
   "bloque": "B",
   "unidad": "B1",
@@ -1812,6 +1948,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Nihilismo",
+  "et": "Del latín *nihil*, «nada».",
   "area": "Ética",
   "bloque": "C",
   "unidad": "CN",
@@ -1821,6 +1958,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Nominalismo",
+  "et": "Del latín *nomen*, «nombre»: para el nominalismo, los universales son solo nombres.",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "BOC",
@@ -1830,6 +1968,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Nomos",
+  "et": "Del griego νόμος (*nómos*), «ley, norma, costumbre». De ahí *autonomía*.",
   "area": "Política",
   "bloque": "A",
   "unidad": "A5",
@@ -1848,6 +1987,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Nous",
+  "et": "Del griego νοῦς (*noûs*), «mente, intelecto».",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "A4",
@@ -1857,6 +1997,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Noúmeno",
+  "et": "Del griego νοούμενον (*nooúmenon*), «lo pensado», de νοεῖν (*noéin*), «pensar»: lo que solo se puede pensar, no ver.",
   "area": "Epistemología",
   "bloque": "C",
   "unidad": "CK",
@@ -1866,6 +2007,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Ocasionalismo",
+  "et": "Del latín *occasio*, «ocasión», de *ob-* + *cadere*, «caer»: lo que se presenta en un momento dado.",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "B4",
@@ -1875,6 +2017,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Ostracismo",
+  "et": "Del griego ὄστρακον (*óstrakon*), «trozo de cerámica»: en él escribían los atenienses el nombre de quien querían desterrar.",
   "area": "Política",
   "bloque": "A",
   "unidad": "A9",
@@ -1884,6 +2027,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Panta rei",
+  "et": "Del griego πάντα ῥεῖ (*pánta rheî*), «todo fluye».",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "A4",
@@ -1893,6 +2037,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Paradigma",
+  "et": "Del griego παράδειγμα (*parádeigma*), «modelo, ejemplo», de παραδεικνύναι (*paradeiknýnai*), «mostrar al lado».",
   "area": "Ciencia",
   "bloque": "C",
   "unidad": "C7",
@@ -1902,6 +2047,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Participación (méthexis)",
+  "et": "Del griego μέθεξις (*méthexis*), «participación», de μετέχειν (*metékhein*), «tener parte en». En latín, *participatio*, de *pars* «parte» + *capere* «tomar».",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "AP",
@@ -1911,6 +2057,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Partido de vanguardia",
+  "et": "*Vanguardia*, del francés *avant-garde*, «la guardia de delante» de un ejército.",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "C5A",
@@ -1920,6 +2067,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Patrística",
+  "et": "Del latín *pater, patris*, «padre»: los Padres de la Iglesia.",
   "area": "Religión",
   "bloque": "B",
   "unidad": "B1",
@@ -1938,6 +2086,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Performatividad",
+  "et": "Del inglés *to perform*, «realizar, llevar a cabo».",
   "area": "Lenguaje",
   "bloque": "C",
   "unidad": "C7",
@@ -1956,6 +2105,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Perspectivismo",
+  "et": "Del latín *perspicere*, «mirar a través».",
   "area": "Epistemología",
   "bloque": "C",
   "unidad": "CN",
@@ -1965,6 +2115,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Physis",
+  "et": "Del griego φύσις (*phýsis*), «naturaleza», de φύειν (*phýein*), «brotar, crecer». De ahí *física*.",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "A4",
@@ -1983,6 +2134,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Plusvalía",
+  "et": "Del latín *plus* «más» + *valor*. Traduce el alemán *Mehrwert*, «valor de más».",
   "area": "Economía",
   "bloque": "C",
   "unidad": "CM",
@@ -2001,6 +2153,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Poder legítimo",
+  "et": "*Legítimo*, del latín *legitimus*, de *lex, legis*, «ley»: «conforme a la ley».",
   "area": "Política",
   "bloque": "B",
   "unidad": "B6",
@@ -2019,6 +2172,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Polis",
+  "et": "Del griego πόλις (*pólis*), «ciudad». De ahí *política*.",
   "area": "Política",
   "bloque": "A",
   "unidad": "A3",
@@ -2037,6 +2191,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Positividad",
+  "et": "Del latín *positivus*, de *ponere*, «poner»: lo puesto, lo dado.",
   "area": "Sociedad",
   "bloque": "C",
   "unidad": "C10",
@@ -2046,6 +2201,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Posmodernidad",
+  "et": "Del latín *post* «después» + *modernus*, de *modo*, «ahora mismo».",
   "area": "Historia",
   "bloque": "C",
   "unidad": "C6",
@@ -2055,6 +2211,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Praxis",
+  "et": "Del griego πρᾶξις (*prâxis*), «acción».",
   "area": "Método",
   "bloque": "C",
   "unidad": "CM",
@@ -2064,6 +2221,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Precariedad",
+  "et": "Del latín *precarius*, «conseguido por ruego» (*prex*, «súplica»): lo que te dejan tener de favor y te pueden quitar.",
   "area": "Economía",
   "bloque": "C",
   "unidad": "C10",
@@ -2082,6 +2240,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Principio de no contradicción",
+  "et": "*Contradicción*, del latín *contradicere*, «decir en contra».",
   "area": "Lógica",
   "bloque": "A",
   "unidad": "AA",
@@ -2109,6 +2268,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Propaganda",
+  "et": "Del latín *propaganda*, «lo que hay que propagar»: viene del nombre de la congregación de la Iglesia creada en 1622 para difundir la fe (*de propaganda fide*).",
   "area": "Política",
   "bloque": "C",
   "unidad": "C5B",
@@ -2118,6 +2278,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Psicopolítica",
+  "et": "Del griego ψυχή (*psykhé*) «alma, mente» + πολιτική (*politiké*).",
   "area": "Política",
   "bloque": "C",
   "unidad": "C10",
@@ -2127,6 +2288,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Racionalismo",
+  "et": "Del latín *ratio*, «razón», que primero significó «cálculo, cuenta».",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "B4",
@@ -2145,6 +2307,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Razón crítica",
+  "et": "*Crítica*, del griego κρίνειν (*krínein*), «separar, juzgar, decidir».",
   "area": "Epistemología",
   "bloque": "C",
   "unidad": "C1",
@@ -2163,6 +2326,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Razón poética",
+  "et": "*Poética*, del griego ποίησις (*póiesis*), «creación, el hecho de hacer algo».",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "C8",
@@ -2172,6 +2336,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Realismo",
+  "et": "Del latín *res*, «cosa»: *real* es lo que existe como cosa, no solo en la mente.",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "AA",
@@ -2208,6 +2373,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Representación",
+  "et": "Del latín *repraesentare*, «volver a hacer presente».",
   "area": "Epistemología",
   "bloque": "C",
   "unidad": "CN",
@@ -2217,6 +2383,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Represión",
+  "et": "Del latín *reprimere*, «empujar hacia atrás, contener».",
   "area": "Psicología",
   "bloque": "C",
   "unidad": "C4",
@@ -2226,6 +2393,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Represión excedente",
+  "et": "*Represión*, del latín *reprimere*, «empujar hacia atrás, contener».",
   "area": "Psicología",
   "bloque": "C",
   "unidad": "C5A",
@@ -2235,6 +2403,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Res cogitans",
+  "et": "Del latín: «cosa que piensa».",
   "area": "Antropología",
   "bloque": "B",
   "unidad": "BD",
@@ -2244,6 +2413,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Ressentiment",
+  "et": "Del francés *re-* + *sentir*: «volver a sentir» una y otra vez una ofensa.",
   "area": "Ética",
   "bloque": "C",
   "unidad": "CN",
@@ -2253,6 +2423,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Rizoma",
+  "et": "Del griego ῥίζωμα (*rhízoma*), «masa de raíces», de ῥίζα (*rhíza*), «raíz».",
   "area": "Metafísica",
   "bloque": "C",
   "unidad": "C6",
@@ -2271,6 +2442,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Sensación y reflexión",
+  "et": "*Reflexión*, del latín *reflectere*, «doblar hacia atrás»: la mente que se vuelve sobre sí misma.",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "BL",
@@ -2289,6 +2461,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Sentimiento trágico",
+  "et": "*Tragedia*, del griego τραγῳδία (*tragoidía*): según la explicación más extendida, τράγος (*trágos*) «macho cabrío» + ᾠδή (*oidé*) «canto».",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "C8",
@@ -2316,6 +2489,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Silogismo",
+  "et": "Del griego συλλογισμός (*syllogismós*): σύν (*syn*) «junto» + λόγος (*lógos*) «razón, cálculo»: «razonamiento que junta» las premisas.",
   "area": "Lógica",
   "bloque": "A",
   "unidad": "AA",
@@ -2325,6 +2499,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Simulacro",
+  "et": "Del latín *simulacrum*, «imagen, copia», de *simulare*, «imitar».",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "C6",
@@ -2343,6 +2518,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Soberanía",
+  "et": "Del latín tardío *superanus*, de *super*, «encima»: el poder que no tiene otro por encima.",
   "area": "Política",
   "bloque": "B",
   "unidad": "B6",
@@ -2352,6 +2528,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Sociedad de masas",
+  "et": "*Masa*, del latín *massa*, «pasta, bulto».",
   "area": "Sociedad",
   "bloque": "C",
   "unidad": "C5B",
@@ -2370,6 +2547,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Sofistas",
+  "et": "Del griego σοφιστής (*sophistés*), «experto, sabio», de σοφία (*sophía*), «sabiduría». El sentido de «tramposo» llegó después.",
   "area": "Educación",
   "bloque": "A",
   "unidad": "A5",
@@ -2388,6 +2566,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Solidaridad",
+  "et": "Del latín *in solidum*, «por el todo»: cuando varios responden juntos de una misma deuda.",
   "area": "Sociedad",
   "bloque": "C",
   "unidad": "C6",
@@ -2397,6 +2576,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Solipsismo",
+  "et": "Del latín *solus* «solo» + *ipse* «uno mismo»: «solo yo».",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "BD",
@@ -2406,6 +2586,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Sospecha",
+  "et": "Del latín *suspectare*, de *suspicere*, «mirar de abajo arriba».",
   "area": "Método",
   "bloque": "C",
   "unidad": "CXIX",
@@ -2415,6 +2596,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Subjetivismo",
+  "et": "*Sujeto*, del latín *subiectum*, «lo que está debajo».",
   "area": "Epistemología",
   "bloque": "A",
   "unidad": "A5",
@@ -2424,6 +2606,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Superación (Aufhebung)",
+  "et": "Del alemán *aufheben*, que significa a la vez «suprimir», «conservar» y «elevar»: Hegel aprovecha los tres sentidos.",
   "area": "Método",
   "bloque": "C",
   "unidad": "CXIX",
@@ -2433,6 +2616,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Superhombre",
+  "et": "Del alemán *Übermensch*: *über* «por encima» + *Mensch* «ser humano».",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "CN",
@@ -2442,6 +2626,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Sustancia (clásica)",
+  "et": "Del latín *substantia*: *sub* «debajo» + *stare* «estar»: «lo que está debajo» de las cualidades. Traduce el griego οὐσία (*ousía*).",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "AA",
@@ -2451,6 +2636,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Sustancia (moderna)",
+  "et": "Del latín *substantia*: *sub* «debajo» + *stare* «estar»: «lo que está debajo» de las cualidades.",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "B5",
@@ -2460,6 +2646,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Teleología",
+  "et": "Del griego τέλος (*télos*) «fin, finalidad» + λόγος (*lógos*) «estudio».",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "AA",
@@ -2469,6 +2656,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Teoría crítica",
+  "et": "*Teoría*, del griego θεωρία (*theoría*), «contemplación, mirada». *Crítica*, de κρίνειν (*krínein*), «separar, juzgar».",
   "area": "Historia",
   "bloque": "C",
   "unidad": "C5A",
@@ -2487,6 +2675,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Teoría de las Ideas",
+  "et": "*Teoría*, del griego θεωρία (*theoría*), «contemplación, mirada». *Idea*, del griego ἰδέα (*idéa*), «aspecto, forma visible», de ἰδεῖν (*idéin*), «ver».",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "AP",
@@ -2523,6 +2712,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Tiranía",
+  "et": "Del griego τύραννος (*týrannos*), «señor absoluto»: al principio, el que se hacía con el poder sin título legítimo, fuera bueno o malo.",
   "area": "Política",
   "bloque": "A",
   "unidad": "A9",
@@ -2532,6 +2722,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Totalitarismo",
+  "et": "Del latín *totus*, «todo».",
   "area": "Política",
   "bloque": "C",
   "unidad": "C5B",
@@ -2541,6 +2732,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Transmigración del alma",
+  "et": "Del latín *trans* «al otro lado» + *migrare* «cambiar de lugar». En griego, μετεμψύχωσις (*metempsýkhosis*): μετά (*metá*) «cambio» + ἐν (*en*) «en» + ψυχή (*psykhé*) «alma».",
   "area": "Antropología",
   "bloque": "A",
   "unidad": "AP",
@@ -2559,6 +2751,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Trascendental",
+  "et": "Del latín *transcendere* (*trans* «al otro lado» + *scandere* «subir»): «pasar más allá».",
   "area": "Epistemología",
   "bloque": "C",
   "unidad": "CK",
@@ -2568,6 +2761,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Trivium y quadrivium",
+  "et": "Del latín: «tres caminos» y «cuatro caminos» (*via*, «camino»).",
   "area": "Educación",
   "bloque": "B",
   "unidad": "BOC",
@@ -2577,6 +2771,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Término medio",
+  "et": "En griego, μεσότης (*mesótes*), de μέσος (*mésos*), «medio».",
   "area": "Ética",
   "bloque": "A",
   "unidad": "A8",
@@ -2595,6 +2790,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Utilitarismo",
+  "et": "Del latín *utilitas*, «utilidad», de *uti*, «usar».",
   "area": "Ética",
   "bloque": "B",
   "unidad": "B7",
@@ -2604,6 +2800,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Verificabilidad",
+  "et": "Del latín *verus* «verdadero» + *facere* «hacer»: «hacer verdadero», comprobar.",
   "area": "Epistemología",
   "bloque": "C",
   "unidad": "C7",
@@ -2613,6 +2810,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Viriditas",
+  "et": "Del latín: «verdor», de *viridis*, «verde».",
   "area": "Religión",
   "bloque": "B",
   "unidad": "BHvB",
@@ -2622,6 +2820,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Virtud",
+  "et": "Del latín *virtus*, «valor, fuerza», de *vir*, «varón». Traduce el griego ἀρετή (*areté*).",
   "area": "Ética",
   "bloque": "A",
   "unidad": "A8",
@@ -2631,6 +2830,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Virtù",
+  "et": "Del italiano de Maquiavelo, y este del latín *virtus*, «valor, fuerza», de *vir*, «varón».",
   "area": "Política",
   "bloque": "B",
   "unidad": "B3",
@@ -2640,6 +2840,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Vita activa",
+  "et": "Del latín: «vida activa».",
   "area": "Antropología",
   "bloque": "C",
   "unidad": "C5B",
@@ -2649,6 +2850,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Volk",
+  "et": "Del alemán: «pueblo».",
   "area": "Historia",
   "bloque": "C",
   "unidad": "CXIX",
@@ -2667,6 +2869,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Voluntad de poder",
+  "et": "Del alemán *Wille zur Macht*.",
   "area": "Política",
   "bloque": "C",
   "unidad": "CN",
@@ -2676,6 +2879,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Ápeiron",
+  "et": "Del griego ἄπειρον (*ápeiron*): ἀ- (*a-*) «sin» + πέρας (*péras*) «límite»: «lo ilimitado».",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "A4",
@@ -2685,6 +2889,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Átomo",
+  "et": "Del griego ἄτομος (*átomos*): ἀ- (*a-*) «sin» + τέμνειν (*témnein*) «cortar»: «lo que no se puede cortar».",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "A4",
@@ -2694,6 +2899,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Ética",
+  "et": "Del griego ἦθος (*êthos*), «carácter, modo de ser», emparentado con ἔθος (*éthos*), «costumbre». *Moral* viene del latín *mos, moris*, «costumbre».",
   "area": "Ética",
   "bloque": "A",
   "unidad": "A8",
@@ -2703,6 +2909,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Ética del cuidado",
+  "et": "*Cuidado* viene del latín *cogitatus*, «pensado»: cuidar a alguien es, en origen, pensar en él.",
   "area": "Feminismo",
   "bloque": "C",
   "unidad": "C9",
@@ -2712,6 +2919,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Autonomía de la razón",
+  "et": "*Autonomía*, del griego αὐτός (*autós*) «uno mismo» + νόμος (*nómos*) «ley»: «darse a sí mismo la ley».",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "DM",
@@ -2721,15 +2929,17 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Racionalismo",
+  "et": "Del latín *ratio*, «razón», que primero significó «cálculo, cuenta».",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "DM",
   "tema": "Descartes y el racionalismo: unidad completa",
-  "def": "Etimología: del latín ratio, razón. Definición: corriente filosófica que reconoce a la razón como única fuente, fundamento y criterio de todo conocimiento humano. En el siglo XVII, de la mano de Descartes, Spinoza y Leibniz, se convirtió en una corriente filosófica precisa."
+  "def": "Corriente filosófica que reconoce a la razón como única fuente, fundamento y criterio de todo conocimiento humano. En el siglo XVII, de la mano de Descartes, Spinoza y Leibniz, se convirtió en una corriente filosófica precisa."
  },
  {
   "subject": "hf",
   "t": "Innatismo",
+  "et": "Del latín *innatus*, «nacido dentro» (*in* + *nasci* «nacer»).",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "DM",
@@ -2739,6 +2949,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Intuición",
+  "et": "Del latín *intuitus*, de *intueri*, «mirar atentamente».",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "DM",
@@ -2748,6 +2959,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Deducción",
+  "et": "Del latín *deducere*, «conducir desde, sacar de».",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "DM",
@@ -2757,6 +2969,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Duda metódica",
+  "et": "*Duda*, del latín *dubitare*, emparentado con *duo*, «dos»: estar entre dos posibilidades. *Método*, del griego μέθοδος (*méthodos*), «camino».",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "DM",
@@ -2766,6 +2979,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Genio maligno",
+  "et": "*Genio*, del latín *genius*, el espíritu que acompaña a cada persona. *Maligno*, de *malus*, «malo».",
   "area": "Método",
   "bloque": "B",
   "unidad": "DM",
@@ -2775,15 +2989,17 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Cogito",
+  "et": "Del latín *cogito*, «pienso», de *cogitare* (*co-* + *agitare*): «darle vueltas a algo en la cabeza».",
   "area": "Antropología",
   "bloque": "B",
   "unidad": "DM",
   "tema": "Descartes y el racionalismo: unidad completa",
-  "def": "Etimología: del latín cogito, pienso. Definición: \"Pienso, luego existo\". La primera verdad y fundamento de la filosofía de Descartes: no puede negarse la existencia del sujeto que duda."
+  "def": "\"Pienso, luego existo\". La primera verdad y fundamento de la filosofía de Descartes: no puede negarse la existencia del sujeto que duda."
  },
  {
   "subject": "hf",
   "t": "Ideas claras y distintas",
+  "et": "*Idea*, del griego ἰδέα (*idéa*), «aspecto, forma visible». *Distinto*, del latín *distinctus*, «separado» de lo demás.",
   "area": "Epistemología",
   "bloque": "B",
   "unidad": "DM",
@@ -2793,6 +3009,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Realidad objetiva",
+  "et": "*Objeto*, del latín *obiectum*, «lo puesto delante» (*ob-* «delante» + *iacere* «arrojar»).",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "DM",
@@ -2811,6 +3028,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Sustancia",
+  "et": "Del latín *substantia*: *sub* «debajo» + *stare* «estar»: «lo que está debajo» de las cualidades.",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "DM",
@@ -2820,6 +3038,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Atributo",
+  "et": "Del latín *attributum*, de *attribuere*, «asignar».",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "DM",
@@ -2829,6 +3048,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Modo",
+  "et": "Del latín *modus*, «medida, manera».",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "DM",
@@ -2838,6 +3058,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Res cogitans",
+  "et": "Del latín: «cosa que piensa».",
   "area": "Antropología",
   "bloque": "B",
   "unidad": "DM",
@@ -2847,6 +3068,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Res extensa",
+  "et": "Del latín: «cosa extensa», que ocupa espacio (*extendere*, «extender»).",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "DM",
@@ -2856,6 +3078,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Glándula pineal",
+  "et": "*Pineal*, del latín *pinea*, «piña», por su forma. *Glándula*, de *glans*, «bellota».",
   "area": "Antropología",
   "bloque": "B",
   "unidad": "DM",
@@ -2865,6 +3088,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Dualismo",
+  "et": "Del latín *duo*, «dos».",
   "area": "Antropología",
   "bloque": "B",
   "unidad": "DM",
@@ -2874,6 +3098,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Mecanicismo",
+  "et": "Del griego μηχανή (*mekhané*), «máquina, artificio».",
   "area": "Física",
   "bloque": "B",
   "unidad": "DM",
@@ -2883,6 +3108,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Ocasionalismo",
+  "et": "Del latín *occasio*, «ocasión», de *ob-* + *cadere*, «caer»: lo que se presenta en un momento dado.",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "DM",
@@ -2892,6 +3118,7 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Panteísmo",
+  "et": "Del griego πᾶν (*pan*) «todo» + θεός (*theós*) «dios».",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "DM",
@@ -2901,15 +3128,17 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "t": "Mónada",
+  "et": "Del griego μονάς (*monás*), «unidad», de μόνος (*mónos*), «solo, único».",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "DM",
   "tema": "Descartes y el racionalismo: unidad completa",
-  "def": "Etimología: del griego monas, unidad. Definición: según Leibniz, la sustancia simple, activa e indivisible. Las mónadas no tienen ventanas."
+  "def": "Según Leibniz, la sustancia simple, activa e indivisible. Las mónadas no tienen ventanas."
  },
  {
   "subject": "hf",
   "t": "Armonía preestablecida",
+  "et": "*Armonía*, del griego ἁρμονία (*harmonía*), «ajuste, ensamblaje» de piezas.",
   "area": "Metafísica",
   "bloque": "B",
   "unidad": "DM",
