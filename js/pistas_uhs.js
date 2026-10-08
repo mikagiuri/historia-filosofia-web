@@ -172,13 +172,13 @@ const PISTAS = [
       "etiqueta": "Conocimiento y política",
       "titulo": "El regreso del filósofo",
       "definicion": [
-       "El liberado vuelve y, acostumbrado a la luz, ve mal en la oscuridad: los prisioneros se ríen de él y, si pudieran, lo matarían. Es una alusión a la condena de <strong>Sócrates</strong>.",
+       "El liberado vuelve y, acostumbrado a la luz, ve mal en la oscuridad: los prisioneros se ríen de él y, si pudieran, lo matarían. El que vuelve es <strong>Sócrates</strong>, y los prisioneros, sus <strong>conciudadanos atenienses</strong>, que lo condenaron a muerte en el 399 a. C.",
        "Para Platón, gobernar bien exige conocer la Idea de Bien. Por eso, en la ciudad justa, gobiernan los <strong>filósofos</strong>, aunque preferirían quedarse contemplando.",
        "La alegoría une tres temas: el conocimiento (ascenso a las Ideas), la educación (la salida) y la política (el regreso para gobernar)."
       ],
       "comprobacion": {
        "boton": "Terminar comprobando",
-       "pregunta": "¿A quién alude la reacción violenta de los prisioneros?",
+       "pregunta": "¿A quién representa el liberado al que los prisioneros quieren matar?",
        "opciones": [
         [
          "A Sócrates, condenado a muerte por Atenas.",
@@ -192,7 +192,7 @@ const PISTAS = [
         [
          "A los sofistas.",
          false,
-         "Los sofistas no fueron condenados: Platón se refiere a su maestro."
+         "No. El que vuelve no es un sofista, y los sofistas no condenaron a nadie. Quienes lo rechazan son los prisioneros, la gente corriente de Atenas; el que muere es el maestro de Platón."
         ],
         [
          "A nadie en concreto.",
