@@ -49,6 +49,7 @@
           <button data-view="glosario">Glosario</button>
           <button data-view="ilustres">Ilustres</button>
           <button data-view="citas">Frases</button>
+          <button data-view="adagios">Adagios</button>
         </div>
       </div>
       <div class="navsec">
@@ -288,6 +289,16 @@
     <div id="citasbody"></div>
   </section>
 
+  <section class="view" id="adagios">
+    <!-- (09-10) Adagios: lemas clásicos como lenguaje común, al modo de los lugares comunes del Renacimiento
+         (adagios.js + adagiosview.js). Solo Bachillerato: la web de ESO no la lleva (build_eso.js). -->
+    <p class="eyebrow">Referencia</p>
+    <h1 class="title">Adagios: el lenguaje común de la filosofía</h1>
+    <p class="lead">Lemas latinos y griegos que los filósofos llevan siglos citando: qué dicen, de dónde vienen y cuándo usarlos. Apréndetelos como un estudiante del Renacimiento.</p>
+    <div class="filterbar" id="adagiosfilter" role="group" aria-label="Filtrar adagios"></div>
+    <div id="adagiosbox"></div>
+  </section>
+
   <!-- TARJETAS -->
   <section class="view" id="tarjetas">
     <p class="eyebrow">Herramienta</p>
@@ -454,6 +465,7 @@
         <li>Simone de Beauvoir, <em>El segundo sexo</em>: traducción de Alicia Martorell (Cátedra).</li>
         <li>Las demás citas y lecturas breves proceden de traducciones de dominio público, adaptadas.</li>
         <li>Red de tesis (Genealogías): selección, referencias y relaciones de elaboración propia; la idea de enlazar tesis, y no autores, por acuerdo o desacuerdo procede de <em>History of Philosophy — Summarized &amp; Visualized</em> (denizcemonduygu.com/philo, Deniz Cem Önduygu).</li>
+        <li>Adagios: textos latinos y griegos de dominio público; traducciones y comentarios propios. La selección y los números de referencia siguen los <em>Adagia</em> de Erasmo de Róterdam (ediciones de 1500 a 1536) y la traducción inglesa anotada de los <em>Collected Works of Erasmus</em> (University of Toronto Press, vols. 31-36).</li>
         <li>Nudos y fichas de cine (escena, preguntas y lectura trampa): elaboración propia. La idea de señalar las tensiones entre las respuestas de quien contesta procede de <em>Philosophy Experiments</em> (philosophyexperiments.com, Jeremy Stangroom).</li>
         <li>Rescritura: los fragmentos de Platón, Aristóteles, Epicuro, Hobbes, Descartes, Hume, Rousseau, Kant, Mill y Marx son versiones propias a partir de los originales, de dominio público; las cuatro versiones de cada uno son de elaboración propia.</li>
         <li>Exploración «Poetas y filósofos» (tema 19): los fragmentos de Kant, Hamann, Goethe, Schiller, Friedrich Schlegel y del <em>Programa sistemático más antiguo del idealismo alemán</em> son traducciones propias a partir de los originales alemanes, de dominio público.</li>
@@ -892,6 +904,7 @@
         <li>Obras de arte y retratos de Wikimedia Commons y de museos y bibliotecas (Metropolitan Museum, Rijksmuseum, LACMA, Wellcome Collection, New York Public Library, Library of Congress, Walters Art Museum), en dominio público o con licencias CC0, CC BY y CC BY-SA. Cada imagen lleva su crédito.</li>
         <li>Exploración «Poetas y filósofos»: retratos, primeras ediciones, cuadros y vistas de Wikimedia Commons, en dominio público o con licencias CC0 y CC BY; fotocromos de Photoglob Zürich de hacia 1900 (Library of Congress), grabado de Daniel Chodowiecki (Rijksmuseum) y fotografía de H.-P. Haack de la primera edición de <em>Los bandidos</em>.</li>
         <li>Exploración «La biblioteca que Marx quiso publicar» e Ilustres: retratos, portadas y grabados de Wikimedia Commons en dominio público o CC0 (Rijksmuseum, Paris Musées, National Library of Wales).</li>
+        <li>Adagios: cuadros, grabados, portadas y mosaicos de Wikimedia Commons en dominio público o CC0 (Museo del Prado, National Gallery de Londres, British Library, British Museum, Rijksmuseum, Walters Art Museum, Biblioteca Nacional de Francia, entre otros); la divisa y una medalla de Montaigne.</li>
         <li>Exploración «Spinoza universal»: retratos, grabados, portadas y fotografías de Wikimedia Commons en dominio público o CC0 (Herzog August Bibliothek, Rijksmuseum, Library of Congress, entre otros).</li>
         <li>Exploración «El corazón de piedra»: obras de Goya, Loutherbourg, Turner, Daumier, Hübner, Kollwitz y otros, e ilustraciones de época, de Wikimedia Commons en dominio público o CC0 (National Gallery de Londres, National Gallery of Art de Washington, Statens Museum for Kunst, entre otros).</li>
         <li>Fotografías de Unsplash.</li>
@@ -969,6 +982,8 @@
 <script src="js/rescrituraview.js"></script>
 <script src="js/nudos.js"></script>
 <script src="js/nudosview.js"></script>
+<script src="js/adagios.js"></script>
+<script src="js/adagiosview.js"></script>
 <script src="js/juego_aristoteles.js"></script>
 <script src="js/aristotelesview.js"></script>
 <script src="js/platonview.js"></script>
