@@ -208,7 +208,7 @@ const ADAGIOS = [
   amb:"politica", e:"ant", t:["hf-contrato", "hf-modernidad", "fil-t6"] },
 { id:"cuius", img:"media/galeria_museo/adagios/cuius.jpg", pie:"Documento de la Paz de Augsburgo (1555), con el sello imperial", fit:"contain", la:"Cuius regio, eius religio", es:"A tal territorio, tal religión.",
   o:"Fórmula del jurista Joachim Stephani (hacia 1612) para resumir la Paz de Augsburgo (1555)",
-  sen:"Cada príncipe decide la religión de su territorio. Así se pusieron fin a las guerras de religión del Imperio, a costa de la libertad de conciencia de los súbditos.",
+  sen:"Cada príncipe decide la religión de su territorio. Así se puso fin a las guerras de religión del Imperio, a costa de la libertad de conciencia de los súbditos.",
   uso:"Para la Reforma protestante y el origen de la tolerancia.",
   amb:"politica", e:"ren", t:["hf-modernidad", "hf-contrato", "fil-t6"] },
 { id:"deussive", img:"media/galeria_museo/adagios/deussive.jpg", pie:"Portada de la Ética de Spinoza en sus obras póstumas (1677)", fit:"contain", la:"Deus sive Natura", es:"Dios, o sea, la Naturaleza.",
