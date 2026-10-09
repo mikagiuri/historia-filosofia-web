@@ -876,19 +876,25 @@ const CITAS = [
   "c": "Se me opondrá ese axioma admitido entre los filósofos: que nada hay en el alma que no venga de los sentidos. Pero hay que exceptuar el alma misma y sus afecciones.",
   "a": "Leibniz",
   "o": "Nuevos ensayos sobre el entendimiento humano (1704; publ. 1765) II, 1, § 2",
-  "e": "moderna"
+  "e": "moderna",
+  "id": "leibniz",
+  "img": "media/retratos/museo2/leibniz.jpg"
  },
  {
   "c": "Su ser es ser percibidas, y no es posible que tengan existencia alguna fuera de las mentes o cosas pensantes que las perciben.",
   "a": "Berkeley",
   "o": "Tratado sobre los principios del conocimiento humano (1710) I, § 3",
-  "e": "moderna"
+  "e": "moderna",
+  "id": "berkeley",
+  "img": "media/retratos/museo2/berkeley.jpg"
  },
  {
   "c": "Así como la luz se manifiesta a sí misma y manifiesta las tinieblas, así la verdad es norma de sí misma y de lo falso.",
   "a": "Spinoza",
   "o": "Ética (1677) II, proposición 43, escolio",
-  "e": "moderna"
+  "e": "moderna",
+  "id": "spinoza",
+  "img": "media/retratos/museo/spinoza.jpg"
  },
  {
   "c": "Decir de lo que es que no es, o de lo que no es que es, eso es falso; decir de lo que es que es y de lo que no es que no es, es verdadero.",
@@ -974,13 +980,17 @@ const CITAS = [
   "c": "Por convención lo dulce y por convención lo amargo; por convención lo caliente, por convención lo frío, por convención el color; pero en realidad, átomos y vacío.",
   "a": "Demócrito",
   "o": "fragmento DK 68 B9 (en Sexto Empírico, Contra los matemáticos VII, 135)",
-  "e": "antigua"
+  "e": "antigua",
+  "id": "democrito",
+  "img": "media/retratos/museo2/democrito.jpg"
  },
  {
   "c": "El discurso es un soberano poderoso que, con un cuerpo pequeñísimo y del todo invisible, lleva a cabo obras divinísimas: puede detener el miedo, quitar la pena, producir alegría y acrecentar la compasión.",
   "a": "Gorgias",
   "o": "Elogio de Helena, 8 (DK 82 B11)",
-  "e": "antigua"
+  "e": "antigua",
+  "id": "gorgias",
+  "img": "media/retratos/museo2/gorgias.jpg"
  },
  {
   "c": "Que nadie, por joven, aplace el filosofar; ni, por viejo, se canse de filosofar. Para la salud del alma nadie llega ni pronto ni tarde.",
@@ -1001,13 +1011,16 @@ const CITAS = [
   "c": "La filosofía no es un oficio popular ni está hecha para la exhibición; no está en las palabras, sino en los hechos. […] Forma y modela el alma, ordena la vida, rige las acciones.",
   "a": "Séneca",
   "o": "Epístolas a Lucilio 16, 3",
-  "e": "antigua"
+  "e": "antigua",
+  "id": "seneca",
+  "img": "media/retratos/museo/seneca.jpg"
  },
  {
   "c": "Lo que no es útil al enjambre tampoco lo es para la abeja.",
   "a": "Marco Aurelio",
   "o": "Meditaciones VI, 54",
-  "e": "antigua"
+  "e": "antigua",
+  "img": "media/retratos/museo/marco-aurelio.jpg"
  },
  {
   "c": "No eres tú el mortal, sino este cuerpo; ni eres tú aquel que esa forma tuya muestra: la mente de cada uno es cada uno, y no esa figura que puede señalarse con el dedo.",
@@ -1083,13 +1096,15 @@ const CITAS = [
   "c": "Somos todos retazos, y de una contextura tan informe y diversa que cada pieza, cada momento, hace su juego. Y hay tanta diferencia de nosotros a nosotros mismos como de nosotros a otro.",
   "a": "Montaigne",
   "o": "Ensayos (1580) II, 1",
-  "e": "moderna"
+  "e": "moderna",
+  "img": "media/retratos/museo2/montaigne.jpg"
  },
  {
   "c": "Nada hay justo ni injusto que no cambie de cualidad al cambiar de clima. […] ¡Graciosa justicia la que limita un río! Verdad de este lado de los Pirineos, error del otro.",
   "a": "Blaise Pascal",
   "o": "Pensamientos, fr. 60 (ed. Lafuma) / 294 (ed. Brunschvicg)",
-  "e": "moderna"
+  "e": "moderna",
+  "img": "media/retratos/museo2/pascal.jpg"
  },
  {
   "c": "Las ideas de la clase dominante son en cada época las ideas dominantes; es decir, la clase que es el poder material dominante de la sociedad es, al mismo tiempo, su poder espiritual dominante.",
@@ -1103,13 +1118,16 @@ const CITAS = [
   "c": "La conciencia de Dios es la autoconciencia del hombre; el conocimiento de Dios, el conocimiento que el hombre tiene de sí mismo.",
   "a": "Feuerbach",
   "o": "La esencia del cristianismo (1841), Introducción, 2",
-  "e": "contemporanea"
+  "e": "contemporanea",
+  "id": "feuerbach",
+  "img": "media/retratos/museo2/feuerbach.jpg"
  },
  {
   "c": "La compasión es la base real de toda justicia libre y de todo amor auténtico al prójimo.",
   "a": "Schopenhauer",
   "o": "Sobre el fundamento de la moral (1840), § 16",
-  "e": "contemporanea"
+  "e": "contemporanea",
+  "img": "media/retratos/museo/schopenhauer.jpg"
  },
  {
   "c": "Sobre sí mismo, sobre su propio cuerpo y su propia mente, el individuo es soberano.",
@@ -1179,7 +1197,9 @@ const CITAS = [
   "c": "En la poesía encontramos directamente al hombre concreto, individual. En la filosofía al hombre en su historia universal.",
   "a": "María Zambrano",
   "o": "Filosofía y poesía (1939)",
-  "e": "contemporanea"
+  "e": "contemporanea",
+  "id": "zambrano",
+  "img": "media/retratos/museo/zambrano.jpg"
  },
  {
   "c": "Si la injusticia es de tal naturaleza que exige de ti que seas agente de la injusticia contra otro, entonces te digo: quebranta la ley.",
@@ -1191,7 +1211,8 @@ const CITAS = [
   "c": "Los desdichados no necesitan en este mundo otra cosa que hombres capaces de prestarles atención. […] La plenitud del amor al prójimo consiste simplemente en ser capaz de preguntarle: «¿Cuál es tu tormento?».",
   "a": "Simone Weil",
   "o": "«Reflexiones sobre el buen uso de los estudios escolares como medio de cultivar el amor a Dios» (1942), en A la espera de Dios",
-  "e": "contemporanea"
+  "e": "contemporanea",
+  "img": "media/retratos/museo2/weil.jpg"
  },
  {
   "c": "Si todos los hombres nacen libres, ¿cómo es que todas las mujeres nacen esclavas?",
