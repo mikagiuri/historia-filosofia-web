@@ -1227,5 +1227,209 @@ const CITAS = [
   "e": "contemporanea",
   "id": "freud",
   "img": "media/retratos/museo2/freud.jpg"
+ },
+ {
+  "c": "Razón es lenguaje, logos.",
+  "a": "Johann Georg Hamann",
+  "o": "Carta a Herder, 6 de agosto de 1784",
+  "e": "moderna",
+  "id": "hamann",
+  "img": "media/retratos/ilustres/hamann.jpg"
+ },
+ {
+  "c": "Ya como animal, el ser humano tiene lenguaje.",
+  "a": "Johann Gottfried Herder",
+  "o": "Tratado sobre el origen del lenguaje (1772), primera frase",
+  "e": "moderna",
+  "id": "herder",
+  "img": "media/retratos/ilustres/herder.jpg"
+ },
+ {
+  "c": "Vuelvo a mí mismo y encuentro un mundo.",
+  "a": "Johann Wolfgang von Goethe",
+  "o": "Las penas del joven Werther (1774), carta del 22 de mayo",
+  "e": "moderna",
+  "id": "goethe",
+  "img": "media/retratos/ilustres/goethe.jpg"
+ },
+ {
+  "c": "En el principio era la acción.",
+  "a": "Johann Wolfgang von Goethe",
+  "o": "Fausto I (1808), escena del gabinete de estudio",
+  "e": "moderna",
+  "id": "goethe",
+  "img": "media/retratos/ilustres/goethe.jpg"
+ },
+ {
+  "c": "El ser humano solo juega cuando es humano en el pleno sentido de la palabra, y solo es plenamente humano cuando juega.",
+  "a": "Friedrich Schiller",
+  "o": "Cartas sobre la educación estética del hombre (1795), carta 15",
+  "e": "moderna",
+  "id": "schiller",
+  "img": "media/retratos/ilustres/schiller.jpg"
+ },
+ {
+  "c": "Eso no es una experiencia, es una idea.",
+  "a": "Friedrich Schiller",
+  "o": "Respuesta a Goethe sobre la planta originaria (1794), según Goethe, Feliz acontecimiento (1817)",
+  "e": "moderna",
+  "id": "schiller",
+  "img": "media/retratos/ilustres/schiller.jpg"
+ },
+ {
+  "c": "Genio es el talento (don natural) que da la regla al arte.",
+  "a": "Immanuel Kant",
+  "o": "Crítica del juicio (1790), § 46",
+  "e": "moderna",
+  "id": "kant",
+  "img": "media/retratos/museo/kant.jpg"
+ },
+ {
+  "c": "La poesía romántica es una poesía universal progresiva.",
+  "a": "Friedrich Schlegel",
+  "o": "Athenaeum (1798), fragmento 116",
+  "e": "contemporanea",
+  "id": "schlegel",
+  "img": "media/retratos/ilustres/schlegel.jpg"
+ },
+ {
+  "c": "Nada en la sociedad pertenecerá en particular ni en propiedad a nadie, salvo las cosas de las que haga un uso actual.",
+  "a": "Étienne-Gabriel Morelly",
+  "o": "Código de la naturaleza (1755), primera ley fundamental",
+  "e": "moderna",
+  "id": "morelly"
+ },
+ {
+  "c": "La Revolución francesa no es más que la precursora de otra revolución mucho más grande, mucho más solemne, y que será la última.",
+  "a": "Sylvain Maréchal",
+  "o": "Manifiesto de los Iguales (1796), escrito para la conspiración de Babeuf",
+  "e": "moderna"
+ },
+ {
+  "c": "Cualquier carácter general, del mejor al peor, puede darse a cualquier comunidad, incluso al mundo entero, aplicando los medios adecuados.",
+  "a": "Robert Owen",
+  "o": "Una nueva visión de la sociedad (1813), primer ensayo",
+  "e": "contemporanea",
+  "id": "owen",
+  "img": "media/retratos/ilustres/owen.jpg"
+ },
+ {
+  "c": "Los progresos sociales se producen en razón del progreso de las mujeres hacia la libertad.",
+  "a": "Charles Fourier",
+  "o": "Teoría de los cuatro movimientos (1808)",
+  "e": "contemporanea",
+  "id": "fourier",
+  "img": "media/retratos/ilustres/fourier.jpg"
+ },
+ {
+  "c": "La propiedad es el robo.",
+  "a": "Pierre-Joseph Proudhon",
+  "o": "¿Qué es la propiedad? (1840), cap. 1",
+  "e": "contemporanea",
+  "id": "proudhon",
+  "img": "media/retratos/ilustres/proudhon.jpg"
+ },
+ {
+  "c": "Si el ser humano es formado por las circunstancias, hay que formar humanamente las circunstancias.",
+  "a": "Marx & Engels",
+  "o": "La Sagrada Familia (1845), cap. VI",
+  "e": "contemporanea",
+  "id": "marx",
+  "img": "media/retratos/museo/marx.jpg"
+ },
+ {
+  "c": "El verdadero fin del Estado es la libertad.",
+  "a": "Spinoza",
+  "o": "Tratado teológico-político (1670), cap. 20",
+  "e": "moderna",
+  "id": "spinoza",
+  "img": "media/retratos/museo/spinoza.jpg"
+ },
+ {
+  "c": "La felicidad no es el premio de la virtud, sino la virtud misma.",
+  "a": "Spinoza",
+  "o": "Ética (1677), V, proposición 42",
+  "e": "moderna",
+  "id": "spinoza",
+  "img": "media/retratos/museo/spinoza.jpg"
+ },
+ {
+  "c": "Nadie, hasta ahora, ha determinado qué puede el cuerpo.",
+  "a": "Spinoza",
+  "o": "Ética (1677), III, proposición 2, escolio",
+  "e": "moderna",
+  "id": "spinoza",
+  "img": "media/retratos/museo/spinoza.jpg"
+ },
+ {
+  "c": "El spinozismo conduce derecho a la exaltación.",
+  "a": "Immanuel Kant",
+  "o": "¿Qué significa orientarse en el pensamiento? (1786), AA VIII 143, nota",
+  "e": "moderna",
+  "id": "kant",
+  "img": "media/retratos/museo/kant.jpg"
+ },
+ {
+  "c": "Entre tanto, me he hecho spinozista.",
+  "a": "Friedrich Wilhelm Joseph Schelling",
+  "o": "Carta a Hegel, 4 de febrero de 1795",
+  "e": "contemporanea",
+  "id": "schelling",
+  "img": "media/retratos/ilustres/schelling.jpg"
+ },
+ {
+  "c": "Creo en el Dios de Spinoza, que se revela en la armonía de todo lo que existe, y no en un Dios que se ocupa del destino y las acciones de los seres humanos.",
+  "a": "Albert Einstein",
+  "o": "Telegrama al rabino Herbert S. Goldstein, abril de 1929",
+  "e": "contemporanea",
+  "id": "einstein",
+  "img": "media/retratos/museo/einstein.jpg"
+ },
+ {
+  "c": "Todo filósofo tiene dos filosofías: la suya y la de Spinoza.",
+  "a": "Henri Bergson",
+  "o": "atribuida; carta a Léon Brunschvicg con motivo del 250 aniversario de la muerte de Spinoza",
+  "e": "contemporanea",
+  "img": "media/galeria_museo/spinoza_universal/bergson.jpg"
+ },
+ {
+  "c": "Encadenado eternamente a un pequeño fragmento aislado del todo, el ser humano mismo se forma solo como fragmento.",
+  "a": "Friedrich Schiller",
+  "o": "Cartas sobre la educación estética del hombre (1795), carta 6",
+  "e": "moderna",
+  "id": "schiller",
+  "img": "media/retratos/ilustres/schiller.jpg"
+ },
+ {
+  "c": "Con todo su exceso de riqueza, la sociedad civil no es lo bastante rica para impedir el exceso de pobreza y la formación de la plebe.",
+  "a": "Hegel",
+  "o": "Filosofía del derecho (1820), § 245",
+  "e": "contemporanea",
+  "id": "hegel",
+  "img": "media/retratos/museo/hegel.jpg"
+ },
+ {
+  "c": "El secreto de las grandes fortunas sin causa aparente es un crimen olvidado, porque se cometió limpiamente.",
+  "a": "Honoré de Balzac",
+  "o": "Papá Goriot (1835), palabras de Vautrin",
+  "e": "contemporanea",
+  "id": "balzac",
+  "img": "media/retratos/ilustres/balzac.jpg"
+ },
+ {
+  "c": "¡Paz a las cabañas! ¡Guerra a los palacios!",
+  "a": "Georg Büchner",
+  "o": "El mensajero rural de Hesse (1834), con Friedrich Ludwig Weidig; lema de la Revolución francesa",
+  "e": "contemporanea",
+  "id": "buchner",
+  "img": "media/retratos/ilustres/buchner.jpg"
+ },
+ {
+  "c": "Ha ahogado los sagrados estremecimientos del fervor religioso, del entusiasmo caballeresco y del sentimentalismo pequeñoburgués en las aguas heladas del cálculo egoísta.",
+  "a": "Marx & Engels",
+  "o": "Manifiesto del Partido Comunista (1848), cap. I, sobre la burguesía",
+  "e": "contemporanea",
+  "id": "marx",
+  "img": "media/retratos/museo/marx.jpg"
  }
 ];
