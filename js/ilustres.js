@@ -111,7 +111,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
-   "hf-preso"
+   "hf-preso",
+   "hf-kant-juicios"
   ]
  },
  "anaximenes": {
@@ -150,7 +151,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
-   "hf-preso"
+   "hf-preso",
+   "hf-renacimiento-magia"
   ]
  },
  "jenofanes": {
@@ -200,7 +202,8 @@ const ILUSTRES = {
   "temas": [
    "hf-preso",
    "hf-ap",
-   "hf-platon"
+   "hf-platon",
+   "hf-kant-juicios"
   ]
  },
  "parmenides": {
@@ -226,7 +229,8 @@ const ILUSTRES = {
    "hf-preso",
    "hf-ap",
    "hf-platon",
-   "hf-montaigne-ensayos"
+   "hf-montaigne-ensayos",
+   "hf-kant-juicios"
   ]
  },
  "anaxagoras": {
@@ -314,7 +318,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-beefs",
-   "hf-sofistas"
+   "hf-sofistas",
+   "hf-kant-juicios"
   ]
  },
  "gorgias": {
@@ -379,7 +384,9 @@ const ILUSTRES = {
   "subjects": [
    "hf"
   ],
-  "temas": []
+  "temas": [
+   "hf-kant-juicios"
+  ]
  },
  "filolao": {
   "name": "Filolao de Crotona",
@@ -446,6 +453,7 @@ const ILUSTRES = {
    "hf-aristoteles-arabe",
    "hf-montaigne-ensayos",
    "hf-kant-poetas",
+   "hf-kant-juicios",
    "hf-etica-deber",
    "hf-sospecha"
   ]
@@ -490,7 +498,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-preso",
-   "hf-helenismo"
+   "hf-helenismo",
+   "hf-kant-juicios"
   ]
  },
  "hipias": {
@@ -636,8 +645,10 @@ const ILUSTRES = {
    "hf-toledo-traductores",
    "hf-modernidad",
    "hf-montaigne-ensayos",
+   "hf-renacimiento-magia",
    "hf-racionalismo",
    "hf-kant-poetas",
+   "hf-kant-juicios",
    "hf-sospecha",
    "hf-descartes-makro"
   ]
@@ -741,8 +752,10 @@ const ILUSTRES = {
    "hf-judios-andalus",
    "hf-modernidad",
    "hf-montaigne-ensayos",
+   "hf-renacimiento-magia",
    "hf-contrato",
    "hf-utilitarismo",
+   "hf-kant-juicios",
    "hf-descartes-makro"
   ]
  },
@@ -765,7 +778,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
-   "hf-aristoteles-arabe"
+   "hf-aristoteles-arabe",
+   "hf-kant-juicios"
   ]
  },
  "crates": {
@@ -938,7 +952,9 @@ const ILUSTRES = {
   "subjects": [
    "hf"
   ],
-  "temas": []
+  "temas": [
+   "hf-kant-juicios"
+  ]
  },
  "carneades": {
   "name": "Carnéades de Cirene",
@@ -1084,6 +1100,7 @@ const ILUSTRES = {
    "hf-islam-ideas",
    "hf-toledo-traductores",
    "hf-montaigne-ensayos",
+   "hf-renacimiento-magia",
    "hf-racionalismo",
    "hf-descartes-makro"
   ]
@@ -1157,7 +1174,9 @@ const ILUSTRES = {
    "hf-verdad-no-contradice",
    "hf-islam-ideas",
    "hf-toledo-traductores",
-   "hf-judios-andalus"
+   "hf-judios-andalus",
+   "hf-renacimiento-magia",
+   "hf-kant-juicios"
   ]
  },
  "anselmo": {
@@ -1208,7 +1227,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
-   "hf-medieval"
+   "hf-medieval",
+   "hf-kant-juicios"
   ]
  },
  "avempace": {
@@ -1354,7 +1374,8 @@ const ILUSTRES = {
    "hf-aristoteles-arabe",
    "hf-verdad-no-contradice",
    "hf-islam-ideas",
-   "hf-judios-andalus"
+   "hf-judios-andalus",
+   "hf-renacimiento-magia"
   ]
  },
  "alberto_magno": {
@@ -1465,7 +1486,9 @@ const ILUSTRES = {
   "subjects": [
    "hf"
   ],
-  "temas": []
+  "temas": [
+   "hf-renacimiento-magia"
+  ]
  },
  "dante": {
   "name": "Dante Alighieri",
@@ -1665,10 +1688,10 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-modernidad",
+   "hf-renacimiento-magia",
    "hf-sospecha",
    "hf-analitica",
-   "hf-descartes-makro",
-   "hf-renacimiento-magia"
+   "hf-descartes-makro"
   ]
  },
  "tomas_moro": {
@@ -1789,8 +1812,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
-   "hf-racionalismo",
-   "hf-renacimiento-magia"
+   "hf-renacimiento-magia",
+   "hf-racionalismo"
   ]
  },
  "galileo": {
@@ -1843,6 +1866,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-renacimiento-magia",
    "hf-marx-biblioteca"
   ]
  },
@@ -1869,8 +1893,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-modernidad",
-   "hf-descartes-makro",
-   "hf-renacimiento-magia"
+   "hf-renacimiento-magia",
+   "hf-descartes-makro"
   ]
  },
  "harvey": {
@@ -2003,6 +2027,7 @@ const ILUSTRES = {
    "hf-fe-razon",
    "hf-modernidad",
    "hf-montaigne-ensayos",
+   "hf-renacimiento-magia",
    "hf-racionalismo",
    "hf-descartes-simulacion",
    "hf-metafisica",
@@ -2072,6 +2097,7 @@ const ILUSTRES = {
    "hf-spinoza-sistema",
    "hf-spinoza-universal",
    "hf-kant-poetas",
+   "hf-kant-juicios",
    "hf-descartes-makro"
   ]
  },
@@ -2157,13 +2183,13 @@ const ILUSTRES = {
    "hf-beefs",
    "hf-aa",
    "hf-modernidad",
+   "hf-renacimiento-magia",
    "hf-metafisica",
    "hf-ilustracion",
    "hf-kant",
    "hf-marxismos",
    "hf-analitica",
-   "hf-descartes-makro",
-   "hf-renacimiento-magia"
+   "hf-descartes-makro"
   ]
  },
  "leibniz": {
@@ -2194,6 +2220,7 @@ const ILUSTRES = {
    "hf-metafisica",
    "hf-spinoza-universal",
    "hf-kant",
+   "hf-kant-juicios",
    "hf-descartes-makro"
   ]
  },
@@ -2272,7 +2299,30 @@ const ILUSTRES = {
   "temas": [
    "hf-beefs",
    "hf-spinoza-universal",
-   "hf-ilustracion"
+   "hf-ilustracion",
+   "hf-kant-juicios"
+  ]
+ },
+ "euler": {
+  "name": "Leonhard Euler",
+  "dates": "1707 – 1783",
+  "born": 1707,
+  "died": 1783,
+  "place": "Basilea (Suiza)",
+  "role": "matemático suizo",
+  "idea": "Las relaciones entre clases pueden verse como relaciones entre círculos: uno dentro de otro, separados o cruzados.",
+  "bio": "<p>Leonhard Euler nació en Basilea y estudió con el matemático Johann Bernoulli. Pasó casi toda su vida al servicio de dos academias de ciencias: la de San Petersburgo (1727-1741 y, de nuevo, desde 1766 hasta su muerte) y la de Berlín (1741-1766). Es uno de los matemáticos más productivos de la historia: escribió sobre análisis, números, mecánica, óptica y astronomía. Perdió la vista de un ojo hacia 1740 y, tras volver a San Petersburgo, quedó casi ciego; siguió trabajando dictando sus cálculos.</p>\n<p>Para la filosofía cuenta sobre todo por sus <em>Cartas a una princesa de Alemania</em>, escritas en Berlín para explicar la ciencia de su tiempo a una joven alumna y publicadas en tres volúmenes (1768-1772). En las cartas dedicadas a la lógica (de la 102 a la 108, de 1761) representó las proposiciones con <strong>círculos</strong>: un círculo dentro de otro para «todo», separados para «ninguno», cruzados para «algunos».</p>\n<p>Esos dibujos, los <strong>diagramas de Euler</strong>, se hicieron tan populares que se usan todavía para enseñar el silogismo. Un siglo después, John Venn los transformó para que sirvieran también cuando no sabemos cómo están colocadas las clases.</p>",
+  "obras": [
+   "Introducción al análisis de los infinitos (1748)",
+   "Cartas a una princesa de Alemania (1768-1772)"
+  ],
+  "fuente": "J. J. O'Connor y E. F. Robertson, «Leonhard Euler», MacTutor History of Mathematics",
+  "block": "ilu",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-kant-juicios"
   ]
  },
  "lamettrie": {
@@ -2364,6 +2414,7 @@ const ILUSTRES = {
    "hf-metafisica",
    "hf-spinoza-universal",
    "hf-kant",
+   "hf-kant-juicios",
    "hf-descartes-makro"
   ]
  },
@@ -2572,6 +2623,7 @@ const ILUSTRES = {
    "hf-ilustracion",
    "hf-kant",
    "hf-kant-poetas",
+   "hf-kant-juicios",
    "hf-etica-deber",
    "hf-sospecha",
    "hf-descartes-makro"
@@ -2788,6 +2840,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-renacimiento-magia",
    "hf-spinoza-sistema",
    "hf-spinoza-universal",
    "hf-kant-poetas",
@@ -3091,9 +3144,11 @@ const ILUSTRES = {
    "hf-beefs",
    "hf-mito",
    "hf-montaigne-ensayos",
+   "hf-renacimiento-magia",
    "hf-spinoza-sistema",
    "hf-spinoza-universal",
    "hf-kant-poetas",
+   "hf-kant-juicios",
    "hf-sospecha",
    "hf-corazon-piedra",
    "hf-capitalismo",
@@ -3328,6 +3383,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-renacimiento-magia",
    "hf-spinoza-universal",
    "hf-kant-poetas"
   ]
@@ -3697,6 +3753,30 @@ const ILUSTRES = {
    "hf-corazon-piedra"
   ]
  },
+ "boole": {
+  "name": "George Boole",
+  "dates": "1815 – 1864",
+  "born": 1815,
+  "died": 1864,
+  "place": "Lincoln (Inglaterra)",
+  "role": "matemático y lógico británico",
+  "idea": "La lógica puede tratarse como un álgebra: con 1 para lo verdadero y 0 para lo falso, las conectivas se convierten en operaciones de cálculo.",
+  "bio": "<p>George Boole nació en Lincoln, hijo de un zapatero con escasos recursos. No pudo ir a la universidad y fue en gran parte <strong>autodidacta</strong>: aprendió por su cuenta lenguas clásicas y matemáticas. Con dieciséis años ya trabajaba como maestro para ayudar a su familia, y más tarde abrió su propia escuela. Sus artículos de matemáticas le dieron prestigio, y en 1849 fue nombrado profesor de matemáticas en el Queen's College de Cork (Irlanda), donde enseñó hasta su muerte, a los 49 años.</p>\n<p>Su gran aportación fue mostrar que el razonamiento lógico podía expresarse con símbolos y reglas de cálculo, como el álgebra. En <em>Las leyes del pensamiento</em> (1854) propuso escribir 1 por «verdadero» y 0 por «falso». Así, la conjunción funciona como un producto y la disyunción como una suma. Es lo que hoy llamamos <strong>álgebra de Boole</strong>.</p>\n<p>Boole es uno de los fundadores de la <strong>lógica simbólica</strong> moderna, que Frege desarrollaría poco después con la lógica de predicados. Su legado llegó mucho más allá de la filosofía: en 1938 Claude Shannon mostró que sus operaciones podían construirse con circuitos eléctricos, las <strong>puertas lógicas</strong>. Por eso su álgebra es la base de la electrónica digital y de todos los ordenadores. Con él, la lógica que había fundado Aristóteles se convirtió en cálculo y, después, en tecnología.</p>",
+  "obras": [
+   "El análisis matemático de la lógica (1847)",
+   "Las leyes del pensamiento (1854)"
+  ],
+  "anecdota": "<p>Con apenas catorce años, Boole tradujo del griego un poema del autor clásico Meleagro, y su padre lo hizo publicar en un periódico de Lincoln. La traducción era tan buena que un maestro de la zona escribió al periódico negando que un chico de esa edad, hijo de un zapatero y sin estudios, pudiera haberla hecho. La polémica, en la que tuvo que intervenir la familia, fue en el fondo el primer reconocimiento público de su talento. Aquel autodidacta acabaría convirtiendo la lógica en un cálculo matemático.</p>",
+  "fuente": "Desmond MacHale, George Boole: His Life and Work",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-kant-juicios"
+  ]
+ },
  "marx": {
   "name": "Karl Marx",
   "dates": "1818 – 1883",
@@ -3819,6 +3899,32 @@ const ILUSTRES = {
    "hf-sospecha",
    "hf-posmodernidad",
    "hf-existencialismo"
+  ]
+ },
+ "frege": {
+  "name": "Gottlob Frege",
+  "dates": "1848 – 1925",
+  "born": 1848,
+  "died": 1925,
+  "place": "Wismar (Mecklemburgo)",
+  "role": "matemático, lógico y filósofo",
+  "idea": "Con un lenguaje formal de símbolos, la lógica puede eliminar las ambigüedades del lenguaje corriente y servir de fundamento a toda la aritmética.",
+  "bio": "<p>Gottlob Frege nació en Wismar, en el norte de Alemania. Estudió matemáticas, física y filosofía en Jena y Gotinga, y fue profesor de matemáticas en la Universidad de Jena durante toda su carrera. En vida su obra fue poco conocida, aunque la leyeron con atención pensadores como Bertrand Russell y Ludwig Wittgenstein.</p>\n<p>En su <em>Conceptografía</em> (1879) creó un lenguaje formal de símbolos para expresar los razonamientos sin las ambigüedades del lenguaje corriente. Con él fundó la <strong>lógica de primer orden</strong> o lógica de predicados, que permite analizar enunciados con cuantificadores como «todos» o «alguno». Es la base de la lógica actual y supuso el mayor avance en esta disciplina desde Aristóteles. Frege defendió además el <strong>logicismo</strong>: la aritmética puede derivarse de la lógica. En 1902 Russell le escribió para mostrarle una paradoja que afectaba a su sistema, lo que obligó a replantear el proyecto. También distinguió entre el <strong>sentido</strong> y la <strong>referencia</strong> de las expresiones: «lucero de la mañana» y «lucero de la tarde» tienen distinto sentido, pero se refieren al mismo objeto, el planeta Venus.</p>\n<p>Frege es considerado el padre de la <strong>filosofía analítica</strong>. Russell y Whitehead continuaron su programa en los <em>Principia Mathematica</em>, y su obra influyó en Wittgenstein. Junto con el álgebra de Boole, su lógica simbólica es uno de los fundamentos de la informática.</p>",
+  "obras": [
+   "Conceptografía (1879)",
+   "Los fundamentos de la aritmética (1884)",
+   "Sobre sentido y referencia (1892)",
+   "Leyes fundamentales de la aritmética (1893-1903)"
+  ],
+  "anecdota": "<p>En 1911, un joven ingeniero austríaco llamado Ludwig Wittgenstein viajó a Jena para mostrar a Frege sus ideas sobre los fundamentos de la lógica. Años después, Wittgenstein recordaba que Frege rebatió todos sus argumentos con facilidad, pero que, al despedirse, lo animó a volver. Fue él quien le aconsejó ir a Cambridge a estudiar con Bertrand Russell. Así, aquel profesor casi desconocido encaminó a uno de los filósofos más importantes del siglo XX, que siempre reconoció su deuda con él en el prólogo del <em>Tractatus</em>.</p>",
+  "fuente": "Testimonio de Wittgenstein recogido por Peter Geach; prólogo del Tractatus logico-philosophicus",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-kant-juicios"
   ]
  },
  "freud": {

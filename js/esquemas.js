@@ -91,6 +91,131 @@ const ESQUEMAS = {
    "idea": "Para Aristóteles, cambiar es pasar de la potencia al acto, y un cambio solo queda explicado del todo con sus cuatro causas: de qué, qué, quién y para qué. Todo en la naturaleza tiende a un fin."
   }
  },
+ "B1-REL-01": {
+  "subject": "hf",
+  "block": "B",
+  "tema": "Agustín de Hipona",
+  "title": "San Agustín: el ser humano entre dos amores",
+  "mermaid": "flowchart TD\n  n0[\"SAN AGUSTÍN: EL SER HUMANO ENTRE DOS AMORES\"]:::axis\n  n1[\"Cuerpo\"]\n  n2[\"Amor desordenado\"]\n  n3[\"Libre albedrío\"]:::key\n  n4[\"Pecado y mal\"]\n  n5[\"Gracia\"]\n  n6[\"Interioridad\"]:::key\n  n7[\"Si me engaño, existo\"]\n  n8[\"Iluminación\"]\n  n9[\"Felicidad verdadera\"]\n  n10[\"Las dos ciudades\"]:::key\n  n11[\"Ciudad terrena\"]\n  n12[\"Ciudad de Dios\"]\n  n13[\"Providencia\"]\n  n14[\"Dios creador\"]\n  n15[\"Ideas ejemplares\"]\n  n16[\"Tiempo\"]\n  n0 -->|tiene un| n1\n  n1 -->|puede arrastrar al| n2\n  n0 -->|elige con su| n3\n  n3 -->|al apartarse de Dios| n4\n  n3 -->|herido, necesita la| n5\n  n0 -->|busca en la| n6\n  n6 -->|primera certeza| n7\n  n6 -->|conoce por| n8\n  n6 -->|encuentra la| n9\n  n0 -->|vive en la historia| n10\n  n10 -->|amor de sí| n11\n  n10 -->|amor de Dios| n12\n  n10 -->|mezcladas, guiadas por la| n13\n  n0 -->|todo procede de| n14\n  n14 -->|según las| n15\n  n14 -->|crea con el mundo el| n16",
+  "v2": {
+   "pregunta": "¿Por qué el ser humano, que busca la felicidad, la busca tantas veces donde no está?",
+   "raiz": "SAN AGUSTÍN: EL SER HUMANO ENTRE DOS AMORES",
+   "raiz_d": "«Nos hiciste para ti, y nuestro corazón está inquieto hasta que descanse en ti» (Confesiones I 1,1). Toda su filosofía explica esa inquietud y su salida.",
+   "ramas": [
+    {
+     "rel": "tiene un",
+     "t": "Cuerpo",
+     "d": "Creado por Dios y, por tanto, bueno. No es una cárcel ni el origen del mal.",
+     "c": [
+      {
+       "rel": "puede arrastrar al",
+       "t": "Amor desordenado",
+       "d": "Preferir los bienes menores, sensibles y pasajeros, como si fueran el fin último. Lo malo no son los bienes, sino el orden del amor."
+      }
+     ]
+    },
+    {
+     "rel": "elige con su",
+     "t": "Libre albedrío",
+     "k": true,
+     "d": "La voluntad puede volverse hacia Dios o apartarse de él.",
+     "c": [
+      {
+       "rel": "al apartarse de Dios",
+       "t": "Pecado y mal",
+       "d": "El mal no es una sustancia: es privación de bien. Nace de la voluntad que se aparta del Bien inmutable (Confesiones VII 12,18 y 16,22; Enchiridion 11-12)."
+      },
+      {
+       "rel": "herido, necesita la",
+       "t": "Gracia",
+       "d": "Tras el pecado original, la voluntad no puede volverse a Dios por sí sola (contra Pelagio). La salvación depende de Dios: es el problema de la predestinación."
+      }
+     ]
+    },
+    {
+     "rel": "busca en la",
+     "t": "Interioridad",
+     "k": true,
+     "d": "«No salgas fuera, vuelve a ti mismo; en el hombre interior habita la verdad» (De vera religione 39,72).",
+     "c": [
+      {
+       "rel": "primera certeza",
+       "t": "Si me engaño, existo",
+       "d": "Si fallor, sum (La Ciudad de Dios XI 26): quien duda o se equivoca ya existe. Es un antecedente del cogito de Descartes."
+      },
+      {
+       "rel": "conoce por",
+       "t": "Iluminación",
+       "d": "La mente ve las verdades eternas gracias a una luz que procede de Dios (De Trinitate XII 15,24). Se discute si es una ayuda especial o la participación natural de la mente en la mente divina."
+      },
+      {
+       "rel": "encuentra la",
+       "t": "Felicidad verdadera",
+       "d": "Solo es feliz quien posee a Dios, el Bien supremo, que no se puede perder."
+      }
+     ]
+    },
+    {
+     "rel": "vive en la historia",
+     "t": "Las dos ciudades",
+     "k": true,
+     "d": "«Dos amores fundaron dos ciudades» (La Ciudad de Dios XIV 28).",
+     "c": [
+      {
+       "rel": "amor de sí",
+       "t": "Ciudad terrena",
+       "d": "El amor de sí hasta el desprecio de Dios. Su poder político puede dar orden y paz, no la salvación."
+      },
+      {
+       "rel": "amor de Dios",
+       "t": "Ciudad de Dios",
+       "d": "El amor de Dios hasta el desprecio de sí. No es la Iglesia visible ni un lugar: es una comunidad de quienes aman a Dios."
+      },
+      {
+       "rel": "mezcladas, guiadas por la",
+       "t": "Providencia",
+       "d": "Las dos ciudades conviven mezcladas hasta el final de los tiempos (La Ciudad de Dios I 35); Dios guía la historia."
+      }
+     ]
+    },
+    {
+     "rel": "todo procede de",
+     "t": "Dios creador",
+     "d": "Crea el mundo de la nada, libremente.",
+     "c": [
+      {
+       "rel": "según las",
+       "t": "Ideas ejemplares",
+       "d": "Los modelos de todas las cosas están en la mente de Dios: son las Ideas de Platón, puestas en Dios (Sobre diversas cuestiones 83, q. 46)."
+      },
+      {
+       "rel": "crea con el mundo el",
+       "t": "Tiempo",
+       "d": "El mundo no fue creado en el tiempo, sino con el tiempo. «¿Qué es el tiempo? Si nadie me lo pregunta, lo sé; si quiero explicarlo, no lo sé» (Confesiones XI 14,17)."
+      }
+     ]
+    }
+   ],
+   "cruces": [
+    {
+     "de": "Amor desordenado",
+     "rel": "funda la",
+     "a": "Ciudad terrena"
+    },
+    {
+     "de": "Gracia",
+     "rel": "conduce a la",
+     "a": "Ciudad de Dios"
+    },
+    {
+     "de": "Ideas ejemplares",
+     "rel": "se conocen por",
+     "a": "Iluminación"
+    }
+   ],
+   "idea": "El ser humano es libre para amar: si ama a Dios por encima de todo, encuentra en su interior la verdad y la felicidad; si se ama a sí mismo y a los bienes menores como fin, cae en el mal. Esos dos amores dividen la historia en dos ciudades, y todo procede de Dios, que crea el mundo según sus ideas."
+  }
+ },
  "BH-REL-01": {
   "subject": "hf",
   "block": "B",
