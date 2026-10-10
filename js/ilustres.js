@@ -1873,6 +1873,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-marxismos",
    "hf-descartes-makro"
   ]
  },
@@ -2137,6 +2138,7 @@ const ILUSTRES = {
    "hf-metafisica",
    "hf-ilustracion",
    "hf-kant",
+   "hf-marxismos",
    "hf-analitica",
    "hf-descartes-makro"
   ]
@@ -3277,7 +3279,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
-   "hf-marx-biblioteca"
+   "hf-marx-biblioteca",
+   "hf-marxismos"
   ]
  },
  "schelling": {
@@ -3703,8 +3706,32 @@ const ILUSTRES = {
    "hf-etica-deber",
    "hf-sospecha",
    "hf-marx-biblioteca",
+   "hf-marxismos",
    "hf-corazon-piedra",
    "hf-capitalismo"
+  ]
+ },
+ "mendel": {
+  "name": "Gregor Mendel",
+  "dates": "1822 – 1884",
+  "born": 1822,
+  "died": 1884,
+  "place": "Heinzendorf (Silesia, hoy República Checa)",
+  "role": "fraile agustino y naturalista",
+  "idea": "Los rasgos hereditarios se transmiten mediante unidades separadas, hoy llamadas genes, que se combinan de generación en generación siguiendo proporciones regulares y previsibles.",
+  "bio": "<p>Gregor Mendel nació en una familia campesina de la Silesia austriaca. Entró en el monasterio agustino de Brno (entonces Brünn, en Moravia), que le permitió estudiar ciencias en la Universidad de Viena. En el huerto del monasterio realizó durante años experimentos de cruce con miles de plantas de guisante. En 1868 fue elegido abad, y las tareas del cargo le apartaron de la investigación.</p>\n<p>Mendel descubrió las <strong>leyes de la herencia</strong>: los caracteres pasan de padres a hijos mediante unidades separadas que se combinan siguiendo proporciones regulares. Su trabajo pasó casi inadvertido hasta que fue redescubierto en 1900. Aparece en el temario porque la <strong>genética</strong> explicó cómo se transmiten las variaciones que selecciona la evolución; unida a la teoría de Darwin, dio lugar a la teoría sintética o neodarwinismo.</p>",
+  "obras": [
+   "Experimentos sobre hibridación de plantas (1866)"
+  ],
+  "anecdota": "<p>Tras publicar sus experimentos con guisantes, Mendel envió su trabajo a Carl von Nägeli, uno de los botánicos más prestigiosos de su tiempo, con la esperanza de recibir apoyo. Nägeli le contestó con cierto escepticismo y le sugirió repetir los cruces con otra planta, la vellosilla (<em>Hieracium</em>). Mendel lo intentó durante años, pero los resultados no encajaban con sus leyes: hoy sabemos que esa planta se reproduce muchas veces sin fecundación. Desanimado y ocupado como abad, abandonó la investigación, y sus leyes tuvieron que esperar hasta 1900.</p>",
+  "fuente": "Correspondencia de Mendel con Carl von Nägeli",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-marxismos"
   ]
  },
  "kropotkin": {
@@ -3848,7 +3875,8 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
-   "hf-etica-deber"
+   "hf-etica-deber",
+   "hf-marxismos"
   ]
  },
  "russell": {
@@ -4103,6 +4131,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-marxismos",
    "hf-capitalismo"
   ]
  },
@@ -4128,6 +4157,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-marxismos",
    "hf-capitalismo"
   ]
  },
@@ -4230,6 +4260,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-montaigne-ensayos",
+   "hf-marxismos",
    "hf-capitalismo"
   ]
  },
@@ -4283,6 +4314,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-beefs",
+   "hf-marxismos",
    "hf-existencialismo",
    "hf-beauvoir"
   ]
@@ -4574,6 +4606,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-beefs",
+   "hf-marxismos",
    "hf-capitalismo",
    "hf-posmodernidad"
   ]
