@@ -53,12 +53,13 @@
           <button data-view="ilustres">Ilustres</button>
           <button data-view="citas">Frases</button>
           <button data-view="adagios">Adagios</button>
+          <button data-view="polemicas">Polémicas</button>
         </div>
       </div>
       <div class="navsec">
         <span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Juegos</span>
         <div class="navmenu">
-          <a class="gamelink" href="media/juego_duelo_de_razones.html#hf" target="_blank" rel="noopener">Duelo de razones ↗</a>
+          <button data-view="duelo">Duelo de razones</button>
           <button data-view="eudaimonia">Eudaimonía</button>
           <button data-view="republica">República</button>
           <button data-view="rayuela">Rayuela filosófica</button>
@@ -291,6 +292,25 @@
     <p class="lead">Frases célebres de la filosofía, de la Antigüedad a hoy: cada una con su <strong>autor</strong> y su <strong>obra</strong>. Filtra por <strong>época</strong>.</p>
     <div class="filterbar" id="citasfilter" role="group" aria-label="Filtrar frases por época"></div>
     <div id="citasbody"></div>
+  </section>
+
+  <section class="view" id="duelo">
+    <!-- (11-10) Duelo de razones: antes juego aparte (media/juego_duelo_de_razones*.html, cinco copias); ahora sección (duelo.js + dueloview.js).
+         En todas las webs: cada una muestra los debates de su nivel (eso | fil | hf). -->
+    <p class="eyebrow">Juegos</p>
+    <h1 class="title">Duelo de razones</h1>
+    <div class="due-top"><button type="button" class="due-proybtn" id="dueproy">Modo proyector</button></div>
+    <div id="duelobox"></div>
+  </section>
+
+  <section class="view" id="polemicas">
+    <!-- (11-10) Polémicas: pensadores coetáneos que se enfrentaron cara a cara, por cartas, con libros o desde escuelas rivales
+         (polemicas.js + polemicasview.js). Solo Bachillerato: la web de ESO no la lleva (build_eso.js). -->
+    <p class="eyebrow">Estudiar</p>
+    <h1 class="title">Polémicas: cara a cara</h1>
+    <p class="lead">Filósofos que coincidieron en el tiempo y se enfrentaron de verdad. Elige con quién vas, da tu razón y mira el mejor argumento del otro lado.</p>
+    <div class="filterbar" id="polemicasfilter" role="group" aria-label="Filtrar polémicas"></div>
+    <div id="polemicasbox"></div>
   </section>
 
   <section class="view" id="adagios">
@@ -541,6 +561,7 @@
       <h2>Terminología de las traducciones</h2>
       <ul>
         <li>Euskera: las decisiones de terminología se toman con el <em>Euskaltzaindiaren Hiztegia</em> (diccionario de la Real Academia de la Lengua Vasca) y se enlaza aquí cada consulta. 11-10-2026: «época», como periodo histórico, es «aro» (<a href="https://www.euskaltzaindia.eus/index.php?option=com_hiztegianbilatu&amp;task=bilaketa&amp;Itemid=1693&amp;lang=eu&amp;query=aro" target="_blank" rel="noopener">aro</a>, acepción 4: cada una de las partes en que se divide el tiempo histórico), no «garai» (<a href="https://www.euskaltzaindia.eus/index.php?option=com_hiztegianbilatu&amp;task=bilaketa&amp;Itemid=1693&amp;lang=eu&amp;query=garai" target="_blank" rel="noopener">garai</a>, periodo de tiempo en general); «falacia» es «falazia» (<a href="https://www.euskaltzaindia.eus/index.php?option=com_hiztegianbilatu&amp;task=bilaketa&amp;Itemid=1693&amp;lang=eu&amp;query=falazia" target="_blank" rel="noopener">falazia</a>), no «faltsukeria», que significa «falsedad».</li>
+        <li>Euskera, 12-10-2026: «libre albedrío» es «borondate askea» (<a href="https://www.euskaltzaindia.eus/index.php?option=com_hiztegianbilatu&amp;task=bilaketa&amp;Itemid=1693&amp;lang=eu&amp;query=borondate" target="_blank" rel="noopener">borondate</a>, acepción 1: capacidad de querer, de hacer o no hacer algo o de elegir libremente), la forma que ya usa la web.</li>
       </ul>
       <!-- NOTAS-ARETE-INICIO -->
       <h2>Notas y referencias por temas</h2>
@@ -965,6 +986,7 @@
         <li>Exploración «El corazón de piedra»: obras de Goya, Loutherbourg, Turner, Daumier, Hübner, Kollwitz y otros, e ilustraciones de época, de Wikimedia Commons en dominio público o CC0 (National Gallery de Londres, National Gallery of Art de Washington, Statens Museum for Kunst, entre otros).</li>
         <li>Fotografías de Unsplash.</li>
         <li>Ilustraciones generadas con inteligencia artificial (Gemini y Nano Banana, de Google, y FLUX).</li>
+        <li>Las infografías son de elaboración propia, hechas con ayuda de herramientas de inteligencia artificial y revisadas por el profesor.</li>
       </ul>
       <h2>Cine, series y vídeos</h2>
       <ul>
@@ -976,10 +998,15 @@
         <li>Mermaid y Markmap (licencia MIT) para esquemas y mapas.</li>
         <li>Tipografías Spectral, IBM Plex y Fraunces (SIL Open Font License).</li>
       </ul>
+      <h2>Licencia</h2>
+      <ul>
+        <li>El material de elaboración propia de esta web (textos, actividades, cuestionarios, esquemas e infografías) se publica con la licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es" rel="license">Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</a>: puede copiarse y adaptarse citando su procedencia, sin fines comerciales y compartiéndolo con la misma licencia.</li>
+        <li>Quedan fuera de esta licencia los textos de la PAU, las traducciones publicadas por editoriales y las imágenes y textos de terceros, que conservan su propia licencia, indicada en esta página y en cada crédito.</li>
+      </ul>
     </article>
   </section>
 </main>
-<footer class="wrap sitefoot"><a href="#mapa">Mapa de la web</a> · <a href="#fuentes">Fuentes y aviso</a></footer>
+<footer class="wrap sitefoot"><a href="#mapa">Mapa de la web</a> · <a href="#fuentes">Fuentes y aviso</a> · <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">CC BY-NC-SA 4.0</a></footer>
 
 <script src="js/store.js"></script>
 <script src="js/data.js"></script>
@@ -1042,6 +1069,10 @@
 <script src="js/nudosview.js"></script>
 <script src="js/adagios.js"></script>
 <script src="js/adagiosview.js"></script>
+<script src="js/polemicas.js"></script>
+<script src="js/polemicasview.js"></script>
+<script src="js/duelo.js"></script>
+<script src="js/dueloview.js"></script>
 <script src="js/juego_aristoteles.js"></script>
 <script src="js/aristotelesview.js"></script>
 <script src="js/platonview.js"></script>
