@@ -148,6 +148,7 @@ const POLEMICAS = [
  },
  {
   "id": "agustin-maniqueos",
+  "duelo": "pol-agustin-maniqueos",
   "ilu_a": [
    "agustin"
   ],
@@ -194,6 +195,7 @@ const POLEMICAS = [
  },
  {
   "id": "agustin-jeronimo",
+  "duelo": "pol-agustin-jeronimo",
   "ilu_a": [
    "agustin"
   ],
@@ -241,6 +243,7 @@ const POLEMICAS = [
  },
  {
   "id": "agustin-petiliano",
+  "duelo": "pol-agustin-petiliano",
   "ilu_a": [
    "agustin"
   ],
@@ -288,6 +291,7 @@ const POLEMICAS = [
  },
  {
   "id": "agustin-volusiano",
+  "duelo": "pol-agustin-volusiano",
   "ilu_a": [
    "agustin"
   ],
@@ -334,6 +338,7 @@ const POLEMICAS = [
  },
  {
   "id": "agustin-pelagio",
+  "duelo": "pol-agustin-pelagio",
   "ilu_a": [
    "agustin"
   ],
@@ -382,6 +387,7 @@ const POLEMICAS = [
  },
  {
   "id": "agustin-julian",
+  "duelo": "pol-agustin-julian",
   "ilu_a": [
    "agustin"
   ],
@@ -430,6 +436,7 @@ const POLEMICAS = [
  },
  {
   "id": "agustin-maximino",
+  "duelo": "pol-agustin-maximino",
   "ilu_a": [
    "agustin"
   ],
