@@ -1030,7 +1030,10 @@ const GLOSARIO = [
   "bloque": "C",
   "unidad": "C8",
   "tema": "El existencialismo",
-  "def": "El «mundo de la vida» de Husserl (al. Lebenswelt): el mundo de experiencia vivido que está antes y debajo de la ciencia, lleno de sentido cotidiano. El existencialismo parte de ahí para explicar que el ser humano está situado en el mundo."
+  "def": "El «mundo de la vida» de Husserl (al. Lebenswelt): el mundo de experiencia vivido que está antes y debajo de la ciencia, lleno de sentido cotidiano. El existencialismo parte de ahí para explicar que el ser humano está situado en el mundo.",
+  "ilustre": [
+   "husserl"
+  ]
  },
  {
   "subject": "hf",
@@ -1184,7 +1187,10 @@ const GLOSARIO = [
   "bloque": "C",
   "unidad": "C5A",
   "tema": "Las luchas después del marxismo",
-  "def": "Marcuse no entiende el deseo solo como riesgo privado. El cuerpo, la imaginación y el arte pueden ser fuerza crítica contra la normalidad cotidiana."
+  "def": "Marcuse no entiende el deseo solo como riesgo privado. El cuerpo, la imaginación y el arte pueden ser fuerza crítica contra la normalidad cotidiana.",
+  "ilustre": [
+   "marcuse"
+  ]
  },
  {
   "subject": "hf",
@@ -1668,7 +1674,10 @@ const GLOSARIO = [
   "bloque": "C",
   "unidad": "C8",
   "tema": "El existencialismo",
-  "def": "Rasgo básico de la fenomenología (Husserl): la conciencia es siempre «conciencia de algo», siempre dirigida a algo. Pensar, querer o temer tienen siempre un objeto."
+  "def": "Rasgo básico de la fenomenología (Husserl): la conciencia es siempre «conciencia de algo», siempre dirigida a algo. Pensar, querer o temer tienen siempre un objeto.",
+  "ilustre": [
+   "husserl"
+  ]
  },
  {
   "subject": "hf",
@@ -3034,7 +3043,10 @@ const GLOSARIO = [
   "bloque": "C",
   "unidad": "C5A",
   "tema": "Las luchas después del marxismo",
-  "def": "Según Marcuse, toda civilización necesita ciertos límites, pero la sociedad capitalista añade a esos límites necesarios una disciplina social sobrante, en favor del trabajo, el consumo y la obediencia."
+  "def": "Según Marcuse, toda civilización necesita ciertos límites, pero la sociedad capitalista añade a esos límites necesarios una disciplina social sobrante, en favor del trabajo, el consumo y la obediencia.",
+  "ilustre": [
+   "marcuse"
+  ]
  },
  {
   "subject": "hf",
@@ -3218,7 +3230,10 @@ const GLOSARIO = [
   "bloque": "C",
   "unidad": "C5A",
   "tema": "Las luchas después del marxismo",
-  "def": "Para Marcuse, la sociedad que nace cuando la crítica y las alternativas políticas se absorben dentro del sistema. El propio desacuerdo puede volverse estilo de mercado."
+  "def": "Para Marcuse, la sociedad que nace cuando la crítica y las alternativas políticas se absorben dentro del sistema. El propio desacuerdo puede volverse estilo de mercado.",
+  "ilustre": [
+   "marcuse"
+  ]
  },
  {
   "subject": "hf",

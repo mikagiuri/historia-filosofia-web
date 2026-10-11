@@ -832,6 +832,7 @@ const CITAS = [
   "a": "Karl Jaspers",
   "o": "La filosofía (1950), cap. I",
   "e": "contemporanea",
+  "id": "jaspers",
   "img": "media/retratos/citas/jaspers.jpg",
   "sen": "Jaspers dice que la filosofía no es un saber acabado, sino un camino: lo esencial es seguir preguntando, porque cada respuesta abre nuevas preguntas.",
   "uso": "Para presentar qué es la filosofía al comienzo del curso, o en una disertación sobre la diferencia entre filosofía y ciencia."
@@ -1780,6 +1781,7 @@ const CITAS = [
   "a": "Henri Bergson",
   "o": "atribuida; carta a Léon Brunschvicg con motivo del 250 aniversario de la muerte de Spinoza",
   "e": "contemporanea",
+  "id": "bergson",
   "img": "media/galeria_museo/spinoza_universal/bergson.jpg",
   "sen": "La frase subraya la enorme influencia de Spinoza: cualquier filósofo, además de su propio pensamiento, tendría que situarse frente a él.",
   "uso": "Para presentar la importancia de Spinoza en la historia de la filosofía moderna y contemporánea.",
