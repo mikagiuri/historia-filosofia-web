@@ -4,7 +4,7 @@
    qué ideas compartían, una cita con su referencia, cómo acabó, el «caso trampa» y una pregunta para pensar.
    cas_cas_ilu = ids de Ilustres (retratos y biografías); cas_epoca: ant|med|ren|mod|ilu|con; temas = claves de THEORY;
    imgs = [{f, pie, page}] de Wikimedia Commons, solo dominio público (créditos en recursos/imagenes_museos/comunidades/);
-   cronologia = [{a: año, t: suceso}]; etapas = [{n, a, q: quiénes, d}] (opcional). Hechos comprobados con las fuentes. */
+   cronologia = [{a: año, t: suceso}]; etapas = [{nom, a, q: quiénes, d}] (nom y no n: «n» está en KEY_BLACKLIST y no se traduciría) (opcional). Hechos comprobados con las fuentes. */
 const COMUNIDADES = [
  {
   "id": "academia",
@@ -110,37 +110,37 @@ const COMUNIDADES = [
   ],
   "etapas": [
    {
-    "n": "Academia Antigua",
+    "nom": "Academia Antigua",
     "a": "hacia 387 – hacia 268 a. C.",
     "q": "Platón, Espeusipo, Jenócrates, Polemón y Crates",
     "d": "Desarrollan las ideas de Platón en matemáticas, metafísica y ética. Con Polemón estudió Zenón de Citio, que después fundaría el estoicismo."
    },
    {
-    "n": "Academia escéptica",
+    "nom": "Academia escéptica",
     "a": "hacia 268 – 241 a. C.",
     "q": "Arcesilao",
     "d": "Vuelve al Sócrates que sabe que no sabe: frente a los estoicos, defiende suspender el juicio cuando no hay certeza."
    },
    {
-    "n": "Academia Nueva",
+    "nom": "Academia Nueva",
     "a": "siglo II a. C.",
     "q": "Carnéades y Clitómaco",
     "d": "Un escepticismo moderado: no hay certeza, pero sí ideas más o menos convincentes que bastan para guiar la vida."
    },
    {
-    "n": "Filón y Antíoco",
+    "nom": "Filón y Antíoco",
     "a": "hacia 110 – 79 a. C.",
     "q": "Filón de Larisa y Antíoco de Ascalón",
     "d": "Filón, el último director conocido, huyó a Roma durante la guerra contra Mitrídates. Su discípulo Antíoco abandonó el escepticismo y sostuvo que platónicos, aristotélicos y estoicos decían en el fondo lo mismo, lo que acercó la escuela al estoicismo."
    },
    {
-    "n": "Platonismo en la Atenas romana",
+    "nom": "Platonismo en la Atenas romana",
     "a": "siglo I a. C. – siglo IV d. C.",
     "q": "Maestros platónicos, sin una escuela continua",
     "d": "Tras la guerra del 86 a. C. se sigue enseñando a Platón en Atenas, pero ya no en la misma institución. En 176 el emperador Marco Aurelio crea en la ciudad cátedras pagadas para platónicos, aristotélicos, estoicos y epicúreos."
    },
    {
-    "n": "Escuela neoplatónica de Atenas",
+    "nom": "Escuela neoplatónica de Atenas",
     "a": "hacia 400 – 529",
     "q": "Plutarco de Atenas, Siriano, Proclo y Damascio",
     "d": "Se llaman a sí mismos «sucesores» de Platón y leen sus diálogos, en la línea de Plotino, como un camino hacia lo Uno. Justiniano les prohíbe enseñar en 529, y Damascio y otros se refugian un tiempo en Persia."
@@ -240,25 +240,25 @@ const COMUNIDADES = [
   ],
   "etapas": [
    {
-    "n": "Aristóteles",
+    "nom": "Aristóteles",
     "a": "335 – 323 a. C.",
     "q": "Aristóteles, Teofrasto, Eudemo, Aristóxeno y Dicearco",
     "d": "Un grupo de investigadores que trabajan como socios: recogen datos, discuten y escriben sobre casi todos los saberes."
    },
    {
-    "n": "Teofrasto y Estratón",
+    "nom": "Teofrasto y Estratón",
     "a": "322 – hacia 269 a. C.",
     "q": "Teofrasto y Estratón de Lámpsaco",
     "d": "Teofrasto organiza el estudio de las plantas y compra terrenos y edificios para la escuela. Estratón da a la física un giro más naturalista."
    },
    {
-    "n": "Decadencia",
+    "nom": "Decadencia",
     "a": "hacia 269 – 86 a. C.",
     "q": "Licón, Aristón de Ceos, Critolao y otros",
     "d": "La escuela sigue, pero sin grandes ideas nuevas: el estoicismo y el epicureísmo atraen más. La guerra del 86 a. C. acaba con ella."
    },
    {
-    "n": "Los comentaristas",
+    "nom": "Los comentaristas",
     "a": "siglo I a. C. – siglo III d. C.",
     "q": "Andrónico de Rodas y Alejandro de Afrodisias",
     "d": "Ya no se trata de ampliar la obra de Aristóteles, sino de editarla, explicarla y defenderla. Esa tradición pasará a los filósofos árabes y a la Edad Media latina."
@@ -442,19 +442,19 @@ const COMUNIDADES = [
   ],
   "etapas": [
    {
-    "n": "Estoa antigua",
+    "nom": "Estoa antigua",
     "a": "hacia 300 – mediados del siglo II a. C.",
     "q": "Zenón, Cleantes, Crisipo, Diógenes de Babilonia y Antípatro",
     "d": "Se construye el sistema: lógica, física y ética. Crisipo es su gran ordenador. De estos autores solo quedan fragmentos citados por otros."
    },
    {
-    "n": "Estoa media",
+    "nom": "Estoa media",
     "a": "siglos II – I a. C.",
     "q": "Panecio y Posidonio",
     "d": "Dialogan con Platón y Aristóteles y llevan el estoicismo a los romanos. Cicerón se inspira en Panecio para su obra Sobre los deberes. El centro se traslada de Atenas a Rodas."
    },
    {
-    "n": "Estoicismo romano",
+    "nom": "Estoicismo romano",
     "a": "siglo I – siglo III",
     "q": "Musonio Rufo, Séneca, Epicteto y Marco Aurelio",
     "d": "Una filosofía práctica para vivir: cartas, conversaciones y apuntes personales. Son las únicas obras estoicas que se conservan completas."
@@ -766,25 +766,25 @@ const COMUNIDADES = [
   ],
   "etapas": [
    {
-    "n": "Los comienzos",
+    "nom": "Los comienzos",
     "a": "1923 – 1930",
     "q": "Felix Weil, Carl Grünberg y Friedrich Pollock",
     "d": "El primer centro de investigación marxista de una universidad alemana, con un marxismo todavía bastante clásico y académico."
    },
    {
-    "n": "Horkheimer y el exilio",
+    "nom": "Horkheimer y el exilio",
     "a": "1930 – 1950",
     "q": "Horkheimer, Adorno, Marcuse, Fromm, Löwenthal y Pollock; Benjamin como colaborador",
     "d": "Nace la «teoría crítica». Con el nazismo, el Instituto huye a Ginebra y después a Nueva York y California, donde se escribe Dialéctica de la Ilustración."
    },
    {
-    "n": "El regreso",
+    "nom": "El regreso",
     "a": "1951 – 1969",
     "q": "Horkheimer (director hasta 1958) y Adorno (hasta 1969)",
     "d": "Solo vuelven Horkheimer, Adorno y Pollock. El Instituto forma a nuevos sociólogos en la Alemania de posguerra y choca al final con el movimiento estudiantil."
    },
    {
-    "n": "La segunda generación y después",
+    "nom": "La segunda generación y después",
     "a": "desde los años sesenta",
     "q": "Jürgen Habermas y, más tarde, Axel Honneth",
     "d": "Habermas pone en el centro la comunicación y el diálogo racional; Honneth, la lucha por el reconocimiento."
