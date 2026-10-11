@@ -93,6 +93,48 @@ const LEIBNIZ = {
     puente: "Practica con muchos más silogismos en el <a href=\"#logica/silogismos\">Rincón de lógica</a>."
   },
 
+  calculo: {
+    titulo: "El cálculo: Leibniz inventa los signos ∫ y d",
+    partes: [
+      { h: "Dos viejos problemas", texto: [
+        "Desde Arquímedes, los matemáticos se enfrentaban a dos problemas. Uno era hallar la <strong>tangente</strong> a una curva en un punto, es decir, su inclinación: de ahí sale, por ejemplo, la velocidad en cada instante. El otro era hallar el <strong>área</strong> que encierra una curva, la «cuadratura». En el siglo XVII, Cavalieri, Fermat, Pascal o Barrow resolvieron muchos casos, cada uno con un truco distinto. Faltaban dos cosas: un método general, que sirviera para cualquier curva, y darse cuenta de que los dos problemas son uno el inverso del otro. Newton y Leibniz lo consiguieron, cada uno por su cuenta."
+      ] },
+      { h: "París, 1672-1676: sumar diferencias", texto: [
+        "Leibniz llegó a París en 1672 sabiendo muy poca matemática moderna, y el físico holandés Christiaan Huygens le hizo de maestro. Para ponerlo a prueba, le pidió que sumara los inversos de los números triangulares: 1 + 1/3 + 1/6 + 1/10 + … Leibniz vio que cada término es el doble de una diferencia, 2 × (1/n − 1/(n+1)), así que al sumarlos casi todo se cancela y el resultado es 2.",
+        "De ahí sacó la idea que guía todo su cálculo: <strong>sumar las diferencias deshace la diferencia</strong>. Si algo va cambiando poco a poco, la suma de todos sus pequeños cambios es lo que ha cambiado en total. El cálculo infinitesimal es esa misma idea, llevada a cambios infinitamente pequeños."
+      ] },
+      { h: "El triángulo característico y la serie de π", texto: [
+        "En 1673, leyendo a Pascal, Leibniz se fijó en un triángulo diminuto pegado a la curva: un lado es un aumento infinitamente pequeño de x, otro el de y, y el tercero un trocito de la propia curva. Lo llamó <strong>triángulo característico</strong>. La razón entre sus dos primeros lados es la inclinación de la tangente, lo que hoy escribimos dy/dx.",
+        "Con él inventó un método para convertir un área en otra más fácil de calcular, el <strong>teorema de transmutación</strong> (1673-1674). Aplicado al círculo, le dio una fórmula asombrosa: π/4 = 1 − 1/3 + 1/5 − 1/7 + … La publicó en 1682 en la revista <em>Acta Eruditorum</em>. Después reconoció que el escocés James Gregory había llegado antes, y hoy sabemos que en la India, en Kerala, el matemático Madhava ya la conocía hacia 1400."
+      ] },
+      { h: "29 de octubre de 1675: nace la ∫", texto: [
+        "Hasta entonces, para sumar infinitas líneas y obtener un área, Leibniz escribía <em>omn.</em>, de <em>omnes lineae</em> («todas las líneas»), la expresión de Cavalieri. En un manuscrito del 29 de octubre de 1675 anotó: «será útil escribir ∫ en lugar de <em>omn.</em>». El signo es una <strong>S alargada</strong>, la inicial de <em>summa</em>, porque una integral es una suma de infinitos sumandos infinitamente pequeños.",
+        "En las semanas siguientes añadió la <strong>d</strong>, de <em>differentia</em>, para la diferencia infinitamente pequeña: dx, dy. El 21 de noviembre ya escribía la integral con su dx detrás, como hoy, y en el mismo manuscrito aparece la regla del producto: d(xy) = x dy + y dx. En 1676 halló la regla de las potencias, d(xⁿ) = n·xⁿ⁻¹ dx, tanto para exponentes enteros como fraccionarios."
+      ] },
+      { h: "El teorema fundamental: d y ∫ se deshacen", texto: [
+        "La idea central es que la d y la ∫ se deshacen la una a la otra, como sumar y restar: ∫ dy = y, y d(∫ y dx) = y dx. Es el <strong>teorema fundamental del cálculo</strong>. Para hallar un área no hace falta sumar de verdad infinitos rectángulos: basta con encontrar una cantidad cuya diferencia sea la que nos dan.",
+        "Por ejemplo, como d(x³/3) = x² dx, el área bajo la parábola y = x² entre 0 y 1 es ∫ x² dx = 1/3. Puedes comprobarlo abajo, sumando rectángulos cada vez más finos: la suma se acerca a 1/3 tanto como quieras.",
+        "Leibniz publicó una demostración geométrica en 1693, en <em>Acta Eruditorum</em> (<em>Suplemento de la geometría de las medidas</em>): todo problema de áreas se reduce a encontrar una curva con una «ley de tangentes» dada. Su prueba se parece mucho a una de Isaac Barrow, el maestro de Newton, en sus <em>Lecciones geométricas</em> (1670), un libro que Leibniz había conseguido en Londres en 1673 y que nunca citó."
+      ] },
+      { h: "Publicar: un enigma de seis páginas", texto: [
+        "El primer artículo, <em>Nuevo método para los máximos y los mínimos…</em>, salió en 1684 en <em>Acta Eruditorum</em>: seis páginas con las reglas de la d y sin demostraciones. Jacob Bernoulli dijo que era «más un enigma que una explicación». El signo ∫ apareció impreso por primera vez en 1686, en <em>Sobre la geometría oculta</em>.",
+        "La palabra <strong>integral</strong> no es de Leibniz: la empezó a usar Jacob Bernoulli en 1690. Leibniz prefería «cálculo sumatorio», pero en 1696 aceptó, con Johann Bernoulli, que «cálculo integral» era mejor."
+      ] },
+      { h: "Por qué ganó su notación", texto: [
+        "Los signos de Leibniz piensan por nosotros. dy/dx se comporta casi como una fracción: la regla de la cadena se escribe dy/dx = (dy/du) · (du/dx), como si los du se cancelaran. Es justo lo que buscaba con su «característica universal»: signos que hagan visible el razonamiento. Los hermanos Bernoulli y el marqués de L’Hôpital, autor del primer manual de cálculo (1696), los difundieron por toda Europa.",
+        "En Inglaterra, por lealtad a Newton, se mantuvo su notación de puntos, y las matemáticas británicas se quedaron atrás durante un siglo. Hacia 1812, unos estudiantes de Cambridge, entre ellos Charles Babbage, fundaron la Sociedad Analítica para traer los signos de Leibniz. Babbage propuso en broma un lema: «los principios de la D pura frente a la <em>dot-age</em> de la universidad», un juego de palabras entre <em>dot</em> («punto») y <em>dotage</em> («chochez»)."
+      ] },
+      { h: "¿Qué es un dx? Un problema filosófico", texto: [
+        "Un dx no puede ser cero, porque entonces dy/dx sería 0/0, pero tampoco es una cantidad corriente: es más pequeño que cualquier número que podamos dar. Leibniz decía que las cantidades infinitamente pequeñas son «ficciones útiles», como las raíces imaginarias del álgebra: no existen como cosas, pero permiten calcular bien.",
+        "El obispo George Berkeley se burló de ellas en <em>El analista</em> (1734): serían «los fantasmas de cantidades desaparecidas». La respuesta llegó en el siglo XIX, cuando Cauchy y Weierstrass reconstruyeron el cálculo con la idea de <strong>límite</strong>, sin infinitesimales. Y en la década de 1960, Abraham Robinson demostró, con el llamado análisis no estándar, que los infinitesimales de Leibniz también se pueden tratar con todo rigor."
+      ] }
+    ],
+    rectTit: "La integral es una suma",
+    rectTxt: "Mueve el control: el área bajo y = x² entre 0 y 1 se calcula sumando rectángulos. Cuantos más hay, más finos son y más se acerca la suma al área exacta, ∫ x² dx = 1/3. Esa suma de infinitos rectángulos infinitamente finos es lo que Leibniz escribió con una S alargada.",
+    serieTit: "La serie de Leibniz",
+    serieTxt: "Suma los primeros términos de 1 − 1/3 + 1/5 − 1/7 + … y multiplica por 4: el resultado se acerca a π, pero muy despacio, saltando a un lado y a otro.",
+    cuidado: "Caso trampa: «Leibniz inventó el cálculo» es verdad a medias. Newton lo tenía antes, hacia 1665-1666, aunque no lo publicó, y muchos resultados sueltos venían de Arquímedes, Cavalieri, Fermat, Pascal o Barrow. Lo que es solo de Leibniz es la notación: la ∫, la d y la manera de calcular con ellas que todavía usamos."
+  },
   calculemos: {
     titulo: "¡Calculemos!",
     cita: "Cuando surjan controversias, no hará falta más discusión entre dos filósofos que entre dos contables. Bastará con tomar la pluma, sentarse ante el ábaco y decirse el uno al otro (llamando a un amigo, si se quiere): calculemos.",

@@ -2417,6 +2417,59 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "t": "Paideia",
+  "et": "Del griego παιδεία (*paideía*), «crianza, educación», de παῖς (*país*), «niño».",
+  "area": "Política",
+  "bloque": "A",
+  "unidad": "A9",
+  "tema": "La política clásica",
+  "def": "Educación en sentido amplio: formación del carácter y de la mente. En Platón, tarea principal de la ciudad, que selecciona a los gobernantes tras un largo recorrido de estudios y pruebas.",
+  "ilustre": [
+   "platon"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Timocracia",
+  "et": "Del griego τιμή (*timḗ*), «honor», y κράτος (*krátos*), «poder».",
+  "area": "Política",
+  "bloque": "A",
+  "unidad": "A9",
+  "tema": "La política clásica",
+  "def": "En Platón, el gobierno de los guerreros, que valoran el honor y la victoria; primer paso en la degeneración de la ciudad ideal, antes de la oligarquía, la democracia y la tiranía.",
+  "ilustre": [
+   "platon"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Meteco",
+  "et": "Del griego μέτοικος (*métoikos*), «el que vive con», «residente».",
+  "area": "Política",
+  "bloque": "A",
+  "unidad": "A9",
+  "tema": "La política clásica",
+  "def": "Extranjero residente en Atenas: pagaba impuestos y podía servir en el ejército, pero no tenía derechos políticos ni podía tener tierras.",
+  "ilustre": [
+   "aristoteles"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Treinta Tiranos",
+  "et": "Así los llamaron sus enemigos; ellos se presentaban como un gobierno de los mejores.",
+  "area": "Política",
+  "bloque": "A",
+  "unidad": "A9",
+  "tema": "La política clásica",
+  "def": "Gobierno oligárquico impuesto en Atenas, con apoyo de Esparta, tras la derrota en la guerra del Peloponeso (404-403 a. C.). Entre ellos estaban Critias y Cármides, parientes de Platón.",
+  "ilustre": [
+   "platon",
+   "socrates"
+  ]
+ },
+ {
+  "subject": "hf",
   "t": "Ostracismo",
   "et": "Del griego ὄστρακον (*óstrakon*), «trozo de cerámica»: en él escribían los atenienses el nombre de quien querían desterrar.",
   "area": "Política",

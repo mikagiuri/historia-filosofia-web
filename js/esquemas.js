@@ -1,5 +1,12 @@
 // Generado por tools/build_subject.js (hf) — alumnado, sin material del profesor.
 const ESQUEMAS = {
+ "AP-REL-01": {
+  "subject": "hf",
+  "block": "A",
+  "tema": "Platón",
+  "title": "Platón: el ciclo de degeneración de los gobiernos",
+  "mermaid": "flowchart TD\n  n0[\"PLATÓN: EL CICLO DE DEGENERACIÓN DE LOS GOBIERNOS\"]:::axis\n  a[\"Aristocracia: gobiernan los filósofos\"]:::key\n  a2[\"valora la razón y el Bien\"]\n  b[\"Timocracia: gobiernan los guerreros\"]:::key\n  b2[\"valora el honor\"]\n  c[\"Oligarquía: gobiernan los ricos\"]:::key\n  c2[\"valora el dinero\"]\n  d[\"Democracia: gobiernan todos\"]:::key\n  d2[\"valora la libertad sin límites\"]\n  e[\"Tiranía: gobierna uno para sí\"]:::key\n  e2[\"esclavo de sus deseos\"]\n  n0 --> a\n  a -->|\"se descuida la educación\"| b\n  b -->|\"se acumulan riquezas\"| c\n  c -->|\"los pobres se rebelan\"| d\n  d -->|\"el desorden pide un salvador\"| e\n  a --- a2\n  b --- b2\n  c --- c2\n  d --- d2\n  e --- e2\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;"
+ },
  "AA-REL-02": {
   "subject": "hf",
   "block": "A",

@@ -6218,6 +6218,50 @@ const QUIZZES = {
     ],
     "a": 1,
     "fb": "La condena del más justo mostró a Platón que una política sin saber, dominada por la opinión cambiante, corrompe la justicia; de ahí su proyecto de una ciudad regida por el conocimiento."
+   },
+   {
+    "q": "¿Qué dos experiencias cuenta Platón en la Carta VII para explicar su desconfianza de la política de su tiempo?",
+    "o": [
+     "La victoria en las guerras médicas y la muerte de Pericles.",
+     "El gobierno violento de los Treinta Tiranos y la condena de Sócrates por la democracia restaurada.",
+     "Su viaje a Egipto y su estancia en Esparta.",
+     "La fundación del Liceo y la muerte de Alejandro."
+    ],
+    "a": 1,
+    "fb": "Platón cuenta una doble decepción: la de los Treinta Tiranos, que llegaron a querer implicar a Sócrates en sus crímenes, y la de la democracia restaurada, que lo condenó a muerte."
+   },
+   {
+    "q": "En la educación de los gobernantes que propone Platón en la República, ¿qué se estudia entre los 30 y los 35 años?",
+    "o": [
+     "Gimnasia y música.",
+     "Dialéctica.",
+     "Retórica para hablar en la asamblea.",
+     "Nada: es el tiempo del servicio militar."
+    ],
+    "a": 1,
+    "fb": "Tras diez años de matemáticas, una nueva selección da paso a cinco años de dialéctica, el camino para llegar a las Ideas por la razón; después vienen quince años de cargos prácticos."
+   },
+   {
+    "q": "Según Platón, ¿por qué cae la oligarquía?",
+    "o": [
+     "Porque los guerreros buscan el honor.",
+     "Porque la ciudad se parte en dos, ricos y pobres, y los pobres se rebelan.",
+     "Porque los filósofos descuidan la educación.",
+     "Porque un tirano la conquista desde fuera."
+    ],
+    "a": 1,
+    "fb": "La oligarquía valora el dinero y divide la ciudad en ricos y pobres; la rebelión de los pobres da paso a la democracia."
+   },
+   {
+    "q": "¿Qué ilustra Aristóteles con el ejemplo de la comida a la que cada invitado lleva un plato?",
+    "o": [
+     "Que la propiedad debe ser común.",
+     "Que muchos, juntos, pueden juzgar mejor que unos pocos, aunque ninguno sea excelente por separado.",
+     "Que el mejor régimen es la tiranía.",
+     "Que la familia es anterior a la polis."
+    ],
+    "a": 1,
+    "fb": "En la Política (III, 11) Aristóteles defiende que la suma de la prudencia de muchos puede superar a la de unos pocos: por eso el pueblo puede elegir y pedir cuentas a los gobernantes."
    }
   ]
  },
