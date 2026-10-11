@@ -63,6 +63,45 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "t": "Alma concupiscible",
+  "et": "Del latín *concupiscere*, «desear ardientemente». Platón la llama τὸ ἐπιθυμητικόν (*to epithymētikón*), «lo que desea»; también se dice *apetitiva*.",
+  "area": "Antropología",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "La parte inferior del alma: los deseos y apetitos del cuerpo (comer, beber, el placer, el dinero). Tiene su sede en el vientre y su virtud es la templanza.",
+  "ilustre": [
+   "platon"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Alma irascible",
+  "et": "Del latín *irascibilis*, de *irasci*, «encolerizarse». Platón la llama τὸ θυμοειδές (*to thymoeidés*), de θυμός (*thymós*), «ánimo, coraje».",
+  "area": "Antropología",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "La parte del alma que siente el ánimo, el coraje y la indignación; si obedece a la razón, la ayuda a dominar los deseos. Tiene su sede en el pecho y su virtud es la valentía.",
+  "ilustre": [
+   "platon"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Alma racional",
+  "et": "*Alma*, del latín *anima*, «soplo, aliento»; *racional*, de *ratio*, «razón». Platón la llama τὸ λογιστικόν (*to logistikón*), «lo que calcula».",
+  "area": "Antropología",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "La parte superior del alma según Platón (*República* IV): piensa, conoce las Ideas y debe gobernar a las otras dos. Tiene su sede en la cabeza y su virtud es la sabiduría.",
+  "ilustre": [
+   "platon"
+  ]
+ },
+ {
+  "subject": "hf",
   "t": "Alteridad",
   "et": "Del latín *alter*, «el otro» (de dos).",
   "area": "Feminismo",
@@ -70,6 +109,19 @@ const GLOSARIO = [
   "unidad": "C9",
   "tema": "El feminismo",
   "def": "La mujer ha sido definida a lo largo de la historia como \"la otra\", frente al sujeto universal masculino. No se define por sí misma, sino como lo que no es hombre."
+ },
+ {
+  "subject": "hf",
+  "t": "Anamnesis",
+  "et": "Del griego ἀνάμνησις (*anámnēsis*), «recuerdo, reminiscencia», de ἀναμιμνῄσκειν (*anamimnḗiskein*), «hacer recordar».",
+  "area": "Epistemología",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "Conocer es recordar: el alma, que contempló las Ideas antes de unirse al cuerpo, las recuerda cuando lo sensible le da ocasión. Platón lo expone en el *Menón* (el esclavo que descubre un teorema de geometría solo con preguntas) y en el *Fedón*.",
+  "ilustre": [
+   "platon"
+  ]
  },
  {
   "subject": "hf",
@@ -613,6 +665,19 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "t": "Dialéctica (Platón)",
+  "et": "Del griego διαλεκτική (*dialektikḗ*), «arte de dialogar», de διαλέγεσθαι (*dialégesthai*), «conversar».",
+  "area": "Epistemología",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "El método de la filosofía para Platón: el diálogo que examina las hipótesis con preguntas y respuestas y asciende de Idea en Idea hasta el Bien, sin apoyarse en imágenes sensibles. Es el camino de la nóesis.",
+  "ilustre": [
+   "platon"
+  ]
+ },
+ {
+  "subject": "hf",
   "t": "Dialéctica materialista",
   "et": "*Dialéctica*, del griego διαλέγεσθαι (*dialégesthai*), «conversar»: el arte del diálogo.",
   "area": "Método",
@@ -635,6 +700,19 @@ const GLOSARIO = [
   "def": "En la propuesta de Adorno, el pensamiento no debe tener prisa por cerrar la realidad en una fórmula pacífica. Intenta escuchar lo que los conceptos no atrapan del todo.",
   "ilustre": [
    "adorno"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Diánoia",
+  "et": "Del griego διάνοια (*diánoia*), «pensamiento, razonamiento».",
+  "area": "Epistemología",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "En la línea dividida (*República* VI), el pensamiento discursivo: conoce realidades inteligibles partiendo de hipótesis que no examina y ayudándose de figuras, como hacen las matemáticas. Es el primer grado de la episteme.",
+  "ilustre": [
+   "platon"
   ]
  },
  {
@@ -764,6 +842,19 @@ const GLOSARIO = [
   "unidad": "C1",
   "tema": "La Ilustración",
   "def": "El principio que defiende que todas las personas deben formarse para usar la razón y actuar como ciudadanas."
+ },
+ {
+  "subject": "hf",
+  "t": "Eikasía",
+  "et": "Del griego εἰκασία (*eikasía*), «conjetura», de εἰκών (*eikṓn*), «imagen». De ahí *icono*.",
+  "area": "Epistemología",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "El grado más bajo del conocimiento en la línea dividida (*República* VI): la imaginación o conjetura, que solo capta imágenes, sombras y reflejos de las cosas sensibles. Es el primer grado de la doxa.",
+  "ilustre": [
+   "platon"
+  ]
  },
  {
   "subject": "hf",
@@ -1693,7 +1784,7 @@ const GLOSARIO = [
   "bloque": "A",
   "unidad": "AP",
   "tema": "Platón",
-  "def": "Para Platón, la justicia no es solo la ley externa. Es la armonía que surge cuando cada parte del alma y de la ciudad cumple debidamente su función.",
+  "def": "Para Platón, la justicia no es solo la ley externa. Es la armonía que surge cuando cada parte del alma y de la ciudad cumple debidamente su función. La logra quien equilibra las otras tres virtudes (sabiduría, valentía y templanza): por eso es la virtud que ordena a todas las demás.",
   "ilustre": [
    "platon"
   ]
@@ -2345,6 +2436,19 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "t": "Nóesis",
+  "et": "Del griego νόησις (*nóēsis*), «intelección», de νοῦς (*nous*), «inteligencia».",
+  "area": "Epistemología",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "El grado más alto del conocimiento en la línea dividida: la inteligencia que, por medio de la dialéctica, contempla las Ideas mismas hasta llegar al Bien, sin servirse de imágenes.",
+  "ilustre": [
+   "platon"
+  ]
+ },
+ {
+  "subject": "hf",
   "t": "Nominalismo",
   "et": "Del latín *nomen*, «nombre»: para el nominalismo, los universales son solo nombres.",
   "area": "Epistemología",
@@ -2593,6 +2697,19 @@ const GLOSARIO = [
   "unidad": "A4",
   "tema": "Los primeros filósofos",
   "def": "La naturaleza, pero no solo como objeto pasivo: la realidad viva que nace, crece, cambia y se ordena."
+ },
+ {
+  "subject": "hf",
+  "t": "Pístis",
+  "et": "Del griego πίστις (*pístis*), «confianza, creencia».",
+  "area": "Epistemología",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "En la línea dividida, la creencia: el conocimiento de las cosas sensibles mismas (animales, plantas, objetos fabricados). Junto con la eikasía forma la doxa.",
+  "ilustre": [
+   "platon"
+  ]
  },
  {
   "subject": "hf",
@@ -2969,6 +3086,19 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "t": "Sabiduría (sophía)",
+  "et": "Del griego σοφία (*sophía*), «saber, sabiduría». En la *República* Platón la llama también *phrónesis*, «prudencia».",
+  "area": "Ética",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "La virtud de la parte racional del alma: saber lo que conviene a cada parte y al conjunto. En la ciudad ideal es la virtud de los gobernantes, los filósofos.",
+  "ilustre": [
+   "platon"
+  ]
+ },
+ {
+  "subject": "hf",
   "t": "Sensación y reflexión",
   "et": "*Reflexión*, del latín *reflectere*, «doblar hacia atrás»: la mente que se vuelve sobre sí misma.",
   "area": "Epistemología",
@@ -3219,6 +3349,19 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "t": "Templanza (sophrosýne)",
+  "et": "Del latín *temperantia*, «moderación». Traduce el griego σωφροσύνη (*sōphrosýnē*), «sensatez, dominio de sí».",
+  "area": "Ética",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "La virtud de la parte concupiscible del alma: que los deseos se dejen gobernar por la razón. Para Platón es un acuerdo de todas las partes sobre quién debe mandar; en la ciudad la necesitan todos, y sobre todo los productores.",
+  "ilustre": [
+   "platon"
+  ]
+ },
+ {
+  "subject": "hf",
   "t": "Teoría crítica",
   "et": "*Teoría*, del griego θεωρία (*theoría*), «contemplación, mirada». *Crítica*, de κρίνειν (*krínein*), «separar, juzgar».",
   "area": "Historia",
@@ -3387,6 +3530,19 @@ const GLOSARIO = [
   "unidad": "B7",
   "tema": "Utilitarismo y liberalismo",
   "def": "La perspectiva que mide el valor de una acción o institución según sus consecuencias; el objetivo es crear mayor bienestar o felicidad."
+ },
+ {
+  "subject": "hf",
+  "t": "Valentía (andreía)",
+  "et": "Del griego ἀνδρεία (*andreía*), «hombría, coraje», de ἀνήρ (*anḗr*), «varón».",
+  "area": "Ética",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "La virtud de la parte irascible del alma: mantener, frente al miedo y el placer, lo que la razón enseña que hay que temer y lo que no. En la ciudad ideal es la virtud de los guardianes.",
+  "ilustre": [
+   "platon"
+  ]
  },
  {
   "subject": "hf",
@@ -3874,8 +4030,16 @@ const GLOSARIO_TRAMPAS = {
    "Teoría de las Ideas"
   ],
   [
-   "Mundo sensible",
-   "Participación (méthexis)"
+   "Diánoia",
+   "Nóesis"
+  ],
+  [
+   "Alma irascible",
+   "Alma concupiscible"
+  ],
+  [
+   "Diánoia",
+   "Nóesis"
   ],
   [
    "Acto y potencia",
