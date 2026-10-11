@@ -67,6 +67,7 @@ const CITAS = [
   "a": "Epicteto",
   "o": "Enquiridión 1, 1",
   "e": "antigua",
+  "id": "epicteto",
   "img": "media/retratos/citas/epicteto.jpg",
   "sen": "Para los estoicos, dependen de nosotros nuestros juicios, deseos y decisiones; no dependen el cuerpo, la fama o la riqueza. La serenidad consiste en ocuparse solo de lo primero.",
   "uso": "Para explicar la ética estoica y la imperturbabilidad, o en una disertación sobre la libertad interior y el control de las emociones."
@@ -273,6 +274,7 @@ const CITAS = [
   "a": "Blaise Pascal",
   "o": "Pensamientos, fr. 200 (ed. Lafuma) / 347 (ed. Brunschvicg)",
   "e": "moderna",
+  "id": "pascal",
   "img": "media/retratos/museo2/pascal.jpg",
   "sen": "El ser humano es frágil y cualquier cosa puede destruirlo, pero es superior al universo porque sabe que muere. Su dignidad está en el pensamiento.",
   "uso": "Para presentar a Pascal y la condición humana entre grandeza y miseria, o en una disertación sobre la dignidad humana."
@@ -859,6 +861,7 @@ const CITAS = [
   "a": "Kierkegaard",
   "o": "Temor y temblor (1843), Problema I",
   "e": "contemporanea",
+  "id": "kierkegaard",
   "img": "media/retratos/museo2/kierkegaard.jpg",
   "sen": "Para Kierkegaard la fe no es razonable: el creyente, como Abraham, se relaciona directamente con Dios por encima de la ética universal, algo que la razón no puede justificar.",
   "uso": "Para explicar el estadio religioso y la figura de Abraham en Kierkegaard, o en debates sobre fe y razón."
@@ -1283,6 +1286,7 @@ const CITAS = [
   "a": "Epicteto",
   "o": "Enquiridión 5",
   "e": "antigua",
+  "id": "epicteto",
   "img": "media/retratos/citas/epicteto.jpg",
   "sen": "Para Epicteto, lo que nos perturba no son las cosas sino nuestras opiniones sobre ellas. El sabio no busca culpables: acepta lo que no depende de él y se ocupa de lo que sí.",
   "uso": "Para explicar el estoicismo y la distinción entre lo que depende y lo que no depende de nosotros, o en debates sobre la responsabilidad."
@@ -1302,6 +1306,7 @@ const CITAS = [
   "a": "Marco Aurelio",
   "o": "Meditaciones VI, 54",
   "e": "antigua",
+  "id": "marco_aurelio",
   "img": "media/retratos/museo/marco-aurelio.jpg",
   "sen": "Para Marco Aurelio, el individuo es parte de una comunidad racional; por eso su verdadero bien no puede ir contra el bien común.",
   "uso": "Para explicar el cosmopolitismo estoico, o en debates sobre la relación entre el interés individual y el bien común."
@@ -1401,6 +1406,7 @@ const CITAS = [
   "a": "Montaigne",
   "o": "Ensayos (1580) II, 1",
   "e": "moderna",
+  "id": "montaigne",
   "img": "media/retratos/museo2/montaigne.jpg",
   "sen": "Para Montaigne no somos un yo fijo y coherente, sino un conjunto cambiante de piezas: según el momento actuamos de un modo u otro, y a veces nos parecemos menos a nosotros mismos que a otra persona.",
   "uso": "Para presentar los Ensayos de Montaigne y su escepticismo, o en una disertación sobre la identidad personal: ¿somos siempre la misma persona?"
@@ -1410,6 +1416,7 @@ const CITAS = [
   "a": "Blaise Pascal",
   "o": "Pensamientos, fr. 60 (ed. Lafuma) / 294 (ed. Brunschvicg)",
   "e": "moderna",
+  "id": "pascal",
   "img": "media/retratos/museo2/pascal.jpg",
   "sen": "Pascal se burla de quienes creen en una justicia universal: lo justo cambia según el país, y una frontera tan arbitraria como un río o una montaña basta para convertir una verdad en error.",
   "uso": "Para explicar el relativismo moral y cultural, o en una disertación sobre si existe una justicia natural válida para todos."
@@ -1439,6 +1446,7 @@ const CITAS = [
   "a": "Schopenhauer",
   "o": "Sobre el fundamento de la moral (1840), § 16",
   "e": "contemporanea",
+  "id": "schopenhauer",
   "img": "media/retratos/museo/schopenhauer.jpg",
   "sen": "Para Schopenhauer, una acción solo tiene valor moral cuando nace de la compasión, es decir, de sentir el sufrimiento del otro como propio; ni el egoísmo ni el mero deber pueden fundar la moral.",
   "uso": "Para presentar la ética de Schopenhauer frente al deber kantiano, o en una disertación sobre si la moral se funda en la razón o en los sentimientos."

@@ -3466,7 +3466,8 @@ const GLOSARIO = [
   "tema": "Nietzsche",
   "def": "Para Schopenhauer en el fondo de la realidad no hay razón transparente, sino impulso sin fin racional y deseo insaciable.",
   "ilustre": [
-   "nietzsche"
+   "nietzsche",
+   "schopenhauer"
   ]
  },
  {

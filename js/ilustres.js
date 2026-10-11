@@ -69,6 +69,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-mito",
    "hf-sofistas"
   ]
  },
@@ -90,6 +91,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-mito",
    "hf-preso"
   ]
  },
@@ -111,6 +113,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-mito",
    "hf-preso",
    "hf-kant-juicios"
   ]
@@ -180,6 +183,27 @@ const ILUSTRES = {
    "hf-preso"
   ]
  },
+ "confucio": {
+  "name": "Confucio",
+  "dates": "551 – 479 a. C.",
+  "born": -551,
+  "died": -479,
+  "place": "Estado de Lu (actual Qufu, China)",
+  "role": "maestro y pensador moral chino",
+  "idea": "Una buena sociedad nace de personas bien formadas: la humanidad (ren), el respeto a los ritos (li) y el ejemplo de quien gobierna valen más que el castigo.",
+  "bio": "<p>Kong Qiu, al que sus discípulos llamaron Kongzi o Kong Fuzi («maestro Kong», de donde viene «Confucio»), nació en el pequeño estado de Lu, en una China dividida en reinos rivales. Huérfano de padre desde niño y de familia venida a menos, trabajó en cargos modestos y se ganó fama como maestro: aceptaba alumnos de cualquier origen si tenían ganas de aprender. Durante años recorrió otros estados buscando un gobernante que pusiera en práctica sus ideas, sin conseguirlo, y volvió a Lu para enseñar hasta su muerte.</p>\n<p>No escribió ningún tratado: sus enseñanzas nos llegan en las <em>Analectas</em> (<em>Lunyu</em>), dichos y conversaciones que reunieron sus discípulos. En el centro está el <strong>ren</strong>, la humanidad o benevolencia, y el <strong>li</strong>, el conjunto de ritos y formas de cortesía que dan cauce a la vida en común. El ideal es el <strong>junzi</strong>, la «persona noble», noble por su carácter y no por su cuna. A la pregunta de si hay una palabra que sirva de guía para toda la vida, responde con una regla de oro en forma negativa: «Lo que no quieras para ti, no lo hagas a los demás». Para Confucio, quien gobierna debe hacerlo con el ejemplo, como el viento que inclina la hierba, y no con el miedo al castigo.</p>",
+  "obras": [
+   "Analectas (Lunyu), recopiladas por sus discípulos"
+  ],
+  "anecdota": "<p>En las <em>Analectas</em>, Confucio resume su propia vida en unas pocas líneas: a los quince años se propuso aprender; a los treinta se mantenía firme; a los cuarenta ya no dudaba; a los cincuenta conoció el mandato del Cielo; a los sesenta su oído escuchaba con docilidad; y a los setenta podía seguir los deseos de su corazón sin saltarse lo correcto. Es una de las primeras descripciones de una vida entera como un camino de formación.</p>",
+  "fuente": "Analectas II, 4",
+  "tradicion": false,
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
+ },
  "heraclito": {
   "name": "Heráclito de Éfeso",
   "dates": "c. 540 – c. 480 a. C.",
@@ -200,6 +224,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-mito",
    "hf-preso",
    "hf-ap",
    "hf-platon",
@@ -226,6 +251,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-mito",
    "hf-preso",
    "hf-ap",
    "hf-platon",
@@ -319,6 +345,7 @@ const ILUSTRES = {
   "temas": [
    "hf-beefs",
    "hf-sofistas",
+   "hf-etica",
    "hf-kant-juicios"
   ]
  },
@@ -346,7 +373,8 @@ const ILUSTRES = {
   "temas": [
    "hf-beefs",
    "hf-sofistas",
-   "hf-platon-superficie"
+   "hf-platon-superficie",
+   "hf-etica"
   ]
  },
  "meliso": {
@@ -385,6 +413,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-preso",
    "hf-kant-juicios"
   ]
  },
@@ -440,6 +469,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-comunidades-perseguidos",
    "hf-metodos",
    "hf-beefs",
    "hf-sofistas",
@@ -498,6 +528,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-preso",
+   "hf-sofistas",
    "hf-helenismo",
    "hf-kant-juicios"
   ]
@@ -623,9 +654,11 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-historicidad",
+   "hf-comunidades-perseguidos",
    "hf-euskal-herria",
    "hf-metodos",
    "hf-beefs",
+   "hf-mito",
    "hf-preso",
    "hf-sofistas",
    "hf-ap",
@@ -636,6 +669,7 @@ const ILUSTRES = {
    "hf-antropologia",
    "hf-etica",
    "hf-politica",
+   "hf-helenismo",
    "hf-medieval",
    "hf-platon-agustin",
    "hf-fe-razon",
@@ -672,6 +706,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-beefs",
+   "hf-preso",
    "hf-helenismo"
   ]
  },
@@ -734,15 +769,18 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-comunidades-perseguidos",
    "hf-metodos",
    "hf-beefs",
    "hf-mito",
+   "hf-preso",
    "hf-sofistas",
    "hf-aa",
    "hf-platon",
    "hf-antropologia",
    "hf-etica",
    "hf-politica",
+   "hf-helenismo",
    "hf-medieval",
    "hf-fe-razon",
    "hf-aristoteles-arabe",
@@ -757,6 +795,29 @@ const ILUSTRES = {
    "hf-utilitarismo",
    "hf-kant-juicios",
    "hf-descartes-makro"
+  ]
+ },
+ "mencio": {
+  "name": "Mencio",
+  "dates": "c. 372 – 289 a. C.",
+  "born": -372,
+  "died": -289,
+  "place": "Estado de Zou (China)",
+  "role": "pensador confuciano chino",
+  "idea": "El ser humano es bueno por naturaleza: todos llevamos dentro los brotes de la compasión y de la justicia, y la educación los hace crecer.",
+  "bio": "<p>Meng Ke, llamado Mengzi («maestro Meng»), nació más de un siglo después de la muerte de Confucio, en la época de los Reinos Combatientes. Se formó en la escuela confuciana y, como su maestro, viajó de corte en corte aconsejando a los reyes, con poco éxito práctico. Sus conversaciones y argumentos se recogieron en el libro que lleva su nombre, el <em>Mencio</em>.</p>\n<p>Su tesis más conocida es que la naturaleza humana es <strong>buena</strong>. Lo argumenta con un ejemplo: cualquiera que vea a un niño a punto de caer en un pozo siente un sobresalto de compasión, no para ganarse el favor de los padres ni por miedo a lo que digan, sino espontáneamente. Todos tenemos cuatro <strong>brotes</strong>: compasión, vergüenza ante lo malo, respeto y sentido de lo correcto, que la educación debe cultivar como se cultivan las plantas. En política, Mencio defiende que el gobernante existe para el bien del pueblo; si se convierte en tirano, pierde el mandato del Cielo y deja de ser un verdadero rey. Más tarde, Xunzi sostendrá lo contrario: que la naturaleza humana tiende al mal y necesita la disciplina de los ritos.</p>",
+  "obras": [
+   "Mencio (Mengzi), recopilación de sus diálogos"
+  ],
+  "anecdota": "<p>Una historia muy popular en China cuenta que la madre de Mencio se mudó tres veces por él. Vivían junto a un cementerio, y el niño jugaba a hacer entierros; se trasladaron junto a un mercado, y jugaba a comprar y vender; por fin se instalaron junto a una escuela, y empezó a imitar los ritos y el estudio. Entonces la madre decidió quedarse. La anécdota se repite como ejemplo de la importancia del entorno en la educación, pero procede de una colección muy posterior y no es un dato histórico seguro.</p>",
+  "fuente": "Liu Xiang, Biografías de mujeres ejemplares (s. I a. C.)",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-beefs"
   ]
  },
  "teofrasto": {
@@ -778,6 +839,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-preso",
    "hf-aristoteles-arabe",
    "hf-kant-juicios"
   ]
@@ -845,6 +907,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-comunidades-perseguidos",
    "hf-helenismo",
    "hf-montaigne-ensayos"
   ]
@@ -970,7 +1033,9 @@ const ILUSTRES = {
   "subjects": [
    "hf"
   ],
-  "temas": []
+  "temas": [
+   "hf-helenismo"
+  ]
  },
  "seneca": {
   "name": "Séneca",
@@ -995,7 +1060,55 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-helenismo",
    "hf-montaigne-ensayos"
+  ]
+ },
+ "epicteto": {
+  "name": "Epicteto",
+  "dates": "c. 50 – c. 135",
+  "born": 50,
+  "died": 135,
+  "place": "Hierápolis (Frigia, actual Turquía)",
+  "role": "filósofo estoico griego",
+  "idea": "Hay cosas que dependen de nosotros, nuestros juicios y decisiones, y cosas que no; la libertad consiste en no hacer depender la felicidad de lo que no depende de nosotros.",
+  "bio": "<p>Epicteto nació esclavo; su nombre significa en griego «adquirido». En Roma perteneció a Epafrodito, un liberto que había sido secretario de Nerón, que le permitió estudiar con el estoico Musonio Rufo. Tras obtener la libertad enseñó filosofía en Roma hasta que, hacia el año 93, el emperador Domiciano expulsó a los filósofos de Italia. Se instaló entonces en Nicópolis, en el noroeste de Grecia, donde abrió una escuela a la que acudían jóvenes de todo el Imperio. Vivió con gran sencillez. Cojeaba de una pierna.</p>\n<p>Epicteto no escribió nada. Su alumno Arriano tomó nota de sus clases y las publicó en las <em>Disertaciones</em> y en un resumen, el <em>Manual</em> (<em>Enquiridion</em>). Todo arranca de una distinción: <strong>lo que depende de nosotros</strong> (nuestras opiniones, deseos y decisiones) y <strong>lo que no</strong> (el cuerpo, la fama, los bienes, lo que hacen los demás). No nos turban las cosas, sino las opiniones que tenemos sobre ellas. Quien pone su bien en lo que no controla vive como un esclavo; quien lo pone en sus propios juicios es libre, aunque esté encadenado. Su manual influyó en Marco Aurelio y, muchos siglos después, en los humanistas del Renacimiento y en algunas terapias psicológicas actuales.</p>",
+  "obras": [
+   "Disertaciones (recogidas por Arriano)",
+   "Manual o Enquiridion (resumen de Arriano)"
+  ],
+  "anecdota": "<p>El escritor cristiano Orígenes cuenta que el amo de Epicteto, para probarlo, le retorcía la pierna. Epicteto le advirtió con calma: «Me la vas a romper». Cuando la pierna se rompió, solo dijo: «¿No te lo había dicho?». La historia se cita a menudo como ejemplo de serenidad estoica, pero otras fuentes antiguas dicen que su cojera era de nacimiento o fruto del reúma, así que puede ser una leyenda.</p>",
+  "fuente": "Orígenes, Contra Celso VII, 53",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-helenismo"
+  ]
+ },
+ "marco_aurelio": {
+  "name": "Marco Aurelio",
+  "dates": "121 – 180",
+  "born": 121,
+  "died": 180,
+  "place": "Roma",
+  "role": "emperador romano y filósofo estoico",
+  "idea": "Cada día hay que cumplir con el propio deber, aceptar con serenidad lo que no depende de nosotros y recordar que todo es pasajero.",
+  "bio": "<p>Marco Aurelio fue adoptado de joven por el emperador Antonino Pío y recibió la mejor educación de su tiempo. Desde muy pronto se aficionó a la filosofía estoica, y su maestro Junio Rústico le dio a conocer las enseñanzas de Epicteto. Fue emperador de Roma del año 161 hasta su muerte, en 180. Su reinado estuvo marcado por guerras en las fronteras del Danubio y por una gran epidemia, la peste antonina; pasó largos años en campaña, y murió durante una de ellas.</p>\n<p>Durante esas campañas escribió en griego unas notas para sí mismo, que no pensaba publicar y que hoy conocemos como <em>Meditaciones</em> (su título antiguo es <em>A sí mismo</em>). Son ejercicios para ordenar sus pensamientos: recordar que todo cambia y pasa, que la muerte es natural, que los demás forman con nosotros una comunidad racional y que, cuando alguien nos ofende, debemos entenderlo antes que odiarlo. Es un estoico que gobierna un imperio y se exige a sí mismo vivir conforme a la razón. Su obra muestra también la tensión entre el ideal filosófico y el poder: durante su reinado continuaron las guerras y la persecución de los cristianos.</p>",
+  "obras": [
+   "Meditaciones o A sí mismo (escritas hacia 170-180)"
+  ],
+  "anecdota": "<p>El libro I de las <em>Meditaciones</em> es una lista de agradecimientos: Marco Aurelio anota lo que aprendió de cada persona de su vida. De su maestro Rústico agradece, entre otras cosas, que le prestara de su propia biblioteca los apuntes de las lecciones de Epicteto. Y al final de ese libro, o al comienzo del siguiente según las ediciones, deja anotado dónde escribe: «Entre los cuados, a orillas del Gran», es decir, en un campamento militar a orillas del río Hron, en la actual Eslovaquia.</p>",
+  "fuente": "Marco Aurelio, Meditaciones I, 7 y I, 17",
+  "tradicion": false,
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-helenismo"
   ]
  },
  "tertuliano": {
@@ -1123,6 +1236,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-comunidades-perseguidos",
    "hf-helenismo"
   ]
  },
@@ -1341,6 +1455,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-comunidades-perseguidos",
    "hf-beefs",
    "hf-aa",
    "hf-antropologia",
@@ -1765,7 +1880,33 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-comunidades-perseguidos",
    "hf-descartes-makro"
+  ]
+ },
+ "montaigne": {
+  "name": "Michel de Montaigne",
+  "dates": "1533 – 1592",
+  "born": 1533,
+  "died": 1592,
+  "place": "Castillo de Montaigne (Périgord, Francia)",
+  "role": "humanista y ensayista francés",
+  "idea": "El mejor tema de estudio es uno mismo: examinando con honradez su propia vida, cambiante y contradictoria, se aprende qué es ser humano y lo poco que sabemos con certeza.",
+  "bio": "<p>Michel Eyquem de Montaigne nació en una familia de comerciantes enriquecidos de Burdeos. Su padre lo educó de un modo singular: hasta los seis años solo le hablaron en latín, que fue así su primera lengua. Estudió derecho y fue consejero del Parlamento de Burdeos, donde trabó con el escritor Étienne de La Boétie una amistad que lo marcó para siempre. En 1571, con 38 años, se retiró a la torre de su castillo para leer y escribir, aunque volvió a la vida pública como alcalde de Burdeos (1581-1585) y como mediador en las guerras de religión entre católicos y protestantes.</p>\n<p>En su retiro inventó un género nuevo, el <strong>ensayo</strong>: textos breves y libres en los que «prueba» su juicio sobre cualquier tema, de la amistad y la muerte a los caníbales, la educación o la experiencia. Montaigne se toma a sí mismo como objeto de estudio y descubre a un ser cambiante y lleno de contradicciones. Su actitud es <strong>escéptica</strong>: tomó como divisa la pregunta «¿Qué sé yo?», con una balanza en equilibrio. De ese escepticismo nacen su tolerancia y su crítica a la crueldad: en «De los caníbales» sostiene que llamamos bárbaro a lo que no es costumbre nuestra. Influyó en Descartes, en Pascal y en toda la literatura moderna.</p>",
+  "obras": [
+   "Ensayos (1580; ampliados en 1588; edición póstuma de 1595)",
+   "Diario de viaje a Italia (escrito en 1580-1581, publicado en 1774)"
+  ],
+  "anecdota": "<p>Cuando se retiró a su torre, Montaigne hizo pintar en las vigas del techo de su biblioteca más de cincuenta sentencias en griego y en latín, tomadas de la Biblia, de los escépticos, de Lucrecio o de Sexto Empírico, para tenerlas siempre a la vista mientras leía y escribía. Todavía hoy pueden verse en la torre, que se conserva junto al castillo. Y al lado hizo grabar una inscripción en latín: el día de su 38 cumpleaños se retiraba, «cansado desde hacía tiempo de la servidumbre de la corte y de los cargos públicos», al regazo de las doctas musas.</p>",
+  "fuente": "Inscripciones de la torre de Montaigne (1571)",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-montaigne-ensayos",
+   "hf-kant-poetas"
   ]
  },
  "giordano_bruno": {
@@ -1787,6 +1928,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-comunidades-perseguidos",
    "hf-renacimiento-magia"
   ]
  },
@@ -1838,6 +1980,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-comunidades-perseguidos",
    "hf-aa",
    "hf-modernidad",
    "hf-metafisica",
@@ -2061,6 +2204,32 @@ const ILUSTRES = {
    "hf-descartes-makro"
   ]
  },
+ "pascal": {
+  "name": "Blaise Pascal",
+  "dates": "1623 – 1662",
+  "born": 1623,
+  "died": 1662,
+  "place": "Clermont (Auvernia, Francia)",
+  "role": "matemático, físico y filósofo",
+  "idea": "La razón es poderosa pero limitada: el ser humano es una caña pensante, frágil y grande a la vez, y «el corazón tiene razones que la razón no conoce».",
+  "bio": "<p>Blaise Pascal fue un niño prodigio educado en casa por su padre, un magistrado aficionado a las ciencias. Con 16 años escribió un tratado sobre las cónicas, y con 19 inventó una máquina de calcular, la <strong>pascalina</strong>, para ayudar a su padre con las cuentas de los impuestos. Hizo experimentos decisivos sobre el vacío y la presión del aire (en 1648 su cuñado midió, por indicación suya, cómo bajaba el mercurio al subir al Puy de Dôme) y, en cartas con Fermat, puso las bases del cálculo de <strong>probabilidades</strong>.</p>\n<p>En noviembre de 1654 vivió una intensa experiencia religiosa y se acercó a los jansenistas de la abadía de Port-Royal, una corriente católica rigorista. En su defensa escribió las <em>Provinciales</em>, unas cartas satíricas contra los jesuitas. Murió con 39 años, enfermo, dejando miles de notas para una apología del cristianismo que se publicaron como <em>Pensamientos</em>. En ellas presenta al ser humano entre dos infinitos, una «caña pensante» capaz de saberse mortal; defiende que hay verdades que se conocen por el <strong>corazón</strong>, y plantea la famosa <strong>apuesta</strong>: si Dios existe, quien cree lo gana todo, y si no existe, no pierde casi nada. Es uno de los grandes críticos del racionalismo de Descartes.</p>",
+  "obras": [
+   "Experiencias nuevas sobre el vacío (1647)",
+   "Las provinciales (1656-1657)",
+   "Pensamientos (póstumo, 1670)"
+  ],
+  "anecdota": "<p>Tras su muerte, un criado notó un bulto en el forro del jubón de Pascal. Al descoserlo encontró un papel doblado, y dentro, una copia en pergamino del mismo texto: una página fechada la noche del 23 de noviembre de 1654, «desde las diez y media hasta las doce y media aproximadamente», que empieza con la palabra «Fuego». Es el relato de su experiencia religiosa de aquella noche. Pascal lo había llevado cosido a la ropa durante ocho años, pasándolo de una prenda a otra, sin hablar de él a nadie. Hoy se conoce como el <em>Memorial</em>.</p>",
+  "fuente": "Memorial de Pascal (1654), conservado en la Biblioteca Nacional de Francia",
+  "tradicion": false,
+  "block": "mod",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-judios-andalus",
+   "hf-montaigne-ensayos"
+  ]
+ },
  "spinoza": {
   "name": "Baruch Spinoza",
   "dates": "1632 – 1677",
@@ -2089,6 +2258,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-comunidades-perseguidos",
    "hf-medieval",
    "hf-judios-andalus",
    "hf-montaigne-ensayos",
@@ -3437,6 +3607,33 @@ const ILUSTRES = {
    "hf-marx-biblioteca"
   ]
  },
+ "schopenhauer": {
+  "name": "Arthur Schopenhauer",
+  "dates": "1788 – 1860",
+  "born": 1788,
+  "died": 1860,
+  "place": "Danzig (hoy Gdansk, Polonia)",
+  "role": "filósofo alemán del pesimismo",
+  "idea": "Detrás de todo lo que existe hay una voluntad ciega que nunca se sacia; por eso la vida es sobre todo dolor, y solo el arte, la compasión y la renuncia nos liberan un poco.",
+  "bio": "<p>Arthur Schopenhauer era hijo de un rico comerciante y de Johanna Schopenhauer, una novelista de éxito con la que tuvo una relación muy difícil. Tras la muerte de su padre abandonó el comercio para estudiar filosofía. Con 30 años publicó su obra principal, <em>El mundo como voluntad y representación</em> (1819), que apenas se vendió. Fracasó como profesor en Berlín, vivió de su herencia y pasó sus últimas décadas en Fráncfort, solitario y amargado por la falta de reconocimiento, que solo le llegó al final, con los <em>Parerga y paralipómena</em> (1851).</p>\n<p>Schopenhauer parte de Kant: el mundo que conocemos es <strong>representación</strong>, fenómeno ordenado por nuestra mente. Pero añade que podemos asomarnos a lo que hay detrás desde dentro de nosotros mismos: somos <strong>voluntad</strong>, deseo. Esa voluntad, ciega, sin meta e insaciable, es el fondo de todo lo real. Por eso la vida oscila entre el dolor del deseo insatisfecho y el aburrimiento del deseo cumplido. Hay tres salidas: la contemplación del <strong>arte</strong>, sobre todo la música; la <strong>compasión</strong>, que es para él el fundamento de la moral; y la renuncia del asceta, cercana a las ideas del budismo y de las Upanishads, que fue de los primeros filósofos europeos en estudiar. Influyó decisivamente en Nietzsche, en Wagner y en Freud.</p>",
+  "obras": [
+   "El mundo como voluntad y representación (1819; ampliada en 1844)",
+   "Los dos problemas fundamentales de la ética (1841)",
+   "Parerga y paralipómena (1851)"
+  ],
+  "anecdota": "<p>En 1820 Schopenhauer consiguió dar clases en la Universidad de Berlín, donde Hegel era la gran figura. Convencido de que Hegel era un charlatán, anunció su curso a la misma hora que las lecciones de Hegel, para que los estudiantes tuvieran que elegir. Eligieron a Hegel: a las clases de Schopenhauer acudieron muy pocos alumnos y el curso no llegó a repetirse. Él nunca le perdonó a la filosofía académica aquel fracaso, y siguió atacando a Hegel en sus libros durante décadas.</p>",
+  "fuente": "R. Safranski, Schopenhauer y los años salvajes de la filosofía (1987)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-euskal-herria",
+   "hf-beefs",
+   "hf-sospecha"
+  ]
+ },
  "heine": {
   "name": "Heinrich Heine",
   "dates": "1797 – 1856",
@@ -3568,6 +3765,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-comunidades-perseguidos",
    "hf-utilitarismo",
    "hf-etica-deber",
    "hf-sospecha"
@@ -3751,6 +3949,32 @@ const ILUSTRES = {
   "temas": [
    "hf-kant-poetas",
    "hf-corazon-piedra"
+  ]
+ },
+ "kierkegaard": {
+  "name": "Søren Kierkegaard",
+  "dates": "1813 – 1855",
+  "born": 1813,
+  "died": 1855,
+  "place": "Copenhague (Dinamarca)",
+  "role": "filósofo y teólogo danés, precursor del existencialismo",
+  "idea": "La verdad que importa no es la de los sistemas, sino la que uno vive: cada individuo tiene que elegirse a sí mismo, y esa elección se hace con angustia.",
+  "bio": "<p>Søren Kierkegaard fue el hijo menor de un comerciante rico y muy religioso, de quien heredó una fe atormentada y una fortuna que le permitió dedicarse a escribir. Estudió teología en Copenhague. En 1840 se comprometió con Regine Olsen, pero un año después rompió el compromiso, convencido de que no podía hacerla feliz; aquella decisión lo acompañó toda su vida y atraviesa muchas de sus obras. Publicó muchos libros con <strong>seudónimos</strong>, cada uno con un punto de vista distinto, para obligar al lector a decidir por sí mismo. Murió con 42 años, en medio de una dura polémica contra la Iglesia oficial danesa, a la que acusaba de haber convertido el cristianismo en una costumbre cómoda.</p>\n<p>Kierkegaard reacciona contra el gran sistema de Hegel, que pretendía explicarlo todo: en él no cabe el <strong>individuo</strong> concreto que tiene que decidir cómo vivir. Describe tres <strong>estadios</strong> de la existencia: el estético, que vive para el placer y la novedad; el ético, que asume compromisos y deberes; y el religioso, que da el salto de la fe sin garantías, como Abrahán dispuesto a sacrificar a su hijo. La <strong>angustia</strong> es el vértigo de la libertad ante las posibilidades, y la desesperación, no querer ser uno mismo. Por eso se le considera el precursor del existencialismo del siglo XX.</p>",
+  "obras": [
+   "O lo uno o lo otro (1843)",
+   "Temor y temblor (1843)",
+   "El concepto de la angustia (1844)",
+   "La enfermedad mortal (1849)"
+  ],
+  "anecdota": "<p>En 1846 Kierkegaard criticó a <em>El Corsario</em>, una revista satírica de Copenhague, y la revista se vengó con una campaña de caricaturas. Lo dibujaban flaco, encorvado y, sobre todo, con una pernera del pantalón más larga que la otra. Las caricaturas se hicieron tan populares que los niños le gritaban por la calle y la gente lo señalaba al pasar. Kierkegaard, que disfrutaba paseando por la ciudad y charlando con todo el mundo, lo vivió como una humillación que lo dejó aún más solo.</p>",
+  "fuente": "El Corsario (1846); Diarios de Kierkegaard",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-existencialismo"
   ]
  },
  "boole": {
