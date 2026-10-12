@@ -486,7 +486,7 @@ const DILEMAS = [
   ],
   "ysi": "¿Y si tu compañera, cuando llega al poder, resulta tan cruel como ella decía que era el grupo? Nietzsche diría que el señor no es cruel por resentimiento sino por exceso de fuerza. ¿Hay diferencia para la víctima?",
   "pau": "«¿Tienen los valores morales una historia, o son eternos?» Reflexiona en 200-300 palabras a partir de la genealogía de Nietzsche y de al menos otra posición (Kant, Marx o Beauvoir), con un ejemplo actual.",
-  "dato": "La hermana de Nietzsche, Elisabeth, manipuló sus manuscritos tras su locura y los puso al servicio del nazismo. El filósofo que despreciaba el antisemitismo y el nacionalismo alemán acabó siendo, contra su texto, el filósofo del Reich."
+  "dato": "Se repite desde hace décadas que la hermana de Nietzsche, Elisabeth, habría manipulado a fondo sus manuscritos para ponerlos al servicio del nazismo. Hoy la filología lo ha corregido: apenas alteró sus escritos. Lo que sí hizo fue publicar en 1901, ya sin él, una recopilación de apuntes sueltos como si fuera su gran obra: «La voluntad de poder»."
  },
  {
   "subject": "hf",
