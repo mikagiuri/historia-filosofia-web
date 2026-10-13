@@ -347,9 +347,9 @@ const DECKS = {
   ]
  },
  "citasA": {
-  "name": "Frases · Antigua (bloque A)",
+  "name": "Frases · Antigua",
   "subject": "hf",
-  "block": "A",
+  "epoca": "ant",
   "tipo": "frases",
   "cards": [
    [
@@ -404,10 +404,10 @@ const DECKS = {
    ]
   ]
  },
- "citasB": {
-  "name": "Frases · Medieval, moderna e Ilustración (B)",
+ "citasM": {
+  "name": "Frases · Medieval",
   "subject": "hf",
-  "block": "B",
+  "epoca": "med",
   "tipo": "frases",
   "cards": [
    [
@@ -439,7 +439,15 @@ const DECKS = {
     "💡",
     "«La revelación debe entenderse según la capacidad humana, recurriendo a metáforas y símbolos para expresar lo inefable.»",
     "Maimónides — La dificultad de la interpretación (Guía de los perplejos I, 31)"
-   ],
+   ]
+  ]
+ },
+ "citasMo": {
+  "name": "Frases · Moderna",
+  "subject": "hf",
+  "epoca": "mod",
+  "tipo": "frases",
+  "cards": [
    [
     "💡",
     "«No te he dado, oh Adán, un lugar fijo, ni un rostro propio, ni un don particular, para que aquel lugar, aquel rostro y aquellos dones que tú elijas, sean tuyos según tu voluntad y tu decisión.»",
@@ -482,6 +490,29 @@ const DECKS = {
    ],
    [
     "💡",
+    "«Muchos se han imaginado repúblicas y principados que nunca han existido ni se han conocido realmente; porque hay tanta distancia entre cómo se vive y cómo se debería vivir, que quien deja lo que se hace por lo que se debería hacer, aprende más bien su ruina que su preservación.»",
+    "Maquiavelo — Virtù y fortuna (El Príncipe XV)"
+   ],
+   [
+    "💡",
+    "«Todo el marco de la naturaleza habla de un autor inteligente; y ningún investigador racional puede, tras una reflexión seria, suspender ni por un instante su creencia respecto a los principios primarios del verdadero teísmo.»",
+    "Hume — Crítica a la religión (Diálogos sobre la religión natural X)"
+   ],
+   [
+    "💡",
+    "«La mente no tiene sexo.»",
+    "Poulain de la Barre — La mente no tiene sexo (De l’égalité des deux sexes)"
+   ]
+  ]
+ },
+ "citasI": {
+  "name": "Frases · Ilustración",
+  "subject": "hf",
+  "epoca": "ilu",
+  "tipo": "frases",
+  "cards": [
+   [
+    "💡",
     "«Cada uno de nosotros pone en común su persona y todo su poder bajo la suprema dirección de la voluntad general.»",
     "Rousseau — La voluntad general (El contrato social I, 6)"
    ],
@@ -507,11 +538,6 @@ const DECKS = {
    ],
    [
     "💡",
-    "«La mente no tiene sexo.»",
-    "Poulain de la Barre — La mente no tiene sexo (De l’égalité des deux sexes)"
-   ],
-   [
-    "💡",
     "«No deseo que ellas [las mujeres] tengan poder sobre los hombres, sino sobre sí mismas.»",
     "Wollstonecraft — Educación e igualdad (Vindicación de los derechos de la mujer IV)"
    ],
@@ -522,28 +548,8 @@ const DECKS = {
    ],
    [
     "💡",
-    "«El hombre más oprimido puede oprimir a un ser: su mujer. Ella es la proletaria del propio proletario.»",
-    "Flora Tristán — Emancipación obrera y femenina (Unión obrera)"
-   ],
-   [
-    "💡",
     "«Obra solo según aquella máxima por la cual puedas querer al mismo tiempo que se convierta en ley universal.»",
     "Kant — Imperativo categórico (Fundamentación, BA 52)"
-   ],
-   [
-    "💡",
-    "«Lo verdadero es el todo.»",
-    "Hegel — Espíritu absoluto (Fenomenología del espíritu, Prefacio)"
-   ],
-   [
-    "💡",
-    "«Muchos se han imaginado repúblicas y principados que nunca han existido ni se han conocido realmente; porque hay tanta distancia entre cómo se vive y cómo se debería vivir, que quien deja lo que se hace por lo que se debería hacer, aprende más bien su ruina que su preservación.»",
-    "Maquiavelo — Virtù y fortuna (El Príncipe XV)"
-   ],
-   [
-    "💡",
-    "«Todo el marco de la naturaleza habla de un autor inteligente; y ningún investigador racional puede, tras una reflexión seria, suspender ni por un instante su creencia respecto a los principios primarios del verdadero teísmo.»",
-    "Hume — Crítica a la religión (Diálogos sobre la religión natural X)"
    ],
    [
     "💡",
@@ -556,22 +562,32 @@ const DECKS = {
     " — Sapere aude Kant, Qué es la Ilustración"
    ],
    [
-    "💡",
-    "«La razón gobierna el mundo.»",
-    "Hegel — La razón en la historia (Filosofía de la historia, Introducción)"
+    "🌍",
+    "«La Ilustración es la salida del ser humano de su autoculpable minoría de edad.»",
+    " — Qué es la Ilustración Kant 1784"
    ]
   ]
  },
  "citasC": {
-  "name": "Frases · Contemporánea (bloque C)",
+  "name": "Frases · Contemporánea",
   "subject": "hf",
-  "block": "C",
+  "epoca": "con",
   "tipo": "frases",
   "cards": [
    [
     "🌍",
-    "«La Ilustración es la salida del ser humano de su autoculpable minoría de edad.»",
-    " — Qué es la Ilustración Kant 1784"
+    "«Lo verdadero es el todo.»",
+    "Hegel — Espíritu absoluto (Fenomenología del espíritu, Prefacio)"
+   ],
+   [
+    "🌍",
+    "«La razón gobierna el mundo.»",
+    "Hegel — La razón en la historia (Filosofía de la historia, Introducción)"
+   ],
+   [
+    "🌍",
+    "«El hombre más oprimido puede oprimir a un ser: su mujer. Ella es la proletaria del propio proletario.»",
+    "Flora Tristán — Emancipación obrera y femenina (Unión obrera)"
    ],
    [
     "🌍",
