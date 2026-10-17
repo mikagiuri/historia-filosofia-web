@@ -40,7 +40,9 @@ const LOGM_FZ = [
   { f: "Te llamaré si y solo si llegas tarde.", d: [["p", "te llamo"], ["q", "llegas tarde"]], s: "p ↔ q", pista: "«Si y solo si» une dos condicionales: p → q y q → p." },
   { f: "O estudias o trabajas, pero no las dos cosas.", d: [["p", "estudias"], ["q", "trabajas"]], s: "(p ∨ q) ∧ ¬(p ∧ q)", pista: "Caso trampa: la «o» lógica es inclusiva; aquí hay que añadir que no se dan las dos." },
   { f: "No es cierto que, si llueve, se suspenda el partido.", d: [["p", "llueve"], ["q", "se suspende el partido"]], s: "¬(p → q)", pista: "El «no es cierto que» niega todo el condicional: va delante del paréntesis." },
-  { f: "Epicuro: «Cuando nosotros estamos, la muerte no está; y cuando la muerte está, nosotros ya no estamos».", d: [["p", "nosotros estamos"], ["q", "la muerte está"]], s: "(p → ¬q) ∧ (q → ¬p)", pista: "Son dos condicionales unidos por «y». (Carta a Meneceo, 125.)" }
+  { f: "Epicuro: «Cuando nosotros estamos, la muerte no está; y cuando la muerte está, nosotros ya no estamos».", d: [["p", "nosotros estamos"], ["q", "la muerte está"]], s: "(p → ¬q) ∧ (q → ¬p)", pista: "Son dos condicionales unidos por «y». (Carta a Meneceo, 125.)" },
+  /* (17-10) caso «Mónica» con cinco letras (docs/34): la ficha de Argumentos clásicos lo formaliza con tres */
+  { f: "Mónica, al pie de la letra: «Si desea cosas buenas y las tiene, es feliz; pero si desea cosas malas, aunque las tenga, es desdichado».", d: [["p", "es feliz"], ["q", "desea cosas buenas"], ["r", "tiene cosas buenas"], ["s", "desea cosas malas"], ["t", "tiene cosas malas"]], s: "((q ∧ r) → p) ∧ ((s ∧ t) → ¬p)", pista: "«Pero» y «aunque» se escriben con ∧: «aunque las tenga» no niega que las tenga, lo afirma. Compárala con la de tres letras de la ficha de Mónica (Argumentos clásicos): ¿quién desea lo bueno y lo malo, lo tiene todo y es feliz? Una fórmula lo admite y la otra no." }
 ];
 function logmEquiv(a, b){
   const vars = logVars([a, b]);
