@@ -82,7 +82,7 @@ const GALERIA_PENSAR = [
   "t": "¿Pato o conejo? (1892)",
   "pie": "La misma imagen, dos lecturas: vemos lo que esperamos ver.",
   "license": "Public domain",
-  "artist": "Unknown artistUnknown artist",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Kaninchen_und_Ente.png"
  },
  {
