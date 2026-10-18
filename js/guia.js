@@ -57,7 +57,7 @@ const GUIA = {
     { type: "p", x: "Al pulsar <strong>Historia ▸</strong> se despliega material para entender el contexto de los filósofos. No es imprescindible, pero ayuda mucho a situar las ideas:" },
     { type: "list", rows: [
       { nombre: "Épocas", texto: "Fichas de cada época: cómo eran la sociedad, la política, la ciencia y el arte, y cómo se imaginaba el cosmos.", view: "epocas" },
-      { nombre: "Ilustres", texto: "Las biografías de los pensadores que aparecen en la teoría: quiénes fueron, qué pensaron y en qué temas los estudiamos.", view: "ilustres" },
+      { nombre: "Biografías", texto: "Las biografías de los pensadores que aparecen en la teoría: quiénes fueron, qué pensaron y en qué temas los estudiamos.", view: "ilustres" },
       { nombre: "Perseguidos", texto: "Filósofos y científicos a los que su manera de pensar les costó la vida, la libertad o la patria.", view: "perseguidos" },
       { nombre: "Comunidades", texto: "Escuelas y grupos de pensadores, y los lugares donde se reunían.", view: "comunidades" },
       { nombre: "Cronogramas", texto: "Líneas de tiempo: quién vivió a la vez que quién.", view: "cronogramas", solo: "hf" },
