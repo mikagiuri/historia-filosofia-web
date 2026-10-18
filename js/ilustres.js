@@ -721,6 +721,7 @@ const ILUSTRES = {
    "hf-verdad-no-contradice",
    "hf-islam-ideas",
    "hf-toledo-traductores",
+   "hf-cinco-vias",
    "hf-modernidad",
    "hf-montaigne-ensayos",
    "hf-renacimiento-magia",
@@ -835,6 +836,7 @@ const ILUSTRES = {
    "hf-islam-ideas",
    "hf-toledo-traductores",
    "hf-judios-andalus",
+   "hf-cinco-vias",
    "hf-modernidad",
    "hf-montaigne-ensayos",
    "hf-renacimiento-magia",
@@ -1110,6 +1112,33 @@ const ILUSTRES = {
    "hf-helenismo"
   ]
  },
+ "ciceron": {
+  "name": "Marco Tulio Cicerón",
+  "dates": "106 – 43 a. C.",
+  "born": -106,
+  "died": -43,
+  "place": "Arpino (Lacio, Italia)",
+  "role": "orador, político y filósofo romano",
+  "idea": "La filosofía griega se puede pensar en latín: Cicerón la tradujo para los romanos y expuso las escuelas como un debate en el que el lector tiene que decidir.",
+  "bio": "<p>Marco Tulio Cicerón nació en 106 a. C. en Arpino, a unos cien kilómetros de Roma, en una familia acomodada pero sin tradición política. Estudió derecho y retórica en Roma y filosofía en Atenas y en Rodas, donde escuchó al estoico <strong>Posidonio</strong>. Fue el mejor orador de su tiempo y llegó a cónsul en el año 63 a. C., cuando desarticuló la conjura de <strong>Catilina</strong>. Por haber ejecutado sin juicio a los conjurados tuvo que exiliarse año y medio.</p>\n<p>Con la dictadura de César perdió peso político, y tras la muerte de su hija Tulia, en el 45 a. C., se refugió en la filosofía. En menos de dos años escribió casi toda su obra filosófica: <em>Disputas tusculanas</em>, <em>Sobre la naturaleza de los dioses</em>, <em>Sobre la adivinación</em>, <em>Sobre los deberes</em>… Se declaraba seguidor de la <strong>Academia escéptica</strong>, la escuela platónica que pensaba que solo se alcanza lo probable: expone las razones de epicúreos, estoicos y académicos y deja que el lector juzgue. Para ello tuvo que crear en latín palabras que no existían, como <em>qualitas</em> («cualidad»). En <em>Sobre la naturaleza de los dioses</em> pone en boca de un estoico el argumento del orden del mundo: si un reloj de sol o una esfera que imita el cielo tienen un autor, el universo también. Su <em>Hortensio</em>, hoy perdido, llevó a la filosofía al joven Agustín de Hipona.</p>",
+  "obras": [
+   "Sobre la república",
+   "Disputas tusculanas",
+   "Sobre la naturaleza de los dioses",
+   "Sobre los deberes"
+  ],
+  "anecdota": "<p>Tras la muerte de César, Cicerón atacó a Marco Antonio en una serie de discursos, las <em>Filípicas</em>. Cuando Antonio, Octavio y Lépido se repartieron el poder, Antonio exigió su muerte. Los soldados lo alcanzaron en el año 43 a. C. cerca de su villa de Formia, mientras intentaba huir en una litera. Según cuenta Plutarco, Antonio mandó exponer su cabeza y sus manos en la tribuna de los oradores del Foro, el lugar desde el que había hablado tantas veces.</p>",
+  "fuente": "Plutarco, Vida de Cicerón 47-49",
+  "tradicion": false,
+  "block": "ant",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-politica",
+   "hf-cinco-vias"
+  ]
+ },
  "seneca": {
   "name": "Séneca",
   "dates": "c. 4 a. C. – 65 d. C.",
@@ -1309,6 +1338,7 @@ const ILUSTRES = {
    "hf-verdad-no-contradice",
    "hf-islam-ideas",
    "hf-toledo-traductores",
+   "hf-cinco-vias",
    "hf-montaigne-ensayos",
    "hf-renacimiento-magia",
    "hf-racionalismo",
@@ -1337,6 +1367,35 @@ const ILUSTRES = {
    "hf-helenismo"
   ]
  },
+ "boecio": {
+  "name": "Boecio",
+  "dates": "c. 480 – 524",
+  "born": 480,
+  "died": 524,
+  "place": "Roma",
+  "role": "filósofo y político romano",
+  "idea": "La verdadera felicidad no está en los bienes de la fortuna, que van y vienen, sino en el bien perfecto, que es Dios: si hay bienes imperfectos, tiene que haber uno perfecto.",
+  "bio": "<p>Anicio Manlio Severino Boecio nació hacia el año 480 en una de las familias más nobles de Roma, cuando Italia ya la gobernaban reyes germanos. Fue cónsul en el 510 y, más tarde, <em>magister officiorum</em>, uno de los cargos más altos de la corte del rey ostrogodo <strong>Teodorico</strong>, en Rávena. Se propuso traducir al latín todas las obras de Platón y de Aristóteles y mostrar que estaban de acuerdo. No pudo acabarlo, pero tradujo y comentó la lógica de Aristóteles y la <em>Introducción</em> de Porfirio. Durante seis siglos, la Europa latina estudió lógica con sus libros, y a través de su comentario a Porfirio llegó a la Edad Media el <strong>problema de los universales</strong>.</p>\n<p>Hacia el 523 fue acusado de traición por defender a un senador sospechoso de conspirar con el emperador de Constantinopla. Lo encarcelaron cerca de Pavía y lo ejecutaron. En la cárcel escribió la <em>Consolación de la filosofía</em>, uno de los libros más leídos de la Edad Media: la Filosofía lo visita y le enseña que la fortuna es una rueda que gira y que el sumo bien es Dios. En el libro III razona que, si hay bienes imperfectos, tiene que existir un bien perfecto, un razonamiento parecido al que usarán Anselmo y la cuarta vía de Tomás.</p>",
+  "obras": [
+   "Consolación de la filosofía (hacia 524)",
+   "Traducciones y comentarios de la lógica de Aristóteles",
+   "Comentarios a la Introducción de Porfirio"
+  ],
+  "anecdota": "<p>La <em>Consolación</em> empieza con una escena. Boecio, en la cárcel, escribe versos tristes acompañado de las Musas de la poesía. Entonces aparece una mujer majestuosa, de altura cambiante: a veces parece de estatura normal y a veces su cabeza toca el cielo. Lleva un vestido roto, porque cada escuela se ha llevado un jirón. Es la Filosofía, que expulsa a las Musas y se pone a curar al prisionero con razones.</p>",
+  "fuente": "Boecio, Consolación de la filosofía I, prosas 1 y 3",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-comunidades-perseguidos",
+   "hf-aristoteles-arabe",
+   "hf-toledo-traductores",
+   "hf-cinco-vias",
+   "hf-kant-juicios"
+  ]
+ },
  "isidoro": {
   "name": "Isidoro de Sevilla",
   "dates": "c. 556 – 636",
@@ -1361,6 +1420,33 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-filosofia-espanola"
+  ]
+ },
+ "al_kindi": {
+  "name": "Al-Kindi",
+  "dates": "c. 801 – c. 873",
+  "born": 801,
+  "died": 873,
+  "place": "Kufa (actual Irak)",
+  "role": "filósofo y científico árabe",
+  "idea": "La verdad hay que aceptarla venga de donde venga, aunque sea de pueblos lejanos: la filosofía de los griegos y la fe del islam no se oponen.",
+  "bio": "<p>Abu Yusuf Yaqub ibn Ishaq al-Kindi nació hacia el año 801 en Kufa, en una familia árabe noble, y vivió en Bagdad en la época de los califas al-Mamún y al-Mutasim, que le encargó la educación de su hijo. Es el primer gran filósofo que escribió en árabe; por eso lo llamaron «el filósofo de los árabes». Dirigió a un grupo de traductores que pasaron al árabe obras griegas, entre ellas una adaptación de Plotino que circuló como la <em>Teología de Aristóteles</em>. Escribió sobre matemáticas, astronomía, óptica, medicina, música y criptografía: su tratado para descifrar mensajes secretos es el primero conocido que explica cómo descifrar un mensaje contando cuántas veces aparece cada letra (el análisis de frecuencias).</p>\n<p>En <em>Sobre la filosofía primera</em> defiende que la filosofía es el conocimiento de las cosas por sus causas y que su cima es conocer a Dios, el Uno verdadero. Contra Aristóteles, sostiene que el mundo <strong>no es eterno</strong>: un tiempo infinito ya transcurrido es imposible, así que el mundo tuvo un comienzo y fue creado de la nada. Es un argumento que venía del cristiano griego Juan Filópono y que también usaban los teólogos del <em>kalam</em>, la teología racional del islam.</p>",
+  "obras": [
+   "Sobre la filosofía primera",
+   "Tratado sobre el desciframiento de mensajes cifrados",
+   "Sobre el intelecto"
+  ],
+  "anecdota": "<p>Según cuentan biógrafos posteriores, al-Kindi tuvo enemigos en la corte, los hermanos Banu Musa, sabios rivales. Bajo el califa al-Mutawakkil lograron que lo apartaran y que su biblioteca fuera confiscada. Más tarde, los mismos hermanos necesitaron la ayuda del ingeniero Sanad ibn Ali para un canal que les había salido mal, y este solo aceptó si le devolvían los libros.</p>",
+  "fuente": "Ibn Abi Usaybia, Fuentes de noticias sobre las clases de médicos (siglo XIII)",
+  "tradicion": true,
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-aristoteles-arabe",
+   "hf-verdad-no-contradice",
+   "hf-cinco-vias"
   ]
  },
  "escoto_erigena": {
@@ -1412,6 +1498,7 @@ const ILUSTRES = {
    "hf-islam-ideas",
    "hf-toledo-traductores",
    "hf-judios-andalus",
+   "hf-cinco-vias",
    "hf-renacimiento-magia",
    "hf-kant-juicios"
   ]
@@ -1440,7 +1527,40 @@ const ILUSTRES = {
   "temas": [
    "hf-medieval",
    "hf-fe-razon",
+   "hf-cinco-vias",
    "hf-racionalismo"
+  ]
+ },
+ "al_ghazali": {
+  "name": "Al-Ghazali",
+  "dates": "1058 – 1111",
+  "born": 1058,
+  "died": 1111,
+  "place": "Tus (Persia, actual Irán)",
+  "role": "teólogo, jurista y místico musulmán",
+  "idea": "La razón de los filósofos no demuestra todo lo que pretende: tesis como la eternidad del mundo no están probadas, y la certeza más honda llega por la experiencia interior.",
+  "bio": "<p>Abu Hamid al-Ghazali nació en 1058 en Tus, en el noreste de Persia. Estudió en Nishapur con el teólogo al-Juwayni y en 1091 el visir Nizam al-Mulk lo nombró profesor de la gran escuela de Bagdad, la Nizamiyya. Allí estudió a fondo a los filósofos, sobre todo a Avicena. Primero los resumió con claridad en <em>Las intenciones de los filósofos</em>, y después los criticó en <em>La incoherencia de los filósofos</em> (hacia 1095). En esa obra examina veinte de sus tesis y considera contrarias a la fe tres: que el mundo es eterno, que Dios no conoce las cosas particulares y que no hay resurrección de los cuerpos. Sostiene que los filósofos no logran demostrar que el mundo sea eterno; en otras obras defiende que el mundo tuvo un comienzo y que todo lo que empieza a existir tiene una causa.</p>\n<p>En 1095, en la cima de su fama, sufrió una crisis: dejó la enseñanza y Bagdad y pasó unos diez años de retiro y viaje, por Damasco, Jerusalén y La Meca, practicando la vía mística de los sufíes. De esa etapa salió <em>La revivificación de las ciencias religiosas</em>. Volvió a enseñar en Nishapur y murió en Tus en 1111. Averroes le respondió con <em>La incoherencia de la incoherencia</em>. Los latinos del siglo XII, que solo tradujeron sus <em>Intenciones</em> (y sin el prólogo en el que anunciaba su crítica), lo tomaron por un seguidor de Avicena con el nombre de «Algazel».</p>",
+  "obras": [
+   "Las intenciones de los filósofos",
+   "La incoherencia de los filósofos (hacia 1095)",
+   "La revivificación de las ciencias religiosas",
+   "El salvador del error"
+  ],
+  "anecdota": "<p>En su autobiografía, <em>El salvador del error</em>, al-Ghazali cuenta que durante meses dudó entre seguir con su brillante carrera o dejarlo todo. Hasta que su cuerpo decidió por él: un día se le trabó la lengua y no pudo dar clase. Perdió el apetito y los médicos, sin saber cómo curarlo, dijeron que el mal había nacido en el corazón y que solo se curaría si el corazón se libraba de esa angustia. Poco después se marchó de Bagdad.</p>",
+  "fuente": "Al-Ghazali, El salvador del error (relato autobiográfico)",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-beefs",
+   "hf-aristoteles-arabe",
+   "hf-verdad-no-contradice",
+   "hf-islam-ideas",
+   "hf-toledo-traductores",
+   "hf-cinco-vias",
+   "hf-kant-juicios"
   ]
  },
  "abelardo": {
@@ -1590,6 +1710,7 @@ const ILUSTRES = {
    "hf-aristoteles-arabe",
    "hf-verdad-no-contradice",
    "hf-toledo-traductores",
+   "hf-cinco-vias",
    "hf-montaigne-ensayos"
   ]
  },
@@ -1617,6 +1738,7 @@ const ILUSTRES = {
    "hf-verdad-no-contradice",
    "hf-islam-ideas",
    "hf-judios-andalus",
+   "hf-cinco-vias",
    "hf-renacimiento-magia"
   ]
  },
@@ -1642,6 +1764,32 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": []
+ },
+ "buenaventura": {
+  "name": "Buenaventura",
+  "dates": "c. 1217 – 1274",
+  "born": 1217,
+  "died": 1274,
+  "place": "Bagnoregio (Italia)",
+  "role": "teólogo y filósofo franciscano",
+  "idea": "Todo saber debe llevar a Dios: el mundo es como un libro lleno de huellas de su autor, y la mente sube por ellas como por una escalera.",
+  "bio": "<p>Juan de Fidanza nació hacia 1217 en Bagnoregio, cerca de Viterbo. Según la tradición, el nombre de Buenaventura le viene de una curación en la infancia atribuida a san Francisco. Estudió en París, entró en la orden franciscana hacia 1243 y enseñó en la universidad en los mismos años que Tomás de Aquino: los dos fueron reconocidos como maestros en 1257. Ese mismo año fue elegido ministro general de los franciscanos, que gobernó durante diecisiete años en plena división de la orden.</p>\n<p>Fiel a Agustín, desconfiaba de una filosofía de Aristóteles separada de la fe. En su <em>Itinerario de la mente hacia Dios</em> (1259) describe seis grados por los que el alma sube desde las huellas de Dios en el mundo hasta él. A diferencia de Tomás, sostenía que la razón <strong>sí puede demostrar que el mundo empezó</strong>: un mundo eterno supondría un número infinito de días ya pasados, lo que le parecía imposible. En sus últimas lecciones de París (1273) atacó a los aristotélicos radicales, profesores que seguían a Aristóteles incluso donde contradecía la fe. Ese año fue nombrado cardenal y murió en 1274 durante el concilio de Lyon, unos meses después que Tomás.</p>",
+  "obras": [
+   "Itinerario de la mente hacia Dios (1259)",
+   "Comentario a las Sentencias",
+   "Breviloquio",
+   "Lecciones sobre el Hexámeron (1273)"
+  ],
+  "anecdota": "<p>Cuenta una tradición franciscana que, cuando los enviados del papa llegaron para entregarle el capelo de cardenal, Buenaventura estaba fregando platos en un convento. Les pidió que lo colgaran de la rama de un árbol mientras terminaba, y solo después lo recogió.</p>",
+  "fuente": "Tradición franciscana posterior (no aparece en los documentos de su época)",
+  "tradicion": true,
+  "block": "med",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-cinco-vias"
+  ]
  },
  "roger_bacon": {
   "name": "Roger Bacon",
@@ -1707,6 +1855,7 @@ const ILUSTRES = {
    "hf-verdad-no-contradice",
    "hf-toledo-traductores",
    "hf-judios-andalus",
+   "hf-cinco-vias",
    "hf-montaigne-ensayos"
   ]
  },
@@ -1795,7 +1944,9 @@ const ILUSTRES = {
   "subjects": [
    "hf"
   ],
-  "temas": []
+  "temas": [
+   "hf-cinco-vias"
+  ]
  },
  "ockham": {
   "name": "Guillermo de Ockham",
@@ -1833,6 +1984,7 @@ const ILUSTRES = {
    "hf-beefs",
    "hf-medieval",
    "hf-fe-razon",
+   "hf-cinco-vias",
    "hf-modernidad"
   ]
  },
@@ -2534,6 +2686,7 @@ const ILUSTRES = {
    "hf-medieval",
    "hf-platon-agustin",
    "hf-fe-razon",
+   "hf-cinco-vias",
    "hf-modernidad",
    "hf-montaigne-ensayos",
    "hf-renacimiento-magia",
@@ -2784,6 +2937,7 @@ const ILUSTRES = {
   "temas": [
    "hf-filosofia-espanola",
    "hf-beefs",
+   "hf-cinco-vias",
    "hf-racionalismo",
    "hf-metafisica",
    "hf-spinoza-universal",
@@ -3053,6 +3207,7 @@ const ILUSTRES = {
    "hf-medieval",
    "hf-fe-razon",
    "hf-verdad-no-contradice",
+   "hf-cinco-vias",
    "hf-modernidad",
    "hf-montaigne-ensayos",
    "hf-racionalismo",
@@ -3264,6 +3419,7 @@ const ILUSTRES = {
    "hf-filosofia-espanola",
    "hf-metodos",
    "hf-beefs",
+   "hf-cinco-vias",
    "hf-montaigne-ensayos",
    "hf-racionalismo",
    "hf-metafisica",
@@ -3411,6 +3567,59 @@ const ILUSTRES = {
   "temas": [
    "hf-spinoza-universal",
    "hf-kant-poetas"
+  ]
+ },
+ "paley": {
+  "name": "William Paley",
+  "dates": "1743 – 1805",
+  "born": 1743,
+  "died": 1805,
+  "place": "Peterborough (Inglaterra)",
+  "role": "clérigo y filósofo inglés",
+  "idea": "Si al encontrar un reloj deducimos que alguien lo hizo, el ojo y los demás órganos de los seres vivos, mucho más complejos, exigen un diseñador inteligente.",
+  "bio": "<p>William Paley nació en 1743 en Peterborough, hijo de un clérigo que dirigía una escuela. Estudió matemáticas en el Christ’s College de Cambridge, donde sacó la mejor nota de su promoción en los exámenes de matemáticas (1763) y luego fue profesor. Ordenado sacerdote de la Iglesia de Inglaterra, llegó a archidiácono de Carlisle. Sus libros fueron manuales de Cambridge durante décadas. Los <em>Principios de filosofía moral y política</em> (1785) defienden una moral de la utilidad y critican la trata de esclavos.</p>\n<p>Su obra más famosa es la <em>Teología natural</em> (1802). Empieza con una imagen: si al cruzar un brezal tropiezo con una piedra, puedo pensar que siempre estuvo allí; pero si encuentro un reloj, sus piezas, ajustadas para medir el tiempo, me obligan a pensar en un relojero. Paley recorre después el ojo, las articulaciones o las alas de los pájaros para concluir que la naturaleza muestra un diseño. Medio siglo más tarde, Darwin, que lo había estudiado en el mismo colegio de Cambridge, explicó esa adaptación con la selección natural.</p>",
+  "obras": [
+   "Principios de filosofía moral y política (1785)",
+   "Una visión de las pruebas del cristianismo (1794)",
+   "Teología natural (1802)"
+  ],
+  "anecdota": "<p>El científico que dejó sin apoyo el argumento de Paley fue también uno de sus mayores admiradores. En 1859, el mismo año de <em>El origen de las especies</em>, Charles Darwin escribió a un amigo que casi nunca había admirado tanto un libro como la <em>Teología natural</em>, y que de joven casi podría haberlo recitado de memoria.</p>",
+  "fuente": "Carta de Charles Darwin a John Lubbock, 22 de noviembre de 1859 (Darwin Correspondence Project)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-cinco-vias"
+  ]
+ },
+ "condorcet": {
+  "name": "Nicolas de Condorcet",
+  "dates": "1743 – 1794",
+  "born": 1743,
+  "died": 1794,
+  "place": "Ribemont (Picardía, Francia)",
+  "role": "matemático, filósofo ilustrado y político de la Revolución francesa",
+  "idea": "La humanidad puede progresar sin un límite fijado de antemano gracias a la razón, la ciencia y la educación, y ese progreso exige los mismos derechos para todos: también para las mujeres y para los esclavos.",
+  "bio": "<p>Marie Jean Antoine Nicolas de Caritat, marqués de Condorcet, nació en 1743 en Ribemont, en el norte de Francia. Su padre, oficial de caballería, murió cuando él era un bebé. Estudió con los jesuitas en Reims y en el Colegio de Navarra de París, y se dedicó a las matemáticas: en 1769, con solo veinticinco años, entró en la Academia de Ciencias, de la que fue secretario perpetuo desde 1776. Amigo de d’Alembert y de Turgot, colaboró con artículos de matemáticas en el <em>Suplemento</em> de la <em>Enciclopedia</em> y fue elegido miembro de la Academia Francesa en 1782. En su <em>Ensayo sobre la aplicación del análisis a la probabilidad de las decisiones tomadas por mayoría</em> (1785) estudió las votaciones con matemáticas y descubrió que, con tres opciones o más, las preferencias de la mayoría pueden formar un círculo: la mayoría prefiere A a B, B a C y, sin embargo, C a A. Es la «paradoja de Condorcet».</p>\n<p>Condorcet puso su ciencia al servicio de los derechos. En 1781 publicó, con el seudónimo de «M. Schwartz», unas <em>Reflexiones sobre la esclavitud de los negros</em> en las que la condenaba y proponía abolirla de forma gradual, y fue uno de los primeros miembros de la Sociedad de los Amigos de los Negros (1788), que llegó a presidir. En 1790 defendió en un artículo que las mujeres fueran admitidas como ciudadanas con los mismos derechos políticos que los hombres, algo que casi nadie defendía entonces. Diputado durante la Revolución, presentó en 1792 un plan de instrucción pública gratuita en todos sus grados y sin enseñanza religiosa, que no llegó a aplicarse; ya antes había defendido que niñas y niños recibieran la misma instrucción. También se opuso a la pena de muerte, incluso en el juicio de Luis XVI. Por criticar la constitución de los jacobinos, la Convención ordenó su arresto en julio de 1793. Escondido en París, escribió el <em>Esbozo de un cuadro histórico de los progresos del espíritu humano</em>. En marzo de 1794 lo detuvieron y murió en la cárcel de Bourg-la-Reine pocos días después.</p>",
+  "obras": [
+   "Reflexiones sobre la esclavitud de los negros (1781)",
+   "Ensayo sobre la aplicación del análisis a la probabilidad de las decisiones tomadas por mayoría (1785)",
+   "Sobre la admisión de las mujeres al derecho de ciudadanía (1790)",
+   "Cinco memorias sobre la instrucción pública (1791)",
+   "Esbozo de un cuadro histórico de los progresos del espíritu humano (1795, póstumo)"
+  ],
+  "anecdota": "<p>Cuando abandonó su escondite, el 25 de marzo de 1794, Condorcet pasó dos días vagando por los alrededores de París, cansado y hambriento. Según cuentan sus biógrafos, entró en una posada de Clamart y pidió una tortilla. Cuando le preguntaron cuántos huevos quería, contestó «una docena». Según el relato, aquella respuesta delató a alguien que nunca había cocinado, un señor y no el obrero que decía ser. Como además no llevaba papeles, levantó sospechas y lo detuvieron. Es una escena repetida desde el siglo XIX y quizá adornada, pero retrata bien al sabio perdido fuera de los libros.</p>",
+  "fuente": "Relato tradicional repetido por sus biógrafos desde el siglo XIX; los detalles de la detención no están documentados con seguridad",
+  "tradicion": true,
+  "block": "ilu",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-comunidades-perseguidos",
+   "hf-ilustracion"
   ]
  },
  "herder": {
@@ -4427,6 +4636,7 @@ const ILUSTRES = {
    "hf"
   ],
   "temas": [
+   "hf-cinco-vias",
    "hf-sospecha"
   ]
  },
@@ -4770,6 +4980,31 @@ const ILUSTRES = {
    "hf-posmodernidad"
   ]
  },
+ "zetkin": {
+  "name": "Clara Zetkin",
+  "dates": "1857 – 1933",
+  "born": 1857,
+  "died": 1933,
+  "place": "Wiederau (Sajonia, Alemania)",
+  "role": "política, periodista y teórica socialista alemana",
+  "idea": "Unió la emancipación de las mujeres y la lucha de clases: sin independencia económica y sin cambiar la sociedad capitalista, la igualdad ante la ley se queda a medias.",
+  "bio": "<p>Clara Eißner nació en 1857 en Wiederau, un pueblo de Sajonia, hija de un maestro de escuela. Estudió para maestra en Leipzig y allí conoció el movimiento obrero y a un exiliado ruso, Ossip Zetkin, cuyo apellido tomó, aunque nunca llegaron a casarse. Durante las leyes antisocialistas de Bismarck (1878-1890) vivió exiliada en Zúrich y después en París, donde nacieron sus dos hijos. En 1889, en el congreso fundacional de la Segunda Internacional, defendió que las mujeres tenían derecho a trabajar en las mismas condiciones que los hombres y que su emancipación dependía de su <strong>independencia económica</strong>.</p>\n<p>De vuelta en Alemania, dirigió durante veinticinco años <em>Die Gleichheit</em> («La igualdad»), la revista de las mujeres del Partido Socialdemócrata, y organizó el movimiento socialista de mujeres. Rechazaba colaborar con el <strong>feminismo burgués</strong>, que a su juicio solo buscaba la igualdad legal dentro de la sociedad existente; esa separación fue muy discutida ya en su tiempo. En 1910, en la conferencia internacional de mujeres socialistas de Copenhague, propuso con Käte Duncker y otras delegadas celebrar cada año un día internacional de la mujer, todavía sin fecha fija; el 8 de marzo se impuso más tarde. Se opuso a la Primera Guerra Mundial: en 1915 reunió en Berna a socialistas de los países enfrentados contra la guerra y fue detenida por ello durante varios meses; en 1917 la dirección socialdemócrata le quitó la dirección de <em>Die Gleichheit</em>. Ese año pasó al Partido Socialdemócrata Independiente, cercana a la Liga Espartaquista de Rosa Luxemburgo y Karl Liebknecht, y en 1919 ingresó en el Partido Comunista de Alemania, del que fue diputada en el Reichstag (el Parlamento alemán) de 1920 a 1933. Desde 1921 formó parte de la dirección de la Internacional Comunista y pasó sus últimos años sobre todo en la Unión Soviética, cuyo régimen defendió en público, aunque discrepó de algunas decisiones de la dirección comunista. Su figura sigue discutida: unos destacan su lucha por los derechos de las mujeres y contra el fascismo; otros, su apoyo a la Unión Soviética de Stalin. Murió en Arjánguelskoye, cerca de Moscú, el 20 de junio de 1933, pocos meses después de la llegada de Hitler al poder. La web la estudia en la crítica del capitalismo posterior a Marx, junto a Lenin y Rosa Luxemburgo, como muestra de que dentro del marxismo hubo un debate abierto sobre la relación entre la igualdad de las mujeres y la <strong>lucha de clases</strong>.</p>",
+  "obras": [
+   "La cuestión de las obreras y de las mujeres en el presente (1889)",
+   "Die Gleichheit («La igualdad»), revista que dirigió de 1892 a 1917",
+   "Recuerdos sobre Lenin (escrito en 1924)"
+  ],
+  "anecdota": "<p>En agosto de 1932, con setenta y cinco años, enferma y casi ciega, Clara Zetkin volvió de Moscú para abrir el nuevo Reichstag, porque como diputada de más edad le correspondía presidir la sesión de apertura. Ante una cámara en la que los nazis eran ya el grupo más numeroso, pidió un frente único de todos los trabajadores contra el fascismo, y terminó deseando vivir para abrir, también como presidenta de edad, el primer congreso de los consejos de una Alemania soviética. Al terminar la sesión, el Reichstag eligió presidente a Hermann Göring.</p>",
+  "fuente": "Verhandlungen des Reichstags, VI. Wahlperiode 1932, Stenographische Berichte, 1.ª sesión, 30 de agosto de 1932 (actas taquigráficas del Reichstag)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-capitalismo"
+  ]
+ },
  "bergson": {
   "name": "Henri Bergson",
   "dates": "1859 – 1941",
@@ -4977,6 +5212,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-mito",
+   "hf-cinco-vias",
    "hf-analitica"
   ]
  },
@@ -5463,7 +5699,6 @@ const ILUSTRES = {
    "hf-beefs",
    "hf-platon",
    "hf-politica",
-   "hf-utopias-autoras",
    "hf-sospecha",
    "hf-capitalismo",
    "hf-analitica"
@@ -5493,6 +5728,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "hf-montaigne-ensayos",
+   "hf-utopias-autoras",
    "hf-marxismos",
    "hf-capitalismo"
   ]
@@ -5578,6 +5814,31 @@ const ILUSTRES = {
   "temas": [
    "hf-ilustracion",
    "hf-capitalismo"
+  ]
+ },
+ "copleston": {
+  "name": "Frederick Copleston",
+  "dates": "1907 – 1994",
+  "born": 1907,
+  "died": 1994,
+  "place": "Trull, cerca de Taunton (Inglaterra)",
+  "role": "sacerdote jesuita e historiador de la filosofía",
+  "idea": "Si todo lo que hay en el mundo podría no existir, el mundo no se explica por sí mismo: hace falta un ser que exista por sí mismo y sea la razón de que haya algo.",
+  "bio": "<p>Frederick Charles Copleston nació en 1907 cerca de Taunton, en una familia anglicana. A los dieciocho años se hizo católico y, tras estudiar en Oxford, entró en la Compañía de Jesús en 1930. Enseñó filosofía en el Heythrop College, en Inglaterra, y en la Universidad Gregoriana de Roma.</p>\n<p>Su gran obra es una <em>Historia de la filosofía</em> en nueve volúmenes (1946-1975), clara y equilibrada, con la que han estudiado generaciones de alumnos de todo el mundo y que se tradujo al castellano. En 1948 discutió en la radio de la BBC con Bertrand Russell sobre la existencia de Dios. Copleston defendió el argumento de la contingencia, heredero de la tercera vía de Tomás, y Russell respondió que la pregunta por la causa del universo entero no tiene sentido. Al año siguiente debatió en la misma radio con A. J. Ayer sobre el positivismo lógico.</p>",
+  "obras": [
+   "Historia de la filosofía (9 volúmenes, 1946-1975)",
+   "Aquinas (1955)",
+   "Debate con Bertrand Russell sobre la existencia de Dios (BBC, 1948)"
+  ],
+  "anecdota": "<p>En el debate de 1948, cuando Russell sostuvo que no tenía sentido preguntar por la causa del universo entero (para él, el universo «simplemente está ahí, y eso es todo»), Copleston le respondió con una imagen de ajedrez: si uno se niega a sentarse ante el tablero y mover pieza, es imposible darle jaque mate. Quería decir que Russell no rebatía el argumento: se negaba a hacer la pregunta. Russell, por su parte, pensaba que esa pregunta solo parecía tener sentido.</p>",
+  "fuente": "Transcripción del debate Russell-Copleston (BBC, 28 de enero de 1948), publicada en B. Russell, Por qué no soy cristiano (1957)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-cinco-vias"
   ]
  },
  "beauvoir": {

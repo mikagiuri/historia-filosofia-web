@@ -21255,7 +21255,7 @@ const QUIZZES = {
     "fb": "La frase aparece en La Revolución rusa (1918) de Rosa Luxemburg, quien advirtió que la dictadura de un partido podía traicionar a la revolución."
    },
    {
-    "q": "¿Quién propuso en 1910 celebrar un Día Internacional de la Mujer, que acabaría fijándose el 8 de marzo?",
+    "q": "¿Qué pensadora socialista propuso en 1910, con Käte Duncker y otras delegadas, celebrar cada año un Día Internacional de la Mujer, que acabaría fijándose el 8 de marzo?",
     "o": [
      "Rosa Luxemburg",
      "Clara Zetkin",
@@ -21263,7 +21263,7 @@ const QUIZZES = {
      "Simone de Beauvoir"
     ],
     "a": 1,
-    "fb": "Fue Clara Zetkin quien propuso en 1910 el Día Internacional de la Mujer, uniendo la liberación de las mujeres y la lucha de clases."
+    "fb": "Fue Clara Zetkin quien lo propuso, con Käte Duncker y otras delegadas, en la conferencia de mujeres socialistas de Copenhague (1910), todavía sin fecha fija; unía así la liberación de las mujeres y la lucha de clases."
    },
    {
     "q": "Fanon sostiene que al colonizado no solo se le quita la tierra, sino que también quedan marcados su lengua, su cuerpo y su imagen de sí mismo. ¿Qué concluye de ello?",

@@ -1,5 +1,5 @@
 // Generado por tools/cronogramas_extract.js desde zmos.txt (canónico LTFH) + cronogramas_extra.json. NO editar a mano.
-// 20 cronogramas · 19 timeline / 1 épocas.
+// 21 cronogramas · 20 timeline / 1 épocas.
 const CRONOGRAMAS = [
  {
   "id": "A1-OS-KRO-01",
@@ -923,6 +923,359 @@ const CRONOGRAMAS = [
   ],
   "events": [],
   "groupsLabel": "Corrientes"
+ },
+ {
+  "id": "B-MED-VIAS-01",
+  "code": "B-MED-VIAS-01",
+  "title": "Las cinco vías y sus antecedentes: cada argumento, de Platón al siglo XX",
+  "type": "timeline",
+  "groupsLabel": "Argumentos",
+  "start": -450,
+  "end": 2026,
+  "groups": [
+   {
+    "name": "1.ª vía: movimiento",
+    "color": "var(--e-ant)"
+   },
+   {
+    "name": "2.ª vía: causa",
+    "color": "var(--e-mod)"
+   },
+   {
+    "name": "3.ª vía: contingencia",
+    "color": "var(--e-ilu)"
+   },
+   {
+    "name": "4.ª vía: grados",
+    "color": "var(--e-med)"
+   },
+   {
+    "name": "5.ª vía: orden y diseño",
+    "color": "var(--e-con)"
+   },
+   {
+    "name": "Argumento ontológico",
+    "color": "var(--e-ren)"
+   },
+   {
+    "name": "Kalam: el mundo empezó",
+    "color": "var(--e-int)"
+   }
+  ],
+  "axes": [
+   {
+    "name": "Platón",
+    "start": -427,
+    "end": -347,
+    "grp": 0,
+    "note": "Leyes X: el alma es lo único que se mueve a sí mismo, origen de todo movimiento"
+   },
+   {
+    "name": "Platón · grados",
+    "start": -427,
+    "end": -347,
+    "grp": 3,
+    "note": "La Idea de Bien: las cosas buenas participan de ella"
+   },
+   {
+    "name": "Aristóteles",
+    "start": -384,
+    "end": -322,
+    "grp": 0,
+    "note": "Física VIII y Metafísica XII: el motor inmóvil, que mueve como lo amado"
+   },
+   {
+    "name": "Aristóteles · causa",
+    "start": -384,
+    "end": -322,
+    "grp": 1,
+    "note": "Las cuatro causas; la eficiente es la que produce"
+   },
+   {
+    "name": "Aristóteles · grados",
+    "start": -384,
+    "end": -322,
+    "grp": 3,
+    "note": "Metafísica II: lo más verdadero es lo más ente (lo cita la 4.ª vía)"
+   },
+   {
+    "name": "Cicerón",
+    "start": -106,
+    "end": -43,
+    "grp": 4,
+    "note": "Sobre la naturaleza de los dioses II: el reloj de sol y la esfera de Posidonio"
+   },
+   {
+    "name": "Agustín de Hipona",
+    "start": 354,
+    "end": 430,
+    "grp": 3,
+    "note": "Sobre el libre albedrío II: la verdad está por encima de la mente"
+   },
+   {
+    "name": "Boecio",
+    "start": 480,
+    "end": 524,
+    "grp": 3,
+    "note": "Consolación de la filosofía III: del bien imperfecto al perfecto"
+   },
+   {
+    "name": "Juan Damasceno",
+    "start": 675,
+    "end": 749,
+    "grp": 4,
+    "note": "Exposición de la fe I, 3: el orden del mundo"
+   },
+   {
+    "name": "Al-Kindi",
+    "start": 801,
+    "end": 873,
+    "grp": 6,
+    "note": "El mundo empezó, luego tiene una causa"
+   },
+   {
+    "name": "Saadia Gaon",
+    "start": 882,
+    "end": 942,
+    "grp": 6,
+    "note": "El mismo argumento, en el judaísmo"
+   },
+   {
+    "name": "Avicena · causa",
+    "start": 980,
+    "end": 1037,
+    "grp": 1,
+    "note": "Lo necesario por otro depende de una cadena que no se sostiene sola"
+   },
+   {
+    "name": "Avicena",
+    "start": 980,
+    "end": 1037,
+    "grp": 2,
+    "note": "La curación: lo posible por sí y lo necesario por sí"
+   },
+   {
+    "name": "Anselmo · grados",
+    "start": 1033,
+    "end": 1109,
+    "grp": 3,
+    "note": "Monologion (1076): de los grados del bien a lo sumamente bueno"
+   },
+   {
+    "name": "Anselmo de Canterbury",
+    "start": 1033,
+    "end": 1109,
+    "grp": 5,
+    "note": "Proslogion (1077-1078): aquello mayor que lo cual nada puede pensarse"
+   },
+   {
+    "name": "Gaunilón (crítica)",
+    "start": 1080,
+    "end": null,
+    "fl": true,
+    "grp": 5,
+    "note": "En favor del insensato: la isla perdida"
+   },
+   {
+    "name": "Al-Ghazali",
+    "start": 1058,
+    "end": 1111,
+    "grp": 6,
+    "note": "Defiende que el mundo tuvo un comienzo"
+   },
+   {
+    "name": "Averroes",
+    "start": 1126,
+    "end": 1198,
+    "grp": 0,
+    "note": "Vuelve a la prueba del movimiento de Aristóteles"
+   },
+   {
+    "name": "Maimónides",
+    "start": 1138,
+    "end": 1204,
+    "grp": 0,
+    "note": "Guía de perplejos II, 1: la prueba del primer motor"
+   },
+   {
+    "name": "Maimónides · contingencia",
+    "start": 1138,
+    "end": 1204,
+    "grp": 2,
+    "note": "No todo puede nacer y morir, aun en un mundo eterno"
+   },
+   {
+    "name": "Buenaventura",
+    "start": 1217,
+    "end": 1274,
+    "grp": 6,
+    "note": "La razón puede demostrar que el mundo empezó"
+   },
+   {
+    "name": "Tomás de Aquino · 1.ª vía",
+    "start": 1225,
+    "end": 1274,
+    "grp": 0,
+    "note": "Suma teológica I, q. 2, a. 3 (hacia 1266-1268): el primer motor"
+   },
+   {
+    "name": "Tomás de Aquino · 2.ª vía",
+    "start": 1225,
+    "end": 1274,
+    "grp": 1,
+    "note": "La primera causa eficiente"
+   },
+   {
+    "name": "Tomás de Aquino · 3.ª vía",
+    "start": 1225,
+    "end": 1274,
+    "grp": 2,
+    "note": "Lo necesario por sí mismo"
+   },
+   {
+    "name": "Tomás de Aquino · 4.ª vía",
+    "start": 1225,
+    "end": 1274,
+    "grp": 3,
+    "note": "El máximo, causa de toda perfección"
+   },
+   {
+    "name": "Tomás de Aquino · 5.ª vía",
+    "start": 1225,
+    "end": 1274,
+    "grp": 4,
+    "note": "Una inteligencia que ordena la naturaleza"
+   },
+   {
+    "name": "Tomás · contra Anselmo",
+    "start": 1225,
+    "end": 1274,
+    "grp": 5,
+    "note": "Rechaza el argumento de Anselmo (I, q. 2, a. 1, ad 2)"
+   },
+   {
+    "name": "Tomás · contra el kalam",
+    "start": 1225,
+    "end": 1274,
+    "grp": 6,
+    "note": "Niega que la razón pueda demostrar que el mundo empezó (I, q. 46, a. 2)"
+   },
+   {
+    "name": "Duns Escoto",
+    "start": 1266,
+    "end": 1308,
+    "grp": 1,
+    "note": "Una primera causa, a partir de lo posible"
+   },
+   {
+    "name": "Guillermo de Ockham",
+    "start": 1287,
+    "end": 1347,
+    "grp": 1,
+    "note": "La causa que conserva ahora las cosas en la existencia"
+   },
+   {
+    "name": "Descartes",
+    "start": 1596,
+    "end": 1650,
+    "grp": 5,
+    "note": "Meditación V (1641): la idea de un ser perfecto"
+   },
+   {
+    "name": "Leibniz",
+    "start": 1646,
+    "end": 1716,
+    "grp": 2,
+    "note": "Principio de razón suficiente: ¿por qué hay algo y no más bien nada? (1714)"
+   },
+   {
+    "name": "Leibniz · ontológico",
+    "start": 1646,
+    "end": 1716,
+    "grp": 5,
+    "note": "Completa el argumento: hay que probar antes que Dios es posible"
+   },
+   {
+    "name": "Hume (crítica)",
+    "start": 1711,
+    "end": 1776,
+    "grp": 2,
+    "note": "Diálogos (1779): la causalidad no va más allá de la experiencia"
+   },
+   {
+    "name": "Hume · diseño (crítica)",
+    "start": 1711,
+    "end": 1776,
+    "grp": 4,
+    "note": "Diálogos: la analogía entre el mundo y una máquina es débil"
+   },
+   {
+    "name": "Kant (crítica)",
+    "start": 1724,
+    "end": 1804,
+    "grp": 2,
+    "note": "Crítica de la razón pura (1781): la prueba cosmológica esconde la ontológica"
+   },
+   {
+    "name": "Kant · diseño (crítica)",
+    "start": 1724,
+    "end": 1804,
+    "grp": 4,
+    "note": "La prueba por el orden del mundo no llega a un ser perfecto"
+   },
+   {
+    "name": "Kant · ontológico (crít.)",
+    "start": 1724,
+    "end": 1804,
+    "grp": 5,
+    "note": "«El ser no es un predicado real»"
+   },
+   {
+    "name": "Paley",
+    "start": 1743,
+    "end": 1805,
+    "grp": 4,
+    "note": "Teología natural (1802): el reloj y el ojo"
+   },
+   {
+    "name": "Darwin (crítica)",
+    "start": 1809,
+    "end": 1882,
+    "grp": 4,
+    "note": "El origen de las especies (1859): la adaptación sin diseñador"
+   },
+   {
+    "name": "Russell (crítica)",
+    "start": 1872,
+    "end": 1970,
+    "grp": 2,
+    "note": "Debate en la BBC (1948): el universo simplemente está ahí"
+   },
+   {
+    "name": "Copleston",
+    "start": 1907,
+    "end": 1994,
+    "grp": 2,
+    "note": "Defiende el argumento de la contingencia frente a Russell (1948)"
+   },
+   {
+    "name": "Plantinga",
+    "start": 1932,
+    "end": null,
+    "vive": true,
+    "grp": 5,
+    "note": "Versión modal del argumento (1974)"
+   },
+   {
+    "name": "William Lane Craig",
+    "start": 1949,
+    "end": null,
+    "vive": true,
+    "grp": 6,
+    "note": "Vuelve el kalam (1979)"
+   }
+  ],
+  "events": []
  },
  {
   "id": "B-REN-KRO-01",

@@ -73,3 +73,48 @@ const GENEALOGIAS = {
   { ilustre: ["arcesilao", "zenon"] }
  ]
 };
+
+/* (18-10) Planos temáticos además del general: mismo dibujo (líneas, transbordos, oposiciones), con su propio
+   conjunto de líneas. Se eligen con el selector «Plano» y tienen enlace propio (#genealogias/plano/<id>).
+   «dios»: la historia de los argumentos sobre la existencia de Dios (exploración hf-cinco-vias, tema 12 de HF).
+   Las líneas son argumentos; «Los críticos» reúne a quienes los atacaron, y las oposiciones marcan los choques. */
+const GENEALOGIAS_PLANOS = [
+ { id: "dios", name: "Pruebas de la existencia de Dios",
+   desc: "Cómo pasaron los argumentos sobre Dios de unos pensadores a otros, de Platón al siglo XX, y quién los atacó.",
+   lineas: [
+  { id: "mov", name: "1.ª vía: el movimiento", color: "#e0a526",
+    desc: "Todo lo que se mueve es movido por otro, y la cadena no puede ser infinita: hay un primer motor.",
+    ilustre: ["platon", "aristoteles", "averroes", "maimonides", "tomas"] },
+  { id: "cau", name: "2.ª vía: la causa", color: "#3fa7c9",
+    desc: "Nada es causa de sí mismo, y sin una primera causa no habría ninguna: hay una causa primera.",
+    ilustre: ["aristoteles", "avicena", "tomas", "duns_escoto", "ockham"] },
+  { id: "con", name: "3.ª vía: la contingencia", color: "#7b61d9",
+    desc: "Lo que podría no existir necesita otra cosa para existir: hay un ser necesario por sí mismo.",
+    ilustre: ["avicena", "maimonides", "tomas", "leibniz", "copleston"] },
+  { id: "gra", name: "4.ª vía: los grados", color: "#b44fc4",
+    desc: "Si hay cosas más o menos buenas y verdaderas, hay un máximo que es su medida y su causa.",
+    ilustre: ["platon", "agustin", "boecio", "anselmo", "tomas"] },
+  { id: "ord", name: "5.ª vía: el orden", color: "#2e9e6b",
+    desc: "Las cosas sin conocimiento actúan por un fin, como la flecha que dirige el arquero: hay una inteligencia que ordena la naturaleza.",
+    ilustre: ["ciceron", "tomas", "paley"] },
+  { id: "ont", name: "Argumento ontológico", color: "#d95f02",
+    desc: "Del solo concepto de Dios, «aquello mayor que lo cual nada puede pensarse», se seguiría que existe.",
+    ilustre: ["anselmo", "descartes", "leibniz"] },
+  { id: "kal", name: "Kalam: el mundo empezó", color: "#9a7b5f",
+    desc: "El mundo tuvo un comienzo, y todo lo que empieza a existir tiene una causa.",
+    ilustre: ["al_kindi", "al_ghazali", "buenaventura"] },
+  { id: "cri", name: "Los críticos", color: "#6e6e78",
+    desc: "Quienes pusieron en duda que la razón pueda demostrar la existencia de Dios.",
+    ilustre: ["hume", "kant", "darwin", "russell"] }
+   ],
+   op: [
+  { ilustre: ["anselmo", "tomas"] },
+  { ilustre: ["tomas", "buenaventura"] },
+  { ilustre: ["avicena", "averroes"] },
+  { ilustre: ["al_ghazali", "averroes"] },
+  { ilustre: ["descartes", "kant"] },
+  { ilustre: ["hume", "paley"] },
+  { ilustre: ["paley", "darwin"] },
+  { ilustre: ["russell", "copleston"] }
+   ] }
+];
