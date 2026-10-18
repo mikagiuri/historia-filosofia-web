@@ -18,7 +18,7 @@ const GUIA = {
     materia_hf: "Historia de la Filosofía",
     materia_fil: "Filosofía 1.º"
   },
-  pdf: { hf: "media/guia/hf/guia_aula_de_filosofia_hf.pdf" },
+  pdf: {},
   bloques: [
     { type: "h", x: "Antes de empezar" },
     { type: "p", x: "La web reúne en un solo sitio todo lo que trabajamos en clase: la teoría de cada tema, resúmenes, tarjetas de repaso, cuestionarios, ejercicios, juegos y todo lo necesario para los exámenes." },
