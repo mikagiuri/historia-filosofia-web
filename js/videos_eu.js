@@ -34,10 +34,10 @@ const VIDEOS_EU = [
  { "id": "9WYd6Zm8Yik", "eu_titulo": "SIGMUND FREUD ulertzeko gakoak", "es": "Claves para entender a Sigmund Freud", "dur": "8:14", "ilustre": ["freud"], "temas": ["hf-sospecha"] },
  { "id": "4YDjEghhQYU", "eu_titulo": "Zoriontsu izateko formula? | EPIKUREISMOA", "es": "¿Una fórmula para ser feliz? El epicureísmo", "dur": "8:09", "ilustre": [], "temas": ["hf-helenismo", "fil-helenismo"] },
  { "id": "e-l8L6EzsFg", "eu_titulo": "Nork urratu du emakumeen askapen bidea? | EMAKUMEEN AUZIA", "es": "¿Quién abrió el camino de la liberación de las mujeres? La cuestión de las mujeres", "dur": "9:37", "ilustre": [], "temas": ["fil-t1-filosofia-mujer", "hf-filosofas-dialogo"] },
- { "id": "tmVR1LAubs8", "eu_titulo": "AYN RAND ulertzeko gakoak", "es": "Claves para entender a Ayn Rand", "dur": "9:06", "ilustre": [], "temas": ["hf-capitalismo"] },
+ { "id": "tmVR1LAubs8", "eu_titulo": "AYN RAND ulertzeko gakoak", "es": "Claves para entender a Ayn Rand", "dur": "9:06", "ilustre": [], "temas": ["hf-silicon-valley"] },
  { "id": "BHKYDCE3Qss", "eu_titulo": "Utopiak, zergatik eta zertarako? | UTOPIAK", "es": "Utopías: ¿por qué y para qué?", "dur": "8:28", "ilustre": [], "temas": ["hf-utopias-autoras", "hf-modernidad"] },
  { "id": "Dtr9H_OpVaU", "eu_titulo": "Mary Shelley-en Frankenstein, eleberri beldurgarri bezain filosofikoa", "es": "El Frankenstein de Mary Shelley, una novela tan terrorífica como filosófica", "dur": "8:35", "ilustre": [], "temas": ["fil-t2"] },
  { "id": "N6tM9u5OwN0", "eu_titulo": "Adimen artifizialak artea egin dezake?", "es": "¿Puede la inteligencia artificial hacer arte?", "dur": "6:53", "ilustre": [], "temas": ["fil-t7"] },
- { "id": "9AO8Vg3UuAI", "eu_titulo": "Teknozientzia: zientzia enpresa teknologiko handien esku?", "es": "Tecnociencia: ¿la ciencia en manos de las grandes empresas tecnológicas?", "dur": "6:07", "ilustre": [], "temas": ["hf-siglo21"] },
- { "id": "puKloEvxJ0k", "eu_titulo": "Teknologiari begiratzeko bi modu: teknopositibismoa vs luddismoa", "es": "Dos maneras de mirar la tecnología: tecnopositivismo frente a ludismo", "dur": "4:21", "ilustre": [], "temas": ["hf-siglo21"] }
+ { "id": "9AO8Vg3UuAI", "eu_titulo": "Teknozientzia: zientzia enpresa teknologiko handien esku?", "es": "Tecnociencia: ¿la ciencia en manos de las grandes empresas tecnológicas?", "dur": "6:07", "ilustre": [], "temas": ["hf-siglo21", "hf-silicon-valley"] },
+ { "id": "puKloEvxJ0k", "eu_titulo": "Teknologiari begiratzeko bi modu: teknopositibismoa vs luddismoa", "es": "Dos maneras de mirar la tecnología: tecnopositivismo frente a ludismo", "dur": "4:21", "ilustre": [], "temas": ["hf-siglo21", "hf-silicon-valley"] }
 ];
