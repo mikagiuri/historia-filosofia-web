@@ -4000,6 +4000,100 @@ const GLOSARIO = [
    "descartes",
    "leibniz"
   ]
+ },
+ {
+  "subject": "hf",
+  "t": "Hiparquía de Maronea",
+  "area": "Historia",
+  "bloque": "A",
+  "unidad": "A10",
+  "tema": "El helenismo",
+  "def": "Filósofa cínica (s. IV-III a. C.), una de las poquísimas mujeres filósofas de la Antigüedad de las que hay noticia. Renunció a la riqueza para vivir según la naturaleza junto a Crates, aplicando el ideal cínico también a su condición de mujer.",
+  "ilustre": [
+   "hiparquia"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Margarita Porete",
+  "area": "Religión",
+  "bloque": "B",
+  "tema": "La filosofía medieval",
+  "def": "Mística y beguina (c. 1250-1310). En *El espejo de las almas simples* defendió la unión directa del alma con Dios por el amor y la libertad, sin mediación del clero. La Inquisición de París la quemó por hereje en 1310.",
+  "ilustre": [
+   "porete"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Christine de Pizan",
+  "area": "Feminismo",
+  "bloque": "B",
+  "tema": "La filosofía medieval",
+  "def": "Escritora (1364-c. 1430), primera mujer de Europa que vivió de su pluma. En *La ciudad de las damas* rebatió con argumentos la misoginia de su época; se la considera precursora de la «querella de las mujeres».",
+  "ilustre": [
+   "pizan"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Querella de las mujeres",
+  "area": "Feminismo",
+  "bloque": "B",
+  "tema": "La filosofía medieval",
+  "def": "Larga polémica, abierta por Christine de Pizan hacia 1400 con la «querella de la Rosa», sobre la dignidad y la capacidad intelectual de las mujeres; se prolongó en la cultura europea hasta la Revolución francesa.",
+  "ilustre": [
+   "pizan"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "María de Maeztu",
+  "area": "Educación",
+  "bloque": "C",
+  "unidad": "C8",
+  "tema": "El existencialismo",
+  "def": "Pedagoga (1881-1948), discípula de Unamuno y Ortega. Dirigió la Residencia de Señoritas (1915-1936), que abrió a las jóvenes españolas el acceso a la universidad y a la vida intelectual.",
+  "ilustre": [
+   "maeztu"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Lou Andreas-Salomé",
+  "area": "Psicología",
+  "bloque": "C",
+  "unidad": "CN",
+  "tema": "Los filósofos de la sospecha",
+  "def": "Escritora y psicoanalista (1861-1937), interlocutora de Nietzsche, Rilke y Freud. Autora de uno de los primeros estudios serios de la filosofía de Nietzsche y de ensayos sobre el erotismo y la religiosidad.",
+  "ilustre": [
+   "salome"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Necesidades radicales",
+  "et": "*Radical*, del latín *radix*, «raíz»: lo que afecta a la raíz.",
+  "area": "Política",
+  "bloque": "C",
+  "unidad": "C5A",
+  "tema": "Las luchas después del marxismo",
+  "def": "Según Ágnes Heller, las necesidades cualitativamente superiores que el capitalismo no puede satisfacer y que, al chocar con la realidad social, empujan hacia un cambio emancipador.",
+  "ilustre": [
+   "heller"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Ágnes Heller",
+  "area": "Política",
+  "bloque": "C",
+  "unidad": "C5A",
+  "tema": "Las luchas después del marxismo",
+  "def": "Filósofa húngara (1929-2019), de la Escuela de Budapest. Pensó la vida cotidiana y las necesidades radicales desde el marxismo; más tarde criticó el socialismo real como «dictadura de las necesidades» y defendió la democracia.",
+  "ilustre": [
+   "heller"
+  ]
  }
 ];
 const GLOSARIO_TRAMPAS = {

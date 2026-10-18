@@ -648,6 +648,14 @@ const CITAS = [
   "uso": "Para abrir un tema sobre el conocimiento científico y la relación entre mente y realidad, o en una disertación sobre el asombro filosófico."
  },
  {
+  "c": "El feminismo es un hijo no querido de la Ilustración.",
+  "a": "Amelia Valcárcel",
+  "o": "«La memoria colectiva y los retos del feminismo» (2000)",
+  "e": "contemporanea",
+  "sen": "El feminismo nace de tomar en serio la igualdad y la universalidad que proclamó la Ilustración y aplicarlas también a las mujeres, a quienes la propia Ilustración se las negó.",
+  "uso": "Para explicar el feminismo ilustrado (Poulain de la Barre, Mary Wollstonecraft) y la relación entre Ilustración e igualdad."
+ },
+ {
   "c": "La triste verdad es que la mayor parte del mal la cometen personas que nunca deciden ser ni buenas ni malas.",
   "a": "Arendt",
   "o": "La vida del espíritu (1978), vol. I, «El pensar»",

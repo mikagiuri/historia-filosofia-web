@@ -301,7 +301,9 @@ const PERSEGUIDOS = [
  },
  {
   "id": "servet",
-  "cas_ilu": [],
+  "cas_ilu": [
+   "servet"
+  ],
   "nombre": "Miguel Servet",
   "fechas": "Vienne (Francia) y Ginebra, 1553",
   "cas_epoca": "ren",
