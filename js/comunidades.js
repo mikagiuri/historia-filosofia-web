@@ -659,6 +659,144 @@ const COMUNIDADES = [
   ]
  },
  {
+  "id": "coterie-holbach",
+  "cas_ilu": [
+   "holbach",
+   "diderot",
+   "helvetius",
+   "dalembert",
+   "hume",
+   "rousseau"
+  ],
+  "nombre": "La tertulia del barón d'Holbach (la «coterie holbachique»)",
+  "fechas": "París y Grandval, hacia 1750 – 1789",
+  "cas_epoca": "ilu",
+  "lugar": "La casa del barón d'Holbach en la rue Royale, butte Saint-Roch, en el centro de París. Dos veces por semana, los jueves y los domingos, se celebraban allí largas cenas en las que se hablaba con una libertad que no había en casi ningún otro sitio de Europa. En verano el grupo se trasladaba al campo, a la casa de la familia de la esposa de Holbach en Grandval, en el valle del Marne, al sureste de París, donde Diderot pasaba semanas enteras y desde donde escribía sus cartas a Sophie Volland.",
+  "hoy": "La vieja rue Royale, butte Saint-Roch quedó absorbida por el trazado del actual distrito 1.º de París, cerca de la iglesia de Saint-Roch, y de la casa de Holbach no se conserva nada señalado. La finca de Grandval estaba en lo que hoy es Sucy-en-Brie (Valle del Marne); de su estado actual no hemos podido confirmar nada con una fuente fiable.",
+  "miembros": "El anfitrión era Paul-Henri Thiry, barón d'Holbach, un alemán afincado en París que había heredado una gran fortuna. El alma del grupo era su amigo íntimo Denis Diderot, director de la Enciclopedia. Acudían con frecuencia Helvétius, el crítico Friedrich Melchior Grimm (que contaba estas reuniones en su Correspondance littéraire), el abate Raynal, el abate Morellet, el escritor Marmontel y Jacques-André Naigeon, secretario y colaborador de Holbach que después editaría sus obras. Acudía también D'Alembert, codirector de la Enciclopedia. Y por aquella mesa desfilaron viajeros extranjeros célebres: David Hume, Adam Smith, Laurence Sterne, Edward Gibbon, Cesare Beccaria o Benjamin Franklin. Rousseau fue de los primeros en frecuentar el grupo, pero acabó rompiendo con él. (Grimm, Raynal, Morellet, Marmontel y Naigeon no tienen aquí ficha propia.)",
+  "vida": "No era una escuela ni una academia, sino una tertulia de amigos: se comía bien y se discutía de todo durante horas, de ciencia, de religión, de política y de moral. Muchos de ellos escribían en la Enciclopedia; el propio Holbach redactó varios cientos de artículos, sobre todo de química, mineralogía y ciencia alemana, que traducía. La casa funcionaba además como una pequeña imprenta clandestina de ideas: desde allí salían, con nombres falsos y editadas fuera de Francia, las obras más audaces del grupo.",
+  "ideas": "Eran el ala más radical de la Ilustración francesa. Defendían un materialismo completo (solo existe la materia en movimiento, también el pensamiento), una crítica frontal de la religión y una moral basada en la razón y en la búsqueda de la felicidad común, no en el premio o el castigo de otra vida. Holbach fue de los primeros autores que se declararon abiertamente ateos. No todos pensaban igual —Hume no era ateo y discutía con ellos, y muchos preferían un deísmo más prudente—, pero compartían la convicción de que ninguna autoridad, ni la Iglesia ni el rey, debía quedar fuera del examen de la razón.",
+  "cita": {
+   "t": "Mire alrededor de la mesa: somos dieciocho; quince son ateos sin más, y los otros tres todavía no lo tienen decidido.",
+   "ref": "Respuesta del barón d'Holbach a David Hume —que decía no haber conocido nunca a un ateo—, según la narra Diderot en una carta a Sophie Volland (octubre de 1765); las cifras varían algo según la versión"
+  },
+  "fin": "No terminó de golpe: se fue apagando con sus protagonistas. Helvétius murió en 1771, Hume en 1776, Rousseau en 1778, D'Alembert en 1783 y Diderot en 1784. El propio Holbach murió en París el 21 de enero de 1789, meses antes de que estallara la Revolución francesa. Ninguno de ellos la vio. Naigeon siguió editando y difundiendo las obras del barón durante la Revolución.",
+  "trampa": "Es tentador trazar una línea recta —«los filósofos de la Ilustración prepararon y provocaron la Revolución francesa»—, pero conviene frenar. Casi todos los miembros de la tertulia habían muerto antes de 1789, y la mayoría no eran revolucionarios ni demócratas: Holbach desconfiaba de las multitudes y esperaba reformas hechas desde arriba, no una revolución desde abajo. Los historiadores discuten cuánto influyeron de verdad estas ideas en lo que vino después (ver «El debate»). Y otra confusión frecuente: «materialista» y «ateo» no significaban aquí «egoísta» ni «sin moral»; precisamente defendían una ética razonada y la felicidad compartida.",
+  "pregunta": "¿Cambian el mundo las ideas discutidas en una cena entre amigos, o solo lo cambian los hechos? Cuando después de una revolución o una catástrofe se buscan culpables entre los pensadores anteriores, ¿se está explicando o se está acusando?",
+  "temas": [
+   "hf-ilustracion",
+   "hf-metafisica",
+   "hf-contrato"
+  ],
+  "fuentes": [
+   {
+    "t": "Stanford Encyclopedia of Philosophy: Paul-Henri Thiry (Baron) d'Holbach",
+    "url": "https://plato.stanford.edu/entries/holbach/"
+   },
+   {
+    "t": "Wikipedia: Coterie holbachique",
+    "url": "https://en.wikipedia.org/wiki/Coterie_Holbachique"
+   },
+   {
+    "t": "Wikipedia: Barón d'Holbach",
+    "url": "https://es.wikipedia.org/wiki/Barón_d%27Holbach"
+   }
+  ],
+  "imgs": [
+   {
+    "f": "media/galeria_museo/comunidades/coterie_holbach_retrato.jpg",
+    "pie": "El barón d'Holbach, retrato al lápiz y acuarela de Louis Carrogis Carmontelle (1766)",
+    "page": "https://commons.wikimedia.org/wiki/File:D%27Holbach.jpg"
+   },
+   {
+    "f": "media/galeria_museo/comunidades/coterie_holbach_enciclopedia.jpg",
+    "pie": "Frontispicio de la Enciclopedia de Diderot y D'Alembert, grabado en 1772 por Benoît-Louis Prévost a partir de un dibujo de Charles-Nicolas Cochin de 1764: la Razón y la Filosofía levantan el velo que cubre a la Verdad. Holbach escribió para la obra muchos artículos, sobre todo de química y mineralogía.",
+    "page": "https://commons.wikimedia.org/wiki/File:Encyclopedie_frontispice_full.jpg"
+   },
+   {
+    "f": "media/galeria_museo/comunidades/coterie_holbach_sistema.jpg",
+    "pie": "Portada del Sistema de la naturaleza (1770), la obra más radical de Holbach, publicada con el nombre de un autor ya fallecido, «M. Mirabaud», para escapar de la censura",
+    "page": "https://commons.wikimedia.org/wiki/File:Systemedelanature.jpg"
+   }
+  ],
+  "cronologia": [
+   {
+    "a": "1723",
+    "t": "Nace Paul-Henri Thiry, futuro barón d'Holbach, en Edesheim (Palatinado, actual Alemania). Se criará y hará rico en Francia."
+   },
+   {
+    "a": "hacia 1750",
+    "t": "Instalado en París y dueño de una gran fortuna, Holbach abre su casa a los filósofos. Empiezan las cenas de los jueves y los domingos."
+   },
+   {
+    "a": "1751",
+    "t": "Sale el primer tomo de la Enciclopedia, dirigida por Diderot y D'Alembert. Holbach colabora con artículos de ciencia."
+   },
+   {
+    "a": "1759",
+    "t": "El poder revoca el privilegio de la Enciclopedia y la obra queda prohibida; Diderot la continúa en parte en secreto."
+   },
+   {
+    "a": "hacia 1761-1766",
+    "t": "Circula clandestinamente El cristianismo desvelado, primer gran ataque de Holbach contra la religión."
+   },
+   {
+    "a": "1765",
+    "t": "David Hume, de paso por París, cena en casa de Holbach: de ahí la célebre anécdota sobre los ateos a la mesa. Ese año salen, con pie de imprenta falso, los diez tomos de texto que faltaban de la Enciclopedia."
+   },
+   {
+    "a": "1770",
+    "t": "Se publica el Sistema de la naturaleza con el nombre de «Mirabaud». El Parlamento de París lo condena y lo manda quemar; Voltaire lo refuta para defender su deísmo."
+   },
+   {
+    "a": "1771",
+    "t": "Muere Helvétius, uno de los habituales de la tertulia."
+   },
+   {
+    "a": "1772",
+    "t": "Se completan los tomos de láminas de la Enciclopedia."
+   },
+   {
+    "a": "1784",
+    "t": "Muere Diderot, el amigo más cercano de Holbach y el alma del grupo (D'Alembert había muerto en 1783)."
+   },
+   {
+    "a": "21 de enero de 1789",
+    "t": "Muere el barón d'Holbach en París, pocos meses antes de la Revolución."
+   },
+   {
+    "a": "14 de julio de 1789",
+    "t": "Comienza la Revolución francesa. Ninguno de los principales miembros de la tertulia llegó a verla."
+   }
+  ],
+  "etapas": [
+   {
+    "nom": "La mesa se llena",
+    "a": "hacia 1750 – 1759",
+    "q": "Holbach, Diderot, Grimm, Rousseau (al principio) y D'Alembert",
+    "d": "Nace la tertulia alrededor de las cenas de Holbach, en pleno arranque de la Enciclopedia. Rousseau frecuenta el grupo, pero las discrepancias crecen y acabará rompiendo con lo que llamó despectivamente la «coterie holbachique»."
+   },
+   {
+    "nom": "Los años de la Enciclopedia",
+    "a": "1751 – 1772",
+    "q": "Diderot, D'Alembert, Holbach, Helvétius, Marmontel, Morellet y Raynal",
+    "d": "Muchos de los contertulios escriben en la Enciclopedia pese a la prohibición. La casa se convierte también en punto de encuentro de los viajeros extranjeros ilustrados que pasan por París."
+   },
+   {
+    "nom": "Los libros clandestinos",
+    "a": "hacia 1761 – 1776",
+    "q": "Holbach y su secretario Naigeon",
+    "d": "Holbach publica sus obras más audaces —culminan en el Sistema de la naturaleza (1770)— con nombres falsos y editadas fuera de Francia. Es el momento más combativo del materialismo y el ateísmo del grupo."
+   },
+   {
+    "nom": "El final y el debate posterior",
+    "a": "desde 1771",
+    "q": "Los últimos supervivientes y, después, los historiadores",
+    "d": "La tertulia se apaga al morir sus miembros, todos antes de 1789. Desde entonces se discute qué relación tuvieron estas ideas con la Revolución: el historiador Jonathan Israel sitúa a esta «Ilustración radical» en el origen de los valores democráticos de 1789, mientras que otros estudiosos matizan esa tesis y recuerdan que la mayoría de estos filósofos no eran ni revolucionarios ni demócratas."
+   }
+  ]
+ },
+ {
   "id": "escuela-francfort",
   "cas_ilu": [
    "horkheimer",

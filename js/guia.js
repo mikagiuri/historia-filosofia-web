@@ -1,6 +1,6 @@
 /* ===== Guía «Cómo usar la web» (13-10-2026) =====
    Contenido de la sección #guia (la pinta guiaview.js): la versión web del tutorial en PDF para el alumnado
-   (lab_iesmdb\tutorial_web_alumnado). Una sola lista de bloques para las dos materias de Bachillerato; los
+   (lab_iesmdb\proyectos\tutorial_web_alumnado). Una sola lista de bloques para las dos materias de Bachillerato; los
    que solo valen para una llevan `solo: "hf"` o `solo: "fil"`. Las capturas están en media/guia/<materia>/
    (las rehace scratchpad/cap/capturas_web.js; si cambia el menú, hay que rehacerlas).
    Tipos de bloque (campo `type`, que no se traduce): h (apartado), p (párrafo), img (captura: src, cap y w = "menu" | "movil"), list (filas con

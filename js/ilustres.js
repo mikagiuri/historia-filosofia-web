@@ -2969,6 +2969,32 @@ const ILUSTRES = {
    "hf-sospecha"
   ]
  },
+ "jefferson": {
+  "name": "Thomas Jefferson",
+  "dates": "1743 – 1826",
+  "born": 1743,
+  "died": 1826,
+  "place": "Shadwell, Virginia (colonias británicas de América)",
+  "role": "político ilustrado estadounidense, autor de la Declaración de Independencia",
+  "idea": "Todos los seres humanos tienen derechos naturales, como la vida, la libertad y la búsqueda de la felicidad; los gobiernos existen para protegerlos, obtienen su poder del consentimiento de los gobernados y deben separarse de la religión.",
+  "bio": "<p>Thomas Jefferson nació en Virginia, en una familia de hacendados, y estudió derecho en el College of William &amp; Mary. Fue el principal redactor de la <strong>Declaración de Independencia</strong> de Estados Unidos (1776), embajador en Francia en vísperas de la Revolución, secretario de Estado con Washington y tercer presidente del país (1801-1809). En su vejez fundó la Universidad de Virginia. Murió en su casa de Monticello el 4 de julio de 1826, cincuenta años exactos después de la Declaración.</p>\n<p>La Declaración recoge la teoría de los derechos naturales y del contrato social de <strong>Locke</strong>: todos los hombres son creados iguales, con derechos inalienables a «la vida, la libertad y la búsqueda de la felicidad», y si un gobierno los viola, el pueblo puede cambiarlo. Jefferson defendió también la <strong>libertad religiosa</strong> y un «muro de separación» entre la Iglesia y el Estado. Su gran contradicción: proclamó la igualdad y a la vez fue propietario de cientos de personas esclavizadas durante toda su vida.</p>",
+  "obras": [
+   "Declaración de Independencia (1776)",
+   "Notas sobre el estado de Virginia (1785)",
+   "Estatuto de Virginia para la libertad religiosa (1786)",
+   "La vida y la moral de Jesús de Nazaret (1820)"
+  ],
+  "anecdota": "<p>Jefferson preparó su propia versión de los Evangelios: con una cuchilla recortó de varios ejemplares de la Biblia los versículos que contenían enseñanzas morales de Jesús y los pegó en orden, dejando fuera los milagros y lo sobrenatural. A John Adams le escribió que separar lo auténtico era tan fácil como distinguir diamantes en un estercolero. El volumen, conocido como la «Biblia de Jefferson», se conserva en el Instituto Smithsonian.</p>",
+  "fuente": "Carta de Jefferson a John Adams (12-10-1813); ejemplar original en el Instituto Smithsonian (Washington)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "hf"
+  ],
+  "temas": [
+   "hf-metafisica"
+  ]
+ },
  "jacobi": {
   "name": "Friedrich Heinrich Jacobi",
   "dates": "1743 – 1819",
@@ -3349,6 +3375,28 @@ const ILUSTRES = {
   "temas": [
    "hf-kant-poetas"
   ]
+ },
+ "malthus": {
+  "name": "Thomas Robert Malthus",
+  "dates": "1766 – 1834",
+  "born": 1766,
+  "died": 1834,
+  "place": "Surrey (Inglaterra)",
+  "role": "clérigo y economista inglés",
+  "idea": "Si nada la frena, la población crece mucho más deprisa que los alimentos; por eso el hambre, la enfermedad y la miseria actúan como freno, salvo que las personas limiten los nacimientos.",
+  "bio": "<p>Thomas Robert Malthus nació en Surrey, en una familia acomodada; su padre era amigo de Rousseau. Estudió en la Universidad de Cambridge y se ordenó clérigo de la Iglesia anglicana. Desde 1805 enseñó historia y economía política en el colegio de la Compañía de las Indias Orientales, y fue el primer profesor de economía política de Inglaterra. Discutió durante años con su amigo el economista David Ricardo. Murió en Bath en 1834.</p>\n<p>En el <em>Ensayo sobre el principio de la población</em> (1798), escrito contra el optimismo de <strong>Godwin</strong> y <strong>Condorcet</strong>, sostiene que la población tiende a crecer en progresión geométrica (1, 2, 4, 8…) y los alimentos solo en progresión aritmética (1, 2, 3, 4…). Por eso el progreso indefinido es imposible: el hambre, la enfermedad y la guerra frenan la población, y lo único que puede evitarlos es la «restricción moral» (casarse tarde y no tener más hijos de los que se pueden mantener). Sus ideas influyeron en las leyes contra la ayuda a los pobres y, años después, en Darwin.</p>",
+  "obras": [
+   "Ensayo sobre el principio de la población (1798; edición ampliada, 1803)",
+   "Principios de economía política (1820)"
+  ],
+  "anecdota": "<p>En octubre de 1838, Charles Darwin leyó «por entretenerse» el <em>Ensayo sobre el principio de la población</em>. Allí encontró la idea que le faltaba: si nacen muchos más seres de los que pueden sobrevivir, en la lucha por la existencia se conservarán las variaciones favorables y desaparecerán las desfavorables. Así, contaba Darwin, tuvo por fin una teoría con la que trabajar: la selección natural.</p>",
+  "fuente": "Charles Darwin, Autobiografía (1887)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "hf"
+  ],
+  "temas": []
  },
  "schleiermacher": {
   "name": "Friedrich Schleiermacher",
