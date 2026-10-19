@@ -41,6 +41,19 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "t": "Akrasía (incontinencia, debilidad de la voluntad)",
+  "et": "Del griego ἀκρασία (*akrasía*), «falta de dominio»: de ἀ- privativa y κράτος (*krátos*), «fuerza, poder».",
+  "area": "Ética",
+  "bloque": "A",
+  "unidad": "A8",
+  "tema": "La ética clásica",
+  "def": "Estado de quien sabe lo que debe hacer, pero cede al deseo y obra contra su propio juicio; después se arrepiente. Para Aristóteles muestra, frente al intelectualismo socrático, que saber el bien no basta para hacerlo.",
+  "ilustre": [
+   "aristoteles"
+  ]
+ },
+ {
+  "subject": "hf",
   "t": "Alejandría",
   "area": "Historia",
   "bloque": "A",
@@ -1796,6 +1809,19 @@ const GLOSARIO = [
   "def": "Para Platón, la justicia no es solo la ley externa. Es la armonía que surge cuando cada parte del alma y de la ciudad cumple debidamente su función. La logra quien equilibra las otras tres virtudes (sabiduría, valentía y templanza): por eso es la virtud que ordena a todas las demás.",
   "ilustre": [
    "platon"
+  ]
+ },
+ {
+  "subject": "hf",
+  "t": "Kakía (vicio)",
+  "et": "Del griego κακία (*kakía*), «maldad», de κακός (*kakós*), «malo».",
+  "area": "Ética",
+  "bloque": "A",
+  "unidad": "A8",
+  "tema": "La ética clásica",
+  "def": "Hábito malo del carácter: el vicioso obra mal por elección, convencido de que eso es lo bueno, y por eso no se arrepiente. Aristóteles lo opone a la virtud y lo distingue de la incontinencia (akrasía), que sí se arrepiente.",
+  "ilustre": [
+   "aristoteles"
   ]
  },
  {
