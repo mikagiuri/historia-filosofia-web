@@ -47,6 +47,20 @@ const GUIA = {
     { type: "img", src: "06_para_seguir.webp", cap: "La caja del final del tema, con «Ampliar» desplegado: cada botón te lleva a un material de ese mismo tema." },
     { type: "tip", x: "Lee el tema y, justo al terminar, entra en sus tarjetas y en su cuestionario desde esta caja. Repasar en el momento fija mucho mejor lo que acabas de leer." },
 
+    { type: "h", x: "Los puntos de importancia (●●●●●)", solo: "hf" },
+    { type: "p", solo: "hf", x: "En esta web, los pensadores, los temas y los términos del glosario llevan de uno a cinco <strong>puntos de importancia</strong> ●●●●○: cuantos más puntos, más pesa en la materia y en la PAU. Cada nivel tiene su nombre:" },
+    { type: "list", solo: "hf", rows: [
+      { nombre: "●●●●● Imprescindible", texto: "Lectura o autor de la PAU, o algo sin lo que no se entienden." },
+      { nombre: "●●●●○ Esencial", texto: "Lo que el currículo marca como imprescindible (con asterisco) o lo que ya ha caído en la PAU." },
+      { nombre: "●●●○○ Importante", texto: "Lo que nombra el currículo, o lo que hace falta para entender lo anterior." },
+      { nombre: "●●○○○ Complemento", texto: "Útil como contexto o para argumentar en la disertación." },
+      { nombre: "●○○○○ Ampliación", texto: "Curiosidad o ampliación: para saber más." }
+    ] },
+    { type: "p", solo: "hf", x: "Criterio: primero el currículo vasco (Decreto 76/2023), después la PAU de la UPV/EHU. Es decir, lo que la ley pide estudiar en esta materia y lo que se pregunta en el examen." },
+    { type: "p", solo: "hf", x: "Los puntos aparecen en <strong>Biografías</strong> (junto a las fechas de cada pensador; en su ficha, con el nombre del nivel y una línea <strong>Por qué</strong> que explica el motivo), en la <strong>lista de temas</strong> de la página de la materia y en el <strong>Glosario</strong>. En Biografías y en el Glosario, el botón <strong>Solo imprescindibles y esenciales</strong> deja solo los de cinco y cuatro puntos, y <strong>Qué significan los puntos</strong> despliega esta misma explicación." },
+    { type: "img", solo: "hf", src: "11_imprescindibles.webp", cap: "Una ficha de Biografías: los puntos, el nombre del nivel y el «Por qué»." },
+    { type: "tip", solo: "hf", x: "Si tienes poco tiempo, empieza por lo que tiene cinco y cuatro puntos; lo demás te ayuda a entenderlo mejor y a argumentar en la disertación." },
+
     { type: "h", x: "Estudiar" },
     { type: "img", src: "02_menu_estudiar.webp", cap: "El menú «Estudiar».", w: "menu" },
     { type: "list", rows: [
