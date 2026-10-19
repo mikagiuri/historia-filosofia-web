@@ -117,8 +117,7 @@ const GUIA = {
       { nombre: "Eudaimonía", texto: "Encarna a un pensador griego y afronta dilemas morales: tus decisiones deciden si alcanzas la buena vida.", view: "eudaimonia", solo: "hf" },
       { nombre: "República", texto: "Reparte la población en las tres clases de Platón y mantén la ciudad en armonía.", view: "republica", solo: "hf" },
       { nombre: "Rayuela filosófica", texto: "Un viaje por una red de ideas: tus respuestas deciden el camino y al final descubres con qué filósofos coincides.", view: "rayuela" },
-      { nombre: "Taller de Leibniz", texto: "De una máquina de multiplicar del siglo XVII a los ceros y unos de tu móvil.", view: "leibniz" },
-      { nombre: "El universo aristotélico", texto: "Física, química, biología y filosofía según Aristóteles, y lo que hizo con ellas la ciencia moderna.", view: "universo" }
+      { nombre: "Talleres", texto: "Tres talleres que unen la filosofía con otras materias, con sus botones arriba: el Taller de Leibniz (matemáticas e informática), El universo aristotélico (física, química y biología) y El arte de la palabra (literatura, retórica y lenguas clásicas).", view: "leibniz" }
     ] },
 
     { type: "h", x: "El buscador" },
