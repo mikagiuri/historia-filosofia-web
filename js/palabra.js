@@ -2,7 +2,7 @@
 /* ===== El arte de la palabra: poética, retórica y tópicos (19-10, Bachillerato) =====
    Unidad transversal de literatura, humanidades y filología clásica, con el patrón del Universo aristotélico:
    la prosa aquí (PALABRA) y las piezas en palabraview.js. Plan: lab_iesmdb\encargos\plan_arte_de_la_palabra_2026-10-19.md.
-   Imágenes y créditos en recursos\imagenes_museosrte_palabra\ (manifest.json) y web/media/galeria_museo/palabra/.
+   Imágenes y créditos en recursos\imagenes_museos\arte_palabra\ (manifest.json) y web/media/galeria_museo/palabra/.
    Citas comprobadas en el griego de Perseus (canonical-greekLit, numeración Bekker), en traducción propia:
    Retórica I 1, 1354a1; I 2, 1356a1-4; I 3, 1358b6-8; II 23, 1397b12-13; III 13, 1414a30-32. Poética 4, 1448b5-8; 5, 1449b12-13;
    6, 1449b24-28; 9, 1451b5-7; 11, 1452a22-32; 13, 1453a7-10; 21, 1457b6-7; 24, 1460a26-27. Latín (The Latin Library): Quintiliano
@@ -156,6 +156,14 @@ const PALABRA = {
       { id: "m5", t: "«Las redes sociales son un escaparate».", r: [1], e: "Metáfora: hace ver algo (la exhibición, el querer vender una imagen) que una definición tardaría en explicar." }
     ],
     figurasNom: ["Metáfora", "Comparación"],
+    metanoiaTit: "Corregirse en voz alta: la metanoia",   /* (19-10) visto bueno del profesor */
+    metanoia: [
+      "Hay una figura que consiste en <strong>rectificar lo que uno acaba de decir</strong> para decir algo más fuerte o más exacto: «Es un buen libro; mejor dicho, es un libro extraordinario». Los retóricos latinos la llamaron <em>correctio</em>; los griegos, ἐπανόρθωσις (<em>epanórthōsis</em>), «enderezamiento», y los manuales posteriores, también <strong>metanoia</strong>, «cambio de mente».",
+      "Funciona porque el oyente asiste al cambio: la primera palabra se queda corta delante de él y la segunda pesa más por contraste. La <em>Retórica a Herenio</em>, el manual latino de retórica más antiguo que se conserva, explica que así se conmueve el ánimo de quien escucha. La usan los oradores, la publicidad («no es un coche: es una forma de vida») y cualquiera que discute en clase.",
+      "La palabra tiene otra vida en filosofía. μετάνοια (<em>metánoia</em>) es también un cambio de mente en serio: arrepentirse, darse la vuelta. Platón llama «giro» (περιαγωγή, <em>periagōgḗ</em>) a la educación, que no mete la vista en el alma, sino que la vuelve entera hacia lo que es (<em>República</em> VII, 518c-d). Los Evangelios piden «convertíos» (μετανοεῖτε, Marcos 1, 15). Y el poeta latino Ausonio retrata a Metanoea como la compañera de la Ocasión que se escapa: «Soy la diosa que pide cuentas de lo hecho y de lo no hecho, para que uno se arrepienta: por eso me llamo Metanoea». Está en el glosario de HF, en «Metanoia»."
+    ],
+    cita3: "La corrección quita lo que se ha dicho y pone en su lugar lo que parece más adecuado.",
+    cita3Pie: "<em>Retórica a Herenio</em> IV 26, 36 (traducción propia)",
     cuidado: "Caso trampa: no toda metáfora es literaria. Decimos «el pie de la montaña» o «la cabeza de la manifestación» sin darnos cuenta: son metáforas gastadas. Y algunas metáforas no solo adornan: también piensan por nosotros. Llamar «invasión» a una llegada de personas ya es un argumento escondido."
   },
 

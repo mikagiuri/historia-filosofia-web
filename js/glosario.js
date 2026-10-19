@@ -2687,6 +2687,22 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "imp": 2,
+  "impg": 13,
+  "t": "Metanoia",
+  "et": "Del griego μετάνοια (*metánoia*): μετά (*metá*), «cambio, después», + νοῦς (*noûs*), «mente»: «cambio de mente», y también «arrepentimiento». Platón dice περιαγωγή (*periagōgḗ*), «hacer dar la vuelta» (*República* VII, 518d).",
+  "area": "Antropología",
+  "bloque": "A",
+  "unidad": "AP",
+  "tema": "Platón",
+  "def": "Cambio profundo de la manera de pensar y de vivir, no de una opinión suelta. En Platón es el «giro» de toda el alma: la educación no mete la vista en el alma, que ya la tiene, sino que la vuelve entera desde lo que cambia hacia lo que es, como el prisionero que sale de la caverna (*República* VII, 518c-d). El cristianismo la hace arrepentimiento y conversión («convertíos», μετανοεῖτε, Marcos 1, 15), y Agustín la cuenta en las *Confesiones*. En retórica, «metanoia» es también la figura que corrige en voz alta lo que se acaba de decir («es bueno; mejor dicho, excelente»).",
+  "ilustre": [
+   "platon",
+   "agustin"
+  ]
+ },
+ {
+  "subject": "hf",
   "imp": 4,
   "impg": 11,
   "t": "Metarrelato",
