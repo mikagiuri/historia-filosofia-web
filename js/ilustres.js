@@ -2792,7 +2792,7 @@ const ILUSTRES = {
    "Ética demostrada según el orden geométrico (1677)",
    "Tratado de la reforma del entendimiento (1677)"
   ],
-  "anecdota": "<p>En agosto de 1672, una multitud enfurecida asesinó en La Haya a los hermanos De Witt, líderes de la república holandesa a quienes Spinoza admiraba. Indignado, el filósofo, siempre tan sereno, quiso salir a colgar junto al lugar un cartel con las palabras latinas <em>ultimi barbarorum</em>, «los peores de los bárbaros». Su casero, temiendo que lo mataran también a él, cerró la puerta con llave y no le dejó salir. Spinoza se lo contó años después a Leibniz, que lo anotó.</p>",
+  "anecdota": "<p>En agosto de 1672, una multitud enfurecida asesinó en La Haya a los hermanos De Witt, líderes de la república holandesa a quienes Spinoza admiraba. Indignado, el filósofo, siempre tan sereno, quiso salir esa noche a colgar junto al lugar un cartel con las palabras latinas <em>ultimi barbarorum</em>, «los últimos de los bárbaros», es decir, lo más bajo de la barbarie. Su casero, temiendo que la multitud lo despedazara también a él, cerró la casa con llave y no le dejó salir. Spinoza se lo contó cuatro años después a Leibniz, que lo anotó.</p>",
   "fuente": "Leibniz, notas de su conversación con Spinoza (1676)",
   "tradicion": false,
   "vida": [

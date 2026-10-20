@@ -60,6 +60,33 @@ const DILEMAS = [
     "elige": "B",
     "porque": "Hereda la respuesta de su maestro, pero en la República concluye que el problema de fondo es otro: mientras gobiernen los que no saben, las leyes serán injustas; la solución no es huir sino que gobiernen los filósofos.",
     "ilustre": "platon"
+   },
+   {
+    "quien": "Spinoza",
+    "elige": "B",
+    "porque": "Con matices. El hombre libre nunca obra con engaño, ni siquiera para librarse de un peligro de muerte (Ética, IV, 72, escolio), y huir burlando las leyes de la propia ciudad se le parecería. Pero retirarse a tiempo exige tanta firmeza como luchar (IV, 69, corolario), y él, expulsado de su comunidad como Sócrates, se apartó con cautela para seguir pensando: ni mártir ni fugitivo.",
+    "ilustre": "spinoza"
+   },
+   {
+    "quien": "Kant",
+    "elige": "B",
+    "porque": "Obedece en tus actos y razona en público: el oficial cumple la orden y después puede criticarla por escrito (¿Qué es la Ilustración?, 1784). En la Metafísica de las costumbres (1797) niega todo derecho de rebelión; si eso excluye también negarse a cumplir una orden inmoral es un debate abierto entre sus intérpretes.",
+    "ilustre": "kant"
+   }
+  ],
+  "otra": "La de Spinoza, condenado como Sócrates por su propia comunidad: ni huir burlando la ley ni quedarse a morir, sino apartarse a tiempo, callar lo imprescindible (su lema era «Caute», con cautela) y seguir pensando.",
+  "enlaces": [
+   {
+    "t": "Perseguidos por sus ideas: Sócrates",
+    "href": "#perseguidos/socrates"
+   },
+   {
+    "t": "Perseguidos por sus ideas: Spinoza",
+    "href": "#perseguidos/spinoza"
+   },
+   {
+    "t": "Exploración - ¿Huir o quedarse?",
+    "href": "#teoria/hf-spinoza-huir"
    }
   ],
   "debate": {
