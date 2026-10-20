@@ -13,6 +13,11 @@ const PISTAS = [
     "fase": "Fase 1 · Recuperación",
     "etiqueta": "Pregunta inicial",
     "pregunta": "¿Qué representan los prisioneros, las sombras y el exterior de la caverna?",
+    "repaso": [
+     "¿He dicho que es una alegoría sobre el conocimiento, no un relato real?",
+     "¿He explicado que las sombras son la opinión (<em>doxa</em>) sobre lo sensible?",
+     "¿He dicho que el exterior y el sol son las Ideas y el Bien, que solo alcanza la razón (<em>episteme</em>)?"
+    ],
     "intro": [
      "Recuerda la escena: unos prisioneros encadenados desde niños miran la pared del fondo de una cueva. Intenta explicar qué quiere decir Platón antes de pedir ayuda."
     ],
@@ -32,12 +37,14 @@ const PISTAS = [
       [
        "El mundo de las Ideas.",
        false,
-       "No: el mundo de las Ideas está fuera, iluminado por el sol."
+       "No: el mundo de las Ideas está fuera, iluminado por el sol.",
+       "g-mundo-sensible"
       ],
       [
        "Una cárcel real de la Atenas de su tiempo.",
        false,
-       "No es un relato histórico: es una alegoría sobre el conocimiento."
+       "No es un relato histórico: es una alegoría sobre el conocimiento.",
+       "g-el-mito-de-la-caverna"
       ],
       [
        "El subconsciente de cada persona.",
@@ -141,6 +148,11 @@ const PISTAS = [
     "fase": "Fase 2 · Profundización",
     "etiqueta": "Nueva pregunta",
     "pregunta": "¿Por qué el prisionero liberado debe volver a la caverna?",
+    "repaso": [
+     "¿He dicho que quien ha visto el Bien tiene el deber de volver a por los demás?",
+     "¿He relacionado el regreso con el gobierno de los filósofos en la <em>República</em>?",
+     "¿He mencionado que los prisioneros lo rechazan, como Atenas condenó a Sócrates?"
+    ],
     "intro": [
      "El relato no termina fuera: el que ha visto el sol regresa a buscar a los demás. Piensa qué tiene que ver eso con la política de Platón."
     ],
@@ -170,7 +182,8 @@ const PISTAS = [
       [
        "Que fuera no había nada que ver.",
        false,
-       "Fuera está lo más real: las Ideas y el sol (el Bien)."
+       "Fuera está lo más real: las Ideas y el sol (el Bien).",
+       "g-el-bien"
       ]
      ],
      "ok": "Exacto. La alegoría une teoría del conocimiento y política.",
@@ -242,6 +255,11 @@ const PISTAS = [
     "fase": "Fase 1 · Recuperación",
     "etiqueta": "Pregunta inicial",
     "pregunta": "¿Qué es la duda metódica y para qué la usa Descartes?",
+    "repaso": [
+     "¿He dicho que es un método para llegar a una verdad indudable, no para quedarse en la duda?",
+     "¿He nombrado los motivos para dudar: los sentidos, el sueño y el genio maligno?",
+     "¿He distinguido a Descartes del escéptico?"
+    ],
     "intro": [
      "Descartes decide dudar de todo lo que pueda ponerse en duda. Intenta explicar por qué alguien haría algo así antes de pedir ayuda."
     ],
@@ -261,7 +279,8 @@ const PISTAS = [
       [
        "Demostrar que no podemos saber nada.",
        false,
-       "Eso sería escepticismo. Descartes duda precisamente para salir de la duda."
+       "Eso sería escepticismo. Descartes duda precisamente para salir de la duda.",
+       "g-duda-metodica"
       ],
       [
        "Burlarse de los filósofos anteriores.",
@@ -369,6 +388,11 @@ const PISTAS = [
     "fase": "Fase 2 · Profundización",
     "etiqueta": "Nueva pregunta",
     "pregunta": "¿Qué certeza resiste a la duda más radical?",
+    "repaso": [
+     "¿He dicho que la certeza es «pienso, luego existo» (<em>cogito</em>)?",
+     "¿He justificado por qué resiste: para dudar, e incluso para ser engañado, tengo que pensar, y para pensar, existir?",
+     "¿He dicho que es el primer principio sobre el que Descartes reconstruye el conocimiento?"
+    ],
     "intro": [
      "Supón que el genio maligno te engaña en todo. ¿Hay algo de lo que, aun así, no puedas dudar?"
     ],
@@ -388,7 +412,8 @@ const PISTAS = [
       [
        "Porque los sentidos me muestran que existo.",
        false,
-       "De los sentidos ya se ha dudado: el cogito no depende de ellos."
+       "De los sentidos ya se ha dudado: el cogito no depende de ellos.",
+       "g-cogito"
       ],
       [
        "Porque lo dice la tradición filosófica.",
@@ -398,7 +423,8 @@ const PISTAS = [
       [
        "Porque el genio maligno no puede engañar a nadie.",
        false,
-       "Puede engañarme en todo lo demás, pero no en que existo mientras pienso."
+       "Puede engañarme en todo lo demás, pero no en que existo mientras pienso.",
+       "g-el-genio-maligno"
       ]
      ],
      "ok": "Exacto. Cuanto más dudo, más seguro estoy de que pienso, y por tanto de que existo.",
@@ -471,6 +497,11 @@ const PISTAS = [
     "fase": "Fase 1 · Recuperación",
     "etiqueta": "Pregunta inicial",
     "pregunta": "¿Qué es el imperativo categórico?",
+    "repaso": [
+     "¿He dicho que es un mandato que obliga sin condiciones, sin un «si quieres…» detrás?",
+     "¿Lo he distinguido del imperativo hipotético?",
+     "¿He dicho que da valor moral a la acción: obrar por deber, no por interés?"
+    ],
     "intro": [
      "Intenta responder antes de abrir una pista. No necesitas una definición perfecta: basta con recuperar su rasgo esencial."
     ],
@@ -486,7 +517,8 @@ const PISTAS = [
       [
        "Es una regla que indica qué medio conviene usar para conseguir un fin.",
        false,
-       "Eso es un imperativo hipotético: la obligación depende del fin que persigues."
+       "Eso es un imperativo hipotético: la obligación depende del fin que persigues.",
+       "g-imperativo-hipotetico"
       ],
       [
        "Es un mandato que obliga incondicionalmente, sin depender de un fin deseado.",
@@ -598,6 +630,11 @@ const PISTAS = [
     "fase": "Fase 2 · Profundización",
     "etiqueta": "Nueva pregunta",
     "pregunta": "¿Cómo comprueba Kant si una máxima es moral?",
+    "repaso": [
+     "¿He dicho que lo que se examina es la máxima, la regla desde la que actúo?",
+     "¿He explicado la prueba: si puedo querer que esa máxima sea una ley para todos?",
+     "¿He dado un ejemplo de máxima que no la supera, como la de la promesa falsa?"
+    ],
     "intro": [
      "Empieza un nuevo ciclo. Ya no buscamos definir qué es el imperativo categórico, sino cómo se usa como prueba. Kant lo expresó de varias formas: ¿recuerdas alguna?"
     ],
@@ -627,7 +664,8 @@ const PISTAS = [
       [
        "La acción aislada, sin atender a su regla.",
        false,
-       "No: lo que se examina es la regla que guía la acción."
+       "No: lo que se examina es la regla que guía la acción.",
+       "g-imperativo-categorico"
       ]
      ],
      "ok": "Exacto. No se universaliza una acción aislada, sino la regla o máxima que la guía.",
@@ -671,7 +709,8 @@ const PISTAS = [
         [
          "La acción aislada, sin atender a su regla.",
          false,
-         "Relee la cita: ¿qué palabra va con «ley universal»?"
+         "Relee la cita: ¿qué palabra va con «ley universal»?",
+         "g-imperativo-categorico"
         ]
        ],
        "ok": "Exacto. Lo que se universaliza es la máxima.",
@@ -703,6 +742,11 @@ const PISTAS = [
     "fase": "Fase 1 · Recuperación",
     "etiqueta": "Pregunta inicial",
     "pregunta": "¿Qué significa tratar a la humanidad siempre como un fin y nunca solo como un medio?",
+    "repaso": [
+     "¿He dicho que lo prohibido es tratar a alguien <em>solo</em> como medio, no servirse de su ayuda?",
+     "¿He explicado que las personas tienen dignidad, no precio?",
+     "¿He justificado esa dignidad en que la persona es racional y se da a sí misma la ley moral?"
+    ],
     "intro": [
      "Intenta explicarlo con tus palabras antes de pedir ayuda. Piensa en un ejemplo de alguien a quien se «utiliza»."
     ],
@@ -722,7 +766,8 @@ const PISTAS = [
       [
        "Comprarle el pan a la panadera.",
        false,
-       "La usas como medio, pero no solo como medio: ella acepta libremente el intercambio."
+       "La usas como medio, pero no solo como medio: ella acepta libremente el intercambio.",
+       "g-dignidad"
       ],
       [
        "Pedir ayuda a un compañero con un ejercicio, explicándole para qué la necesitas.",
@@ -829,6 +874,11 @@ const PISTAS = [
     "fase": "Fase 2 · Relación",
     "etiqueta": "Nueva pregunta",
     "pregunta": "¿Por qué la promesa falsa falla en las dos fórmulas a la vez?",
+    "repaso": [
+     "¿He explicado por qué la máxima de la promesa falsa no se puede universalizar?",
+     "¿He dicho que, al mentirle, uso al otro solo como medio?",
+     "¿He concluido que las dos fórmulas expresan la misma ley moral?"
+    ],
     "intro": [
      "Ya conoces la fórmula de la ley universal y la de la humanidad. Ahora toca relacionarlas con un mismo caso: prometer en falso para conseguir dinero."
     ],
@@ -858,7 +908,8 @@ const PISTAS = [
       [
        "Solo la primera es categórica; la segunda es un imperativo hipotético.",
        false,
-       "La fórmula de la humanidad no dice «si quieres…»: obliga sin condiciones, como la primera."
+       "La fórmula de la humanidad no dice «si quieres…»: obliga sin condiciones, como la primera.",
+       "g-imperativo-hipotetico"
       ]
      ],
      "ok": "Exacto. La regla que no puede universalizarse es también la que usa a alguien solo como medio.",

@@ -11,7 +11,7 @@
      debatir        →  Dilemas · Polémicas · Duelo · Nudos   (dilemas / polemicas / duelo / nudos)
      epocas         →  Fichas · Cronogramas · Genealogías   (epocas / cronogramas / genealogias)
      ilustres       →  Todos · Perseguidos · Comunidades   (ilustres / perseguidos / comunidades)
-     talleres       →  Taller de Leibniz · El universo aristotélico · El arte de la palabra   (leibniz / universo / palabra; 19-10)
+     talleres       →  Taller de Leibniz · El universo aristotélico · El arte de la palabra · Los afectos de Spinoza   (leibniz / universo / palabra / afectos; 19-10, 20-10)
 
    Integración con el resto (sin tocar esos ficheros más que lo justo):
    - app.js (show) usa commuteEntry(id) para marcar en el menú la ENTRADA del grupo
@@ -27,7 +27,7 @@ const CONMUTADORES = [
   { entry: "dilemas",      modos: [["dilemas", "Dilemas"], ["polemicas", "Polémicas"], ["duelo", "Duelo"], ["nudos", "Nudos"]] },
   { entry: "epocas",       modos: [["epocas", "Fichas"], ["cronogramas", "Cronogramas"], ["genealogias", "Genealogías"]] },
   { entry: "ilustres",     modos: [["ilustres", "Todos"], ["perseguidos", "Perseguidos"], ["comunidades", "Comunidades"]] },
-  { entry: "leibniz",      modos: [["leibniz", "Taller de Leibniz"], ["universo", "El universo aristotélico"], ["palabra", "El arte de la palabra"]] }   // (19-10) «Talleres»: unidades transversales
+  { entry: "leibniz",      modos: [["leibniz", "Taller de Leibniz"], ["universo", "El universo aristotélico"], ["palabra", "El arte de la palabra"], ["afectos", "Los afectos de Spinoza"]] }   // (20-10) + afectos; (19-10) «Talleres»: unidades transversales
 ];
 
 /* índices vista → { entrada, rótulo, grupo } */

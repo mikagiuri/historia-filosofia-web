@@ -78,7 +78,7 @@ const GUIA = {
       { nombre: "Cuestionarios", texto: "Preguntas tipo test con corrección al instante y la explicación de cada respuesta. Se guarda tu mejor puntuación. Arriba, el botón Contrarreloj: preguntas contra el reloj, con puntos por velocidad y por racha.", view: "cuestionarios" },
       { nombre: "Pistas", texto: "Preguntas clave del temario para responder por tu cuenta, con pistas que se destapan de una en una, de la más vaga a la que casi te da la respuesta.", view: "pistas" },
       { nombre: "Rescritura", texto: "Aprende a explicar un texto con tus palabras: sin copiarlo, sin limitarte a cambiar palabras por sinónimos y sin contar otra cosa.", view: "rescritura" },
-      { nombre: "Rincón de lógica", texto: "Tablas de verdad, argumentos válidos, silogismos con diagramas de Venn, paradojas y ejercicios.", view: "logica" },
+      { nombre: "Rincón de lógica", texto: "Tablas de verdad, argumentos válidos, silogismos con diagramas de Venn, paradojas y ejercicios; y un laboratorio con árboles de verdad, un mundo de figuras, relaciones y demostraciones guiadas.", view: "logica" },
       { nombre: "Debatir", texto: "Cuatro maneras de entrenar la argumentación, con sus botones arriba: Dilemas (elige entre dos cosas que importan y da tu razón), Polémicas (filósofos de la misma época que se enfrentaron de verdad), Duelo (debate contra el ordenador) y Nudos (descubre dónde chocan tus propias opiniones).", view: "dilemas" }
     ] },
     { type: "img", src: "08_cuestionarios.webp", cap: "Cuestionarios: arriba, el botón Contrarreloj; debajo, filtra, elige el cuestionario en el desplegable y responde." },
@@ -118,7 +118,7 @@ const GUIA = {
       { nombre: "Eudaimonía", texto: "Encarna a un pensador griego y afronta dilemas morales: tus decisiones deciden si alcanzas la buena vida.", view: "eudaimonia", solo: "hf" },
       { nombre: "República", texto: "Reparte la población en las tres clases de Platón y mantén la ciudad en armonía.", view: "republica", solo: "hf" },
       { nombre: "Rayuela filosófica", texto: "Un viaje por una red de ideas: tus respuestas deciden el camino y al final descubres con qué filósofos coincides.", view: "rayuela" },
-      { nombre: "Talleres", texto: "Tres talleres que unen la filosofía con otras materias, con sus botones arriba: el Taller de Leibniz (matemáticas e informática), El universo aristotélico (física, química y biología) y El arte de la palabra (literatura, retórica y lenguas clásicas).", view: "leibniz" }
+      { nombre: "Talleres", texto: "Cuatro talleres que unen la filosofía con otras materias, con sus botones arriba: el Taller de Leibniz (matemáticas e informática), El universo aristotélico (física, química y biología), El arte de la palabra (literatura, retórica y lenguas clásicas) y Los afectos de Spinoza (psicología y un modelo que se simula paso a paso).", view: "leibniz" }
     ] },
 
     { type: "h", x: "El buscador" },
