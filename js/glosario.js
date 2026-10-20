@@ -66,6 +66,22 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "imp": 4,
+  "impg": 15,
+  "t": "Alegría y tristeza (Spinoza)",
+  "id": "g-alegria-y-tristeza",
+  "et": "*Alegría*, del latín *alacer*, «vivo, animoso»; *tristeza*, del latín *tristitia*, la palabra que usa Spinoza.",
+  "area": "Ética",
+  "bloque": "B",
+  "unidad": "BS",
+  "tema": "Spinoza",
+  "def": "Junto con el deseo, los afectos básicos: la alegría es el paso a una mayor perfección o potencia de obrar; la tristeza, el paso a una menor (*Ética* III, prop. 11, escolio). El amor es alegría acompañada de la idea de una causa externa, y el odio, tristeza acompañada de esa idea (prop. 13, escolio).",
+  "ilustre": [
+   "spinoza"
+  ]
+ },
+ {
+  "subject": "hf",
   "imp": 3,
   "impg": 12,
   "t": "Alejandría",
@@ -394,6 +410,22 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "imp": 4,
+  "impg": 15,
+  "t": "Beatitud (Spinoza)",
+  "id": "g-beatitud",
+  "et": "Del latín *beatitudo*, de *beatus*, «feliz, dichoso».",
+  "area": "Ética",
+  "bloque": "B",
+  "unidad": "BS",
+  "tema": "Spinoza",
+  "def": "La felicidad más alta, que nace de conocer a Dios o la Naturaleza y del amor intelectual que ese conocimiento produce. No es el premio de la virtud, sino la virtud misma (*Ética* V, prop. 42).",
+  "ilustre": [
+   "spinoza"
+  ]
+ },
+ {
+  "subject": "hf",
   "imp": 3,
   "impg": 12,
   "t": "Biopolítica",
@@ -537,6 +569,22 @@ const GLOSARIO = [
   "unidad": "C5A",
   "tema": "Las luchas después del marxismo",
   "def": "La dependencia política, económica y cultural de un país o pueblo. Para Fanon, el colonialismo hiere también la autoimagen del sujeto."
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
+  "impg": 15,
+  "t": "Conatus",
+  "id": "g-conatus",
+  "et": "Del latín *conatus*, «esfuerzo, empeño», de *conari*, «intentar».",
+  "area": "Antropología",
+  "bloque": "B",
+  "unidad": "BS",
+  "tema": "Spinoza",
+  "def": "El esfuerzo con el que cada cosa, en cuanto está en ella, se esfuerza por perseverar en su ser. Para Spinoza no es algo que la cosa tenga, sino su esencia misma (*Ética* III, prop. 6-7). En el ser humano, cuando es consciente de sí, se llama deseo.",
+  "ilustre": [
+   "spinoza"
+  ]
  },
  {
   "subject": "hf",
@@ -1946,6 +1994,22 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "imp": 4,
+  "impg": 15,
+  "t": "Idea adecuada",
+  "id": "g-idea-adecuada",
+  "et": "Del latín *adaequatus*, «igualado, ajustado».",
+  "area": "Epistemología",
+  "bloque": "B",
+  "unidad": "BS",
+  "tema": "Spinoza",
+  "def": "La idea que tiene en sí todas las propiedades de una idea verdadera, porque comprende su objeto por sus causas (*Ética* II, def. 4). Es la clave de la libertad: un afecto que es pasión deja de serlo en cuanto formamos de él una idea clara y distinta (V, prop. 3).",
+  "ilustre": [
+   "spinoza"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
   "impg": 10,
   "t": "Idea regulativa",
   "id": "g-idea-regulativa",
@@ -3121,6 +3185,22 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "imp": 4,
+  "impg": 15,
+  "t": "Natura naturans y natura naturata",
+  "id": "g-natura-naturans",
+  "et": "Latín escolástico: participios activo y pasivo de *naturare*, «producir como hace la naturaleza»: la que produce y la producida.",
+  "area": "Metafísica",
+  "bloque": "B",
+  "unidad": "BS",
+  "tema": "Spinoza",
+  "def": "Dos maneras de mirar la única realidad. Como causa libre, la sustancia con sus atributos, que es en sí y se concibe por sí, es la *natura naturans*; como todo lo que se sigue necesariamente de ella, sus modos, es la *natura naturata* (*Ética* I, prop. 29, escolio).",
+  "ilustre": [
+   "spinoza"
+  ]
+ },
+ {
+  "subject": "hf",
   "imp": 3,
   "impg": 12,
   "t": "Necesidades falsas",
@@ -3284,6 +3364,22 @@ const GLOSARIO = [
   "def": "Educación en sentido amplio: formación del carácter y de la mente. En Platón, tarea principal de la ciudad, que selecciona a los gobernantes tras un largo recorrido de estudios y pruebas.",
   "ilustre": [
    "platon"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
+  "impg": 15,
+  "t": "Servidumbre (Spinoza)",
+  "id": "g-servidumbre",
+  "et": "Del latín *servitudo*, de *servus*, «esclavo».",
+  "area": "Ética",
+  "bloque": "B",
+  "unidad": "BS",
+  "tema": "Spinoza",
+  "def": "La impotencia humana para moderar y reprimir los afectos: quien está sometido a ellos no es dueño de sí, sino que depende de la fortuna (*Ética* IV, prefacio). No se vence a fuerza de voluntad, porque un afecto solo se reprime con otro contrario y más fuerte (IV, prop. 7).",
+  "ilustre": [
+   "spinoza"
   ]
  },
  {

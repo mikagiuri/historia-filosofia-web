@@ -485,6 +485,740 @@ const PISTAS = [
   }
  },
  {
+  "id": "spinoza-naturaleza",
+  "subject": "hf",
+  "tema": "Tema 15 · Spinoza",
+  "unidad": "hf-metafisica",
+  "materia": "Filosofía · Spinoza",
+  "titulo": "¿Qué quiere decir «Dios o la Naturaleza»?",
+  "lede": "Sustancia, Dios, Naturaleza, modos… Parecen muchas piezas, pero Spinoza habla de una sola realidad. Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Cuántas sustancias hay para Spinoza, y qué son entonces las cosas concretas?",
+    "repaso": [
+     "¿He dicho que hay una sola sustancia, Dios o la Naturaleza (<em>Deus sive Natura</em>)?",
+     "¿He explicado que las cosas concretas son modos de esa sustancia, no sustancias aparte?",
+     "¿He distinguido la <em>natura naturans</em> (la que produce) de la <em>natura naturata</em> (lo producido)?"
+    ],
+    "intro": [
+     "Descartes contaba tres sustancias: Dios, el pensamiento y la extensión. Spinoza, que lo leyó con cuidado, llega a otra cuenta. Intenta decir cuál antes de pedir ayuda."
+    ],
+    "pistas": [
+     "Para aterrizar: una <strong>sustancia</strong> es lo que existe en sí y se concibe por sí, sin necesitar otra cosa.",
+     "Si la sustancia no depende de nada, solo puede haber <strong>una</strong>: dos sustancias se limitarían la una a la otra.",
+     "Esa única sustancia es a la vez Dios y la Naturaleza: <em>Deus sive Natura</em>. No es un Dios fuera del mundo, sino el mundo entendido como causa de sí.",
+     "Las montañas, los cuerpos, las ideas, tú mismo: no sois sustancias, sino <strong>modos</strong>, maneras concretas de ser de la sustancia única."
+    ],
+    "comprobacion": {
+     "pregunta": "Para Spinoza, ¿qué es un ser humano concreto?",
+     "opciones": [
+      [
+       "Un modo de la única sustancia, Dios o la Naturaleza.",
+       true
+      ],
+      [
+       "Una sustancia independiente, creada por Dios.",
+       false,
+       "Eso se parece más a Descartes. Para Spinoza solo hay una sustancia, y lo demás son modos suyos.",
+       "g-modo"
+      ],
+      [
+       "Una ilusión: solo existe Dios, y el mundo no es real.",
+       false,
+       "No: los modos son reales. Lo que no tienen es existencia por sí mismos.",
+       "g-deus-sive-natura"
+      ],
+      [
+       "Un alma inmortal encerrada en un cuerpo.",
+       false,
+       "Eso es dualismo, como el de Platón o Descartes. Spinoza lo rechaza: cuerpo y mente son lo mismo visto de dos maneras."
+      ]
+     ],
+     "ok": "Bien: una sola sustancia y muchos modos suyos.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito leer el texto",
+      "etiqueta": "Texto de apoyo",
+      "titulo": "Lo que dice la Ética",
+      "glosario": [
+       "g-deus-sive-natura",
+       "g-modo"
+      ],
+      "cita": {
+       "texto": "«Fuera de Dios no puede darse ni concebirse ninguna sustancia.» «Todo lo que es, es en Dios, y nada puede ser ni concebirse sin Dios.»",
+       "fuente": "Spinoza, <em>Ética</em> I, proposiciones 14 y 15 (traducción propia del latín)"
+      },
+      "comprobacion": {
+       "etiqueta": "Comprobación del texto",
+       "pregunta": "Según estas dos proposiciones, ¿dónde están las cosas?",
+       "opciones": [
+        [
+         "En Dios: nada existe ni se entiende fuera de él.",
+         true
+        ],
+        [
+         "Fuera de Dios, que las mira desde lejos.",
+         false,
+         "El texto dice lo contrario: «todo lo que es, es en Dios»."
+        ],
+        [
+         "En la mente de cada persona.",
+         false,
+         "No es una tesis sobre lo que pensamos, sino sobre lo que existe."
+        ],
+        [
+         "En el mundo de las Ideas.",
+         false,
+         "Eso sería Platón. Aquí no hay dos mundos: todo es en la única sustancia."
+        ]
+       ],
+       "ok": "Exacto: todo es en Dios, porque Dios es la Naturaleza entera.",
+       "mal": "Vuelve a leer las dos frases.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "La que produce y lo producido",
+      "glosario": [
+       "g-natura-naturans",
+       "g-sustancia-b5"
+      ],
+      "definicion": [
+       "Spinoza distingue dos maneras de mirar la misma realidad. Vista como causa libre, con sus atributos infinitos, es la <em>natura naturans</em>, «la naturaleza que produce».",
+       "Vista como todo lo que se sigue necesariamente de ella, los modos, es la <em>natura naturata</em>, «la naturaleza producida» (<em>Ética</em> I, prop. 29, escolio).",
+       "No son dos realidades, sino dos vistas de una sola: como el verbo y lo que el verbo hace."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "¿Qué son la <em>natura naturans</em> y la <em>natura naturata</em>?",
+       "opciones": [
+        [
+         "Dos maneras de mirar la misma realidad: como causa y como efecto.",
+         true
+        ],
+        [
+         "Dos sustancias distintas, una divina y otra material.",
+         false,
+         "Eso volvería a duplicar la sustancia, que es justo lo que Spinoza niega."
+        ],
+        [
+         "La naturaleza salvaje y la naturaleza cultivada por el ser humano.",
+         false,
+         "No: no es una distinción entre campo y ciudad, sino entre causa y efecto."
+        ],
+        [
+         "El alma y el cuerpo.",
+         false,
+         "Alma y cuerpo son modos; los dos pertenecen a la <em>natura naturata</em>."
+        ]
+       ],
+       "ok": "Correcto: una sola Naturaleza, vista como la que produce y como lo producido.",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "Si Dios es la Naturaleza, ¿tiene el mundo un plan o un fin pensado para nosotros?",
+    "repaso": [
+     "¿He dicho que la Naturaleza obra por necesidad, sin fines ni plan?",
+     "¿He explicado que la idea de que todo tiene un «para qué» es un prejuicio humano?",
+     "¿He dicho que conocer a Dios es comprender el orden de causas de la Naturaleza?"
+    ],
+    "intro": [
+     "Mucha gente piensa que la lluvia cae para regar los campos o que las cosas ocurren «por algo». Piensa qué tiene que decir de eso alguien para quien Dios y la Naturaleza son lo mismo."
+    ],
+    "pistas": [
+     "Recuerda: en Spinoza todo se sigue de la naturaleza de Dios con <strong>necesidad</strong>, como las propiedades de un triángulo se siguen de su definición.",
+     "Un triángulo no tiene sus ángulos «para» nada. Pregúntate si la Naturaleza, que es Dios, necesita fines.",
+     "En el apéndice de la parte I, Spinoza dice que los hombres suponen que las cosas naturales obran, como ellos, <strong>por un fin</strong>: es un prejuicio nacido de que ignoramos las causas.",
+     "Por eso conocer a Dios no es adivinar sus planes: es <strong>comprender el orden necesario</strong> de la Naturaleza. Ahí se separa de los estoicos, que creían en una providencia buena."
+    ],
+    "comprobacion": {
+     "pregunta": "Según Spinoza, ¿por qué creemos que la Naturaleza tiene fines?",
+     "opciones": [
+      [
+       "Porque ignoramos las causas y proyectamos en la Naturaleza nuestra manera de obrar.",
+       true
+      ],
+      [
+       "Porque Dios nos lo ha revelado.",
+       false,
+       "Spinoza no parte de la revelación, sino de la razón y del orden de las causas."
+      ],
+      [
+       "Porque la razón demuestra que todo tiene un plan.",
+       false,
+       "Al revés: la razón muestra que todo ocurre por necesidad, sin plan.",
+       "g-deus-sive-natura"
+      ],
+      [
+       "Porque es verdad: cada cosa existe para el ser humano.",
+       false,
+       "Eso es justo el prejuicio que critica el apéndice de la parte I."
+      ]
+     ],
+     "ok": "Exacto: el «para qué» es una proyección nuestra; la Naturaleza obra por necesidad.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "Necesidad sin fines",
+      "titulo": "El prejuicio del «para qué»",
+      "glosario": [
+       "g-deus-sive-natura",
+       "g-panteismo"
+      ],
+      "cita": {
+       "texto": "«Los hombres suponen comúnmente que todas las cosas naturales obran, como ellos, por un fin.»",
+       "fuente": "Spinoza, <em>Ética</em> I, apéndice (traducción propia del latín)"
+      },
+      "definicion": [
+       "Como ignoramos las causas, imaginamos que la lluvia, las plantas o los animales existen <strong>para</strong> nosotros, y que un Dios con voluntad lo ha dispuesto así.",
+       "Para Spinoza ese Dios con planes es una imagen humana. Dios o la Naturaleza no quiere nada ni premia ni castiga: todo se sigue de su esencia con necesidad.",
+       "Por eso, conocer a Dios es comprender el orden de causas de la Naturaleza. Frente a los estoicos, que hablaban de una providencia, en Spinoza no hay plan, pero comprenderlo produce alegría, no resignación."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿Qué significa, para Spinoza, conocer a Dios?",
+       "opciones": [
+        [
+         "Comprender el orden necesario de las causas de la Naturaleza.",
+         true
+        ],
+        [
+         "Saber qué quiere Dios de nosotros.",
+         false,
+         "Dios o la Naturaleza no quiere nada: obra por necesidad."
+        ],
+        [
+         "Aceptar lo que dicen los textos sagrados sin discutirlo.",
+         false,
+         "Spinoza defiende lo contrario: libertad para pensar y leer críticamente."
+        ],
+        [
+         "Nada: Dios no se puede conocer.",
+         false,
+         "Para Spinoza sí se puede: conocer la Naturaleza es conocer a Dios."
+        ]
+       ],
+       "ok": "Correcto: conocer a Dios es comprender la Naturaleza.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar el Dios de Spinoza",
+   "parrafos": [
+    "Hay una sola sustancia, Dios o la Naturaleza; las cosas concretas son sus modos. Vista como causa es <em>natura naturans</em>; vista como lo producido, <em>natura naturata</em>. Todo ocurre por necesidad, sin fines: el «para qué» es un prejuicio humano.",
+    "Para el tema 15: contrapón este monismo al dualismo de Descartes (tres sustancias, alma y cuerpo separados)."
+   ],
+   "siguiente": "spinoza-libertad"
+  }
+ },
+ {
+  "id": "spinoza-libertad",
+  "subject": "hf",
+  "tema": "Tema 15 · Spinoza",
+  "unidad": "hf-metafisica",
+  "materia": "Filosofía · Spinoza",
+  "titulo": "¿Cómo se pasa de la servidumbre a la libertad?",
+  "lede": "Si todo ocurre por necesidad, ¿qué libertad nos queda? Spinoza da una respuesta sorprendente. Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Cómo se pasa del esfuerzo por seguir viviendo a las emociones?",
+    "repaso": [
+     "¿He dicho que cada cosa se esfuerza por perseverar en su ser (el <em>conatus</em>) y que ese esfuerzo es su esencia?",
+     "¿He explicado que el deseo es ese esfuerzo cuando somos conscientes de él?",
+     "¿He definido la alegría y la tristeza como el paso a más o a menos potencia de obrar?"
+    ],
+    "intro": [
+     "Empieza por lo más básico: piensa en una planta que crece hacia la luz o en un animal que huye del peligro. ¿Qué tienen en común con lo que tú sientes?"
+    ],
+    "pistas": [
+     "Para aterrizar: todo ser tiende a <strong>seguir siendo</strong> lo que es. Spinoza llama a ese esfuerzo <em>conatus</em>.",
+     "El <em>conatus</em> no es algo que tengamos además de ser: es nuestra <strong>esencia</strong> misma. Cuando somos conscientes de él, se llama <strong>deseo</strong>.",
+     "Cuando algo hace crecer tu capacidad de obrar, lo vives como <strong>alegría</strong>; cuando la reduce, como <strong>tristeza</strong>.",
+     "Con esas tres piezas, deseo, alegría y tristeza, se construyen los demás afectos: el <strong>amor</strong> es alegría con la idea de una causa externa, y el <strong>odio</strong>, tristeza con esa idea."
+    ],
+    "comprobacion": {
+     "pregunta": "Para Spinoza, ¿qué es la alegría?",
+     "opciones": [
+      [
+       "El paso a una mayor potencia de obrar.",
+       true
+      ],
+      [
+       "Un premio que Dios da a los buenos.",
+       false,
+       "Dios o la Naturaleza no premia ni castiga: la alegría es un cambio en nuestra potencia.",
+       "g-deus-sive-natura"
+      ],
+      [
+       "Una debilidad que el sabio debe eliminar.",
+       false,
+       "Eso se parece a la <em>apátheia</em> estoica. Spinoza dice lo contrario: la alegría es directamente buena.",
+       "g-alegria-y-tristeza"
+      ],
+      [
+       "Lo que sentimos cuando conseguimos lo que la sociedad aprueba.",
+       false,
+       "No depende de la aprobación ajena: es un aumento de la propia potencia.",
+       "g-conatus"
+      ]
+     ],
+     "ok": "Bien: alegría y tristeza miden si nuestra potencia sube o baja.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito leer el texto",
+      "etiqueta": "Texto de apoyo",
+      "titulo": "El esfuerzo y los afectos",
+      "glosario": [
+       "g-conatus",
+       "g-alegria-y-tristeza"
+      ],
+      "cita": {
+       "texto": "«Cada cosa, en cuanto está en ella, se esfuerza por perseverar en su ser.» «El deseo es el apetito acompañado de la conciencia de él.» «Por alegría entenderé la pasión por la que el alma pasa a una perfección mayor; por tristeza, aquella por la que pasa a una menor.»",
+       "fuente": "Spinoza, <em>Ética</em> III, proposición 6 y escolios de las proposiciones 9 y 11 (traducción propia del latín)"
+      },
+      "comprobacion": {
+       "etiqueta": "Comprobación del texto",
+       "pregunta": "Según el texto, ¿qué diferencia hay entre el apetito y el deseo?",
+       "opciones": [
+        [
+         "El deseo es el mismo apetito, pero con conciencia de él.",
+         true
+        ],
+        [
+         "El apetito es del cuerpo y el deseo, del alma, y no tienen nada que ver.",
+         false,
+         "El texto los une: el deseo es el apetito más la conciencia."
+        ],
+        [
+         "El deseo es bueno y el apetito es malo.",
+         false,
+         "Spinoza no los juzga así: describe cómo funcionan."
+        ],
+        [
+         "No hay diferencia ninguna.",
+         false,
+         "Sí la hay, y es una sola palabra del texto: la conciencia."
+        ]
+       ],
+       "ok": "Exacto: el deseo es el esfuerzo de vivir hecho consciente.",
+       "mal": "Vuelve a leer la segunda frase.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "Del conatus al amor y al odio",
+      "glosario": [
+       "g-conatus",
+       "g-alegria-y-tristeza"
+      ],
+      "definicion": [
+       "<strong>Conatus</strong> → el esfuerzo de cada cosa por perseverar en su ser; es su esencia (<em>Ética</em> III, prop. 6-7).",
+       "<strong>Deseo</strong> → el <em>conatus</em> consciente de sí (III, prop. 9, escolio).",
+       "<strong>Alegría y tristeza</strong> → el paso a más o a menos potencia de obrar (III, prop. 11, escolio).",
+       "<strong>Amor y odio</strong> → alegría o tristeza acompañadas de la idea de una causa externa (III, prop. 13, escolio)."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "¿Qué es el amor, según Spinoza?",
+       "opciones": [
+        [
+         "Alegría acompañada de la idea de una causa externa.",
+         true
+        ],
+        [
+         "Un sentimiento que no se puede explicar.",
+         false,
+         "Spinoza estudia los afectos «como si fueran líneas, planos o cuerpos»: todo tiene explicación."
+        ],
+        [
+         "La voluntad de hacer el bien a los demás.",
+         false,
+         "No: lo define a partir de la alegría y de su causa."
+        ],
+        [
+         "Tristeza por estar lejos de alguien.",
+         false,
+         "Esa tristeza sería otro afecto; el amor es una alegría."
+        ]
+       ],
+       "ok": "Correcto: amar es alegrarse con la idea de lo que causa la alegría.",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "Si no hay libre albedrío, ¿qué es ser libre para Spinoza, y cómo se sale de la servidumbre?",
+    "repaso": [
+     "¿He dicho que la servidumbre es estar a merced de pasiones cuyas causas no entendemos?",
+     "¿He explicado que un afecto solo se vence con otro contrario y más fuerte, no con fuerza de voluntad?",
+     "¿He dicho que una pasión deja de serlo cuando formamos de ella una idea clara y distinta (idea adecuada)?"
+    ],
+    "intro": [
+     "Spinoza niega que tengamos una voluntad libre capaz de elegir sin causas. Y aun así su gran obra termina hablando de la libertad humana. Piensa cómo puede ser eso."
+    ],
+    "pistas": [
+     "Recuerda: <strong>libre</strong> es lo que obra por la sola necesidad de su naturaleza, no lo que obra sin causas (<em>Ética</em> I, def. 7).",
+     "Cuando nos mueven causas externas que no entendemos, somos <strong>pasivos</strong>: Spinoza llama a eso <strong>servidumbre</strong>.",
+     "No sirve plantar cara a una pasión con la voluntad: un afecto solo se vence con otro <strong>contrario y más fuerte</strong>.",
+     "El conocimiento puede ser ese afecto más fuerte: una pasión deja de ser pasión en cuanto formamos de ella una <strong>idea clara y distinta</strong>. Comprender es pasar de padecer a obrar."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Cómo se sale de la servidumbre, según Spinoza?",
+     "opciones": [
+      [
+       "Comprendiendo las causas de nuestros afectos, de modo que pasemos de padecer a obrar.",
+       true
+      ],
+      [
+       "Con fuerza de voluntad, decidiendo libremente no sentir.",
+       false,
+       "Spinoza niega esa voluntad libre: un afecto solo se vence con otro más fuerte.",
+       "g-servidumbre"
+      ],
+      [
+       "Eliminando todos los afectos, como el sabio estoico.",
+       false,
+       "No se trata de extirparlos, sino de comprenderlos; la alegría de entender también es un afecto.",
+       "g-alegria-y-tristeza"
+      ],
+      [
+       "No se puede: todo está determinado y no hay libertad ninguna.",
+       false,
+       "Todo está determinado, pero hay grados de libertad: más cuanto más obramos por ideas adecuadas.",
+       "g-idea-adecuada"
+      ]
+     ],
+     "ok": "Exacto: la libertad es comprensión, y la comprensión es un afecto más fuerte que la pasión.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "Libertad sin libre albedrío",
+      "titulo": "Comprender es obrar",
+      "glosario": [
+       "g-servidumbre",
+       "g-idea-adecuada"
+      ],
+      "cita": {
+       "texto": "«Un afecto no puede ser reprimido ni suprimido sino por un afecto contrario y más fuerte que el que hay que reprimir.» «Un afecto que es una pasión deja de ser pasión en cuanto formamos de él una idea clara y distinta.»",
+       "fuente": "Spinoza, <em>Ética</em> IV, proposición 7, y V, proposición 3 (traducción propia del latín)"
+      },
+      "definicion": [
+       "Para Spinoza no hay <strong>voluntad débil</strong> (la <em>akrasía</em> de Aristóteles): cuando «sé lo mejor y hago lo peor», lo que pasa es que un afecto vence a otro.",
+       "Por eso la libertad no se gana luchando contra los afectos, sino <strong>comprendiéndolos</strong>: entender sus causas produce una alegría activa que pesa más que la pasión.",
+       "La libertad es de grado: más libre es quien más obra por ideas adecuadas. No hay mérito ni culpa, sino más o menos comprensión."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿Qué es, para Spinoza, «saber lo mejor y hacer lo peor»?",
+       "opciones": [
+        [
+         "Que un afecto más fuerte vence a otro: servidumbre, no voluntad débil.",
+         true
+        ],
+        [
+         "Una voluntad débil que no obedece a la razón.",
+         false,
+         "Spinoza no admite la voluntad como facultad aparte: lo que hay es una lucha de afectos."
+        ],
+        [
+         "Un pecado que merece castigo.",
+         false,
+         "No hay culpa moral: hay comprensión o ignorancia."
+        ],
+        [
+         "Algo imposible: quien sabe lo mejor siempre lo hace.",
+         false,
+         "Spinoza sí lo admite como hecho; lo explica por la fuerza de los afectos."
+        ]
+       ],
+       "ok": "Correcto: la <em>akrasía</em> se convierte en servidumbre, una lucha de afectos.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar la libertad en Spinoza",
+   "parrafos": [
+    "El <em>conatus</em> es el esfuerzo de cada cosa por perseverar en su ser; consciente, es deseo. La alegría y la tristeza miden si nuestra potencia sube o baja. Mientras nos mueven causas que no entendemos, vivimos en servidumbre; comprenderlas es pasar de padecer a obrar.",
+    "Para el tema 15: compáralo con Descartes, que confiaba en una voluntad libre capaz de dominar las pasiones."
+   ],
+   "siguiente": "spinoza-alegria"
+  }
+ },
+ {
+  "id": "spinoza-alegria",
+  "subject": "hf",
+  "tema": "Tema 15 · Spinoza",
+  "unidad": "hf-metafisica",
+  "materia": "Filosofía · Spinoza",
+  "titulo": "¿Por qué la virtud es potencia y la felicidad no es un premio?",
+  "lede": "Una ética sin deber ni sacrificio, en la que obrar bien y buscar la alegría coinciden. Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Qué es la virtud para Spinoza, y qué relación tiene con la felicidad?",
+    "repaso": [
+     "¿He dicho que virtud y potencia son lo mismo?",
+     "¿He explicado que obrar por virtud es conservar el propio ser bajo la guía de la razón?",
+     "¿He dicho que la beatitud no es el premio de la virtud, sino la virtud misma?"
+    ],
+    "intro": [
+     "Para muchas morales, ser bueno cuesta: hay que renunciar a algo ahora para recibir un premio después. Piensa qué diría alguien para quien la esencia de cada cosa es su esfuerzo por seguir viviendo."
+    ],
+    "pistas": [
+     "Para aterrizar: recuerda el <em>conatus</em>, el esfuerzo de cada cosa por perseverar en su ser. La ética de Spinoza parte de ahí.",
+     "Spinoza dice que dos palabras que solemos separar, una moral y otra física, significan <strong>lo mismo</strong>: virtud y potencia.",
+     "Obrar por virtud es, entonces, obrar, vivir y conservar el propio ser <strong>bajo la guía de la razón</strong>. No es renunciar a uno mismo.",
+     "Por eso la felicidad más alta, la <strong>beatitud</strong>, no llega después como un premio: es la virtud misma."
+    ],
+    "comprobacion": {
+     "pregunta": "Para Spinoza, ¿qué es la virtud?",
+     "opciones": [
+      [
+       "La propia potencia de obrar, guiada por la razón.",
+       true
+      ],
+      [
+       "Obedecer un deber aunque vaya contra el propio interés.",
+       false,
+       "Eso se parece a Kant. Spinoza no opone la virtud al interés: la identifica con la potencia.",
+       "g-conatus"
+      ],
+      [
+       "Un hábito de término medio entre dos extremos.",
+       false,
+       "Esa es la virtud de Aristóteles. Spinoza la define como potencia.",
+       "g-conatus"
+      ],
+      [
+       "Lo que permite ganar el premio de la felicidad.",
+       false,
+       "No: la beatitud no es el premio de la virtud, sino la virtud misma.",
+       "g-beatitud"
+      ]
+     ],
+     "ok": "Bien: virtud es potencia, y la felicidad no es un premio aparte.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito leer el texto",
+      "etiqueta": "Texto de apoyo",
+      "titulo": "Tres frases de la Ética",
+      "glosario": [
+       "g-beatitud",
+       "g-conatus"
+      ],
+      "cita": {
+       "texto": "«Por virtud y potencia entiendo lo mismo.» «Obrar absolutamente por virtud no es en nosotros otra cosa que obrar, vivir y conservar nuestro ser bajo la guía de la razón.» «La beatitud no es el premio de la virtud, sino la virtud misma.»",
+       "fuente": "Spinoza, <em>Ética</em> IV, definición 8 y proposición 24, y V, proposición 42 (traducción propia del latín)"
+      },
+      "comprobacion": {
+       "etiqueta": "Comprobación del texto",
+       "pregunta": "Según la última frase, ¿qué relación hay entre virtud y felicidad?",
+       "opciones": [
+        [
+         "Son lo mismo: la felicidad no es una recompensa que llegue después.",
+         true
+        ],
+        [
+         "La felicidad es el premio que se recibe por ser virtuoso.",
+         false,
+         "El texto lo niega expresamente: «no es el premio de la virtud»."
+        ],
+        [
+         "No tienen nada que ver.",
+         false,
+         "Al contrario: el texto las identifica."
+        ],
+        [
+         "Primero hay que ser feliz y luego virtuoso.",
+         false,
+         "No hay un antes y un después: son la misma cosa."
+        ]
+       ],
+       "ok": "Exacto: la beatitud es la virtud misma.",
+       "mal": "Vuelve a leer la última frase.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "Una ética de la potencia",
+      "glosario": [
+       "g-alegria-y-tristeza",
+       "g-beatitud"
+      ],
+      "definicion": [
+       "<strong>Virtud = potencia</strong>: ser virtuoso es desplegar al máximo lo que uno puede, guiado por la razón (<em>Ética</em> IV, def. 8 y prop. 24).",
+       "<strong>La alegría es buena</strong>: aumenta la potencia, mientras que la tristeza es directamente mala (IV, prop. 41). Una moral de la tristeza y del miedo no hace mejores a las personas.",
+       "<strong>La beatitud es la virtud misma</strong> (V, prop. 42): no se espera como recompensa, se vive al obrar con comprensión."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "¿Qué dice Spinoza de la alegría y la tristeza?",
+       "opciones": [
+        [
+         "La alegría no es directamente mala sino buena; la tristeza es directamente mala.",
+         true
+        ],
+        [
+         "Las dos son malas, porque nos alejan de la razón.",
+         false,
+         "No: la alegría aumenta la potencia, y por eso es buena."
+        ],
+        [
+         "La tristeza es buena, porque nos hace humildes.",
+         false,
+         "Spinoza no ve virtud en la humildad ni en el arrepentimiento: nacen de la tristeza."
+        ],
+        [
+         "Ninguna importa para la ética.",
+         false,
+         "Al contrario: son la brújula de la ética de Spinoza."
+        ]
+       ],
+       "ok": "Correcto: la alegría es buena, porque aumenta nuestra potencia.",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "Si cada uno busca su propia utilidad, ¿no acabaremos enfrentados? ¿Qué dice Spinoza de la vida con los demás?",
+    "repaso": [
+     "¿He dicho que, para Spinoza, nada es más útil al ser humano que otro ser humano?",
+     "¿He explicado que quienes se guían por la razón concuerdan, porque desean para los demás lo que desean para sí?",
+     "¿He contrapuesto su fórmula «el hombre es un dios para el hombre» al «lobo» de Hobbes?"
+    ],
+    "intro": [
+     "Hobbes, contemporáneo de Spinoza, pensaba que, si cada uno busca lo suyo, el ser humano es un lobo para el ser humano. Spinoza también parte del interés propio. Piensa adónde llega."
+    ],
+    "pistas": [
+     "Recuerda: para Spinoza, buscar la propia utilidad no es un vicio; es la base de la virtud.",
+     "Pregúntate qué es lo más útil para conservar y aumentar tu potencia. ¿Una cosa, o alguien?",
+     "Spinoza responde que <strong>nada es más útil al hombre que el hombre</strong>, sobre todo el que se guía por la razón: dos que piensan bien desean cosas compatibles.",
+     "Por eso, quienes se guían por la razón <strong>no desean para sí nada que no deseen para los demás</strong>. Frente al lobo de Hobbes, Spinoza escribe que «el hombre es un dios para el hombre»."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Por qué, según Spinoza, buscar la propia utilidad no lleva al enfrentamiento?",
+     "opciones": [
+      [
+       "Porque, guiados por la razón, comprendemos que lo más útil para cada uno es la concordia con los demás.",
+       true
+      ],
+      [
+       "Porque un soberano fuerte obliga a todos a no pelearse.",
+       false,
+       "Esa es la respuesta de Hobbes. Spinoza la busca en la razón de cada uno."
+      ],
+      [
+       "Porque la moral exige sacrificar el propio interés por los demás.",
+       false,
+       "Spinoza no pide sacrificio: el interés propio bien entendido ya lleva a la concordia.",
+       "g-conatus"
+      ],
+      [
+       "Porque todas las personas son iguales y desean lo mismo siempre.",
+       false,
+       "Solo concuerdan en la medida en que se guían por la razón; en las pasiones discrepan.",
+       "g-servidumbre"
+      ]
+     ],
+     "ok": "Exacto: bajo la razón, el interés propio y la utilidad común coinciden.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "Utilidad y comunidad",
+      "titulo": "El hombre, un dios para el hombre",
+      "glosario": [
+       "g-conatus",
+       "g-servidumbre"
+      ],
+      "cita": {
+       "texto": "«Nada es más útil al hombre que el hombre.» «Que el hombre es un dios para el hombre.»",
+       "fuente": "Spinoza, <em>Ética</em> IV, escolios de las proposiciones 18 y 35 (traducción propia del latín)"
+      },
+      "definicion": [
+       "Spinoza no enfrenta interés propio y moral: buscar lo útil para uno mismo, bajo la razón, es la virtud.",
+       "Pero la razón muestra que lo más útil para cada uno es otro ser humano que también se guía por la razón: juntos son más potentes que por separado. Por eso desean para los demás lo mismo que para sí.",
+       "Las pasiones, en cambio, nos enfrentan: en ellas los seres humanos discrepan. Frente al «lobo» de Hobbes, que necesita un soberano que lo contenga, Spinoza confía en que la razón produzca la concordia."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿Cuándo concuerdan siempre los seres humanos, según Spinoza?",
+       "opciones": [
+        [
+         "En la medida en que viven guiados por la razón.",
+         true
+        ],
+        [
+         "Cuando sienten las mismas pasiones.",
+         false,
+         "Al revés: las pasiones nos enfrentan."
+        ],
+        [
+         "Cuando renuncian a su interés propio.",
+         false,
+         "No hace falta renunciar: el interés bien entendido ya lleva a la concordia."
+        ],
+        [
+         "Nunca: el hombre es un lobo para el hombre.",
+         false,
+         "Esa es la tesis de Hobbes, que Spinoza da la vuelta."
+        ]
+       ],
+       "ok": "Correcto: la razón une; las pasiones separan.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar la ética de Spinoza",
+   "parrafos": [
+    "Virtud y potencia son lo mismo: obrar por virtud es conservar el propio ser bajo la guía de la razón. La alegría es buena y la tristeza mala, y la beatitud no es el premio de la virtud, sino la virtud misma. Bajo la razón, el interés propio lleva a la concordia: «el hombre es un dios para el hombre».",
+    "Para el tema 15 y la disertación: contrasta esta ética de la potencia con la ética del deber de Kant y con el término medio de Aristóteles."
+   ]
+  }
+ },
+ {
   "id": "kant-imperativo",
   "subject": "hf",
   "tema": "Tema 20 · Kant: la ética del deber",
@@ -965,6 +1699,746 @@ const PISTAS = [
    "parrafos": [
     "Tratar a la humanidad como fin es respetar en cada persona, también en ti, su capacidad racional de decidir: puedes servirte de los demás, pero nunca reducirlos a instrumentos. Por eso las personas tienen dignidad y no precio.",
     "La fórmula de la humanidad y la de la ley universal expresan la misma ley moral: la promesa falsa falla en las dos."
+   ]
+  }
+ },
+ {
+  "id": "marx-alienacion",
+  "subject": "hf",
+  "tema": "Tema 21 · Marx",
+  "unidad": "hf-sospecha",
+  "materia": "Filosofía · Marx",
+  "titulo": "¿Qué es la alienación y por qué sospecha Marx de las ideas?",
+  "lede": "Marx sospecha desde la economía y la historia: lo que hacemos para vivir moldea lo que pensamos. Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Qué significa que el trabajador está alienado?",
+    "repaso": [
+     "¿He dicho que alienarse es volverse ajeno, extraño a algo que es propio?",
+     "¿He nombrado de qué se aliena el trabajador: su producto, su actividad, su capacidad creadora y los demás?",
+     "¿He explicado que el trabajo, que debería realizar al ser humano, se vuelve una fuerza contra él?"
+    ],
+    "intro": [
+     "Para Marx el trabajo es lo que nos hace humanos: transformamos la naturaleza y, al hacerlo, nos transformamos. Piensa qué pasa cuando ese trabajo deja de ser nuestro."
+    ],
+    "pistas": [
+     "Para aterrizar: <strong>alienar</strong> viene del latín <em>alienus</em>, «ajeno». Estar alienado es volverse extraño a algo que es propio.",
+     "Fíjate en quién se queda con lo que el obrero fabrica en la fábrica. ¿Es suyo el producto de su trabajo?",
+     "El obrero se vuelve ajeno a su <strong>producto</strong>, que pertenece a otro; a su <strong>actividad</strong>, que hace por obligación; a su <strong>capacidad creadora</strong>, y a los <strong>demás</strong>, con los que compite.",
+     "Así el trabajo, que debería realizar al ser humano, se vuelve una <strong>fuerza contra él</strong>: cuanto más produce, más pobre es."
+    ],
+    "comprobacion": {
+     "pregunta": "Para Marx, ¿qué es la alienación del trabajador?",
+     "opciones": [
+      [
+       "Que se vuelve ajeno a lo que produce, a su propia actividad, a su capacidad creadora y a los demás.",
+       true
+      ],
+      [
+       "Que trabaja demasiadas horas.",
+       false,
+       "Las horas importan, pero la alienación es más profunda: el trabajo deja de ser suyo.",
+       "g-alienacion"
+      ],
+      [
+       "Que sufre una enfermedad mental.",
+       false,
+       "No es un término médico: es volverse ajeno a lo propio en el trabajo.",
+       "g-alienacion"
+      ],
+      [
+       "Que vive lejos de su país.",
+       false,
+       "No es emigrar: es volverse extraño a su propio trabajo."
+      ]
+     ],
+     "ok": "Bien: el trabajo y sus frutos se le vuelven ajenos.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito leer el texto",
+      "etiqueta": "Texto de apoyo",
+      "titulo": "Cuanto más produce, más pobre",
+      "glosario": [
+       "g-alienacion",
+       "g-plusvalia"
+      ],
+      "cita": {
+       "texto": "«El trabajador se vuelve tanto más pobre cuanto más riqueza produce.»",
+       "fuente": "Marx, <em>Manuscritos económico-filosóficos</em> (1844), «El trabajo alienado» (traducción propia del alemán)"
+      },
+      "comprobacion": {
+       "etiqueta": "Comprobación del texto",
+       "pregunta": "¿Por qué el trabajador se empobrece cuanto más produce?",
+       "opciones": [
+        [
+         "Porque lo que produce no es suyo: la riqueza que crea pasa a otro.",
+         true
+        ],
+        [
+         "Porque gasta demasiado dinero.",
+         false,
+         "No es un problema de gasto personal: es de a quién pertenece lo producido."
+        ],
+        [
+         "Porque trabaja mal.",
+         false,
+         "Al contrario: el texto habla de que produce mucha riqueza."
+        ],
+        [
+         "Porque Marx exagera y no es verdad.",
+         false,
+         "Se puede discutir, pero primero hay que entender su argumento."
+        ]
+       ],
+       "ok": "Exacto: el producto de su trabajo se le vuelve ajeno.",
+       "mal": "Vuelve a leer la frase.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "Las cuatro alienaciones",
+      "glosario": [
+       "g-alienacion",
+       "g-praxis"
+      ],
+      "definicion": [
+       "<strong>Del producto</strong> → lo que fabrica pertenece al capitalista y se le enfrenta como algo extraño.",
+       "<strong>De la actividad</strong> → trabaja por obligación, para sobrevivir; fuera del trabajo se siente él mismo.",
+       "<strong>De su capacidad creadora</strong> → lo que hace humano al ser humano, transformar libremente la naturaleza, se reduce a un medio para vivir.",
+       "<strong>De los demás</strong> → las relaciones entre personas se convierten en relaciones de competencia y de compra y venta."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "¿Qué tienen en común las cuatro formas de alienación?",
+       "opciones": [
+        [
+         "Que algo propio del ser humano se le vuelve ajeno y se le enfrenta.",
+         true
+        ],
+        [
+         "Que todas son problemas psicológicos individuales.",
+         false,
+         "No: nacen de cómo está organizado el trabajo en la sociedad."
+        ],
+        [
+         "Que desaparecen si el obrero cobra más.",
+         false,
+         "Un salario mayor no cambia por sí solo que el producto y la actividad sean ajenos."
+        ],
+        [
+         "Que solo afectan al capitalista.",
+         false,
+         "Las describe en el trabajador, aunque toda la sociedad queda afectada."
+        ]
+       ],
+       "ok": "Correcto: lo propio se vuelve ajeno.",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "¿Por qué dice Marx que las ideas de una sociedad dependen de su base económica?",
+    "repaso": [
+     "¿He distinguido la infraestructura (las fuerzas y relaciones de producción) de la superestructura (derecho, política, religión, moral)?",
+     "¿He explicado que el ser social determina la conciencia, y no al revés?",
+     "¿He definido la ideología: ideas que presentan como natural y justo lo que es histórico y favorece a la clase dominante?"
+    ],
+    "intro": [
+     "Solemos pensar que las ideas cambian el mundo. Marx da la vuelta a la pregunta: ¿y si es el modo de vivir y de producir lo que cambia las ideas? Piensa qué quiere decir eso."
+    ],
+    "pistas": [
+     "Recuerda que Marx es uno de los «maestros de la sospecha»: sospecha de que nuestras ideas no son tan libres como creemos.",
+     "Distingue dos pisos de la sociedad: abajo, la <strong>infraestructura</strong> (cómo se produce y quién posee los medios); arriba, la <strong>superestructura</strong> (leyes, política, religión, moral).",
+     "Para Marx el piso de abajo condiciona el de arriba: <strong>el ser social determina la conciencia</strong>, y no al revés.",
+     "Por eso muchas ideas son <strong>ideología</strong>: presentan como natural, justo e inmutable lo que es histórico y favorece a quien domina."
+    ],
+    "comprobacion": {
+     "pregunta": "Según Marx, ¿qué relación hay entre la economía y las ideas de una sociedad?",
+     "opciones": [
+      [
+       "La base económica condiciona las leyes, la moral y las ideas que se construyen sobre ella.",
+       true
+      ],
+      [
+       "Las ideas son totalmente libres y no dependen de nada.",
+       false,
+       "Eso es lo que Marx pone en sospecha.",
+       "g-ideologia"
+      ],
+      [
+       "Las ideas determinan siempre la economía, como pensaba Hegel.",
+       false,
+       "Marx da la vuelta a Hegel: es el ser social el que determina la conciencia.",
+       "g-materialismo-historico"
+      ],
+      [
+       "No hay ninguna relación entre ellas.",
+       false,
+       "Para Marx la relación es estrecha: una se levanta sobre la otra.",
+       "g-infraestructura"
+      ]
+     ],
+     "ok": "Exacto: la superestructura se levanta sobre la base económica.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "Base y superestructura",
+      "titulo": "El ser social y la conciencia",
+      "glosario": [
+       "g-infraestructura",
+       "g-ideologia"
+      ],
+      "cita": {
+       "texto": "«No es la conciencia de los hombres la que determina su ser, sino, al contrario, su ser social el que determina su conciencia.»",
+       "fuente": "Marx, <em>Contribución a la crítica de la economía política</em> (1859), prólogo (traducción propia del alemán)"
+      },
+      "definicion": [
+       "La <strong>infraestructura</strong> es la base económica: las fuerzas productivas y las relaciones de producción (quién posee y quién trabaja).",
+       "Sobre ella se levanta la <strong>superestructura</strong>: el derecho, el Estado, la religión, la moral y la filosofía de una época.",
+       "Cuando esas ideas presentan como natural y eterno lo que es histórico, y así justifican el poder de la clase dominante, Marx las llama <strong>ideología</strong>."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿Qué es la ideología, para Marx?",
+       "opciones": [
+        [
+         "Ideas que presentan como natural y justo un orden histórico que favorece a la clase dominante.",
+         true
+        ],
+        [
+         "Cualquier conjunto de ideas políticas.",
+         false,
+         "En Marx tiene un sentido crítico: ideas que ocultan su origen y su interés."
+        ],
+        [
+         "La ciencia económica.",
+         false,
+         "Marx distingue su crítica de la economía de la ideología que critica."
+        ],
+        [
+         "Las ideas falsas de cada persona.",
+         false,
+         "No es un error individual: es una forma de conciencia social."
+        ]
+       ],
+       "ok": "Correcto: la ideología oculta que un orden histórico podría ser de otra manera.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar la sospecha de Marx",
+   "parrafos": [
+    "En el trabajo asalariado, el trabajador se vuelve ajeno a su producto, a su actividad, a su capacidad creadora y a los demás: eso es la alienación. Y como el ser social determina la conciencia, muchas ideas de una época son ideología: presentan como natural lo que es histórico.",
+    "Para el tema 21: compara su sospecha con la de Nietzsche (los valores) y la de Freud (el inconsciente)."
+   ],
+   "siguiente": "nietzsche-destino"
+  }
+ },
+ {
+  "id": "nietzsche-destino",
+  "subject": "hf",
+  "tema": "Tema 21 · Nietzsche",
+  "unidad": "hf-sospecha",
+  "materia": "Filosofía · Nietzsche",
+  "titulo": "¿Por qué dice Nietzsche que es «un destino»?",
+  "lede": "La lectura de la PAU: el último capítulo de «Ecce homo». Nietzsche se presenta como dinamita contra la moral. Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Qué quiere decir Nietzsche cuando se llama «el primer inmoralista»?",
+    "repaso": [
+     "¿He dicho que «inmoralista» encierra dos negaciones: la del tipo de hombre «bueno» y la de la moral cristiana?",
+     "¿He explicado que llama a esa moral «moral de la <em>décadence</em>», signo de debilidad y de una vida que decae?",
+     "¿He dicho que negar no es su última palabra: niega para poder decir sí a la vida?"
+    ],
+    "intro": [
+     "«Inmoralista» suena a alguien que quiere hacer el mal. Nietzsche lo usa como emblema de honor. Antes de pedir ayuda, piensa contra qué está quien se llama así."
+    ],
+    "pistas": [
+     "Para aterrizar: un <strong>inmoralista</strong> no es quien defiende el crimen, sino quien niega que la moral recibida valga en sí misma.",
+     "En el §4 Nietzsche dice que la palabra encierra <strong>dos negaciones</strong>. Busca a quién se refiere cada una: a un tipo de persona y a un tipo de moral.",
+     "Niega el tipo de hombre tenido por supremo, <strong>los buenos</strong>, los benévolos; y niega la moral que se ha impuesto como «moral en sí»: la <strong>moral cristiana</strong>, que llama moral de la <em>décadence</em>.",
+     "Pero no es solo un «no»: se presenta como la antítesis de un espíritu que dice no. <strong>Negar y aniquilar son condiciones del decir sí</strong> a la vida."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Qué niega Nietzsche al llamarse «inmoralista»?",
+     "opciones": [
+      [
+       "El tipo de hombre «bueno» y la moral cristiana, a la que considera moral de la decadencia.",
+       true
+      ],
+      [
+       "Toda forma de valor: para él nada vale nada.",
+       false,
+       "Eso sería nihilismo pasivo, que Nietzsche quiere superar. Niega unos valores para crear otros.",
+       "g-nihilismo"
+      ],
+      [
+       "Las leyes del Estado, porque quiere una sociedad sin normas.",
+       false,
+       "No habla de leyes ni de anarquía: habla de la moral y de los valores."
+      ],
+      [
+       "La existencia del mal: para él todo es bueno.",
+       false,
+       "No: lo que critica es el modo en que la moral ha repartido «bueno» y «malo»."
+      ]
+     ],
+     "ok": "Bien: dos negaciones, el hombre «bueno» y la moral de la <em>décadence</em>.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito leer el texto",
+      "etiqueta": "Texto de apoyo",
+      "titulo": "Dinamita",
+      "glosario": [
+       "g-transmutacion-de-los-valores",
+       "g-nihilismo"
+      ],
+      "cita": {
+       "texto": "«Yo no soy un hombre, soy dinamita.» […] «Yo soy el primer inmoralista.»",
+       "fuente": "Nietzsche, <em>Ecce homo</em>, «Por qué soy un destino», §1 y §2 (trad. de Andrés Sánchez Pascual)"
+      },
+      "definicion": [
+       "En el §1 anuncia que su nombre irá unido a una crisis sin igual: una decisión «contra todo lo que hasta ese momento se había creído, exigido, santificado».",
+       "Su fórmula para ese acto es la <strong>transvaloración de todos los valores</strong>: poner del revés la tabla de valores que la humanidad ha tenido por verdadera."
+      ],
+      "comprobacion": {
+       "etiqueta": "Comprobación del texto",
+       "pregunta": "¿Por qué se compara Nietzsche con la dinamita?",
+       "opciones": [
+        [
+         "Porque su pensamiento hace saltar por el aire los valores que se tenían por sagrados.",
+         true
+        ],
+        [
+         "Porque defiende la violencia política.",
+         false,
+         "Es una imagen: lo que estalla son los valores, no edificios."
+        ],
+        [
+         "Porque quiere fundar una religión nueva.",
+         false,
+         "El §1 lo niega expresamente: no quiere «creyentes» ni ser un santo."
+        ],
+        [
+         "Porque se considera un científico de la química.",
+         false,
+         "Es una metáfora sobre el efecto de su crítica."
+        ]
+       ],
+       "ok": "Exacto: la dinamita es la transvaloración de todos los valores.",
+       "mal": "Vuelve a leer el texto.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "Las dos negaciones del inmoralista",
+      "glosario": [
+       "g-ressentiment",
+       "g-genealogia-de-la-moral"
+      ],
+      "definicion": [
+       "<strong>Primera negación</strong> → el tipo de hombre considerado supremo: «los buenos», los benévolos. Su condición de existencia, dice, es no querer ver cómo es la realidad (§4).",
+       "<strong>Segunda negación</strong>, la decisiva → la moral cristiana, moral de la <em>décadence</em>: una moral de la renuncia a sí mismo que delata una voluntad de final (§4 y §7).",
+       "<strong>Pero no es un «no» sin más</strong> → negar y aniquilar son condiciones para decir sí a la vida. Por eso se llama a sí mismo «alegre mensajero» (§1)."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "¿Cuál de las dos negaciones considera Nietzsche decisiva?",
+       "opciones": [
+        [
+         "La de la moral cristiana como moral de la decadencia.",
+         true
+        ],
+        [
+         "La de las personas concretas que son amables.",
+         false,
+         "No ataca a personas concretas, sino a un tipo de hombre que la moral ha puesto como modelo."
+        ],
+        [
+         "La de la ciencia y el conocimiento.",
+         false,
+         "No: el capítulo valora la veracidad; lo que niega es la moral."
+        ],
+        [
+         "La de la filosofía griega.",
+         false,
+         "Ese no es el blanco de este capítulo."
+        ]
+       ],
+       "ok": "Correcto: lo decisivo es la crítica de la moral cristiana.",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "¿Por qué dice Nietzsche que la moral es hostil a la vida, y qué propone en su lugar?",
+    "repaso": [
+     "¿He dicho que, para Nietzsche, esa moral desprecia el cuerpo, los instintos y este mundo?",
+     "¿He mencionado que «Dios» y el «más allá» se inventaron para desvalorizar el único mundo que existe?",
+     "¿He explicado que la transvaloración crea valores que dicen sí a la vida (Dioniso frente al Crucificado)?"
+    ],
+    "intro": [
+     "En los §7 y §8 Nietzsche explica qué ha «descubierto» y por qué, según él, eso parte en dos la historia. Piensa qué valores acusa de ir contra la vida."
+    ],
+    "pistas": [
+     "Recuerda la segunda negación: la moral de la <strong>renuncia a sí mismo</strong>. Pregúntate qué desprecia esa moral.",
+     "Según el §7, esa moral enseñó a despreciar los instintos, a inventar un «alma» para arruinar el <strong>cuerpo</strong> y a ver algo impuro en la vida misma.",
+     "En el §8 añade que los conceptos de «Dios» y de «más allá» o «mundo verdadero» se inventaron para <strong>desvalorizar el único mundo que existe</strong>.",
+     "Frente a eso propone la <strong>transvaloración de todos los valores</strong>: valores que digan sí a la vida, a este mundo y al cuerpo. El capítulo termina con la fórmula «Dioniso contra el Crucificado»."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Qué reprocha Nietzsche a la moral que critica?",
+     "opciones": [
+      [
+       "Que niega la vida: desprecia el cuerpo, los instintos y este mundo en nombre de otro.",
+       true
+      ],
+      [
+       "Que es demasiado exigente con los fuertes.",
+       false,
+       "El problema no es la exigencia, sino que va contra la vida."
+      ],
+      [
+       "Que no es lo bastante científica.",
+       false,
+       "Su crítica es psicológica y genealógica, no de método científico.",
+       "g-genealogia-de-la-moral"
+      ],
+      [
+       "Que da demasiada importancia al cuerpo y a los placeres.",
+       false,
+       "Es justo al revés: la acusa de despreciar el cuerpo.",
+       "g-lo-dionisiaco"
+      ]
+     ],
+     "ok": "Exacto: una moral que dice no a la vida, frente a la que propone decir sí.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "Moral y vida",
+      "titulo": "Contra la vida, a favor de la vida",
+      "glosario": [
+       "g-la-muerte-de-dios",
+       "g-superhombre"
+      ],
+      "cita": {
+       "texto": "Definición de la moral: «la idiosincrasia de décadents, con la intención oculta de vengarse de la vida».",
+       "fuente": "Nietzsche, <em>Ecce homo</em>, «Por qué soy un destino», §7 (trad. de Andrés Sánchez Pascual)"
+      },
+      "definicion": [
+       "Para Nietzsche, la moral de la renuncia es la de quienes «decaen»: convierten su debilidad en valor y se vengan así de la vida (es el <em>ressentiment</em>).",
+       "Los conceptos de «Dios» y de «más allá» sirven, según él, para quitar valor al único mundo que existe. Su caída abre el problema del nihilismo.",
+       "La salida es la <strong>transvaloración</strong>: crear valores que afirmen la vida. Lo resume la fórmula final del capítulo, «Dioniso contra el Crucificado»: la afirmación de la vida frente a su negación."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿Qué significa «Dioniso contra el Crucificado» al final del capítulo?",
+       "opciones": [
+        [
+         "La afirmación de la vida frente a la moral que la niega.",
+         true
+        ],
+        [
+         "Una guerra entre dos religiones antiguas.",
+         false,
+         "No es una disputa histórica: son símbolos de dos actitudes ante la vida."
+        ],
+        [
+         "Que Nietzsche quiere volver a adorar a los dioses griegos.",
+         false,
+         "No propone una religión: usa a Dioniso como símbolo."
+        ],
+        [
+         "Que el placer está por encima de todo.",
+         false,
+         "Lo dionisíaco no es solo placer: es aceptar la vida entera, también lo terrible."
+        ]
+       ],
+       "ok": "Correcto: dos actitudes ante la vida, decir sí o decir no.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar «Por qué soy un destino»",
+   "parrafos": [
+    "Nietzsche se llama «el primer inmoralista»: niega el tipo de hombre «bueno» y la moral cristiana, a la que considera moral de la <em>décadence</em>, hostil a la vida. Su fórmula es la transvaloración de todos los valores: crear valores que digan sí a la vida, resumidos en «Dioniso contra el Crucificado».",
+    "Para la PAU: en el resumen, recoge las dos negaciones del §4; en la opción A o B, relaciónalas con la muerte de Dios y el nihilismo."
+   ]
+  }
+ },
+ {
+  "id": "beauvoir-conclusion",
+  "subject": "hf",
+  "tema": "Tema 26 · Beauvoir",
+  "unidad": "hf-beauvoir",
+  "materia": "Filosofía · Simone de Beauvoir",
+  "titulo": "¿Por qué la mujer no es víctima de ninguna fatalidad?",
+  "lede": "La lectura de la PAU: la «Conclusión» de «El segundo sexo». ¿Hay una guerra eterna entre los sexos o se puede superar? Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Por qué niega Beauvoir que la biología fije el destino de la mujer?",
+    "repaso": [
+     "¿He dicho que ningún destino fisiológico impone una hostilidad eterna entre los sexos?",
+     "¿He explicado que la humanidad es un devenir histórico: se define por cómo asume lo natural?",
+     "¿He usado la idea de situación: la desigualdad viene de la situación impuesta, no de una esencia?"
+    ],
+    "intro": [
+     "Mucha gente ha pensado que las diferencias entre hombres y mujeres están escritas en el cuerpo y no se pueden cambiar. Piensa qué responde una filósofa existencialista."
+    ],
+    "pistas": [
+     "Para aterrizar: el existencialismo dice que en el ser humano <strong>la existencia precede a la esencia</strong>: no hay una naturaleza fija que decida lo que seremos.",
+     "Beauvoir aplica esa idea a la mujer: «no se nace mujer: se llega a serlo». Lo que se llama «feminidad» se aprende.",
+     "En la «Conclusión» lo dice con otras palabras: la humanidad es más que una especie, es un <strong>devenir histórico</strong>; se define por cómo asume la facticidad natural.",
+     "Por eso la inferioridad de la mujer no viene de su cuerpo, sino de su <strong>situación</strong>: le ha sido impuesta. Y lo impuesto se puede cambiar."
+    ],
+    "comprobacion": {
+     "pregunta": "Según Beauvoir, ¿de dónde viene la inferioridad atribuida a la mujer?",
+     "opciones": [
+      [
+       "De la situación que le ha impuesto la sociedad, no de su biología.",
+       true
+      ],
+      [
+       "De su anatomía, que la hace más débil por naturaleza.",
+       false,
+       "Beauvoir lo niega: ningún destino fisiológico decide su lugar.",
+       "g-el-destino"
+      ],
+      [
+       "De una elección libre de las propias mujeres.",
+       false,
+       "El texto dice que ni una esencia ni una elección culpable la condenan: le ha sido impuesta.",
+       "g-la-situacion"
+      ],
+      [
+       "De una esencia femenina eterna.",
+       false,
+       "Esa es la idea del «eterno Femenino» que Beauvoir critica.",
+       "g-la-construccion-del-genero"
+      ]
+     ],
+     "ok": "Bien: la desigualdad es histórica y social, no un destino natural.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito leer el texto",
+      "etiqueta": "Texto de apoyo",
+      "titulo": "Ninguna fatalidad",
+      "glosario": [
+       "g-el-destino",
+       "g-la-situacion"
+      ],
+      "cita": {
+       "texto": "«La mujer no es víctima de ninguna fatalidad misteriosa.»",
+       "fuente": "Beauvoir, <em>El segundo sexo</em>, «Conclusión» (trad. de Alicia Martorell)"
+      },
+      "definicion": [
+       "Beauvoir explica que las singularidades de la mujer obtienen su importancia del <strong>significado que se les da</strong>, y que podrán superarse si se miran desde una perspectiva nueva.",
+       "Por eso dice que la mujer solo se siente pasiva porque se la ha educado para concebirse así: la pasividad no es biológica, sino aprendida."
+      ],
+      "comprobacion": {
+       "etiqueta": "Comprobación del texto",
+       "pregunta": "¿Qué quiere decir que la mujer «no es víctima de ninguna fatalidad»?",
+       "opciones": [
+        [
+         "Que su situación no está decidida por la naturaleza y puede cambiar.",
+         true
+        ],
+        [
+         "Que las mujeres no sufren ninguna desigualdad.",
+         false,
+         "Beauvoir describe una desigualdad real; lo que niega es que sea inevitable."
+        ],
+        [
+         "Que cada mujer es culpable de su situación.",
+         false,
+         "No: la situación le ha sido impuesta; no se trata de culpa."
+        ],
+        [
+         "Que la biología no existe.",
+         false,
+         "Existe, pero no decide por sí sola el destino: importa el significado que se le da."
+        ]
+       ],
+       "ok": "Exacto: lo que es histórico puede cambiar.",
+       "mal": "Vuelve a leer el texto.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "Naturaleza e historia",
+      "glosario": [
+       "g-la-construccion-del-genero",
+       "g-la-ambiguedad"
+      ],
+      "definicion": [
+       "<strong>Ni destino biológico</strong> → ningún destino fisiológico impone a macho y hembra una hostilidad eterna.",
+       "<strong>Un devenir histórico</strong> → la humanidad se define por cómo asume lo natural; lo que llamamos «femenino» es una construcción.",
+       "<strong>La situación</strong> → la mujer ha sido confinada en la inmanencia y declarada inferior; esa inferioridad le ha sido impuesta, y por eso se puede superar."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "¿Qué significa que la humanidad es «un devenir histórico»?",
+       "opciones": [
+        [
+         "Que lo que somos depende de cómo, en cada época, asumimos y damos sentido a lo natural.",
+         true
+        ],
+        [
+         "Que la historia siempre progresa hacia algo mejor.",
+         false,
+         "Beauvoir no defiende un progreso automático: habla de cómo nos hacemos."
+        ],
+        [
+         "Que la naturaleza humana es la misma en todas las épocas.",
+         false,
+         "Justo al contrario: no hay una esencia fija."
+        ],
+        [
+         "Que solo importa la historia, y el cuerpo no cuenta.",
+         false,
+         "El cuerpo cuenta, pero su sentido no está fijado de antemano."
+        ]
+       ],
+       "ok": "Correcto: no hay esencia fija, sino una historia que se puede cambiar.",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "¿De dónde nace la «guerra» entre los sexos, y qué propone Beauvoir para superarla?",
+    "repaso": [
+     "¿He explicado que la mujer ha sido definida como «la Otra», lo inesencial frente al hombre como sujeto?",
+     "¿He dicho que toda opresión crea un estado de guerra, porque el oprimido busca recuperar su soberanía?",
+     "¿He dicho que la salida es el reconocimiento mutuo de dos libertades: la fraternidad?"
+    ],
+    "intro": [
+     "La «Conclusión» empieza con una cita que dice que la mujer «no es nuestro hermano». Beauvoir se pregunta si hombres y mujeres están condenados a la guerra perpetua. Piensa qué responde."
+    ],
+    "pistas": [
+     "Recuerda la idea central del libro: la mujer ha sido definida como <strong>la Otra</strong>, lo inesencial, frente al hombre como sujeto.",
+     "Quien es tratado como inesencial no puede dejar de querer recuperar su soberanía. Por eso Beauvoir escribe que <strong>toda opresión crea un estado de guerra</strong>.",
+     "Hoy, dice, el conflicto es el de <strong>dos libertades que se enfrentan</strong>: en lugar de reconocerse mutuamente, cada una quiere dominar a la otra.",
+     "La salida no es que gane una: es el <strong>reconocimiento recíproco</strong>. La «Conclusión» termina pidiendo que hombres y mujeres afirmen su <strong>fraternidad</strong>."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Qué propone Beauvoir para superar la lucha entre los sexos?",
+     "opciones": [
+      [
+       "Que hombres y mujeres se reconozcan mutuamente como libertades iguales: la fraternidad.",
+       true
+      ],
+      [
+       "Que las mujeres dominen a los hombres para compensar.",
+       false,
+       "Eso repetiría el problema: una libertad dominando a otra.",
+       "g-alteridad"
+      ],
+      [
+       "Que cada sexo viva separado del otro.",
+       false,
+       "No: el texto busca una relación entre iguales, no la separación."
+      ],
+      [
+       "Que las mujeres acepten su papel tradicional para evitar conflictos.",
+       false,
+       "Eso sería aceptar la situación impuesta que Beauvoir critica.",
+       "g-el-mito-de-la-maternidad"
+      ]
+     ],
+     "ok": "Exacto: reconocerse como iguales; esa es la fraternidad.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "De la guerra a la fraternidad",
+      "titulo": "Dos libertades que se reconocen",
+      "glosario": [
+       "g-alteridad",
+       "g-la-ambiguedad"
+      ],
+      "cita": {
+       "texto": "«Toda opresión crea un estado de guerra.»",
+       "fuente": "Beauvoir, <em>El segundo sexo</em>, «Conclusión» (trad. de Alicia Martorell)"
+      },
+      "definicion": [
+       "La mujer ha sido definida como <strong>la Otra</strong>, lo inesencial, confinada en la inmanencia. Como toda persona oprimida, busca recuperar su soberanía: de ahí el conflicto.",
+       "Hoy el conflicto es entre <strong>dos trascendencias</strong>, dos libertades, que en lugar de reconocerse quieren dominarse.",
+       "La salida es el <strong>reconocimiento recíproco</strong>: que, más allá de sus diferencias naturales, hombres y mujeres afirmen su fraternidad."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿Por qué, según Beauvoir, hay «guerra» entre los sexos?",
+       "opciones": [
+        [
+         "Porque la opresión de la mujer provoca que busque recuperar su libertad, y el hombre se resiste a tratarla como igual.",
+         true
+        ],
+        [
+         "Porque hombres y mujeres son enemigos por naturaleza.",
+         false,
+         "El texto lo niega: ningún destino fisiológico impone esa hostilidad."
+        ],
+        [
+         "Porque las mujeres son más agresivas.",
+         false,
+         "Beauvoir dice que la agresividad nace de la situación, no de una naturaleza."
+        ],
+        [
+         "Porque así ha sido siempre y siempre será.",
+         false,
+         "Al contrario: es un momento de la historia que se puede superar."
+        ]
+       ],
+       "ok": "Correcto: el conflicto nace de la opresión, y por eso puede acabar.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar la «Conclusión» de Beauvoir",
+   "parrafos": [
+    "Ningún destino biológico condena a la mujer: la humanidad es un devenir histórico, y la inferioridad de la mujer le ha sido impuesta por su situación. Toda opresión crea un estado de guerra; la salida es que hombres y mujeres se reconozcan como libertades iguales y afirmen su fraternidad.",
+    "Para la PAU: en el resumen, distingue la crítica del «destino» y la propuesta final; en la opción A o B, relaciónala con la idea existencialista de que la existencia precede a la esencia."
    ]
   }
  }

@@ -1252,6 +1252,10 @@ const IMPRESCINDIBLES = {
   "14": [
    1,
    "Curiosidad o ampliación"
+  ],
+  "15": [
+   4,
+   "Vocabulario básico de la Ética de Spinoza (tema 15, nivel 5 en la revisión del profesor del 20-10-2026)"
   ]
  }
 };
