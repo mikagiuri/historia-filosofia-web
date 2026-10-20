@@ -53,6 +53,11 @@ const PISTAS = [
       "boton": "Necesito ver el esquema",
       "etiqueta": "Esquema de la alegoría",
       "titulo": "Qué es cada cosa",
+      "glosario": [
+       "g-el-mito-de-la-caverna",
+       "g-doxa",
+       "g-episteme"
+      ],
       "definicion": [
        "<strong>Prisioneros encadenados</strong> → los seres humanos sin educación filosófica.",
        "<strong>Sombras en la pared</strong> → las apariencias sensibles: opinión (<em>doxa</em>).",
@@ -91,6 +96,11 @@ const PISTAS = [
      {
       "etiqueta": "Definición y explicación",
       "titulo": "Los dos mundos",
+      "glosario": [
+       "g-mundo-sensible",
+       "g-teoria-de-las-ideas",
+       "g-dualismo-ontologico"
+      ],
       "definicion": [
        "Platón separa el <strong>mundo sensible</strong> (cambiante, múltiple, captado por los sentidos) del <strong>mundo inteligible</strong> o de las Ideas (eterno, inmutable, captado por la razón).",
        "Lo sensible es solo una copia imperfecta de las Ideas, como las sombras son copias de los objetos.",
@@ -171,6 +181,10 @@ const PISTAS = [
       "boton": "Mostrar la explicación",
       "etiqueta": "Conocimiento y política",
       "titulo": "El regreso del filósofo",
+      "glosario": [
+       "g-el-bien",
+       "g-dialectica-ap"
+      ],
       "definicion": [
        "El liberado vuelve y, acostumbrado a la luz, ve mal en la oscuridad: los prisioneros se ríen de él y, si pudieran, lo matarían. El que vuelve es <strong>Sócrates</strong>, y los prisioneros, sus <strong>conciudadanos atenienses</strong>, que lo condenaron a muerte en el 399 a. C.",
        "Para Platón, gobernar bien exige conocer la Idea de Bien. Por eso, en la ciudad justa, gobiernan los <strong>filósofos</strong>, aunque preferirían quedarse contemplando.",
@@ -268,6 +282,9 @@ const PISTAS = [
       "boton": "Necesito ver los pasos",
       "etiqueta": "El camino de la duda",
       "titulo": "Tres motivos para dudar",
+      "glosario": [
+       "g-el-genio-maligno"
+      ],
       "definicion": [
        "<strong>Los sentidos</strong>: a veces nos engañan → la percepción ordinaria no es del todo fiable.",
        "<strong>El sueño</strong>: no siempre distinguimos con seguridad la vigilia del sueño → el mundo exterior puede ser dudoso.",
@@ -308,6 +325,10 @@ const PISTAS = [
      {
       "etiqueta": "Definición y explicación",
       "titulo": "La duda metódica",
+      "glosario": [
+       "g-duda-metodica",
+       "g-ideas-claras-y-distintas"
+      ],
       "definicion": [
        "La <strong>duda metódica</strong> consiste en tratar como falso, de forma provisional, todo aquello de lo que se pueda dudar.",
        "No es <strong>escepticismo</strong>: el escéptico se queda en la duda; Descartes la usa como herramienta para encontrar un fundamento firme.",
@@ -388,6 +409,11 @@ const PISTAS = [
       "boton": "Mostrar la explicación",
       "etiqueta": "La primera certeza",
       "titulo": "El cogito",
+      "glosario": [
+       "g-cogito",
+       "g-res-cogitans",
+       "g-la-garantia-de-dios"
+      ],
       "definicion": [
        "Aunque todo lo demás sea dudoso, hay algo que no puedo negar: que estoy dudando. Y dudar es pensar.",
        "Si pienso, existo como cosa que piensa: «<strong>pienso, luego existo</strong>» (<em>cogito, ergo sum</em>).",
@@ -485,6 +511,9 @@ const PISTAS = [
       "boton": "Necesito leer un texto",
       "etiqueta": "Texto de apoyo",
       "titulo": "Lee y busca la oposición decisiva",
+      "glosario": [
+       "g-deber"
+      ],
       "cita": {
        "texto": "«Una acción realizada por deber tiene su valor moral, no en el propósito que por medio de ella se quiere alcanzar, sino en la máxima por la cual ha sido resuelta.»",
        "fuente": "Kant, Fundamentación de la metafísica de las costumbres, cap. I"
@@ -524,6 +553,11 @@ const PISTAS = [
      {
       "etiqueta": "Definición y explicación",
       "titulo": "Imperativo categórico",
+      "glosario": [
+       "g-imperativo-categorico",
+       "g-imperativo-hipotetico",
+       "g-autonomia"
+      ],
       "definicion": [
        "Es un mandato moral que obliga de manera <strong>incondicional</strong>: no depende de que queramos alcanzar un fin particular.",
        "Un imperativo hipotético adopta la forma «si quieres X, debes hacer Y». El categórico ordena actuar por deber, aunque la acción no nos beneficie. Ejemplo: «No mientas» vale incluso cuando mentir te beneficiaría.",
@@ -604,6 +638,10 @@ const PISTAS = [
       "boton": "Mostrar la formulación",
       "etiqueta": "Formulación de la ley universal",
       "titulo": "La formulación",
+      "glosario": [
+       "g-imperativo-categorico",
+       "g-a-priori"
+      ],
       "cita": {
        "texto": "«Obra solo según aquella máxima por la cual puedas querer que al mismo tiempo se convierta en una ley universal.»",
        "fuente": "Kant, Fundamentación de la metafísica de las costumbres, cap. II"
@@ -705,6 +743,9 @@ const PISTAS = [
       "boton": "Necesito leer un texto",
       "etiqueta": "Texto de apoyo",
       "titulo": "Lee la fórmula y fíjate en dos expresiones",
+      "glosario": [
+       "g-imperativo-categorico"
+      ],
       "cita": {
        "texto": "«Obra de tal modo que uses la humanidad, tanto en tu persona como en la persona de cualquier otro, siempre al mismo tiempo como fin y nunca simplemente como medio.»",
        "fuente": "Kant, Fundamentación de la metafísica de las costumbres, cap. II"
@@ -744,6 +785,10 @@ const PISTAS = [
      {
       "etiqueta": "Definición y explicación",
       "titulo": "Precio y dignidad",
+      "glosario": [
+       "g-dignidad",
+       "g-autonomia"
+      ],
       "definicion": [
        "Para Kant, las cosas tienen <strong>precio</strong>: se pueden sustituir por algo equivalente. Las personas tienen <strong>dignidad</strong>: un valor que no admite equivalente ni intercambio.",
        "La dignidad procede de la <strong>autonomía</strong>: el ser racional es capaz de darse a sí mismo la ley moral. Por eso es un fin en sí mismo y no un simple instrumento.",
@@ -824,6 +869,10 @@ const PISTAS = [
       "boton": "Mostrar la explicación",
       "etiqueta": "Las dos pruebas, en el mismo caso",
       "titulo": "La promesa falsa, vista dos veces",
+      "glosario": [
+       "g-deber",
+       "g-imperativo-categorico"
+      ],
       "definicion": [
        "<strong>Ley universal.</strong> Si todos prometieran en falso cuando les conviene, nadie creería ya en las promesas: la máxima se destruye al universalizarla.",
        "<strong>Humanidad.</strong> Quien recibe la promesa falsa no puede consentir un plan que consiste en engañarle: se le usa solo como medio.",

@@ -463,5 +463,85 @@ const JUEGO_ARIS = {
     "¿Merece la pena ser incorruptible si eso te puede costar la vida?",
     "¿Qué distingue la vida política, la discursiva y la contemplativa? ¿Cuál es, según Aristóteles, la más feliz?",
     "¿Por qué es tan importante la phrónesis (prudencia) para vivir bien?"
-  ]
+  ],
+
+  // (20-10) Mesa «Juzgar la vida» (artefacto «Los pesos de la felicidad» del profesor): la misma vida del juego,
+  // juzgada por cinco teorías. Pesos, topes y factores son una interpretación del laboratorio, no doctrina de los
+  // autores; no tocan el motor ni el balance del juego. Citas verificadas el 20-10 (historial de octubre).
+  // teorias: w = peso por variable (negativo resta), tope = valor a partir del cual no suma más,
+  // muerte = factor por el que se multiplica la nota si la vida se trunca, según la causa (claves de causas).
+  juzgar: {
+    causas: {
+      fidelidad: { nombre:"Por no traicionar sus principios", desc:"muere por defender la justicia o la verdad, o por no responder a una injusticia con otra" },
+      temeridad: { nombre:"Por arriesgar sin necesidad", desc:"muere buscando un peligro que podía evitar" },
+      ambicion:  { nombre:"Por ambición", desc:"muere persiguiendo el poder o la gloria" },
+      enemigos:  { nombre:"A manos de sus enemigos", desc:"los enemigos acumulados acaban con su vida (juicio o atentado)" },
+      salud:     { nombre:"Por agotamiento", desc:"su cuerpo no aguanta más" },
+      ruina:     { nombre:"En la ruina", desc:"pierde todo y queda fuera de la vida de la ciudad" }
+    },
+    teorias: [
+      { id:"aristoteles", nombre:"Aristóteles", sub:"como en el juego",
+        w:{ car:2, phr:1, sal:1, hac:1, rep:1, ene:0 }, tope:{ car:12, phr:12, sal:8, hac:8, rep:6, ene:12 },
+        muerte:{ fidelidad:0.6, temeridad:0.35, ambicion:0.4, enemigos:0.5, salud:0.5, ruina:0.5 },
+        txt:"La felicidad es actividad del alma conforme a la virtud, y además «en una vida completa: una golondrina no hace verano» (Ética a Nicómaco I, 7). Pero necesita bienes exteriores: no es fácil que sea feliz quien es muy feo, de mala familia o solitario y sin hijos (I, 8), y a quien acaba en grandes desgracias, como Príamo, nadie lo llama feliz (I, 9). Aquí eso se traduce en sumar carácter y bienes con topes: en esta lectura, a partir de cierto punto más riqueza no añade felicidad. Una vida truncada no es una vida completa, aunque no todas las muertes pesan igual: la valentía es el término medio entre la cobardía y la temeridad (III, 7), y morir con nobleza no es lo mismo que morir por temerario." },
+      { id:"estoicos", nombre:"Estoicos", sub:"solo la virtud",
+        w:{ car:3, phr:2, sal:0, hac:0, rep:0, ene:0 }, tope:{ car:12, phr:12, sal:12, hac:12, rep:12, ene:12 },
+        muerte:{ fidelidad:1, temeridad:0.8, ambicion:0.7, enemigos:1, salud:1, ruina:1 },
+        txt:"Solo la virtud es un bien; la vida, la salud, la riqueza y la fama no son bienes ni males, sino «indiferentes» (Diógenes Laercio VII, 101-103; Epicteto, Manual 1). El sabio es feliz aunque lo pierda todo, y la muerte tampoco le quita nada: lo que importa es cómo se vive mientras se vive. En esta lectura, solo pesa morir por una pasión, como la temeridad o la ambición, porque eso sí revela un juicio equivocado." },
+      { id:"epicuro", nombre:"Epicuro", sub:"un placer tranquilo",
+        w:{ car:1, phr:1, sal:2, hac:0.5, rep:0, ene:-1 }, tope:{ car:12, phr:12, sal:10, hac:4, rep:12, ene:12 },
+        muerte:{ fidelidad:1, temeridad:0.9, ambicion:0.8, enemigos:1, salud:1, ruina:1 },
+        txt:"El placer que buscamos es no sufrir en el cuerpo ni turbarse en el alma (Carta a Meneceo, en Diógenes Laercio X, 131), y la muerte no es nada para nosotros (X, 124). Basta con lo necesario: más riqueza no da más placer. En esta lectura, la fama y los enemigos traen turbación, y por eso los enemigos restan." },
+      { id:"spinoza", nombre:"Spinoza", sub:"potencia y entender",
+        w:{ car:1, phr:2, sal:1, hac:0.5, rep:0.5, ene:-1 }, tope:{ car:12, phr:12, sal:10, hac:6, rep:6, ene:12 },
+        muerte:{ fidelidad:1, temeridad:0.7, ambicion:0.7, enemigos:1, salud:1, ruina:1 },
+        txt:"Llamamos bueno a lo que sirve para conservar nuestro ser, es decir, a lo que aumenta nuestra potencia de obrar (Ética IV, 8, demostración). La mayor satisfacción del alma nace del tercer género de conocimiento (V, 27), y la beatitud no es el premio de la virtud, sino la virtud misma (V, 42). Nada es más útil al hombre que el hombre (IV, 18, escolio), y el odio nunca puede ser bueno (IV, 45). El hombre libre en nada piensa menos que en la muerte (IV, 67): en esta lectura, una vida corta no es peor por ser corta. Pero no da igual cómo se muere: el hombre libre muestra la misma firmeza al retirarse a tiempo que al luchar (IV, 69, corolario), así que morir por temeridad o arrastrado por la ambición revela una pasión, no libertad." },
+      { id:"trasimaco", nombre:"Trasímaco", sub:"el poder",
+        w:{ car:0, phr:0.5, sal:1, hac:2, rep:2, ene:0 }, tope:{ car:12, phr:12, sal:12, hac:12, rep:12, ene:12 },
+        muerte:{ fidelidad:0.3, temeridad:0.6, ambicion:0.9, enemigos:0.7, salud:0.7, ruina:0.3 },
+        txt:"La justicia es lo que conviene al más fuerte (Platón, República I, 338c), y el más feliz es quien comete la injusticia más completa, el tirano (344a-c). A la justicia la llama «noble simpleza» (348c). En esta lectura, el carácter no cuenta, los enemigos son el precio del éxito y morir por la justicia sería la mayor necedad." }
+    ],
+    mia: { nombre:"Tu teoría", sub:"edítala", txt:"Mueve los pesos y los topes: ¿qué cuenta en una vida buena, y hasta dónde? Un peso negativo resta (por ejemplo, los enemigos)." },
+    // estilos para vivir en automático: qué valora quien decide (muerte = cuánto teme jugarse la vida)
+    estilos: [
+      { id:"prudente", nombre:"Prudente", w:{ phr:2, car:1.5, sal:1, hac:0.5, rep:0.5, ene:-1.5 }, muerte:20 },
+      { id:"ambicioso", nombre:"Ambicioso", w:{ rep:2, hac:2, car:0, phr:0.3, sal:0.5, ene:-0.2 }, muerte:3 },
+      { id:"incorruptible", nombre:"Incorruptible", w:{ car:3, phr:1, rep:0.2, hac:0, sal:0.3, ene:0 }, muerte:1 },
+      { id:"epicureo", nombre:"Tranquilo", w:{ sal:2, ene:-2, phr:1, car:0.5, hac:0.5, rep:-0.5 }, muerte:10 },
+      { id:"azar", nombre:"Al azar", w:null, muerte:0 }
+    ],
+    preguntas: [
+      "Busca una vida que Trasímaco considere excelente y los estoicos un fracaso. ¿Qué tiene? ¿Con quién estás de acuerdo?",
+      "Aristóteles exige una vida completa. Compara dos vidas truncadas por causas distintas (por no traicionar, por temeridad, por ambición): ¿deben pesar igual? ¿Qué diría un estoico? ¿Y Spinoza?",
+      "¿Por qué crees que la vida prudente sale bien parada en casi todas las teorías? ¿Es un rasgo del juego o una tesis de Aristóteles sobre la phrónesis?",
+      "Construye «tu teoría» y defiéndela: ¿qué pesa más en una vida buena y qué no cuenta?",
+      "Los pesos que ves son una interpretación discutible de cada filósofo. Cambia uno que te parezca injusto y explica por qué."
+    ],
+    // rótulos de la mesa; {x} = hueco que rellena la vista
+    ui: {
+      modoJugar:"Jugar", modoJuzgar:"Juzgar la vida",
+      lede:"Vive una vida griega con el motor de Eudaimonía y mira después cómo la juzgarían Aristóteles, los estoicos, Epicuro, Spinoza y Trasímaco. La misma vida puede ser un éxito para unos y un fracaso para otros: la fórmula de la felicidad también es una tesis filosófica.",
+      aviso:"Los pesos, los topes y los factores de cada escuela son una interpretación de este laboratorio para poder comparar, no una doctrina de los autores: ninguno puso números a la felicidad. Discútelos y cámbialos en «Tu teoría».",
+      t1:"1 · Vive una vida", personaje:"Personaje", jugarYo:"Jugarla yo", o:"o", auto:"Vivirla en automático", conEstilo:"con un estilo",
+      t2:"2 · La vida como trayectoria", t2d:"Cada variable, ronda a ronda. Pasa el dedo o el ratón por una gráfica para ver qué decisión se tomó en cada momento. La franja sombreada es la madurez.",
+      t3:"3 · Los pesos de la felicidad", t4:"4 · Comparar vidas", t4d:"Guarda vidas y compáralas: cada teoría elige su vida mejor (★). ¿Coinciden?",
+      guardar:"Guardar esta vida", diez:"Añadir 10 vidas automáticas al azar", vaciar:"Vaciar", paraPensar:"Para pensar en clase",
+      virtud:"Virtud", debilidad:"Debilidad", ronda:"ronda", bloqueada:"(tu carácter no te lo permite)",
+      sinCambios:"sin cambios", tuDecision:"Tu decisión:", saleBien:"Sale bien:", saleMal:"Sale mal:", fortuna:"Fortuna:", peligro:"Peligro:", muerte:"Muerte:", pasaTiempo:"Pasa el tiempo:",
+      seguir:"Seguir", verFinal:"Ver el final", jugadaPorTi:"jugada por ti",
+      muereAntes:"Muere antes de tiempo", acabaRuina:"Acaba en la ruina", completa:"Vive una vida completa",
+      decisiones:"{n} decisiones", conEstiloX:"(estilo «{e}»)", bajaVer:"Baja a ver su trayectoria y cómo la juzga cada teoría.",
+      puntoPartida:"Punto de partida:", rondaX:"Ronda {n} ({e}):", deA:"{k}: de {a} a {b}",
+      juegoDice:"El propio juego le da {n} puntos de eudaimonía: «{b}». Debajo, la misma vida juzgada por cinco teorías y por la tuya (de 0 a 100 %). Pulsa una para ver sus pesos.",
+      copiar:"Copiar estos pesos en «Tu teoría» para cambiarlos",
+      variable:"Variable", peso:"Peso", tope:"Tope", truncada:"Si la vida se trunca: por qué se trunca", causa:"Causa", factor:"Factor", multiplica:"La nota se multiplica por", estaVida:"← esta vida",
+      pesoDe:"Peso de {k}", topeDe:"Tope de {k}", factorDe:"Factor: {k}",
+      comoCalcula:"Cómo se calcula: suma de peso × valor (sin pasar del tope) de cada variable, dividida por lo máximo posible. Los pesos negativos restan.",
+      curvaT:"Felicidad según {t}, ronda a ronda", curvaAria:"Felicidad según {t} a lo largo de la vida: acaba en {p} %",
+      caida:"La caída final es lo que esta teoría resta por cómo se truncó la vida ({c}: ×{f}).",
+      soloFinal:"Aristóteles diría que solo cuenta el final: no se puede llamar feliz a nadie hasta ver su vida entera.",
+      rondaN:"ronda {n}", vidaCol:"Vida", quitar:"Quitar esta vida",
+      vacio:"Todavía no hay vidas guardadas. Vive una y pulsa «Guardar esta vida», o añade diez automáticas."
+    }
+  }
 };
