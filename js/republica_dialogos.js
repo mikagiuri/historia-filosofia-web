@@ -171,6 +171,77 @@ const REP_DIAL = {
       critica:{ autor:"Aristóteles", txt:"Imitar es connatural al ser humano desde niño, y por la imitación adquiere sus primeros conocimientos (paráfrasis).", loc:"Poética 4, 1448b5-9" },
       glo:["g-paideia"] }
   ],
+  // (20-10, tanda 2) dos versiones seleccionables, cartas de acción nuevas, fases de B y cierre con el mito de Er (A)
+  versiones: {
+    degen: { emoji:"⛓️", eyebrow:"Versión A", name:"Degeneración de los regímenes", libros:"República VIII-IX y X",
+      lema:"La ciudad y el alma se corrompen: de la aristocracia a la tiranía.",
+      intro:"Funda la ciudad justa y resiste: cada crisis puede hacerla bajar un escalón. Gana quien no cae." },
+    clases: { emoji:"⚖️", eyebrow:"Versión B", name:"Las clases que salvan la pólis", libros:"República II-IV",
+      lema:"Cada clase cumple su función y la justicia salva la ciudad.",
+      intro:"Reparte las tres clases, educa a los guardianes y consigue que cada cual haga lo suyo: sabiduría arriba, valentía en los auxiliares, templanza en todos." }
+  },
+  acciones: [
+    { id:"censura", v:"a", ap:1, img:"ac-censura", name:"Censura de los poetas", src:"República II-III, 377b-392c",
+      d:"Los jóvenes crecen con modelos de virtud: +1 de sabiduría a cada guardián." },
+    { id:"limite", v:"a", ap:1, img:"ac-limite", name:"Límite a la riqueza", src:"Leyes V, 744d-e",
+      d:"Nadie puede tener más de cuatro veces lo que el más pobre: frena la oligarquía (+1 de armonía)." },
+    { id:"sorteo", v:"a", ap:1, img:"ac-sorteo", name:"Cargos por sorteo", src:"República VIII, 557a",
+      d:"Más ciudadanos gobiernan (+2 AP), pero para Platón es el paso a la democracia (−1 de armonía)." },
+    { id:"escolta", v:"a", ap:2, img:"ac-escolta", name:"Guardia personal", src:"República VIII, 566b",
+      d:"Un protector del pueblo pide escolta: +2 de armonía ahora, pero −0,5 en cada turno siguiente." },
+    { id:"consejo", v:"a", ap:2, img:"ac-consejo", name:"Consejo nocturno", src:"Leyes XII, 961a-b",
+      d:"Los mejores se reúnen para vigilar las leyes: +2 de armonía." },
+    { id:"zanganos", v:"a", ap:1, img:"ac-zanganos", name:"Fuera los zánganos", src:"República VIII, 552c",
+      d:"Los ociosos que gastan sin producir son la enfermedad de la colmena: +1 de armonía." },
+    { id:"oficio", v:"b", ap:1, img:"ac-oficio", name:"Un oficio por persona", src:"República II, 370a-c",
+      d:"Cada cual hace una sola cosa, la que le va por naturaleza: +6 de producción." },
+    { id:"musica", v:"b", ap:1, img:"ac-musica", name:"Música y gimnasia", src:"República III, 410c-412a",
+      d:"Educación del alma y del cuerpo: +1 de sabiduría a cada guardián." },
+    { id:"lana", v:"b", ap:1, img:"ac-lana", name:"Teñir la lana", src:"República IV, 429d-430b",
+      d:"La educación fija en los auxiliares la opinión recta sobre lo que hay que temer, como un tinte que no se lava: este turno los guerreros valen ×1,5." },
+    { id:"pruebas", v:"b", ap:2, img:"ac-pruebas", name:"Pruebas de los guardianes", src:"República III, 413c-414a",
+      d:"Solo gobiernan quienes resisten placeres y miedos: todos tus guardianes cuentan como justos." },
+    { id:"comun", v:"b", ap:2, img:"ac-comun", name:"Vida en común de los guardianes", src:"República III, 416d-417b",
+      d:"Sin oro ni casas propias, nada los separa de la ciudad: +2 de armonía." },
+    { id:"mito", v:"b", ap:1, img:"ac-mito", name:"Mito de los metales", src:"República III, 415a-c",
+      d:"Un relato común une a la ciudad: +1 de armonía." },
+    { id:"rey", v:"b", ap:3, img:"ac-rey", name:"Rey filósofo", src:"República V, 473c-d",
+      d:"Si tienes guardianes de sabiduría plena, gobiernan ellos: +3 de armonía. Si no, no sirve de nada." },
+    { id:"bajar", v:"b", ap:1, img:"ac-bajar", name:"Volver a la caverna", src:"República VII, 519c-520d",
+      d:"Los sabios bajan a gobernar: +2 de armonía, pero −1 de sabiduría a cada guardián." }
+  ],
+  fases: [
+    { name:"Especialización", lema:"Cada cual, un oficio: la ciudad nace de que nadie se basta a sí mismo (369b)." },
+    { name:"Guardianes", lema:"Educar a los que defienden: música, gimnasia y opinión recta." },
+    { name:"Gobierno", lema:"¿Quién manda? Los que saben, si los hay." },
+    { name:"Prueba", lema:"¿Se sostiene la justicia cuando llegan las crisis?" }
+  ],
+  funciones: [
+    { k:"sophia", emoji:"🦉", name:"Sabiduría", gr:"σοφία (*sophía*)", clase:"gobernantes", ok:"Hay gobernantes de sabiduría plena, con ciencia del Bien.", no:"Ningún guardián alcanza la sabiduría plena.", loc:"República IV, 428b-429a" },
+    { k:"andreia", emoji:"🛡️", name:"Valentía", gr:"ἀνδρεία (*andreía*)", clase:"auxiliares", ok:"Los auxiliares bastan para defender la ciudad y conservan la opinión recta sobre lo temible.", no:"Hay demasiado pocos defensores.", loc:"República IV, 429b-430c" },
+    { k:"sophrosyne", emoji:"🍷", name:"Templanza", gr:"σωφροσύνη (*sophrosýne*)", clase:"todas las clases", ok:"La ciudad se basta a sí misma: todos aceptan quién manda.", no:"La producción no alcanza: el apetito desborda a la ciudad.", loc:"República IV, 430d-432a" },
+    { k:"dikaiosyne", emoji:"⚖️", name:"Justicia", gr:"δικαιοσύνη (*dikaiosýne*)", clase:"la ciudad entera", ok:"Cada clase hace lo suyo: la ciudad es justa.", no:"Falta alguna de las tres: aún no hay justicia.", loc:"República IV, 433a-434c" }
+  ],
+  doxa:"Los auxiliares no tienen ciencia, ἐπιστήμη (*epistéme*), sino opinión recta, ὀρθὴ δόξα (*orthè dóxa*): su valentía es «la conservación de la opinión recta y legítima sobre lo que hay que temer y lo que no» (República IV, 430b). Solo los gobernantes salen de la caverna.",
+  finB: [
+    { min:8, todas:true, emoji:"🏛️", name:"Calípolis: la ciudad justa", lema:"Las tres clases hacen lo suyo y la ciudad se sostiene." },
+    { min:5, emoji:"⚖️", name:"Una ciudad en pie, aún no del todo justa", lema:"Aguanta, pero alguna función falla." },
+    { min:0.1, emoji:"⚠️", name:"Una ciudad desordenada", lema:"Cada clase invade lo de las otras." },
+    { min:-999, emoji:"💥", name:"La ciudad se disuelve", lema:"Sin justicia, la ciudad deja de ser una." }
+  ],
+  er: {
+    titulo:"Epílogo · el mito de Er",
+    situacion:"Er, un guerrero muerto en batalla, revive en la pira y cuenta lo que vio: las almas eligen su próxima vida. El primero en elegir, sin pensarlo, toma la del tirano más poderoso; luego descubre que en ella está escrito que devorará a sus propios hijos.",
+    cita:"«La culpa es de quien elige; el dios no es culpable.»", loc:"República X, 617e",
+    griego:"αἰτία ἑλομένου· θεὸς ἀναίτιος (*aitía heloménou; theòs anaítios*).",
+    pregunta:"Te toca elegir vida. ¿Cuál escoges?",
+    opts:[
+      { t:"La vida del tirano: poder sin límites.", r:"Es la elección del primero, que venía de una ciudad ordenada pero había sido virtuoso «por costumbre, sin filosofía» (619c-d)." },
+      { t:"La vida tranquila de un particular, como Odiseo.", r:"Odiseo, curado de su ambición, busca largo tiempo la vida de un hombre privado y sin cargos, y la elige contento (620c-d)." },
+      { t:"La vida que mejor sepa distinguir la buena de la mala.", r:"Es lo que aconseja Sócrates: aprender a elegir siempre la mejor vida entre las posibles es lo que más importa (618b-c)." }
+    ],
+    cierre:"Así termina la República: «el mito se salvó y no se perdió, y nos salvará si le hacemos caso» (621b-c)."
+  },
   ui: {
     regTitulo:"Régimen de tu ciudad (República, libro VIII)",
     degenera:"Tu ciudad degenera",
@@ -193,6 +264,35 @@ const REP_DIAL = {
     dTuya:"Tu conclusión: ¿qué postura de tu partida defenderías por escrito, y por qué?",
     glosario:"Conceptos en el glosario",
     sinDialogos:"En esta partida no hubo diálogos.",
-    hudReg:"Régimen"
+    hudReg:"Régimen",
+    elegir:"Elige versión",
+    accionesMax:"Acciones (máx. 3 este turno)",
+    elegirIntro:"Dos juegos con el mismo motor y focos distintos. Puedes cambiar cuando quieras.",
+    jugarEsta:"Jugar esta versión →",
+    cambiar:"↺ Cambiar de versión",
+    fase:"Fase",
+    nuevaFase:"Nueva fase: +2 AP",
+    funciones:"Las funciones de la ciudad",
+    escolta:"La guardia personal crece: −0,5 de armonía.",
+    erElige:"Tu elección",
+    verFin:"Ver el final →",
+    version:"Versión",
+    chuleta:"📋 Chuleta del juego",
+    chuletaT:"Chuleta: todas las reglas y fórmulas",
+    volver:"← Volver",
+    cAcciones:"Cartas de acción (coste en AP y efecto)",
+    cComunes:"Comunes a las dos versiones",
+    cEventos:"Eventos (qué los dispara y qué hacen)",
+    cEconomia:"Economía de puntos",
+    cEconomiaT:"Empiezas con 8 AP. Cada turno ganas 1 AP más; en la Versión B, cada fase nueva da 2 AP. Puedes usar hasta 3 acciones por turno, cada una una vez.",
+    cVictoria:"Cómo se gana y cómo se pierde",
+    cVictoriaA:"Versión A: empiezas en aristocracia con 10 de armonía. Por debajo de 8, timocracia; de 6, oligarquía; de 4, democracia; de 2, tiranía. No se vuelve a subir. Con 0 de armonía o menos de 3 habitantes, la ciudad se hunde. Ganas si acabas en aristocracia o timocracia.",
+    cVictoriaB:"Versión B: ganas la Calípolis si acabas con 8 o más de armonía y las cuatro funciones cumplidas; con 5 o más, la ciudad sigue en pie. Con 0 de armonía o menos de 3 habitantes, se disuelve.",
+    cFunciones:"Las cuatro funciones (Versión B): sabiduría = algún guardián con sabiduría 5; valentía = guerreros ≥ productores ÷ 2,5; templanza = producción ≥ población; justicia = las tres a la vez.",
+    cClases:"Las clases y su coste",
+    cClasesT:"Coste de cada perfil = suma de sus tres virtudes. Guardián: las tres ≥4. Guerrero: valentía y templanza ≥4. Productor: templanza ≥4; cada productor alimenta a 2 personas. Por debajo de 30 habitantes, el evento «Ciudad menguada» resta. En Real, productores ≥ 2 × (guardianes + guerreros): es una regla del juego, no de Platón.",
+    cDialogos:"Diálogos: salen los de tu versión, uno cada tres turnos. Eliges postura y razón; el resultado cambia la ciudad.",
+    cDestino:"Cartas del destino (peste, guerra, terremoto, muerte del fundador): restan y matan, sean cuales sean tus decisiones. Salen 3 en Real y 2 en Fácil.",
+    cTurnos:"Duración: 12 turnos en Fácil y 14 en Real."
   }
 };
