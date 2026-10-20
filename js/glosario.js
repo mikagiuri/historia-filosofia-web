@@ -82,18 +82,6 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
-  "imp": 3,
-  "impg": 12,
-  "t": "Alejandría",
-  "id": "g-alejandria",
-  "area": "Historia",
-  "bloque": "A",
-  "unidad": "A10",
-  "tema": "El helenismo",
-  "def": "Fue uno de los principales centros del saber helenístico. La Biblioteca, el Museo y las redes de estudiosos organizaron la cultura griega en un mundo más amplio."
- },
- {
-  "subject": "hf",
   "imp": 4,
   "impg": 11,
   "t": "Alienación",
@@ -5210,21 +5198,6 @@ const GLOSARIO = [
   "ilustre": [
    "descartes",
    "leibniz"
-  ]
- },
- {
-  "subject": "hf",
-  "imp": 2,
-  "impg": 13,
-  "t": "Hiparquía de Maronea",
-  "id": "g-hiparquia-de-maronea",
-  "area": "Historia",
-  "bloque": "A",
-  "unidad": "A10",
-  "tema": "El helenismo",
-  "def": "Filósofa cínica (s. IV-III a. C.), una de las poquísimas mujeres filósofas de la Antigüedad de las que hay noticia. Renunció a la riqueza para vivir según la naturaleza junto a Crates, aplicando el ideal cínico también a su condición de mujer.",
-  "ilustre": [
-   "hiparquia"
   ]
  },
  {

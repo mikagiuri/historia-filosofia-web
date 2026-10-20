@@ -462,6 +462,40 @@ const COMUNIDADES = [
   ]
  },
  {
+  "id": "museo-alejandria",
+  "cas_ilu": [
+   "hipatia"
+  ],
+  "nombre": "El Museo y la Biblioteca de Alejandría",
+  "fechas": "Alejandría, hacia 300 a. C. – siglos IV-V d. C.",
+  "cas_epoca": "ant",
+  "lugar": "Dentro del palacio real de los Ptolomeos, junto al puerto de Alejandría, en Egipto. El Museo (Mouseion, «casa de las Musas») era una institución de investigación con salas de estudio, un comedor común, un paseo y jardines; a su lado, la gran Biblioteca reunía los rollos de papiro. Una segunda biblioteca, más accesible, se guardaba en el Serapeo, el templo del dios Serapis.",
+  "hoy": "No queda nada de los edificios antiguos: su emplazamiento exacto se discute y buena parte de la Alejandría de los Ptolomeos está hoy bajo el agua o bajo la ciudad moderna. En 2002 se inauguró junto al mar la Bibliotheca Alexandrina, que recuerda a la antigua sin ser su continuación.",
+  "miembros": "La fundaron los primeros Ptolomeos (Ptolomeo I y Ptolomeo II) siguiendo, según la tradición, el consejo de Demetrio de Falero. No era una escuela con una doctrina, sino un centro de sabios pagados por el rey: el matemático Euclides, Eratóstenes (que midió la circunferencia de la Tierra y dirigió la Biblioteca), el astrónomo Aristarco de Samos (que propuso que la Tierra gira alrededor del Sol), los médicos Herófilo y Erasístrato, y el poeta y bibliotecario Calímaco, que ordenó los fondos en los Pínakes, el primer gran catálogo. Siglos después, ya en época romana, enseñó en Alejandría la filósofa y matemática Hipatia.",
+  "vida": "Los sabios vivían del sueldo real y comían juntos, dedicados a copiar, corregir y comentar textos y a investigar en matemáticas, astronomía, geografía y medicina. Para llenar la Biblioteca, los Ptolomeos compraban rollos por todo el Mediterráneo y, según cuenta Galeno, mandaban requisar los libros que viajaban en los barcos que hacían escala en el puerto, para copiarlos.",
+  "ideas": "La idea de reunir en un solo lugar todo el saber escrito del mundo y estudiarlo con método. Alejandría convirtió el conocimiento en un trabajo colectivo y organizado, sostenido por el poder político.",
+  "cita": {
+   "t": "Un libro grande es un mal grande.",
+   "ref": "Dicho atribuido a Calímaco, bibliotecario de Alejandría, que prefería las obras breves (fragmento 465 Pfeiffer)"
+  },
+  "fin": "La Biblioteca no desapareció en un solo día. Sufrió daños durante la guerra de Julio César en Alejandría (48 a. C.) y fue decayendo con los siglos a medida que los Ptolomeos perdían poder; el Serapeo fue destruido en el 391 d. C. por orden del obispo Teófilo. Cuando los árabes tomaron la ciudad en el 642, de la gran Biblioteca ya apenas quedaba nada.",
+  "trampa": "Se suele contar que la Biblioteca ardió entera de golpe —por culpa de César, del cristianismo o de los árabes— y se repite la cifra de 700.000 rollos. Los historiadores lo matizan: la pérdida fue lenta y por muchas causas, las cifras antiguas son poco fiables, y la famosa historia del califa Omar mandando quemar los libros aparece por primera vez más de quinientos años después, en un autor del siglo XIII.",
+  "pregunta": "¿Puede un solo lugar guardar todo el saber del mundo? ¿Qué se pierde cuando se pierde una biblioteca?",
+  "temas": [
+   "hf-helenismo"
+  ],
+  "fuentes": [
+   {
+    "t": "Wikipedia: Biblioteca de Alejandría",
+    "url": "https://es.wikipedia.org/wiki/Biblioteca_de_Alejandr%C3%ADa"
+   },
+   {
+    "t": "Wikipedia: Museo de Alejandría",
+    "url": "https://es.wikipedia.org/wiki/Museo_de_Alejandr%C3%ADa"
+   }
+  ]
+ },
+ {
   "id": "casa-sabiduria",
   "cas_ilu": [],
   "nombre": "La Casa de la Sabiduría (Bayt al-Hikma) de Bagdad",

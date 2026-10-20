@@ -2,7 +2,7 @@
 /* ===== Vídeos en euskera de Ikusgela (18-10-2026) =====
    Vídeos de filosofía del canal de YouTube Ikusgela (lista «Filosofia» y cuatro afines), enlazados en la caja
    «Para seguir con este tema» (bloque «Ampliar», itinerario.js) de los temas de «temas» y en la ficha de Biografías
-   (ilustresview.js) de cada «ilustre». Inventario y criterios: lab_iesmdb\encargos\ikusgela_videos_filosofia_2026-10-18.md.
+   (biografiasview.js) de cada «ilustre». Inventario y criterios: lab_iesmdb\encargos\ikusgela_videos_filosofia_2026-10-18.md.
    eu_titulo = título original del vídeo (no se traduce: KEY_BLACKLIST de web_i18n/i18n_lib.js); es = qué es, en
    castellano (se traduce por tm); en la web en euskera se muestra eu_titulo. Solo Bachillerato (build_eso.js lo excluye). */
 const VIDEOS_EU = [

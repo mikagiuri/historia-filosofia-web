@@ -1,7 +1,7 @@
 "use strict";
 /* ===== Pies de retrato de Biografías con texto en castellano (20-10) =====
-   Generado por lab_iesmdb/encargos/vigilancia_dsh/generar_ilustres_pies.py desde ilustres_retratos.js.
-   Está en DATA_FILES para que se traduzca; ilustresview.js lo prefiere al pie de ILUSTRES_RETRATOS.
+   Generado por lab_iesmdb/encargos/vigilancia_dsh/generar_ilustres_pies.py desde biografias_retratos.js.
+   Está en DATA_FILES para que se traduzca; biografiasview.js lo prefiere al pie de ILUSTRES_RETRATOS.
    Si cambian los pies en tools/build_ilustres.js, hay que volver a generarlo. */
 const ILUSTRES_PIES = {
  "confucio": "Confucius Tang Dynasty · Wu Daozi (atribuido), 685-758 · Public domain",
