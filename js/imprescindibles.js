@@ -134,8 +134,8 @@ const IMPRESCINDIBLES = {
    "Decreto 25; comparación natural de Beauvoir; disertación extraordinaria 2026 (proyecto abierto)"
   ],
   "arendt": [
-   4,
-   "Decreto 22*: totalitarismo y mal absoluto (PAU 2025)"
+   5,
+   "Revisión del profesor (20-10-2026): Hannah Arendt, PAU"
   ],
   "habermas": [
    4,
@@ -1080,16 +1080,16 @@ const IMPRESCINDIBLES = {
    "Saber del decreto sin asterisco: punto de partida del curso"
   ],
   "2": [
-   4,
-   "Decreto: «métodos y herramientas*» (comentario, diálogo argumentativo, disertación)"
+   3,
+   "Revisión del profesor (20-10-2026)"
   ],
   "3": [
-   4,
-   "Decreto: «cosmovisión mítica y teorización filosófica*»"
+   3,
+   "Revisión del profesor (20-10-2026)"
   ],
   "4": [
-   3,
-   "Decreto, sin asterisco; llave de Platón (Parménides y Heráclito)"
+   3.5,
+   "Revisión del profesor (20-10-2026)"
   ],
   "5": [
    4,
@@ -1100,88 +1100,100 @@ const IMPRESCINDIBLES = {
    "Lectura PAU: República VII"
   ],
   "7": [
-   3,
-   "Decreto, sin asterisco; el alma platónica es el epígrafe que más ha caído"
+   5,
+   "Revisión del profesor (20-10-2026)"
   ],
   "8": [
-   4,
-   "Decreto: «el intelectualismo socrático-platónico*»; disertación de la PAU 2026"
+   5,
+   "Revisión del profesor (20-10-2026)"
   ],
   "9": [
-   3,
-   "Decreto, sin asterisco; pregunta modelo del Ej. 3"
+   5,
+   "Revisión del profesor (20-10-2026)"
   ],
   "10": [
    4,
    "Decreto: «estoicismo, epicureísmo, cinismo y escepticismo*»"
   ],
   "11": [
-   4,
-   "Decreto: «filosofía medieval*»"
+   3,
+   "Revisión del profesor (20-10-2026)"
   ],
   "12": [
-   4,
-   "Decreto: «fe y razón*»; Ej. 3 de la PAU 2026"
+   3.5,
+   "Revisión del profesor (20-10-2026)"
   ],
   "13": [
-   4,
-   "Decreto: «el nacimiento de la modernidad europea*»"
+   3.5,
+   "Revisión del profesor (20-10-2026)"
   ],
   "14": [
    5,
    "Lectura PAU: Discurso del método II-IV"
   ],
   "15": [
-   4,
-   "Decreto: «la teoría cartesiana de las sustancias*»"
+   5,
+   "Revisión del profesor (20-10-2026)"
   ],
   "16": [
    4,
    "Decreto: «origen y fundamento de la sociedad y el poder*»"
   ],
   "17": [
-   4,
-   "Decreto: «utilitarismo y liberalismo… competitividad y cooperación*»"
+   3.5,
+   "Revisión del profesor (20-10-2026)"
   ],
   "18": [
    5,
    "Lectura PAU: ¿Qué es la Ilustración?"
   ],
   "19": [
-   4,
-   "Decreto: «la filosofía crítica de Kant*»"
+   5,
+   "Revisión del profesor (20-10-2026)"
   ],
   "20": [
    4,
    "Decreto: «la ética kantiana frente al utilitarismo*»"
   ],
   "21": [
-   4,
-   "Decreto: «los filósofos de la sospecha*»"
+   5,
+   "Lectura PAU: Ecce Homo (Nietzsche) y Marx; revisión del profesor (20-10-2026)"
   ],
   "22": [
    4,
    "Decreto: «Escuela de Fráncfort*» y «Hannah Arendt*»"
   ],
   "23": [
-   5,
-   "Lectura PAU: Ecce Homo"
+   3,
+   "Revisión del profesor (20-10-2026): la lectura PAU de Nietzsche se trabaja en el tema 21"
   ],
   "24": [
    3,
    "Decreto, sin asterisco"
   ],
   "25": [
-   4,
-   "Decreto: «María Zambrano*»; disertación de la PAU 2026 (proyecto abierto)"
+   3.5,
+   "Revisión del profesor (20-10-2026)"
   ],
   "26": [
    5,
-   "Lectura PAU: El segundo sexo"
+   "Lectura PAU: El segundo sexo (Simone de Beauvoir)"
   ],
   "27": [
-   4,
-   "Decreto: retos del siglo XXI* (basta un autor de la lista)"
+   3,
+   "Revisión del profesor (20-10-2026)"
+  ],
+  "hf-ap": [
+   5,
+   "Revisión del profesor (20-10-2026): Platón, lectura PAU (República VII)"
+  ],
+  "hf-aa": [
+   5,
+   "Revisión del profesor (20-10-2026): Aristóteles, el sistema completo"
+  ],
+  "hf-descartes-makro": [
+   5,
+   "Revisión del profesor (20-10-2026): lectura PAU (Discurso del método II-IV)"
   ]
  },
  "glosarioGrupos": {

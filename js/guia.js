@@ -54,7 +54,8 @@ const GUIA = {
       { nombre: "●●●●○ Esencial", texto: "Lo que el currículo marca como imprescindible (con asterisco) o lo que ya ha caído en la PAU." },
       { nombre: "●●●○○ Importante", texto: "Lo que nombra el currículo, o lo que hace falta para entender lo anterior." },
       { nombre: "●●○○○ Complemento", texto: "Útil como contexto o para argumentar en la disertación." },
-      { nombre: "●○○○○ Ampliación", texto: "Curiosidad o ampliación: para saber más." }
+      { nombre: "●○○○○ Ampliación", texto: "Curiosidad o ampliación: para saber más." },
+      { nombre: "●●●◐○ Medio punto", texto: "Entre dos niveles. Un 3,5 no cuenta todavía como esencial." }
     ] },
     { type: "p", solo: "hf", x: "Criterio: primero el currículo vasco (Decreto 76/2023), después la PAU de la UPV/EHU. Es decir, lo que la ley pide estudiar en esta materia y lo que se pregunta en el examen." },
     { type: "p", solo: "hf", x: "Los puntos aparecen en <strong>Biografías</strong> (junto a las fechas de cada pensador; en su ficha, con el nombre del nivel y una línea <strong>Por qué</strong> que explica el motivo), en la <strong>lista de temas</strong> de la página de la materia y en el <strong>Glosario</strong>. En Biografías y en el Glosario, el botón <strong>Solo imprescindibles y esenciales</strong> deja solo los de cinco y cuatro puntos, y <strong>Qué significan los puntos</strong> despliega esta misma explicación." },

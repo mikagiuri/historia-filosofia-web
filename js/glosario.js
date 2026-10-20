@@ -1251,7 +1251,7 @@ const GLOSARIO = [
   "imp": 5,
   "impg": 1,
   "t": "El problema de los dos mundos",
-  "et": "Aristóteles critica que los platónicos «separaran» (ἐχώρισαν) las Ideas de las cosas (*Metafísica* M 4); de ahí el nombre χωρισμός (*khorismós*), «separación», con que se conoce el problema.",
+  "et": "Aristóteles critica que los platónicos «separaran» (ἐχώρισαν, *ekhórisan*) las Ideas de las cosas (*Metafísica* M 4); de ahí el nombre χωρισμός (*khorismós*), «separación», con que se conoce el problema.",
   "area": "Metafísica",
   "bloque": "A",
   "unidad": "AA",
@@ -2695,7 +2695,7 @@ const GLOSARIO = [
   "bloque": "A",
   "unidad": "AP",
   "tema": "Platón",
-  "def": "Cambio profundo de la manera de pensar y de vivir, no de una opinión suelta. En Platón es el «giro» de toda el alma: la educación no mete la vista en el alma, que ya la tiene, sino que la vuelve entera desde lo que cambia hacia lo que es, como el prisionero que sale de la caverna (*República* VII, 518c-d). El cristianismo la hace arrepentimiento y conversión («convertíos», μετανοεῖτε, Marcos 1, 15), y Agustín la cuenta en las *Confesiones*. En retórica, «metanoia» es también la figura que corrige en voz alta lo que se acaba de decir («es bueno; mejor dicho, excelente»).",
+  "def": "Cambio profundo de la manera de pensar y de vivir, no de una opinión suelta. En Platón es el «giro» de toda el alma: la educación no mete la vista en el alma, que ya la tiene, sino que la vuelve entera desde lo que cambia hacia lo que es, como el prisionero que sale de la caverna (*República* VII, 518c-d). El cristianismo la hace arrepentimiento y conversión («convertíos», μετανοεῖτε, *metanoeîte*, Marcos 1, 15), y Agustín la cuenta en las *Confesiones*. En retórica, «metanoia» es también la figura que corrige en voz alta lo que se acaba de decir («es bueno; mejor dicho, excelente»).",
   "ilustre": [
    "platon",
    "agustin"
@@ -3812,7 +3812,7 @@ const GLOSARIO = [
   "imp": 4,
   "impg": 10,
   "t": "Soberanía",
-  "et": "Del latín tardío *superanus*, de *super*, «encima»: el poder que no tiene otro por encima. Su antecedente griego es τὸ κύριον (*tò kýrion*), «lo que tiene autoridad»: Aristóteles pregunta quién debe ser τὸ κύριον de la ciudad (*Política* III 10).",
+  "et": "Del latín tardío *superanus*, de *super*, «encima»: el poder que no tiene otro por encima. Su antecedente griego es τὸ κύριον (*tò kýrion*), «lo que tiene autoridad»: Aristóteles pregunta quién debe ser τὸ κύριον (*tò kýrion*) de la ciudad (*Política* III 10).",
   "area": "Política",
   "bloque": "B",
   "unidad": "B6",
