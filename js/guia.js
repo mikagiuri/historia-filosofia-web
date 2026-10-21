@@ -1,4 +1,4 @@
-/* ===== Guía «Cómo usar la web» (13-10-2026) =====
+/* ===== Guía «Cómo usar la web» (13-10-2026; menú al día el 21-10-2026: Étimos, Lógica como pestaña propia, Adagios|Frases) =====
    Contenido de la sección #guia (la pinta guiaview.js): la versión web del tutorial en PDF para el alumnado
    (lab_iesmdb\proyectos\tutorial_web_alumnado). Una sola lista de bloques para las dos materias de Bachillerato; los
    que solo valen para una llevan `solo: "hf"` o `solo: "fil"`. Las capturas están en media/guia/<materia>/ (y en
@@ -25,8 +25,8 @@ const GUIA = {
     { type: "p", x: "La web reúne en un solo sitio todo lo que trabajamos en clase: la teoría de cada tema, resúmenes, tarjetas de repaso, cuestionarios, ejercicios, juegos y todo lo necesario para los exámenes." },
     { type: "p", x: "<strong>No hace falta registrarse</strong> ni instalar nada, y está en cinco lenguas: castellano, euskera, francés, inglés y árabe. <strong>Tu avance se guarda en tu navegador</strong>: las tarjetas que ya sabes, tu mejor puntuación en los cuestionarios y el último tema que leíste. No se guarda en ningún servidor ni lo ve nadie más." },
     { type: "warn", x: "Como el avance se guarda en el navegador, si cambias de dispositivo o borras los datos de navegación, empiezas de cero. El contenido, en cambio, sigue siempre ahí." },
-    { type: "p", x: "El menú tiene <strong>cinco pestañas</strong>. Las tres primeras son las imprescindibles: <strong>Estudiar</strong> (la teoría y lo que te ayuda a aprenderla), <strong>Practicar</strong> (comprobar lo que sabes y entrenar) y <strong>PAU</strong> (el examen, los textos y la escritura). Tras una línea vienen las complementarias: <strong>Historia</strong> (el contexto de los filósofos) y <strong>Juegos</strong>.", solo: "hf" },
-    { type: "p", x: "El menú tiene <strong>cinco pestañas</strong>. Las tres primeras son las imprescindibles: <strong>Estudiar</strong> (la teoría y lo que te ayuda a aprenderla), <strong>Practicar</strong> (comprobar lo que sabes y entrenar) y <strong>Escribir y leer</strong> (la disertación y los textos). Tras una línea vienen las complementarias: <strong>Historia</strong> (el contexto de los filósofos) y <strong>Juegos</strong>.", solo: "fil" },
+    { type: "p", x: "Las primeras pestañas del menú son las imprescindibles: <strong>Estudiar</strong> (la teoría y lo que te ayuda a aprenderla), <strong>Practicar</strong> (comprobar lo que sabes y entrenar), <strong>Lógica</strong> (el Rincón de lógica, con sus ejercicios y su laboratorio) y <strong>PAU</strong> (el examen, los textos y la escritura). Tras una línea vienen las complementarias: <strong>Historia</strong> (el contexto de los filósofos) y <strong>Juegos</strong>.", solo: "hf" },
+    { type: "p", x: "Las primeras pestañas del menú son las imprescindibles: <strong>Estudiar</strong> (la teoría y lo que te ayuda a aprenderla), <strong>Practicar</strong> (comprobar lo que sabes y entrenar), <strong>Lógica</strong> (el Rincón de lógica, con sus ejercicios y su laboratorio) y <strong>Escribir y leer</strong> (la disertación y los textos). Tras una línea vienen las complementarias: <strong>Historia</strong> (el contexto de los filósofos) y <strong>Juegos</strong>.", solo: "fil" },
     { type: "p", x: "Algunas secciones reúnen varias cosas del mismo tipo: arriba tienen una <strong>fila de botones</strong> para pasar de una a otra. Por ejemplo, en Cuestionarios puedes cambiar a <strong>Contrarreloj</strong>, y en Biografías, a <strong>Perseguidos</strong> o <strong>Comunidades</strong>." },
 
     { type: "h", x: "La pantalla principal" },
@@ -68,7 +68,8 @@ const GUIA = {
       { nombre: "Teoría", texto: "La página de la materia, con la lista de temas. Desde ahí entras en cada tema.", view: "MATERIA" },
       { nombre: "Tarjetas", texto: "Pulsa la tarjeta (o la barra espaciadora) para darle la vuelta y marca «Ya la sé» las que domines. Tu avance se guarda.", view: "tarjetas" },
       { nombre: "Mapas e infografías", texto: "Mapas que se pliegan y despliegan: pulsa un nodo para abrir o cerrar sus ramas, arrastra para moverte y usa la rueda para ampliar. Las infografías y los esquemas de cada tema se abren desde la caja «Para seguir con este tema» o desde «Explora la materia», en la página de la materia.", view: "mapas" },
-      { nombre: "Glosario", texto: "El diccionario de la asignatura: cada término con su definición. Busca una palabra o filtra los términos.", view: "glosario" }
+      { nombre: "Glosario", texto: "El diccionario de la asignatura: cada término con su definición. Busca una palabra o filtra los términos.", view: "glosario" },
+      { nombre: "Étimos", texto: "De dónde vienen las palabras de la filosofía: su raíz griega o latina, para entender mejor lo que significan hoy. Busca una palabra o recórrelas por temas.", view: "etimos" }
     ] },
     { type: "img", src: "07_tarjetas.webp", cap: "Tarjetas: elige el tipo, el filtro y la baraja; debajo, los botones para pasar, barajar y marcar «Ya la sé»." },
 
@@ -78,12 +79,15 @@ const GUIA = {
       { nombre: "Cuestionarios", texto: "Preguntas tipo test con corrección al instante y la explicación de cada respuesta. Se guarda tu mejor puntuación. Arriba, el botón Contrarreloj: preguntas contra el reloj, con puntos por velocidad y por racha.", view: "cuestionarios" },
       { nombre: "Pistas", texto: "Preguntas clave del temario para responder por tu cuenta, con pistas que se destapan de una en una, de la más vaga a la que casi te da la respuesta.", view: "pistas" },
       { nombre: "Rescritura", texto: "Aprende a explicar un texto con tus palabras: sin copiarlo, sin limitarte a cambiar palabras por sinónimos y sin contar otra cosa.", view: "rescritura" },
-      { nombre: "Rincón de lógica", texto: "Tablas de verdad, argumentos válidos, silogismos con diagramas de Venn, paradojas y ejercicios; y un laboratorio con árboles de verdad, un mundo de figuras, relaciones y demostraciones guiadas.", view: "logica" },
       { nombre: "Debatir", texto: "Cuatro maneras de entrenar la argumentación, con sus botones arriba: Dilemas (elige entre dos cosas que importan y da tu razón), Polémicas (filósofos de la misma época que se enfrentaron de verdad), Duelo (debate contra el ordenador) y Nudos (descubre dónde chocan tus propias opiniones).", view: "dilemas" }
     ] },
     { type: "img", src: "08_cuestionarios.webp", cap: "Cuestionarios: arriba, el botón Contrarreloj; debajo, filtra, elige el cuestionario en el desplegable y responde." },
     { type: "tip", x: "Haz el cuestionario de un tema sin mirar los apuntes y lee siempre la explicación de las preguntas que falles: ahí está el aprendizaje." },
     { type: "p", x: "Los de <strong>Debatir</strong> son un buen entrenamiento para la disertación: obligan a dar razones y a tener en cuenta las del otro lado." },
+
+    { type: "h", x: "Lógica" },
+    { type: "p", x: "El <strong>Rincón de lógica</strong> tiene ahora su propia pestaña. Reúne tablas de verdad, argumentos válidos, silogismos con diagramas de Venn, paradojas y ejercicios para entrenar el razonamiento." },
+    { type: "p", x: "Arriba está el <strong>Laboratorio</strong>, con varias mesas para trabajar paso a paso: árboles de verdad, un mundo de figuras, relaciones, demostraciones guiadas y las mesas de los juicios de Kant y de los afectos de Spinoza." },
 
     { type: "h", x: "PAU", solo: "hf" },
     { type: "img", src: "04_menu_tercera.webp", cap: "El menú «PAU».", w: "menu", solo: "hf" },
@@ -108,7 +112,7 @@ const GUIA = {
       { nombre: "Épocas", texto: "Fichas de cada época: cómo eran la sociedad, la política, la ciencia y el arte, y cómo se imaginaba el cosmos.", view: "epocas", solo: "fil" },
       { nombre: "Cronogramas", texto: "Líneas de tiempo: quién vivió a la vez que quién.", view: "cronogramas", solo: "hf" },
       { nombre: "Biografías", texto: "Las biografías de los pensadores que aparecen en la teoría: quiénes fueron, qué pensaron y en qué temas los estudiamos. Arriba, los botones Perseguidos (filósofos y científicos a los que su manera de pensar les costó la vida, la libertad o la patria) y Comunidades (escuelas y grupos de pensadores).", view: "biografias" },
-      { nombre: "Adagios", texto: "Lemas latinos y griegos que los filósofos llevan siglos citando, y cuándo usarlos.", view: "adagios" },
+      { nombre: "Adagios", texto: "Lemas latinos y griegos que los filósofos llevan siglos citando, y cuándo usarlos. Arriba, el botón <strong>Frases</strong>: frases célebres de los pensadores, con lo que quieren decir y cuándo usarlas.", view: "adagios" },
       { nombre: "Galería", texto: "Imágenes por autor y tema; púlsalas para verlas a pantalla completa.", view: "galeria" }
     ] },
 
@@ -126,7 +130,7 @@ const GUIA = {
     { type: "img", src: "09_buscador.webp", cap: "El buscador, con la palabra resaltada en cada resultado." },
 
     { type: "h", x: "En el móvil" },
-    { type: "p", x: "La web funciona igual en el móvil. El menú se recoge en el botón ☰: al pulsarlo se abren las cinco pestañas, una debajo de otra, y cada una se despliega al tocarla. Si la usas a menudo, añádela a la pantalla de inicio desde el menú del navegador («Añadir a pantalla de inicio»): se abrirá como una aplicación." },
+    { type: "p", x: "La web funciona igual en el móvil. El menú se recoge en el botón ☰: al pulsarlo se abren las pestañas, una debajo de otra, y cada una se despliega al tocarla. Si la usas a menudo, añádela a la pantalla de inicio desde el menú del navegador («Añadir a pantalla de inicio»): se abrirá como una aplicación." },
     { type: "img", src: "10_movil_menu.webp", cap: "El menú abierto en el móvil.", w: "movil" },
 
     { type: "h", x: "Cómo estudiar un tema con la web" },
