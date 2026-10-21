@@ -273,5 +273,102 @@ const REP_MAZO_B = {
       cumple:"Las tres clases cumplen: la pólis es una, sana y justa.",
       desborda:"Entrometimiento: las clases se cambian el puesto; injusticia, ἀδικία (*adikía*).",
       falta:"Disgregación: la ciudad se vuelve «muchas» y en guerra consigo misma." }
+  ],
+  // (21-10) banco de diálogos de la Versión B ampliado: ciudad de cerdos, perro guardián, mujeres guardianas, Leoncio y Asclepio; citas cotejadas con el griego
+  dialogos: [
+    { id:"b_dlg_cerdos", emoji:"🐖", quien:"Glaucón", loc:"República II, 372a-e",
+      situacion:"Sócrates describe la primera ciudad: pan de cebada, vino, queso, aceitunas, coronas de mirto y una vida en paz hasta la vejez. Glaucón le interrumpe: eso no es una ciudad de hombres.",
+      cita:"«Y si estuvieras fundando una ciudad de cerdos, Sócrates, ¿con qué otra cosa los cebarías?»",
+      griego:"ὑῶν πόλις (*hyôn pólis*): «ciudad de cerdos». Glaucón pide lo que «es costumbre»: lechos, mesas, condumios y postres (372d-e).",
+      pregunta:"¿Qué ciudad fundas?",
+      opts:[
+        { t:"La ciudad sana: lo necesario y nada más.", razon:"Quien no desea lo superfluo no necesita quitárselo a nadie.",
+          ef:{ arm:1, prod:-6 }, r:"Nadie codicia el territorio del vecino (+1 de armonía), pero la ciudad renuncia a casi todo lo que no sea comer (−6 de producción)." },
+        { t:"Darle la razón a Glaucón: lechos, mesas y condumios.", razon:"Una vida humana es algo más que alimentarse.",
+          ef:{ prod:6, arm:-1 }, r:"Llegan artesanos, cocineros y perfumistas (+6 de producción), pero con el deseo crece la ciudad y empieza a quedarse pequeña (−1 de armonía)." },
+        { t:"Aceptar la ciudad con fiebre, pero con guardianes que la sujeten.", razon:"Es lo que hace Platón: de la ciudad lujosa nacen la guerra y los guardianes (373d-374a).",
+          req:"ejercito",
+          si:{ ef:{ prod:3, arm:1 }, r:"Tus guerreros bastan para contener el deseo y defender la frontera (+3 de producción y +1 de armonía)." },
+          no:{ ef:{ prod:3, arm:-2 }, r:"La ciudad se hincha y no tiene quien la guarde (+3 de producción, −2 de armonía)." } }
+      ],
+      platon:{ txt:"«La verdadera ciudad me parece la que hemos recorrido, como una ciudad sana; pero, si queréis, contemplemos también una ciudad con fiebre.»", loc:"República II, 372e" },
+      critica:{ autor:"Aristóteles", txt:"Reprocha a la República que haga nacer la ciudad de los oficios más necesarios, como si toda ciudad se constituyera por causa de lo necesario y no, más bien, por causa de lo bello (paráfrasis). ¿Es la ciudad sana una ciudad, o solo una despensa?", loc:"Política IV 4, 1291a10-19" },
+      glo:["g-la-ciudad-justa", "g-templanza", "g-alma-concupiscible"] },
+  
+    { id:"b_dlg_perro", emoji:"🐕", quien:"Glaucón", loc:"República II, 375a-376c",
+      situacion:"La ciudad necesita guardianes. Sócrates los compara con un perro de raza: fiero con el desconocido, manso con el conocido. Hay que escoger a los jóvenes que harán la guarda.",
+      cita:"«Es preciso que sean mansos con los suyos y ásperos con los enemigos; si no, no esperarán a que otros los destruyan: se adelantarán ellos a hacerlo.»",
+      griego:"φιλόσοφος καὶ θυμοειδής (*philósophos kaì thymoeidés*): «amante del saber y fogoso», las dos cosas a la vez.",
+      pregunta:"¿A quién eliges para la guarda?",
+      opts:[
+        { t:"A los más fieros: la guarda pide coraje.", razon:"Un defensor manso no defiende.",
+          ef:{ mov:["E","G",1], arm:-1 }, r:"Un productor pasa a guerrero, pero su fiereza no distingue entre extraños y vecinos (−1 de armonía)." },
+        { t:"A los más mansos: que nunca se vuelvan contra la ciudad.", razon:"El peligro de un guardián es que se convierta en lobo.",
+          ef:{ arm:1, ap:-1 }, r:"La ciudad está tranquila (+1 de armonía), pero sus guardianes no asustan a nadie y hay que reforzarlos (−1 AP)." },
+        { t:"A los fogosos que además aman aprender, y educarlos.", razon:"Solo el saber distingue al amigo del enemigo.",
+          req:"flag:musica",
+          si:{ ef:{ arm:2, ap:-1 }, r:"La música ya ha afinado su ánimo: fieros fuera y mansos dentro (+2 de armonía, −1 AP por la educación)." },
+          no:{ ef:{ arm:-1, ap:-1 }, r:"Sin educación musical, su ánimo no sabe a quién morder (−1 de armonía y −1 AP)." } }
+      ],
+      platon:{ txt:"«Lo amante del aprender y lo amante de la sabiduría son lo mismo.» Por eso el buen guardián será, por naturaleza, «filósofo, fogoso, rápido y fuerte».", loc:"República II, 376b-c" },
+      critica:{ autor:"Sócrates, contra Polemarco (libro I)", txt:"«No es obra del justo dañar, ni al amigo ni a ningún otro, sino de su contrario, del injusto.» ¿No vuelve el perro guardián a la definición que Sócrates refutó: hacer bien a los amigos y mal a los enemigos?", loc:"República I, 335d" },
+      glo:["g-alma-irascible", "g-valentia", "g-paideia"] },
+  
+    { id:"b_dlg_mujeres", emoji:"⚔️", quien:"Sócrates", loc:"República V, 451c-457b",
+      situacion:"Es la primera «ola» del libro V: Sócrates propone que las mujeres reciban la misma educación que los hombres y que también ellas guarden y gobiernen la ciudad. Sabe que muchos se reirán al verlas ejercitarse en el gimnasio (452a-b).",
+      cita:"«No hay, amigo, ninguna ocupación de las que administran la ciudad que sea de la mujer por ser mujer, ni del varón por ser varón: las naturalezas están repartidas por igual en ambos, y la mujer participa por naturaleza de todas las ocupaciones, y el varón de todas, aunque en todas la mujer es más débil que el varón.»",
+      griego:"ὁμοίως διεσπαρμέναι αἱ φύσεις (*homoíos diesparménai hai phýseis*): «las naturalezas, repartidas por igual».",
+      pregunta:"¿Abres la guarda a las mujeres?",
+      opts:[
+        { t:"Sí: la misma educación y los mismos cargos para quien tenga la naturaleza.", razon:"Lo que decide la clase es el alma, no el sexo.",
+          ef:{ mov:["E","G",1], arm:-1 }, r:"Una productora pasa a la guarda, pero la novedad divide a la asamblea, que se ríe (−1 de armonía)." },
+        { t:"No: cada sexo tiene su propia virtud.", razon:"Es lo que defenderá Aristóteles: una es la virtud del que manda y otra la del que sirve.",
+          ef:{ arm:1, zsj:-1 }, r:"Nada cambia y nadie protesta (+1 de armonía); según Platón, la ciudad se priva de la mitad de las naturalezas aptas para gobernar (−1 de sabiduría cada guardián)." },
+        { t:"Examinar a cada persona, una a una, sin mirar el sexo.", razon:"Hay mujer apta para la guarda, y otra que no; como entre los varones (456a).",
+          req:"justos",
+          si:{ ef:{ mov:["E","Z",1] }, r:"Tus guardianes juzgan sin prejuicio: una mujer de alma de oro sube a gobernar." },
+          no:{ ef:{ arm:-1 }, r:"Tus guardianes no son imparciales y el examen acaba en favores (−1 de armonía)." } }
+      ],
+      platon:{ txt:"«Hay mujer apta para la guarda, y otra que no.» Y la naturaleza para guardar la ciudad es la misma en la mujer y en el varón, «salvo en cuanto es más débil o más fuerte».", loc:"República V, 456a" },
+      critica:{ autor:"Aristóteles", txt:"«No es la misma la templanza de la mujer que la del varón, ni la valentía ni la justicia, como creía Sócrates, sino que una es valentía de mando y otra de servicio.» Desde el feminismo, unas lecturas ven en el libro V un avance sin precedentes (G. Vlastos, «Was Plato a Feminist?», 1989); otras, una instrumentalización: Platón iguala a las guardianas para servir a la ciudad y suprimiendo la familia, no por los intereses de las mujeres (J. Annas, «Plato's Republic and Feminism», 1976) (paráfrasis).", loc:"Política I 13, 1260a20-24" },
+      glo:["g-virtud", "g-paideia", "g-la-ciudad-justa"] },
+  
+    { id:"b_dlg_leoncio", emoji:"👁️", quien:"Glaucón", loc:"República IV, 439e-440b",
+      situacion:"Leoncio, hijo de Aglayón, sube del Pireo y ve cadáveres junto al verdugo. Quiere mirarlos y a la vez le repugna; se tapa la cara, lucha consigo mismo y, vencido por el deseo, corre hacia ellos con los ojos muy abiertos (paráfrasis de 439e-440a). En tu ciudad hay un espectáculo parecido y los jóvenes se agolpan.",
+      cita:"«¡Ahí los tenéis, desgraciados: hartaos del hermoso espectáculo!»",
+      griego:"θυμός (*thymós*): el ánimo, que aquí se indigna contra el propio deseo, ἐπιθυμία (*epithymía*).",
+      pregunta:"¿Qué haces con el deseo de mirar?",
+      opts:[
+        { t:"Confiar en que el ánimo de los jóvenes se ponga del lado de la razón.", razon:"La vergüenza de Leoncio prueba que el alma no es solo apetito.",
+          req:"justos",
+          si:{ ef:{ arm:2 }, r:"Tus guardianes están bien ordenados: la indignación sirve a la razón y el ejemplo cunde (+2 de armonía)." },
+          no:{ ef:{ arm:-2 }, r:"El ánimo de tus guardianes no está educado: el deseo gana, como en Leoncio (−2 de armonía)." } },
+        { t:"Prohibir el espectáculo.", razon:"Mejor no poner el apetito a prueba.",
+          ef:{ arm:1, zsj:-1 }, r:"Nadie se agolpa (+1 de armonía), pero tampoco nadie aprende a gobernarse a sí mismo (−1 de sabiduría cada guardián)." },
+        { t:"Dejar que cada cual mire si quiere.", razon:"Un deseo que no daña a nadie no es asunto de la ciudad.",
+          ef:{ ap:2, arm:-1 }, r:"La ciudad se ahorra vigilancia (+2 AP), pero se acostumbra a que el apetito decida (−1 de armonía)." }
+      ],
+      platon:{ txt:"«Este relato indica que la ira a veces guerrea con los apetitos, como una cosa distinta de otra.» Cuando los apetitos fuerzan a alguien contra el razonamiento, «como entre dos que están en discordia, el ánimo se hace aliado de la razón».", loc:"República IV, 440a-b" },
+      critica:{ autor:"Aristóteles", txt:"Si se divide el alma en partes, las partes resultan en cierto modo infinitas; y el deseo no cabe en una sola: si el alma es tres, en cada una de ellas habrá deseo (paráfrasis). ¿Lucha Leoncio entre partes, o es una sola alma dividida?", loc:"Acerca del alma III 9, 432a22-b7" },
+      glo:["g-las-tres-partes-del-alma", "g-alma-irascible", "g-alma-concupiscible", "g-alma-racional"] },
+  
+    { id:"b_dlg_asclepio", emoji:"⚕️", quien:"Glaucón", loc:"República III, 405c-408b",
+      situacion:"La ciudad se llena de enfermos crónicos y de médicos. Sócrates recuerda a Asclepio: curaba a los sanos que caían enfermos para que volvieran a su oficio, pero no alargaba la vida de quien no podía ya llevarla (paráfrasis de 407c-e). Critica a Heródico, que inventó una medicina que alarga la muerte (406a-b).",
+      cita:"«En todas las ciudades bien legisladas a cada uno se le ha asignado una tarea que tiene que hacer, y nadie tiene tiempo para pasarse la vida enfermo y curándose.»",
+      griego:"",
+      pregunta:"¿Qué medicina tendrá tu ciudad?",
+      opts:[
+        { t:"La de Asclepio: curar a quien puede volver a su oficio.", razon:"La medicina sirve a la vida de la ciudad, no a alargar la enfermedad.",
+          ef:{ prod:4, arm:-1 }, r:"La ciudad rinde más (+4 de producción), pero muchos ciudadanos se sienten abandonados (−1 de armonía)." },
+        { t:"Cuidar a todos, cueste lo que cueste.", razon:"La vida de cada uno vale por sí misma, no por su oficio.",
+          ef:{ arm:1, prod:-6 }, r:"Nadie queda atrás (+1 de armonía), pero los cuidados absorben buena parte del trabajo de la ciudad (−6 de producción)." },
+        { t:"Prevenir: una vida sencilla que necesite pocos médicos.", razon:"Para Platón, los muchos médicos y jueces son señal de una ciudad desordenada (405a).",
+          req:"alimenta",
+          si:{ ef:{ arm:1, ap:-1 }, r:"La ciudad come bien y con medida: enferma menos (+1 de armonía, −1 AP por la reforma)." },
+          no:{ ef:{ arm:-1, ap:-1 }, r:"Con hambre no hay vida sana que valga: la prevención fracasa (−1 de armonía, −1 AP)." } }
+      ],
+      platon:{ txt:"Asclepio, al que no era capaz de vivir en el curso establecido de la vida, «creía que no debía tratarlo, por no ser provechoso ni para sí ni para la ciudad».", loc:"República III, 407d-e" },
+      critica:{ autor:"Asociación Médica Mundial", txt:"El médico promete que ni la edad, ni la enfermedad o la discapacidad, ni la posición social se interpondrán entre su deber y su paciente (paráfrasis). Otros lectores acercan el pasaje al debate actual sobre el encarnizamiento terapéutico: ¿dónde acaba curar y empieza alargar el sufrimiento?", loc:"Declaración de Ginebra (1948; revisión de 2017)" },
+      glo:["g-justicia", "g-la-ciudad-justa", "g-templanza"] }
   ]
 };
