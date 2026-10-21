@@ -1635,6 +1635,22 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "imp": 4,
+  "impg": 9,
+  "t": "Eudaimonía (felicidad)",
+  "id": "g-eudaimonia",
+  "et": "Del griego εὐδαιμονία (*eudaimonía*): εὖ (*eû*) «bien» + δαίμων (*daímon*) «divinidad, destino»; literalmente, «tener un buen destino».",
+  "area": "Ética",
+  "bloque": "A",
+  "unidad": "A8",
+  "tema": "La ética clásica",
+  "def": "Para Aristóteles, el fin último de la vida humana, lo que se busca por sí mismo y no por otra cosa. No es un sentimiento pasajero, sino una actividad del alma conforme a la virtud en una vida entera; necesita también algunos bienes externos (*Ética a Nicómaco* I 7-8).",
+  "ilustre": [
+   "aristoteles"
+  ]
+ },
+ {
+  "subject": "hf",
   "imp": 3,
   "impg": 12,
   "t": "Fabricación del consenso",
@@ -3384,6 +3400,22 @@ const GLOSARIO = [
   "def": "Educación en sentido amplio: formación del carácter y de la mente. En Platón, tarea principal de la ciudad, que selecciona a los gobernantes tras un largo recorrido de estudios y pruebas.",
   "ilustre": [
    "platon"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
+  "impg": 9,
+  "t": "Prudencia (phrónesis)",
+  "id": "g-phronesis",
+  "et": "Del griego φρόνησις (*phrónesis*), de φρονεῖν (*phroneîn*), «pensar, ser sensato». El latín la tradujo *prudentia*.",
+  "area": "Ética",
+  "bloque": "A",
+  "unidad": "A8",
+  "tema": "La ética clásica",
+  "def": "La virtud intelectual que sabe deliberar bien sobre lo que conviene para vivir bien en cada situación concreta. Es la que fija el término medio de las virtudes éticas: por eso la virtud se define «como lo determinaría el prudente» (*Ética a Nicómaco* II 6 y VI 5).",
+  "ilustre": [
+   "aristoteles"
   ]
  },
  {

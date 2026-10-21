@@ -494,6 +494,255 @@ const PISTAS = [
   }
  },
  {
+  "id": "aristoteles-etica",
+  "ilustre": "aristoteles",
+  "subject": "hf",
+  "tema": "Tema 8 · Aristóteles: la ética",
+  "unidad": "hf-etica",
+  "materia": "Filosofía · Aristóteles",
+  "titulo": "¿Qué es la felicidad para Aristóteles y por qué la virtud es un término medio?",
+  "lede": "La ética de la <em>Ética a Nicómaco</em>: un fin para toda la vida y un carácter que se forma con la práctica. Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Qué es la felicidad (<em>eudaimonía</em>) para Aristóteles?",
+    "repaso": [
+     "¿He dicho que la felicidad es el fin último, lo que se busca por sí mismo y no por otra cosa?",
+     "¿He explicado el argumento de la función propia: lo propio del ser humano es la actividad racional?",
+     "¿He dicho que es una actividad conforme a la virtud en una vida entera, y que necesita también algunos bienes externos?"
+    ],
+    "intro": [
+     "Todo lo que hacemos lo hacemos por algo: estudiamos para aprobar, aprobamos para tener un trabajo… Aristóteles se pregunta dónde termina esa cadena. Intenta responder antes de pedir ayuda."
+    ],
+    "pistas": [
+     "Para aterrizar: toda acción busca un <strong>fin</strong>. Pero no puede haber una cadena infinita de «para»: tiene que haber un fin que se busque <strong>por sí mismo</strong>.",
+     "Todos le dan el mismo nombre: <strong>felicidad</strong> (<em>eudaimonía</em>). El problema es en qué consiste: placer, honores, riqueza…",
+     "Aristóteles responde con la <strong>función propia</strong> (<em>érgon</em>): un buen flautista es el que toca bien la flauta. ¿Qué hace el ser humano que no hagan las plantas ni los animales? <strong>Vivir según la razón</strong>.",
+     "Por eso la felicidad es una <strong>actividad del alma conforme a la virtud</strong>, no un estado pasajero, y además «en una vida entera»: una golondrina no hace primavera."
+    ],
+    "comprobacion": {
+     "pregunta": "Según Aristóteles, ¿qué es la felicidad?",
+     "opciones": [
+      [
+       "Una actividad del alma conforme a la virtud, mantenida a lo largo de una vida entera.",
+       true
+      ],
+      [
+       "El placer que sentimos cuando conseguimos lo que deseamos.",
+       false,
+       "El placer acompaña a la actividad buena, pero la felicidad no es un sentimiento pasajero.",
+       "g-eudaimonia"
+      ],
+      [
+       "Tener mucho dinero y muchos honores.",
+       false,
+       "Riqueza y honores son medios o dependen de otros; la felicidad se busca por sí misma.",
+       "g-eudaimonia"
+      ],
+      [
+       "Un premio que se recibe después de la muerte.",
+       false,
+       "Para Aristóteles la felicidad se vive en esta vida, en la actividad.",
+       "g-teleologia"
+      ]
+     ],
+     "ok": "Bien: actividad, conforme a la virtud, en una vida entera.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito leer el texto",
+      "etiqueta": "Texto de apoyo",
+      "titulo": "La definición",
+      "glosario": [
+       "g-eudaimonia",
+       "g-arete"
+      ],
+      "cita": {
+       "texto": "«El bien humano resulta ser una actividad del alma conforme a la virtud […], y además en una vida entera. Porque una golondrina no hace primavera, ni tampoco un solo día; y así, tampoco hace dichoso y feliz un solo día ni un poco de tiempo.»",
+       "fuente": "Aristóteles, <em>Ética a Nicómaco</em> I 7, 1098a16-20 (traducción propia del griego)"
+      },
+      "comprobacion": {
+       "etiqueta": "Comprobación del texto",
+       "pregunta": "¿Qué quiere decir «una golondrina no hace primavera»?",
+       "opciones": [
+        [
+         "Que un buen momento aislado no basta: la felicidad se mide en una vida entera.",
+         true
+        ],
+        [
+         "Que la felicidad depende de la estación del año.",
+         false,
+         "Es una imagen: un solo signo no basta para decir que algo ha llegado."
+        ],
+        [
+         "Que la felicidad es imposible.",
+         false,
+         "No dice que sea imposible, sino que exige continuidad."
+        ],
+        [
+         "Que los animales no pueden ser felices.",
+         false,
+         "Eso es cierto para Aristóteles, pero no es lo que dice esta imagen."
+        ]
+       ],
+       "ok": "Exacto: la felicidad es cosa de toda una vida.",
+       "mal": "Vuelve a leer la segunda frase.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "Fin último y función propia",
+      "glosario": [
+       "g-eudaimonia",
+       "g-teleologia"
+      ],
+      "definicion": [
+       "<strong>Fin último</strong> → la felicidad es lo que se quiere por sí mismo; lo demás se quiere por ella.",
+       "<strong>Función propia (<em>érgon</em>)</strong> → lo que distingue al ser humano es la razón; vivir bien es ejercerla bien.",
+       "<strong>Actividad conforme a la virtud</strong> → la felicidad no es algo que se tiene, sino algo que se hace, y en una vida entera.",
+       "<strong>Bienes externos</strong> → a diferencia de Sócrates o de los estoicos, Aristóteles admite que hacen falta algunos: amigos, salud, cierta fortuna."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "¿Por qué dice Aristóteles que la felicidad consiste en vivir según la razón?",
+       "opciones": [
+        [
+         "Porque la razón es la función propia del ser humano, lo que lo distingue de plantas y animales.",
+         true
+        ],
+        [
+         "Porque la razón nos libra de tener deseos.",
+         false,
+         "Aristóteles no quiere eliminar los deseos, sino ordenarlos."
+        ],
+        [
+         "Porque solo los filósofos pueden ser felices.",
+         false,
+         "Cualquiera que viva conforme a la virtud puede serlo, en distinto grado."
+        ],
+        [
+         "Porque así lo mandan los dioses.",
+         false,
+         "El argumento parte de la naturaleza humana, no de un mandato divino."
+        ]
+       ],
+       "ok": "Correcto: ser feliz es hacer bien lo propio del ser humano.",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "¿Qué es la virtud ética, cómo se adquiere y por qué es un término medio?",
+    "repaso": [
+     "¿He dicho que la virtud ética se adquiere con el hábito, practicando: nos hacemos justos haciendo cosas justas?",
+     "¿He definido el término medio entre dos vicios, uno por exceso y otro por defecto, con un ejemplo (la valentía)?",
+     "¿He explicado que el término medio es relativo a nosotros y que lo fija la prudencia (<em>phrónesis</em>)?"
+    ],
+    "intro": [
+     "Nadie nace valiente ni justo, pero tampoco lo contrario. Piensa cómo se aprende a tocar un instrumento y aplícalo al carácter."
+    ],
+    "pistas": [
+     "Recuerda: hay virtudes del entendimiento, que se aprenden con la enseñanza, y virtudes del carácter o <strong>éticas</strong>, que se adquieren con la <strong>costumbre</strong>.",
+     "Igual que uno se hace citarista tocando la cítara, <strong>nos hacemos justos haciendo cosas justas</strong> y valientes haciendo cosas valientes. La virtud es un hábito.",
+     "Cada virtud ética es un <strong>término medio</strong> entre dos vicios: la valentía está entre la cobardía (defecto) y la temeridad (exceso).",
+     "Pero ese medio no es una media matemática: es <strong>relativo a nosotros</strong> y a la situación, y lo fija la razón del <strong>prudente</strong> (<em>phrónesis</em>)."
+    ],
+    "comprobacion": {
+     "pregunta": "Según Aristóteles, ¿cómo se adquiere la virtud ética?",
+     "opciones": [
+      [
+       "Con el hábito: practicando actos virtuosos hasta formar el carácter.",
+       true
+      ],
+      [
+       "Leyendo y aprendiendo qué es el bien, como decía Sócrates.",
+       false,
+       "Eso valdría para las virtudes intelectuales; las éticas se forman practicando.",
+       "g-akrasia"
+      ],
+      [
+       "Se tiene por naturaleza desde el nacimiento.",
+       false,
+       "La naturaleza nos da la capacidad, pero la virtud se adquiere con la costumbre.",
+       "g-virtud"
+      ],
+      [
+       "Obedeciendo las leyes sin pensar.",
+       false,
+       "Hace falta la prudencia: la virtud no es obediencia ciega, sino formación del carácter.",
+       "g-phronesis"
+      ]
+     ],
+     "ok": "Exacto: el carácter se forma practicando.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "El término medio",
+      "titulo": "Ni cobarde ni temerario",
+      "glosario": [
+       "g-termino-medio",
+       "g-phronesis",
+       "g-virtud"
+      ],
+      "cita": {
+       "texto": "«La virtud es, pues, un hábito selectivo que consiste en un término medio relativo a nosotros, determinado por la razón, y tal como lo determinaría el prudente.»",
+       "fuente": "Aristóteles, <em>Ética a Nicómaco</em> II 6, 1106b36-1107a2 (traducción propia del griego)"
+      },
+      "definicion": [
+       "<strong>Hábito</strong> → la virtud ética no es un sentimiento ni una capacidad natural: es una disposición que se forma practicando.",
+       "<strong>Término medio</strong> → entre dos vicios: valentía entre cobardía y temeridad; generosidad entre tacañería y despilfarro.",
+       "<strong>Relativo a nosotros</strong> → no es la media aritmética: la ración justa para un atleta no es la de un principiante. Por eso hace falta la <strong>prudencia</strong> para fijarlo en cada caso.",
+       "<strong>Frente a Sócrates</strong> → saber el bien no basta; quien sabe y no lo hace sufre <em>akrasía</em>, falta de dominio."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿Por qué el término medio es «relativo a nosotros»?",
+       "opciones": [
+        [
+         "Porque depende de la persona y de la situación, y lo fija la prudencia, no una regla matemática.",
+         true
+        ],
+        [
+         "Porque cada uno decide lo que le apetece.",
+         false,
+         "No es capricho: lo fija la razón del prudente."
+        ],
+        [
+         "Porque es la media exacta entre dos cantidades.",
+         false,
+         "Justo lo que Aristóteles niega: no es una media aritmética."
+        ],
+        [
+         "Porque la virtud es distinta en cada ciudad y no hay nada común.",
+         false,
+         "Las virtudes son las mismas; lo que varía es cómo se aplican al caso."
+        ]
+       ],
+       "ok": "Correcto: el medio se ajusta al caso con prudencia.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar la ética de Aristóteles",
+   "parrafos": [
+    "La felicidad es el fin último: una actividad del alma conforme a la virtud en una vida entera. La virtud ética es un hábito que se forma practicando y consiste en un término medio relativo a nosotros, que fija la prudencia: la valentía, entre la cobardía y la temeridad.",
+    "Para la disertación: compárala con el intelectualismo moral de Sócrates y con la ética del deber de Kant, o con la de Spinoza, para quien la beatitud es la virtud misma."
+   ]
+  }
+ },
+ {
   "id": "descartes-metodo",
   "ilustre": "descartes",
   "subject": "hf",
@@ -2947,6 +3196,255 @@ const PISTAS = [
    "parrafos": [
     "Nietzsche se llama «el primer inmoralista»: niega el tipo de hombre «bueno» y la moral cristiana, a la que considera moral de la <em>décadence</em>, hostil a la vida. Su fórmula es la transvaloración de todos los valores: crear valores que digan sí a la vida, resumidos en «Dioniso contra el Crucificado».",
     "Para la PAU: en el resumen, recoge las dos negaciones del §4; en la opción A o B, relaciónalas con la muerte de Dios y el nihilismo."
+   ]
+  }
+ },
+ {
+  "id": "arendt-mal-accion",
+  "ilustre": "arendt",
+  "subject": "hf",
+  "tema": "Tema 22 · Hannah Arendt",
+  "unidad": "hf-capitalismo",
+  "materia": "Filosofía · Hannah Arendt",
+  "titulo": "¿Qué es la banalidad del mal y por qué la acción es lo más humano?",
+  "lede": "Dos ideas de Hannah Arendt: el mal que no necesita monstruos y la vida activa entre los demás. Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Qué quiere decir Arendt con «la banalidad del mal»?",
+    "repaso": [
+     "¿He contado el contexto: el juicio a Eichmann en Jerusalén (1961), que Arendt siguió para <em>The New Yorker</em>?",
+     "¿He explicado la tesis: un mal enorme puede cometerlo alguien corriente que renuncia a pensar, no un monstruo?",
+     "¿He dicho que «banal» no significa que el mal sea poca cosa, y que la tesis se discute (Cesarani, Stangneth)?"
+    ],
+    "intro": [
+     "En 1961 se juzgó en Jerusalén a Adolf Eichmann, que había organizado la deportación de millones de judíos a los campos de exterminio. Arendt esperaba encontrar a un monstruo. Piensa qué pudo sorprenderla."
+    ],
+    "pistas": [
+     "Para aterrizar: Arendt siguió el juicio como periodista. Lo que vio no fue un sádico ni un fanático que echara espuma por la boca, sino un <strong>funcionario corriente</strong>.",
+     "Eichmann hablaba con frases hechas y repetía que había cumplido órdenes y hecho bien su trabajo. Arendt se fija en algo: <strong>no pensaba</strong> en lo que hacía.",
+     "De ahí su tesis: un mal inmenso puede nacer no de una intención demoníaca, sino de la <strong>renuncia a pensar</strong> y a ponerse en el lugar del otro, dentro de una maquinaria burocrática.",
+     "«Banal» no quiere decir que el mal sea poca cosa: quiere decir que <strong>no necesita monstruos</strong>. Por eso pensar, juzgar por uno mismo, es una tarea moral."
+    ],
+    "comprobacion": {
+     "pregunta": "Según Arendt, ¿qué tenía Eichmann que explica su mal?",
+     "opciones": [
+      [
+       "La incapacidad de pensar en lo que hacía y de ponerse en el lugar de los demás.",
+       true
+      ],
+      [
+       "Una maldad sádica y demoníaca, fuera de lo común.",
+       false,
+       "Eso es justo lo que Arendt esperaba encontrar y no encontró.",
+       "g-banalidad-del-mal"
+      ],
+      [
+       "Una enfermedad mental que le impedía saber lo que hacía.",
+       false,
+       "Los psiquiatras lo declararon normal; para Arendt es responsable.",
+       "g-banalidad-del-mal"
+      ],
+      [
+       "Ninguna culpa: solo cumplía órdenes.",
+       false,
+       "Arendt no lo exculpa: obedecer sin pensar no libra de la responsabilidad.",
+       "g-banalidad-del-mal"
+      ]
+     ],
+     "ok": "Bien: el mal sin monstruos nace de no pensar.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito leer el texto",
+      "etiqueta": "Texto de apoyo",
+      "titulo": "Pura irreflexión",
+      "glosario": [
+       "g-banalidad-del-mal",
+       "g-totalitarismo"
+      ],
+      "cita": {
+       "texto": "No era estupidez, sino «pura irreflexión» lo que lo convirtió en uno de los mayores criminales de su época.",
+       "fuente": "Arendt, <em>Eichmann en Jerusalén. Un informe sobre la banalidad del mal</em> (1963), posdata (paráfrasis; la expresión citada, en traducción propia del inglés)"
+      },
+      "comprobacion": {
+       "etiqueta": "Comprobación del texto",
+       "pregunta": "¿Qué distingue Arendt al decir que no era estupidez, sino irreflexión?",
+       "opciones": [
+        [
+         "Que Eichmann era capaz de pensar, pero no lo hacía: no se detenía a juzgar lo que hacía.",
+         true
+        ],
+        [
+         "Que Eichmann era poco inteligente.",
+         false,
+         "Al contrario: dice expresamente que no era estupidez."
+        ],
+        [
+         "Que Eichmann pensaba demasiado.",
+         false,
+         "La irreflexión es justo lo contrario: no pararse a pensar."
+        ],
+        [
+         "Que Eichmann no sabía lo que pasaba en los campos.",
+         false,
+         "Sabía lo que organizaba; lo que faltaba era el juicio sobre ello."
+        ]
+       ],
+       "ok": "Exacto: no es falta de inteligencia, sino de juicio.",
+       "mal": "Vuelve a leer la frase.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "Un mal sin monstruos, y su debate",
+      "glosario": [
+       "g-banalidad-del-mal",
+       "g-soledad-politica"
+      ],
+      "definicion": [
+       "<strong>La tesis</strong> → el mal extremo puede ser obra de personas corrientes que obedecen y no piensan, dentro de una burocracia que reparte el trabajo y diluye la responsabilidad.",
+       "<strong>Lo que no dice</strong> → no dice que el mal sea poca cosa ni que Eichmann fuera inocente: Arendt aprobó su condena.",
+       "<strong>El debate</strong> → algunos historiadores, como David Cesarani (2004) y Bettina Stangneth (2011), mostraron con documentos que Eichmann era un antisemita convencido y no un simple burócrata. Otros responden que la tesis de Arendt habla del tipo de mal, no solo de un hombre.",
+       "<strong>La lección</strong> → pensar y juzgar por uno mismo no es un lujo de filósofos: es lo que puede frenar el mal."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "¿Qué significa «banal» en «la banalidad del mal»?",
+       "opciones": [
+        [
+         "Que el mal no necesita monstruos: puede venir de gente corriente que no piensa.",
+         true
+        ],
+        [
+         "Que el mal es poca cosa y no hay que darle importancia.",
+         false,
+         "Arendt no quita gravedad al crimen; habla de su origen."
+        ],
+        [
+         "Que el mal es aburrido.",
+         false,
+         "No es una cuestión de gusto: es una tesis sobre de dónde nace el mal."
+        ],
+        [
+         "Que todo el mundo es igual de culpable.",
+         false,
+         "No reparte la culpa por igual: cada uno responde de lo que hace."
+        ]
+       ],
+       "ok": "Correcto: «banal» se opone a «demoníaco», no a «grave».",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "¿Qué distingue la labor, el trabajo y la acción, y por qué la acción es la más importante?",
+    "repaso": [
+     "¿He distinguido las tres actividades: labor (mantener la vida), trabajo (fabricar un mundo duradero) y acción (entre personas, con palabras y actos)?",
+     "¿He explicado que la acción necesita la pluralidad y un espacio público?",
+     "¿He relacionado la acción con la natalidad: la capacidad de empezar algo nuevo?"
+    ],
+    "intro": [
+     "En <em>La condición humana</em> (1958), Arendt distingue tres maneras de estar activos. Piensa en la diferencia entre comer, construir una mesa y hablar en una asamblea."
+    ],
+    "pistas": [
+     "Recuerda: Arendt llama <strong>vida activa</strong> (<em>vita activa</em>) al conjunto de lo que hacemos, frente a la vida contemplativa de los filósofos.",
+     "La <strong>labor</strong> mantiene la vida biológica: comer, limpiar, producir lo que se consume y vuelve a hacer falta. El <strong>trabajo</strong> fabrica objetos duraderos que forman un mundo común: casas, herramientas, obras.",
+     "La <strong>acción</strong> es distinta: ocurre entre personas, sin cosas de por medio, con palabras y actos. Necesita la <strong>pluralidad</strong>: somos distintos y vivimos juntos.",
+     "Actuar es <strong>empezar algo nuevo</strong>: cada nacimiento trae al mundo a alguien capaz de comenzar (la <strong>natalidad</strong>). Por eso la acción, que vive en el espacio público, es la base de la libertad política."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Qué tiene de propio la acción, frente a la labor y el trabajo?",
+     "opciones": [
+      [
+       "Que se da entre personas, con palabras y actos, y permite empezar algo nuevo en un espacio público.",
+       true
+      ],
+      [
+       "Que produce objetos que duran mucho tiempo.",
+       false,
+       "Eso es el trabajo, que fabrica el mundo de las cosas.",
+       "g-vita-activa"
+      ],
+      [
+       "Que sirve para mantener la vida biológica.",
+       false,
+       "Eso es la labor: comer, limpiar, producir lo que se consume.",
+       "g-vita-activa"
+      ],
+      [
+       "Que se hace en soledad, pensando.",
+       false,
+       "La acción necesita a los demás: sin pluralidad no hay acción.",
+       "g-espacio-publico"
+      ]
+     ],
+     "ok": "Exacto: la acción es la actividad política por excelencia.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "La vida activa",
+      "titulo": "Labor, trabajo y acción",
+      "glosario": [
+       "g-vita-activa",
+       "g-natalidad",
+       "g-espacio-publico"
+      ],
+      "cita": {
+       "texto": "La acción corresponde a la condición de la pluralidad: «los hombres, no el Hombre, viven en la Tierra».",
+       "fuente": "Arendt, <em>La condición humana</em> (1958), cap. 1 (paráfrasis; la expresión citada, en traducción propia del inglés)"
+      },
+      "definicion": [
+       "<strong>Labor</strong> → mantener la vida: lo que se produce se consume y hay que volver a hacerlo. Su figura es el <em>animal laborans</em>.",
+       "<strong>Trabajo</strong> → fabricar cosas duraderas que forman un mundo común, más estable que nuestras vidas. Su figura es el <em>homo faber</em>.",
+       "<strong>Acción</strong> → hablar y actuar ante los demás, en un espacio público, y empezar algo nuevo (natalidad). Es donde aparece quién es cada uno.",
+       "<strong>El peligro</strong> → cuando todo se vuelve labor y consumo, o cuando un régimen aísla a las personas y destruye el espacio público, desaparece la acción, y con ella la libertad."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿Qué relación hay entre la acción y la natalidad?",
+       "opciones": [
+        [
+         "Cada nacimiento trae a alguien nuevo capaz de comenzar algo: actuar es esa capacidad de empezar.",
+         true
+        ],
+        [
+         "Que la acción sirve para tener hijos.",
+         false,
+         "Es una imagen filosófica: nacer es empezar, y actuar también."
+        ],
+        [
+         "Que solo los jóvenes pueden actuar.",
+         false,
+         "Todos pueden actuar: cada uno es un comienzo."
+        ],
+        [
+         "Que la acción repite siempre lo mismo.",
+         false,
+         "Al contrario: lo propio de la acción es la novedad."
+        ]
+       ],
+       "ok": "Correcto: la natalidad es la raíz de la libertad de actuar.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar dos ideas de Arendt",
+   "parrafos": [
+    "La banalidad del mal: un mal inmenso puede cometerlo alguien corriente que renuncia a pensar, no un monstruo; la tesis se discute, porque los documentos muestran a un Eichmann más ideológico. La vida activa: la labor mantiene la vida, el trabajo fabrica un mundo y la acción, entre personas y en un espacio público, permite empezar algo nuevo.",
+    "Para la disertación: relaciona el «pensar» de Arendt con el «atrévete a pensar» de Kant y con la soledad política que, según ella, prepara el totalitarismo."
    ]
   }
  },
