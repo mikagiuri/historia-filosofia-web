@@ -1301,6 +1301,22 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "imp": 4,
+  "impg": 10,
+  "t": "El mal como privación",
+  "id": "g-mal-como-privacion",
+  "et": "*Privación*, del latín *privatio*, de *privare*, «quitar, dejar sin algo». Los escolásticos lo llamaron *privatio boni*, «privación del bien».",
+  "area": "Metafísica",
+  "bloque": "B",
+  "unidad": "B1",
+  "tema": "Agustín de Hipona",
+  "def": "La respuesta de Agustín al problema del mal: el mal no es una sustancia ni un principio rival de Dios, como sostenían los maniqueos, sino la falta de un bien que debería haber. Todo lo que existe, en cuanto existe, es bueno (*Confesiones* VII, 12, 18).",
+  "ilustre": [
+   "agustin"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
   "impg": 11,
   "t": "El malestar en la cultura",
   "id": "g-el-malestar-en-la-cultura",
@@ -2788,6 +2804,22 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "imp": 4,
+  "impg": 10,
+  "t": "Libre albedrío",
+  "id": "g-libre-albedrio",
+  "et": "*Albedrío*, del latín *arbitrium*, «juicio, decisión»; *libre*, del latín *liber*.",
+  "area": "Antropología",
+  "bloque": "B",
+  "unidad": "B1",
+  "tema": "Agustín de Hipona",
+  "def": "La capacidad de la voluntad de elegir. Para Agustín es un bien que Dios dio al ser humano para obrar bien; el mal moral nace de usarlo mal, cuando la voluntad se aparta del bien mayor hacia bienes menores, y por eso su responsable es el ser humano, no Dios (*Del libre albedrío*). Más tarde, frente a Pelagio, insiste en que sin la gracia la voluntad no basta para hacer el bien.",
+  "ilustre": [
+   "agustin"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
   "impg": 8,
   "t": "Lo apolíneo",
   "id": "g-lo-apolineo",
@@ -3432,6 +3464,22 @@ const GLOSARIO = [
   "def": "Las cuatro reglas del *Discurso del método* (II): evidencia (no admitir nada que no se conozca con evidencia), análisis (dividir cada dificultad en tantas partes como haga falta), síntesis (ir con orden, de lo más simple a lo más complejo) y enumeración (revisarlo todo para no omitir nada).",
   "ilustre": [
    "descartes"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
+  "impg": 10,
+  "t": "Relaciones de ideas y cuestiones de hecho",
+  "id": "g-relaciones-de-ideas",
+  "et": "*Relación*, del latín *relatio*, «referencia de una cosa a otra»; *hecho*, del latín *factum*, «lo hecho, lo sucedido».",
+  "area": "Epistemología",
+  "bloque": "B",
+  "unidad": "BH",
+  "tema": "Hume",
+  "def": "Las dos clases de conocimiento según Hume (*Investigación sobre el entendimiento humano*, IV): las relaciones de ideas (matemáticas y lógica), ciertas por demostración, porque su contrario es contradictorio; y las cuestiones de hecho, que dependen de la experiencia y cuyo contrario siempre es posible (que el sol no salga mañana). Lo que no es ni lo uno ni lo otro, dice al final de la obra, «al fuego».",
+  "ilustre": [
+   "hume"
   ]
  },
  {
