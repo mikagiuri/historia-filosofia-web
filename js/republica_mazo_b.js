@@ -41,7 +41,7 @@ const REP_MAZO_B = {
       nota:"Para Platón la «música» abarca palabra, relato y melodía: forma el carácter antes que el razonamiento. Educar es afinar el alma.",
       ef:{ gv:1, et:1 } },
 
-    { id:"b_gimnasia", v:"b", fase:1, ap:1, name:"Educación: gimnasia (γυμναστική, *gymnastiké*)",
+    { id:"b_gimnasia", v:"b", fase:1, ap:1, img:"ac-deporte",   /* (21-10) reuso: el discóbolo */ name:"Educación: gimnasia (γυμναστική, *gymnastiké*)",
       d:"+1 de valentía a cada guardián auxiliar. Si ya se jugó «Música», +1 de armonía por el equilibrio logrado.",
       cita:"«No es el cuerpo bueno el que hace buena el alma, sino al revés: el alma buena hace, con su virtud, lo mejor posible el cuerpo. La gimnasia y la música no son una para el cuerpo y otra para el alma: las dos educan, sobre todo, el alma.»",
       loc:"República III, 403c-404e; 410b-c",
@@ -171,7 +171,7 @@ const REP_MAZO_B = {
       no:{ ef:{ arm:-2 }, msg:"La ciudad se hincha de cosas que no hacen falta y mira el territorio del vecino: −2 de armonía." },
       nota:"Platón deriva la guerra del exceso de deseo, no de la naturaleza. Debate abierto sobre consumo y conflicto, sin moraleja. Simplificado: el «lujo acumulado» se mide como mayoría de productores; no encadena con la guerra." },
 
-    { id:"b_ev_desigualdad", v:"b", name:"Rebelión por desigualdad", loc:"República IV, 422e-423a",
+    { id:"b_ev_desigualdad", v:"b", img:"../aristoteles/azar-fanaticos",   /* (21-10) reuso */ name:"Rebelión por desigualdad", loc:"República IV, 422e-423a",
       cita:"«Toda ciudad, por pequeña que sea, es en realidad dos ciudades enemigas: la de los pobres y la de los ricos; y dentro de cada una, otras muchas. Si las tratas como una sola, te engañas.»",
       threat:"Si nadie ha construido la cohesión (ni el mito de los metales ni honrar a cada clase), una clase se siente agraviada.",
       req:"flag:mito",
@@ -195,7 +195,7 @@ const REP_MAZO_B = {
       no:{ ef:{ arm:-2 }, msg:"El relativismo seduce a la juventud: −2 de armonía." },
       nota:"La crítica platónica al sofista: confunde halagar a la masa con saber. Debate abierto sobre retórica, opinión pública y verdad." },
 
-    { id:"b_ev_defensa", v:"b", name:"Guerra por el territorio", loc:"República II, 374a-e",
+    { id:"b_ev_defensa", v:"b", img:"../aristoteles/azar-guerra",   /* (21-10) reuso */ name:"Guerra por el territorio", loc:"República II, 374a-e",
       cita:"«¿Dejaremos la guerra a cualquiera? ¿O también esto es un oficio? Porque si el zapatero no puede a la vez ser labrador, tejedor y albañil, ¿cómo iba a ser bueno en la guerra el que tiene otro oficio? Guardar la ciudad pide más cuidado que ningún trabajo, y más tiempo, y arte, y dedicación.»",
       threat:"Si los guardianes auxiliares no bastan para defender a la población, el enemigo entra.",
       req:"defensa",

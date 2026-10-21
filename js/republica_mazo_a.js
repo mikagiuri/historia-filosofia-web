@@ -15,7 +15,7 @@ const REP_MAZO_A = {
       cita:"«Cuanto más estiman la riqueza, menos estiman la virtud.»", loc:"República VIII, 550d-551b",
       nota:"Frena la oligarquía atacando su causa. Simplificado: «en oligarquía o cayendo hacia ella» = desde la timocracia; no se programa la anulación del goteo de la oligarquía.",
       ef:{ si:{ req:"reg>=1", ef:{ arm:2 } } } },
-    { id:"sorteo", v:"a", ap:1, img:"ac-sorteo", name:"Reparto de cargos por sorteo",
+    { id:"sorteo", v:"a", ap:1, img:"../aristoteles/azar-suerte",   /* (21-10) reuso sin coste: dados y laurel, el cargo por suerte */ name:"Reparto de cargos por sorteo",
       d:"Los cargos se reparten entre todos: +2 AP, pero −1 de armonía y la ciudad se acerca a la democracia.",
       cita:"«Reparten por igual el gobierno y los cargos, y la mayoría de las veces por sorteo.»", loc:"República VIII, 557a",
       nota:"Una acción que acelera la caída: no todo lo que da energía salva a la ciudad. Simplificado: sin el −1 al umbral de la democracia.",

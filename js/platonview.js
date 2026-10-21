@@ -1,7 +1,7 @@
 "use strict";
 /* ===== La República ===== juego de diseño de la ciudad de Platón (v4) =====
    Diseñas una ciudad con perfiles (+/−). Cada persona tiene TRES VIRTUDES del alma:
-   Sabiduría-Justicia (SJ ⚖️), Valentía (V 🛡️) y Templanza (T 🍷). Coste = suma de las 3.
+   Sabiduría (sophía, SJ 🦉; antes «sabiduría-justicia»: desde el 21-10 la justicia de la ciudad es el equilibrio de las tres funciones, Rep. IV 433b-c), Valentía (V 🛡️) y Templanza (T 🍷). Coste = suma de las 3.
      · Guardián: las tres virtudes ≥4  (444 → máx. 555)
      · Guerrero: valentía y templanza ≥4  (x44 → máx. 355)
      · Productor: templanza ≥4  (xx4 → máx. 335)
@@ -26,7 +26,7 @@ const REP_MODES = {
 };
 const REP_ROSTER = {
   Z: [ { id:"z_recto", name:"Guardianes rectos", sj:4,v:4,t:4, note:"las tres virtudes al mínimo" },
-       { id:"z_sabio", name:"Guardianes sabios", sj:5,v:4,t:4, note:"más sabiduría-justicia" },
+       { id:"z_sabio", name:"Guardianes sabios", sj:5,v:4,t:4, note:"más sabiduría" },
        { id:"z_pleno", name:"Guardianes plenos", sj:5,v:5,t:5, note:"virtud máxima" } ],
   G: [ { id:"g_tropa", name:"Guerreros", sj:1,v:4,t:4, note:"lo básico" },
        { id:"g_vet", name:"Veteranos", sj:2,v:5,t:4, note:"curtidos" },
@@ -37,7 +37,7 @@ const REP_ROSTER = {
 const REP_IMG = "media/juegos/platon/";
 /* (20-10, tanda 2) dos versiones: A «degen» (Rep. VIII-X) y B «clases» (Rep. II-IV). La web usa estos valores;
    REP_AP0, REP_MODES y REP_ACTS se quedan como están porque los lee la versión impresa (tools/cartas_juegos.js). */
-const REP_V2 = { ap0:8, apTurno:1, apFase:2, maxActs:3, deck:{ facil:12, real:14 }, dlgTurns:[1,4,7,10] };
+const REP_V2 = { ap0:8, apTurno:1, apFase:2, maxActs:3, deck:{ facil:12, real:14 }, dlgTurns:[1,4,7,10], justicia:0.5 };   // justicia: armonía por turno con las tres funciones (21-10)
 const REP_JUEGO_KEY = "aula-republica-juego";
 const REP_EV_V = { golpe:"a", victoria:"a", delos:"a", esparta:"a", pericles:"a", timocracia:"a",
   caverna:"b", hambruna:"b", reforma:"b", cosecha:"b" };   // el resto, en las dos
@@ -71,7 +71,7 @@ const REP_ACTS = [
   { id:"moviliza", name:"Movilización", ap:2, img:"ac-agoge", d:"Un productor se forma como guerrero.", ok:()=>rep.t.E.n>1,
     run:()=>{ repMove("E","G",1); } },
   { id:"heroismo", name:"Heroísmo", ap:1, img:"ac-heroismo", d:"Este turno, los guerreros valen ×1,5.", ok:()=>!rep.t.hero, run:()=>{ rep.t.hero=true; } },
-  { id:"educacion", name:"Reforma educativa", ap:1, img:"ac-ejemplo", d:"Los guardianes ganan sabiduría-justicia (+3).", run:()=>{ rep.t.Z.sj+=3; if(rep.t.Z.max<5)rep.t.Z.max=5; rep.t.Z.just=rep.t.Z.n; } },
+  { id:"educacion", name:"Reforma educativa", ap:1, img:"ac-ejemplo", d:"Los guardianes ganan sabiduría (+3) y cuentan como plenamente formados.", run:()=>{ rep.t.Z.sj+=3; if(rep.t.Z.max<5)rep.t.Z.max=5; rep.t.Z.just=rep.t.Z.n; } },
   { id:"cosecha", name:"Impulso a la producción", ap:1, img:"ac-vida", d:"La ciudad produce más alimento (+8 producción).", run:()=>{ rep.t.prodBonus=(rep.t.prodBonus||0)+8; } },
   { id:"purga", name:"Purga de corruptos", ap:2, img:"ac-politica", d:"Recuperas 1 punto de armonía.", run:()=>{ rep.armonia=Math.round((rep.armonia+1)*10)/10; } }
 ];
@@ -98,9 +98,9 @@ function repGloLinks(ids, temas){ const L=(ids||[]).map(id=>({ id, t:repGloName(
 const REP_TEMA_PLATON = "hf-platon", REP_TEMA_POLITICA = "hf-politica";
 function repTemaLinks(keys){ let TH=null; try{ TH=(typeof THEORY!=="undefined")?THEORY:null; }catch(e){} if(!TH) return "";
   const L=(keys||[]).filter(k=>TH[k]&&TH[k].title); return L.length ? '<p class="rep-glo rep-tema">📘 '+L.map(k=>'<a href="#teoria/'+k+'">'+TH[k].title+'</a>').join(" · ")+'</p>' : ""; }
-function repLadder(){ const D=repD(); if(!D) return ""; if(rep.juego==="clases") return repFuncBar();
+function repLadder(){ const D=repD(); if(!D) return ""; if(rep.juego==="clases") return repFuncBar(); const FB=repFuncBar();
   return '<div class="rep-ladder" role="list" aria-label="'+D.ui.regTitulo+'"><span class="rep-ladder-h">'+D.ui.hudReg+'</span>'+D.regimenes.map((r,i)=>
-    '<span role="listitem" class="rep-lr'+(i===rep.reg?' on':'')+(i<rep.reg?' past':'')+'" title="'+r.lema+'">'+r.emoji+' '+r.name+'</span>').join('<i aria-hidden="true">›</i>')+'</div>'; }
+    '<span role="listitem" class="rep-lr'+(i===rep.reg?' on':'')+(i<rep.reg?' past':'')+'" title="'+r.lema+'">'+r.emoji+' '+r.name+'</span>').join('<i aria-hidden="true">›</i>')+'</div>'+FB; }
 function repFuncBar(){ const D=repD(); if(!D||!rep.t) return ""; const f=repFunc(), F=repFases(), fi=repFaseIdx(Math.min(rep.turn,rep.turns-1));
   return '<div class="rep-ladder rep-funcs" role="list" aria-label="'+D.ui.funciones+'">'+(fi>=0?'<span class="rep-ladder-h">'+D.ui.fase+': <b>'+F[fi].name+'</b></span>':'')+
     D.funciones.map(x=>'<span role="listitem" class="rep-lr'+(f[x.k]?' on':'')+'" title="'+(f[x.k]?x.ok:x.no)+'">'+x.emoji+' '+x.name+(f[x.k]?' ✓':' ✗')+'</span>').join("")+'</div>'; }
@@ -246,7 +246,7 @@ const REP_EVENTS = [
     effect:()=>{ if(repNGeff()>rep.t.Z.n*3){ const k=repKill("Z",1); return { d:-3, msg:"¡Golpe! −3 y muere "+k+" guardián." }; }
       if(rep.t.G.n>rep.t.Z.n*2) return { d:-1, msg:"Tensión militar: −1." }; return { d:0, msg:"El ejército respeta al gobierno." }; } },
   { id:"corrupcion", name:"Corrupción", src:"Rep. I", img:"ev-corrupcion",
-    threat:"Pierdes 1 punto por cada guardián que no sea plenamente justo (SJ<5).",
+    threat:"Pierdes 1 punto por cada guardián que no sea plenamente justo (sabiduría < 5).",
     effect:()=>{ const x=rep.t.Z.n-rep.t.Z.just; return { d:-x, msg:x?("−"+x+" por guardianes poco justos"):"Todos tus guardianes son justos." }; } },
   { id:"caverna", name:"Sombras en la caverna", src:"Rep. VII, 514a-520d", img:"ev-sabiduria",   // (21-10) no castiga la ignorancia de la masa, sino que no haya filósofos que vuelvan a bajar (519c-520d)
     threat:"Los que salieron de la caverna deben volver a gobernar. Sin ningún guardián de sabiduría plena, gobiernan quienes solo han visto sombras.",
@@ -272,7 +272,7 @@ const REP_EVENTS = [
     threat:"Un ejército fuerte (guerreros ≥ guardianes ×3) gana una guerra.",
     effect:()=>{ return repNGeff() >= rep.t.Z.n*3 ? { d:1, msg:"Victoria: +1." } : { d:0, msg:"Sin fuerza para vencer." }; } },
   { id:"reforma", name:"Reforma justa", src:"Rep.", img:"ev-sabiduria",
-    threat:"Si tus guardianes son plenamente justos (SJ medio ≥5), recuperas armonía.",
+    threat:"Si tus guardianes son plenamente justos (sabiduría media ≥ 5), recuperas armonía.",
     effect:()=>{ return (rep.t.Z.sj/Math.max(1,rep.t.Z.n))>=5 ? { d:2, msg:"Buen gobierno: +2." } : { d:0, msg:"Falta justicia plena arriba." }; } },
   { id:"cosecha", name:"Cosecha abundante", src:"—", img:"ev-hambruna",
     threat:"Si la ciudad produce de sobra (excedente ≥ 40% de la población), hay bonanza.",
@@ -285,7 +285,7 @@ const REP_EVENTS = [
     threat:"Esparta arrasa los campos. Si los defensores son escasos (guerreros < productores ÷ 3), es una masacre.",
     effect:()=>{ if(repNGeff() < rep.t.E.n/3){ const k=repKill("E",F(rep.t.E.n/8))+repKill("G",F(rep.t.G.n/6)); return { d:-3, msg:"Devastación: −3 y mueren "+k+" ciudadanos." }; } return { d:-1, msg:"Resistes tras las murallas: −1." }; } },
   { id:"socrates", name:"Juicio a Sócrates", src:"Apología", img:"ev-socrates",
-    threat:"La ciudad juzga a su hombre más sabio. Sin un guardián plenamente sabio (SJ 5), lo condena.",
+    threat:"La ciudad juzga a su hombre más sabio. Sin un guardián plenamente sabio (sabiduría 5), lo condena.",
     effect:()=>{ return rep.t.Z.max>=5 ? { d:1, msg:"La sabiduría lo absuelve: +1." } : { d:-2, msg:"Condenan al más sabio: −2." }; } },
   { id:"pericles", name:"La ambición de Pericles", src:"Historia", img:"ev-pericles",
     threat:"Un líder brillante emprende grandes obras. Con guardianes templados (templanza media ≥4,5) es un siglo de oro; sin mesura, hybris.",
@@ -345,7 +345,7 @@ function drawRepModes(){
   const rnd=document.getElementById("repRandom"); if(rnd) rnd.addEventListener("click",repRandom);
   const ho=document.getElementById("repHistOpen"); if(ho) ho.addEventListener("click",renderRepHistory);
 }
-function statPips(c){ return '<span class="rep-pips">⚖️'+c.sj+' 🛡️'+c.v+' 🍷'+c.t+' <em>· '+cost(c)+'</em></span>'; }
+function statPips(c){ return '<span class="rep-pips">🦉'+c.sj+' 🛡️'+c.v+' 🍷'+c.t+' <em>· '+cost(c)+'</em></span>'; }
 function drawRepRoster(){
   const sec=(title,list)=>'<div class="rep-rsec"><h3>'+title+'</h3>'+list.map(c=>{ const n=rep.cnt[c.id]||0;
     return '<div class="rep-rrow prod"><div class="rep-rname">'+c.name+' <span class="rep-note">'+c.note+'</span><br>'+statPips(c)+'</div>'+
@@ -481,6 +481,7 @@ function repResolve(ev){
   if(rep.resolved) return; rep.resolved=true;
   const before=rep.armonia;
   const r=ev.effect(); let dd=r.d; if(rep.t.escolta && repD()){ dd-=0.5; r.msg+=" "+repD().ui.escolta; }
+  if(repD() && rep.t && repFunc().dikaiosyne){ dd+=REP_V2.justicia; r.msg+=" "+repD().ui.justiciaTurno; }   // (21-10) la justicia conserva a las demás virtudes (Rep. IV 433b-c)
   if(repD()){ if(dd<0 && rep.escudo && rep.escudo[ev.id]>0){ dd=0; r.msg+=" 🛡️"; }
     (rep.dura||[]).forEach(x=>{ if(x.k==="menos" && x.left>0 && dd<0) dd=Math.min(0,dd+x.n); });
     Object.keys(rep.escudo||{}).forEach(k=>{ rep.escudo[k]--; }); }
@@ -509,7 +510,9 @@ function repChronicleText(){
     L.splice(3, 0, U.version+": "+V.eyebrow+" · "+V.name+" ("+V.libros+")");
     if(rep.juego==="clases"){ const f=repFunc(); L.push("", "== "+U.funciones.toUpperCase()+" ==");
       D.funciones.forEach(x=>L.push("   "+(f[x.k]?"✓ ":"✗ ")+x.name+" — "+x.gr.replace(/\*/g,"")+" — "+x.clase+": "+(f[x.k]?x.ok:x.no)+" ("+x.loc+")"));
-      L.push("", D.doxa.replace(/\*/g,""), "", "== "+U.posturas.toUpperCase()+" =="); }
+      L.push("", D.doxa.replace(/\*/g,""));
+      if(rep.erChoice!=null){ const E=D.er, o=E.opts[rep.erChoice]; L.push("", "== "+E.titulo.toUpperCase()+" ==", E.cita+" ("+E.loc+")", "   → "+o.t, "   "+o.r, E.cierre); }
+      L.push("", "== "+U.posturas.toUpperCase()+" =="); }
     else { L.push("", "== "+U.finRegimen.toUpperCase()+": "+rg.name.toUpperCase()+" ==", rg.lema, rg.cita+" ("+rg.loc+")");
     rep.regLog.forEach(x=>L.push("   "+x.n+": "+R.slice(x.from,x.to+1).map(r=>r.name).join(" → ")));
     L.push("", U.escalera);
@@ -606,7 +609,7 @@ function repCopyChronicle(btn){
 }
 function repErBlock(){   // (20-10) Versión A: epílogo con el mito de Er (República X, 614b-621d)
   const D=repD(), E=D.er, U=D.ui;
-  return '<div class="rep-dialog rep-er" id="repEr"><div class="rep-dl-h"><span class="rep-dl-ic" aria-hidden="true">🌌</span><div><span class="rep-ev-tag">'+E.loc+'</span><h3>'+E.titulo+'</h3></div></div>'+
+  return '<div class="rep-dialog rep-er" id="repEr"><div class="rep-dl-h"><span class="rep-dl-ic" aria-hidden="true">🌌</span><div><span class="rep-ev-tag">'+E.loc+'</span><h3>'+E.titulo+(rep.juego==="clases"?' <span class="rep-cr-badge">'+U.opcional+'</span>':'')+'</h3></div></div>'+
     '<p class="rep-dl-sit">'+E.situacion+'</p><blockquote class="rep-dl-cita">'+E.cita+' <cite>'+E.loc+'</cite></blockquote><p class="rep-dl-gr">'+repMd(E.griego)+'</p>'+
     (rep.erChoice==null
       ? '<p class="rep-dl-q"><b>'+E.pregunta+'</b></p><div class="rep-dl-opts">'+E.opts.map((o,i)=>'<button class="rep-dl-opt" data-er="'+i+'"><b>'+o.t+'</b></button>').join("")+'</div>'
@@ -622,7 +625,7 @@ function repFuncPanel(){   // (20-10) Versión B: qué función cumple cada clas
 function repFinalBlocks(){   // (20-10) régimen final, posturas y guion de disertación
   const D=repD(); if(!D) return ""; const U=D.ui, rg=D.regimenes[rep.reg];
   const glo=[...new Set([].concat(...rep.posturas.map(p=>p.glo), ...(rep.juego==="clases"?[["g-las-tres-partes-del-alma","g-justicia","g-sabiduria","g-valentia","g-templanza"]]:D.regimenes.slice(0,rep.reg+1).map(r=>r.glo))))];
-  return (rep.juego==="clases" ? repFuncPanel() :
+  return (rep.juego==="clases" ? repFuncPanel()+repErBlock() :
     '<div class="rep-final-reg">'+repLadder()+'<p class="rep-dl-sit"><b>'+rg.lema+'</b></p>'+
       '<blockquote class="rep-dl-cita">'+rg.cita+' <cite>'+rg.loc+'</cite></blockquote>'+
       '<p class="rep-dl-note">'+U.escalera+'</p></div>'+repErBlock())+
@@ -670,7 +673,7 @@ function repResult(){
   const sv=document.getElementById("repSave"); if(sv) sv.addEventListener("click",repDownloadChronicle);
   const cp=document.getElementById("repCopy"); if(cp) cp.addEventListener("click",()=>repCopyChronicle(cp));
   const hv=document.getElementById("repHistView"); if(hv) hv.addEventListener("click",renderRepHistory);
-  if(D && rep.juego!=="clases") repErWire();
+  if(D) repErWire();   // (21-10) el mito de Er cierra las dos versiones
   const nm=document.getElementById("repName"); if(nm){ nm.addEventListener("input",()=>repHistSetLatestName(nm.value)); nm.addEventListener("focus",()=>nm.select()); }
 }
 function renderRepChuleta(){   // (20-10) chuleta: todas las reglas y fórmulas de las dos versiones
@@ -685,7 +688,7 @@ function renderRepChuleta(){   // (20-10) chuleta: todas las reglas y fórmulas 
   const evV=e=>(REP_EV_V[e.id]||e.v)==="a"?" · A":(REP_EV_V[e.id]||e.v)==="b"?" · B":"";
   box.innerHTML='<div class="rep-wrap rep-chuleta"><div class="rep-hist-top"><button class="btn2" id="repChBack">'+U.volver+'</button><h3>📋 '+U.chuletaT+'</h3>'+
       '<button class="btn2" onclick="void 0 /* sin imprimir en la web de alumnado */">🖨️</button></div>'+
-    '<h4>'+U.cClases+'</h4><p>'+U.cClasesT+'</p><table class="rep-ch-t">'+["Z","G","E"].map(k=>REP_ROSTER[k].map(c=>'<tr><td>'+c.name+'</td><td>⚖️'+c.sj+' 🛡️'+c.v+' 🍷'+c.t+'</td><td class="c">'+cost(c)+'</td></tr>').join("")).join("")+'</table>'+
+    '<h4>'+U.cClases+'</h4><p>'+U.cClasesT+'</p><table class="rep-ch-t">'+["Z","G","E"].map(k=>REP_ROSTER[k].map(c=>'<tr><td>'+c.name+'</td><td>🦉'+c.sj+' 🛡️'+c.v+' 🍷'+c.t+'</td><td class="c">'+cost(c)+'</td></tr>').join("")).join("")+'</table>'+
     '<h4>'+U.cEconomia+'</h4><p>'+U.cEconomiaT+' '+U.cTurnos+'</p>'+
     '<h4>'+U.cVictoria+'</h4><p>'+U.cVictoriaA+'</p><p>'+U.cVictoriaB+'</p><p>'+U.cFunciones+'</p>'+
     '<h4>'+V.degen.emoji+' '+V.degen.eyebrow+' · '+V.degen.name+'</h4><table class="rep-ch-t">'+D.regimenes.map((r,i)=>'<tr><td><b>'+r.emoji+' '+r.name+'</b></td><td>'+(i===0?'≥ 8':i===D.regimenes.length-1?'< 2':'< '+D.regimenes[i-1].min)+'</td><td>'+r.lema+' '+repMd(r.causa)+'<br><cite>'+r.cita+' ('+r.loc+')</cite></td></tr>').join("")+'</table>'+

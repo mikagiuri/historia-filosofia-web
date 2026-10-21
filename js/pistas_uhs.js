@@ -2,6 +2,7 @@
 const PISTAS = [
  {
   "id": "hf-caverna",
+  "ilustre": "platon",
   "subject": "hf",
   "tema": "Tema 6 · Platón",
   "unidad": "hf-platon",
@@ -243,7 +244,508 @@ const PISTAS = [
   }
  },
  {
+  "id": "platon-alma",
+  "ilustre": "platon",
+  "subject": "hf",
+  "tema": "Tema 7 · Platón: el alma",
+  "unidad": "hf-antropologia",
+  "materia": "Filosofía · Platón",
+  "titulo": "¿Cómo es el alma según Platón y qué es ser justo?",
+  "lede": "El epígrafe que más ha caído en la PAU: las tres partes del alma, sus virtudes y su reflejo en la ciudad. Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Cuáles son las tres partes del alma según Platón y qué hace cada una?",
+    "repaso": [
+     "¿He nombrado las tres partes: racional (<em>logistikón</em>), irascible (<em>thymoeidés</em>) y concupiscible o apetitiva (<em>epithymetikón</em>)?",
+     "¿He dicho qué hace cada una: conocer y guiar, defender lo justo con brío, buscar el placer y lo material?",
+     "¿He explicado el argumento: dentro de nosotros chocan impulsos, luego el alma no es una sola cosa?"
+    ],
+    "intro": [
+     "Piensa en alguien con mucha sed delante de un vaso de agua que sabe que está contaminada. Algo en él quiere beber y algo le dice que no. Platón parte de una escena así."
+    ],
+    "pistas": [
+     "Para aterrizar: Platón observa que dentro de nosotros <strong>chocan impulsos</strong>. Si algo quiere y algo se resiste a la vez, el alma no puede ser una sola cosa.",
+     "Una parte <strong>razona</strong> y calcula qué conviene; otra <strong>desea</strong>: comer, beber, el placer, el dinero.",
+     "Hay una tercera, que no es ni razón ni deseo: el <strong>brío</strong>, la parte que se indigna ante lo injusto y defiende el honor. Suele ponerse del lado de la razón.",
+     "En el <em>Fedro</em> lo cuenta con una imagen: un <strong>auriga</strong> (la razón) que guía un carro con dos caballos alados, uno noble (lo irascible) y otro rebelde (lo concupiscible)."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Qué parte del alma se indigna ante la injusticia y suele aliarse con la razón?",
+     "opciones": [
+      [
+       "La parte irascible (<em>thymoeidés</em>).",
+       true
+      ],
+      [
+       "La parte concupiscible (<em>epithymetikón</em>).",
+       false,
+       "Esa es la parte de los deseos: comer, beber, el placer, la riqueza.",
+       "g-alma-concupiscible"
+      ],
+      [
+       "La parte racional (<em>logistikón</em>).",
+       false,
+       "La razón conoce y guía; la que se indigna y le presta su fuerza es otra.",
+       "g-alma-racional"
+      ],
+      [
+       "Ninguna: para Platón el alma es una sola.",
+       false,
+       "Precisamente el choque de impulsos le lleva a distinguir tres partes.",
+       "g-las-tres-partes-del-alma"
+      ]
+     ],
+     "ok": "Bien: el brío (<em>thymós</em>) es el aliado natural de la razón.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito leer el texto",
+      "etiqueta": "Texto de apoyo",
+      "titulo": "Dos partes que chocan",
+      "glosario": [
+       "g-alma-racional",
+       "g-alma-concupiscible"
+      ],
+      "cita": {
+       "texto": "«A aquello con que el alma razona lo llamaremos lo racional; y a aquello con que ama, tiene hambre y sed y se agita por los demás deseos, lo irracional y apetitivo.»",
+       "fuente": "Platón, <em>República</em> IV, 439d (traducción propia del griego)"
+      },
+      "comprobacion": {
+       "etiqueta": "Comprobación del texto",
+       "pregunta": "Según el texto, ¿qué hace la parte apetitiva del alma?",
+       "opciones": [
+        [
+         "Ama, tiene hambre y sed y se agita por los deseos.",
+         true
+        ],
+        [
+         "Razona y calcula qué conviene.",
+         false,
+         "Eso lo hace la parte racional, la primera que nombra el texto."
+        ],
+        [
+         "Se indigna ante la injusticia.",
+         false,
+         "Esa es la parte irascible, que este fragmento todavía no nombra."
+        ],
+        [
+         "Recuerda las Ideas.",
+         false,
+         "El recuerdo de las Ideas (<em>anámnesis</em>) es cosa de la razón, no de los deseos."
+        ]
+       ],
+       "ok": "Exacto: es la parte de los deseos.",
+       "mal": "Vuelve a leer la segunda mitad de la frase.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "Tres partes, tres funciones",
+      "glosario": [
+       "g-las-tres-partes-del-alma",
+       "g-alma-irascible"
+      ],
+      "definicion": [
+       "<strong>Racional (<em>logistikón</em>)</strong> → conoce la verdad y guía el alma entera. En el <em>Timeo</em>, Platón la sitúa en la cabeza.",
+       "<strong>Irascible (<em>thymoeidés</em>)</strong> → el brío: se indigna ante lo injusto y defiende el honor. Aliada de la razón. En el pecho.",
+       "<strong>Concupiscible (<em>epithymetikón</em>)</strong> → los deseos del cuerpo y de la riqueza. En el vientre.",
+       "<strong>El carro alado del <em>Fedro</em></strong> → el auriga es la razón; el caballo noble, lo irascible; el rebelde, lo concupiscible."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "En la imagen del carro alado, ¿quién es el auriga?",
+       "opciones": [
+        [
+         "La razón, que debe guiar a los dos caballos.",
+         true
+        ],
+        [
+         "El deseo, que tira con más fuerza.",
+         false,
+         "El deseo es el caballo rebelde, no quien lleva las riendas."
+        ],
+        [
+         "El cuerpo, que transporta el alma.",
+         false,
+         "La imagen es toda del alma: auriga y caballos son sus partes."
+        ],
+        [
+         "Los dioses, que dirigen nuestra vida.",
+         false,
+         "En la imagen los dioses tienen su propio carro; el auriga del alma humana es su razón."
+        ]
+       ],
+       "ok": "Correcto: la razón lleva las riendas.",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "¿Qué es la justicia en el alma y qué tiene que ver con las clases de la ciudad justa?",
+    "repaso": [
+     "¿He dicho la virtud de cada parte: sabiduría (razón), valentía (irascible) y templanza?",
+     "¿He definido la justicia como que cada parte haga lo suyo, con la razón al mando: la armonía de las tres?",
+     "¿He relacionado las tres partes con las tres clases de la ciudad: gobernantes, guardianes y productores?"
+    ],
+    "intro": [
+     "En la <em>República</em>, Platón busca la justicia primero en la ciudad, porque es «más grande y más fácil de ver», y luego en el alma. Piensa qué tienen en común."
+    ],
+    "pistas": [
+     "Recuerda: cada parte del alma tiene su <strong>virtud</strong>, su manera de estar bien. La razón, la <strong>sabiduría</strong>; lo irascible, la <strong>valentía</strong>.",
+     "La <strong>templanza</strong> es el acuerdo de todas las partes en que mande la razón; sobre todo, que los deseos se dejen guiar.",
+     "¿Y la <strong>justicia</strong>? No es la virtud de una parte: es que <strong>cada parte haga lo suyo</strong> y no se meta en lo de las demás. Es la armonía del conjunto.",
+     "La ciudad justa tiene la misma estructura: <strong>gobernantes</strong> (la razón, la sabiduría), <strong>guardianes</strong> (el brío, la valentía) y <strong>productores</strong> (los deseos). Es justa cuando cada clase hace lo suyo."
+    ],
+    "comprobacion": {
+     "pregunta": "Según Platón, ¿qué es la justicia en el alma?",
+     "opciones": [
+      [
+       "Que cada parte haga lo suyo, con la razón al mando: la armonía de las tres.",
+       true
+      ],
+      [
+       "Que la razón elimine los deseos.",
+       false,
+       "Platón no quiere eliminar los deseos, sino que obedezcan a la razón.",
+       "g-templanza"
+      ],
+      [
+       "Que todas las partes manden por igual.",
+       false,
+       "La armonía no es igualdad de mando: la razón debe guiar.",
+       "g-justicia"
+      ],
+      [
+       "Dar a cada uno lo que se merece según la ley.",
+       false,
+       "Esa sería una justicia legal; en la <em>República</em> la justicia es un orden interior.",
+       "g-justicia"
+      ]
+     ],
+     "ok": "Exacto: la justicia es el orden de las tres partes.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "El alma y la ciudad",
+      "titulo": "Hacer lo suyo",
+      "glosario": [
+       "g-justicia",
+       "g-sabiduria",
+       "g-valentia",
+       "g-templanza"
+      ],
+      "cita": {
+       "texto": "«Hacer lo suyo y no meterse en muchas cosas es la justicia.»",
+       "fuente": "Platón, <em>República</em> IV, 433a (traducción propia del griego)"
+      },
+      "definicion": [
+       "<strong>Alma</strong> → razón (sabiduría, <em>sophía</em>), irascible (valentía, <em>andreía</em>), concupiscible. La templanza (<em>sophrosýne</em>) es el acuerdo de todas en que mande la razón.",
+       "<strong>Ciudad</strong> → gobernantes filósofos (sabiduría), guardianes o auxiliares (valentía) y productores. Los auxiliares no tienen ciencia (<em>epistéme</em>), sino opinión recta sobre lo que hay que temer (430b).",
+       "<strong>Justicia</strong> (<em>dikaiosýne</em>) → en las dos, que cada parte haga lo suyo. Por eso la ética y la política de Platón son la misma pregunta vista en pequeño y en grande."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿Qué clase de la ciudad corresponde a la parte irascible del alma?",
+       "opciones": [
+        [
+         "Los guardianes o auxiliares, cuya virtud es la valentía.",
+         true
+        ],
+        [
+         "Los gobernantes filósofos.",
+         false,
+         "Los gobernantes corresponden a la razón y a la sabiduría."
+        ],
+        [
+         "Los productores: campesinos, artesanos y comerciantes.",
+         false,
+         "Los productores corresponden a la parte de los deseos."
+        ],
+        [
+         "Ninguna: la ciudad no tiene que ver con el alma.",
+         false,
+         "Para Platón la ciudad es el alma «en grande»."
+        ]
+       ],
+       "ok": "Correcto: brío del alma, guardianes de la ciudad.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar el alma y la justicia en Platón",
+   "parrafos": [
+    "El alma tiene tres partes: racional (sabiduría), irascible (valentía) y concupiscible; la templanza es su acuerdo en que mande la razón. La justicia es que cada parte haga lo suyo, y la ciudad justa repite esa estructura con gobernantes, guardianes y productores.",
+    "Para la PAU: relaciona esta teoría del alma con la caverna (educar la razón) y con el gobierno de los filósofos."
+   ],
+   "siguiente": "hf-caverna"
+  }
+ },
+ {
+  "id": "descartes-metodo",
+  "ilustre": "descartes",
+  "subject": "hf",
+  "tema": "Tema 14 · Descartes",
+  "unidad": "hf-racionalismo",
+  "materia": "Filosofía · Descartes",
+  "titulo": "¿Qué método propone Descartes y cómo vive mientras duda?",
+  "lede": "Las partes II y III del «Discurso del método», de la lectura de la PAU: cuatro reglas para pensar y cuatro máximas para vivir. Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Cuáles son las cuatro reglas del método y por qué las toma de las matemáticas?",
+    "repaso": [
+     "¿He nombrado las cuatro reglas: evidencia, análisis, síntesis (orden) y enumeración?",
+     "¿He explicado la primera: no admitir nada como verdadero sin conocerlo con evidencia, evitando la precipitación y la prevención?",
+     "¿He dicho por qué las matemáticas: son el único saber que había llegado a demostraciones ciertas, con largas cadenas de razones?"
+    ],
+    "intro": [
+     "Descartes se queja de que, tras años de estudio, solo ha encontrado dudas. Decide buscar un método. Piensa en cómo se resuelve un problema de geometría difícil."
+    ],
+    "pistas": [
+     "Para aterrizar: Descartes prefiere <strong>pocas reglas</strong> bien cumplidas a muchas mal seguidas, como un Estado con pocas leyes que se respetan.",
+     "La primera regla es la de la <strong>evidencia</strong>: no aceptar nada que no se presente a la mente de forma clara y distinta.",
+     "Las dos siguientes son como desmontar y volver a montar: <strong>dividir</strong> cada dificultad en partes (análisis) y <strong>ordenar</strong> los pensamientos de lo más simple a lo más complejo (síntesis).",
+     "La cuarta, <strong>enumerar</strong> y revisar todo para no omitir nada. El modelo son los geómetras, con sus «largas cadenas de razones» sencillas y seguras."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Qué pide la primera regla del método?",
+     "opciones": [
+      [
+       "No admitir como verdadero nada que no se conozca con evidencia, evitando la precipitación y la prevención.",
+       true
+      ],
+      [
+       "Dividir cada dificultad en tantas partes como sea posible.",
+       false,
+       "Esa es la segunda regla, la del análisis.",
+       "g-reglas-del-metodo"
+      ],
+      [
+       "Creer lo que dicen los sabios antiguos.",
+       false,
+       "Justo lo contrario: Descartes quiere apoyarse solo en la evidencia, no en la autoridad.",
+       "g-racionalismo"
+      ],
+      [
+       "Comprobarlo todo con experimentos.",
+       false,
+       "El modelo de Descartes son las matemáticas, no el experimento.",
+       "g-intuicion"
+      ]
+     ],
+     "ok": "Bien: la evidencia es la puerta de entrada.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito leer el texto",
+      "etiqueta": "Texto de apoyo",
+      "titulo": "La primera regla",
+      "glosario": [
+       "g-reglas-del-metodo",
+       "g-ideas-claras-y-distintas"
+      ],
+      "cita": {
+       "texto": "«La primera era no aceptar nunca como verdadera ninguna cosa que no conociera con evidencia que lo es; es decir, evitar cuidadosamente la precipitación y la prevención, y no incluir en mis juicios nada más que lo que se presentase a mi espíritu tan clara y distintamente que no tuviera ocasión alguna de ponerlo en duda.»",
+       "fuente": "Descartes, <em>Discurso del método</em>, II (AT VI 18; traducción propia del francés)"
+      },
+      "comprobacion": {
+       "etiqueta": "Comprobación del texto",
+       "pregunta": "Según el texto, ¿qué es lo que hay que evitar?",
+       "opciones": [
+        [
+         "La precipitación (juzgar antes de tiempo) y la prevención (los prejuicios).",
+         true
+        ],
+        [
+         "La duda, porque paraliza el pensamiento.",
+         false,
+         "Al contrario: el criterio es que no quede ocasión de dudar."
+        ],
+        [
+         "Las matemáticas, porque son demasiado abstractas.",
+         false,
+         "El texto no habla de evitar las matemáticas; son su modelo."
+        ],
+        [
+         "Los sentidos, porque siempre engañan.",
+         false,
+         "Eso lo trabajará en la parte IV; aquí se habla de precipitación y prevención."
+        ]
+       ],
+       "ok": "Exacto: ni prisa ni prejuicios.",
+       "mal": "Vuelve a leer la primera frase.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "Cuatro reglas",
+      "glosario": [
+       "g-reglas-del-metodo",
+       "g-intuicion",
+       "g-deduccion"
+      ],
+      "definicion": [
+       "<strong>Evidencia</strong> → aceptar solo lo que se presenta clara y distintamente, sin ocasión de dudar.",
+       "<strong>Análisis</strong> → dividir cada dificultad en tantas partes como haga falta para resolverla mejor.",
+       "<strong>Síntesis (orden)</strong> → conducir los pensamientos con orden, de lo más simple a lo más complejo.",
+       "<strong>Enumeración</strong> → hacer recuentos tan completos y revisiones tan generales que no se omita nada."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "¿Por qué toma Descartes su método de las matemáticas?",
+       "opciones": [
+        [
+         "Porque los matemáticos son los únicos que habían llegado a demostraciones ciertas y evidentes.",
+         true
+        ],
+        [
+         "Porque todo el conocimiento consiste en hacer cuentas.",
+         false,
+         "No dice que todo sean cuentas: imita el modo de razonar, no el contenido."
+        ],
+        [
+         "Porque así lo mandaba la universidad de su tiempo.",
+         false,
+         "Descartes se aparta precisamente de lo que enseñaban las escuelas."
+        ],
+        [
+         "Porque las matemáticas no necesitan ninguna regla.",
+         false,
+         "Al revés: de ellas saca las reglas."
+        ]
+       ],
+       "ok": "Correcto: quiere para toda la filosofía la certeza de la geometría.",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "Si Descartes lo pone todo en duda, ¿cómo vive mientras tanto? ¿Qué es la moral provisional?",
+    "repaso": [
+     "¿He explicado la imagen de la casa: mientras se reconstruye hace falta otra donde vivir?",
+     "¿He nombrado las máximas: obedecer las leyes y costumbres, ser firme y resuelto, vencerse a sí mismo antes que a la fortuna y cultivar la razón?",
+     "¿He usado el ejemplo de los viajeros perdidos en el bosque para explicar la firmeza?"
+    ],
+    "intro": [
+     "La duda metódica es para el conocimiento, no para la vida diaria: hay que seguir comiendo, decidiendo y tratando con los demás. Piensa qué haría alguien que derriba su casa para construirla de nuevo."
+    ],
+    "pistas": [
+     "Recuerda la imagen de la parte III: quien derriba su casa para reconstruirla necesita <strong>otra casa</strong> donde vivir mientras tanto.",
+     "Esa casa provisional es una <strong>moral provisional</strong>: unas pocas máximas para no quedarse indeciso en la acción.",
+     "La primera: obedecer las <strong>leyes y costumbres</strong> de su país y seguir las opiniones más moderadas. La segunda: ser <strong>firme</strong> en las acciones, como los viajeros perdidos en un bosque, que deben caminar siempre recto en una dirección.",
+     "La tercera: intentar <strong>vencerse a sí mismo antes que a la fortuna</strong> y cambiar los propios deseos antes que el orden del mundo. Y como conclusión: dedicar la vida a <strong>cultivar la razón</strong>."
+    ],
+    "comprobacion": {
+     "pregunta": "¿Para qué sirve la moral provisional de Descartes?",
+     "opciones": [
+      [
+       "Para poder actuar con firmeza mientras su razón lo pone todo en duda.",
+       true
+      ],
+      [
+       "Para sustituir para siempre a la ética.",
+       false,
+       "Es provisional: una casa para vivir mientras se construye la definitiva.",
+       "g-moral-provisional"
+      ],
+      [
+       "Para dudar también de las leyes y desobedecerlas.",
+       false,
+       "La primera máxima pide justo obedecer las leyes y costumbres.",
+       "g-moral-provisional"
+      ],
+      [
+       "Para demostrar que existe Dios.",
+       false,
+       "Eso es la parte IV; la moral provisional es para la vida práctica.",
+       "g-la-garantia-de-dios"
+      ]
+     ],
+     "ok": "Exacto: duda en el conocimiento, firmeza en la acción.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "Vivir mientras se duda",
+      "titulo": "Los viajeros del bosque",
+      "glosario": [
+       "g-moral-provisional",
+       "g-duda-metodica"
+      ],
+      "cita": {
+       "texto": "«Imitando en esto a los viajeros que, al encontrarse extraviados en algún bosque, no deben andar dando vueltas de un lado para otro, ni menos aún detenerse en un sitio, sino caminar siempre lo más recto que puedan hacia un mismo lado.»",
+       "fuente": "Descartes, <em>Discurso del método</em>, III (AT VI 24; traducción propia del francés)"
+      },
+      "definicion": [
+       "<strong>1.ª máxima</strong> → obedecer las leyes y costumbres de su país, conservar su religión y seguir las opiniones más moderadas.",
+       "<strong>2.ª máxima</strong> → ser firme y resuelto en las acciones: una vez decidido, seguir aunque la opinión sea dudosa, como los viajeros del bosque.",
+       "<strong>3.ª máxima</strong> → vencerse a sí mismo antes que a la fortuna; cambiar los propios deseos antes que el orden del mundo.",
+       "<strong>Conclusión</strong> → emplear la vida en cultivar la razón y avanzar en el conocimiento de la verdad, según el método."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿Qué enseña el ejemplo de los viajeros perdidos en el bosque?",
+       "opciones": [
+        [
+         "Que, en la acción, es mejor seguir con firmeza una decisión aunque sea dudosa que quedarse dudando.",
+         true
+        ],
+        [
+         "Que hay que esperar a estar seguro antes de dar un paso.",
+         false,
+         "Justo lo que critica: quien espera así se queda en el bosque."
+        ],
+        [
+         "Que hay que volver por donde se vino.",
+         false,
+         "No dice volver: dice caminar recto hacia un mismo lado."
+        ],
+        [
+         "Que la naturaleza es peligrosa.",
+         false,
+         "Es una imagen sobre la decisión, no sobre la naturaleza."
+        ]
+       ],
+       "ok": "Correcto: caminando recto se acaba saliendo del bosque.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar el método y la moral provisional",
+   "parrafos": [
+    "Descartes toma de las matemáticas cuatro reglas: evidencia, análisis, síntesis y enumeración. Mientras su método lo pone todo en duda, vive con una moral provisional: obedecer las leyes, ser firme en la acción, vencerse a sí mismo antes que a la fortuna y cultivar la razón.",
+    "Para la PAU: une estas partes II y III con la IV (la duda metódica y el cogito), que es donde el método da su primer fruto."
+   ],
+   "siguiente": "hf-duda"
+  }
+ },
+ {
   "id": "hf-duda",
+  "ilustre": "descartes",
   "subject": "hf",
   "tema": "Tema 14 · Descartes",
   "unidad": "hf-racionalismo",
@@ -486,6 +988,7 @@ const PISTAS = [
  },
  {
   "id": "spinoza-naturaleza",
+  "ilustre": "spinoza",
   "subject": "hf",
   "tema": "Tema 15 · Spinoza",
   "unidad": "hf-metafisica",
@@ -729,6 +1232,7 @@ const PISTAS = [
  },
  {
   "id": "spinoza-libertad",
+  "ilustre": "spinoza",
   "subject": "hf",
   "tema": "Tema 15 · Spinoza",
   "unidad": "hf-metafisica",
@@ -976,6 +1480,7 @@ const PISTAS = [
  },
  {
   "id": "spinoza-alegria",
+  "ilustre": "spinoza",
   "subject": "hf",
   "tema": "Tema 15 · Spinoza",
   "unidad": "hf-metafisica",
@@ -1219,7 +1724,255 @@ const PISTAS = [
   }
  },
  {
+  "id": "kant-ilustracion",
+  "ilustre": "kant",
+  "subject": "hf",
+  "tema": "Tema 18 · Kant: la Ilustración",
+  "unidad": "hf-ilustracion",
+  "materia": "Filosofía · Kant",
+  "titulo": "¿Qué es la Ilustración, según Kant?",
+  "lede": "La lectura de la PAU de Kant: un artículo de periódico de 1784 que sigue retando a quien lo lee. Pide solo las pistas que necesites.",
+  "ciclos": [
+   {
+    "fase": "Fase 1 · Recuperación",
+    "etiqueta": "Pregunta inicial",
+    "pregunta": "¿Cómo define Kant la Ilustración y por qué dice que la minoría de edad es culpa nuestra?",
+    "repaso": [
+     "¿He dicho que la Ilustración es la salida de una minoría de edad de la que uno mismo es culpable?",
+     "¿He explicado que la minoría de edad es no saber servirse del propio entendimiento sin la guía de otro?",
+     "¿He dado las causas, la pereza y la cobardía, y el lema <em>Sapere aude</em>?"
+    ],
+    "intro": [
+     "Kant contesta en un periódico a una pregunta que entonces se discutía en Berlín. Su respuesta empieza con una definición famosa. Intenta reconstruirla antes de pedir ayuda."
+    ],
+    "pistas": [
+     "Para aterrizar: para Kant, la Ilustración no es una época ni un conjunto de libros, sino un <strong>cambio en la persona</strong>: una salida.",
+     "Se sale de una <strong>minoría de edad</strong>: no saber servirse del propio entendimiento sin que otro nos guíe.",
+     "Esa minoría es <strong>culpa nuestra</strong> cuando no nos falta entendimiento, sino decisión y valor para usarlo. Sus causas: la <strong>pereza</strong> y la <strong>cobardía</strong>. Es muy cómodo tener un libro que piense por mí y un tutor que decida por mí.",
+     "Por eso el lema de la Ilustración es <em>Sapere aude!</em>: «¡ten valor para servirte de tu propio entendimiento!»."
+    ],
+    "comprobacion": {
+     "pregunta": "Según Kant, ¿por qué es culpable la minoría de edad?",
+     "opciones": [
+      [
+       "Porque no se debe a falta de entendimiento, sino a falta de decisión y de valor para usarlo sin la guía de otro.",
+       true
+      ],
+      [
+       "Porque los menores de edad no han estudiado lo suficiente.",
+       false,
+       "No es cuestión de estudios ni de edad: es de valor para pensar por uno mismo.",
+       "g-minoria-de-edad"
+      ],
+      [
+       "Porque los gobernantes no dejan pensar a la gente.",
+       false,
+       "Kant critica a los tutores, pero la culpa que señala es la de quien se deja guiar por pereza y cobardía.",
+       "g-minoria-de-edad"
+      ],
+      [
+       "Porque la razón humana no es capaz de conocer la verdad.",
+       false,
+       "Kant no dice que nos falte razón: dice que no nos atrevemos a usarla.",
+       "g-autonomia"
+      ]
+     ],
+     "ok": "Bien: la minoría es culpable porque nace de la pereza y de la cobardía.",
+     "mal": "Todavía no."
+    },
+    "rescate": [
+     {
+      "boton": "Necesito leer el texto",
+      "etiqueta": "Texto de apoyo",
+      "titulo": "La definición",
+      "glosario": [
+       "g-minoria-de-edad",
+       "g-autonomia"
+      ],
+      "cita": {
+       "texto": "«La Ilustración es la salida del ser humano de su minoría de edad, de la que él mismo es culpable. Minoría de edad es la incapacidad de servirse del propio entendimiento sin la guía de otro.»",
+       "fuente": "Kant, <em>Respuesta a la pregunta: ¿Qué es la Ilustración?</em> (1784), Ak. VIII 35 (traducción propia del alemán)"
+      },
+      "comprobacion": {
+       "etiqueta": "Comprobación del texto",
+       "pregunta": "Según el texto, ¿qué es la minoría de edad?",
+       "opciones": [
+        [
+         "La incapacidad de servirse del propio entendimiento sin la guía de otro.",
+         true
+        ],
+        [
+         "No haber cumplido todavía los dieciocho años.",
+         false,
+         "Kant no habla de la edad legal: un adulto puede seguir siendo «menor de edad»."
+        ],
+        [
+         "No tener derechos políticos.",
+         false,
+         "El texto habla del entendimiento, no de los derechos."
+        ],
+        [
+         "No saber leer ni escribir.",
+         false,
+         "Se puede saber leer mucho y seguir dejando que otro piense por uno."
+        ]
+       ],
+       "ok": "Exacto: es no atreverse a pensar sin un tutor.",
+       "mal": "Vuelve a leer la segunda frase.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definición y explicación",
+      "titulo": "Pereza, cobardía y tutores",
+      "glosario": [
+       "g-minoria-de-edad",
+       "g-autonomia"
+      ],
+      "definicion": [
+       "<strong>Ilustración</strong> → salir de la minoría de edad; pensar por uno mismo.",
+       "<strong>Minoría de edad culpable</strong> → no falta entendimiento, falta decisión y valor. Sus causas son la pereza (es cómodo que otro piense por mí) y la cobardía (da miedo equivocarse solo).",
+       "<strong>Los tutores</strong> → quienes se ofrecen a pensar por los demás y les hacen ver el peligro de caminar solos.",
+       "<strong><em>Sapere aude</em></strong> → «atrévete a saber»: el lema que Kant toma de un verso de Horacio."
+      ],
+      "comprobacion": {
+       "boton": "Comprobar comprensión",
+       "etiqueta": "Comprobación final",
+       "pregunta": "¿Qué papel tienen los tutores en el texto de Kant?",
+       "opciones": [
+        [
+         "Se ofrecen a pensar por los demás y les meten miedo de caminar solos, y así los mantienen en la minoría de edad.",
+         true
+        ],
+        [
+         "Son los maestros que ayudan a pensar por uno mismo.",
+         false,
+         "Para Kant hacen lo contrario: mantienen a los demás bajo su guía."
+        ],
+        [
+         "Son los únicos que han salido ya de la minoría de edad.",
+         false,
+         "No es eso lo que importa: el texto los presenta como quienes dirigen a los demás."
+        ],
+        [
+         "Representan a los ilustrados.",
+         false,
+         "Al revés: los ilustrados piden que cada uno piense por sí mismo, sin tutores."
+        ]
+       ],
+       "ok": "Correcto: el tutor hace cómoda la minoría de edad.",
+       "mal": "Todavía no."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Fase 2 · Profundización",
+    "etiqueta": "Nueva pregunta",
+    "pregunta": "¿Qué distingue el uso público del uso privado de la razón, y por qué solo el primero debe ser siempre libre?",
+    "repaso": [
+     "¿He definido el uso público: el que alguien hace como docto ante todo el público de lectores?",
+     "¿He definido el uso privado: el que se hace en un cargo o puesto que se nos ha confiado, donde hay que obedecer?",
+     "¿He puesto un ejemplo (el oficial, el que paga impuestos, el pastor) y he explicado que el uso público es lo que produce la Ilustración?"
+    ],
+    "intro": [
+     "Kant no pide desobedecer. Pide algo más fino: distingue dos usos de la razón. Piensa en un oficial del ejército que recibe una orden que le parece equivocada."
+    ],
+    "pistas": [
+     "Recuerda la condición que pone Kant para la Ilustración: solo hace falta <strong>libertad</strong>, y la más inofensiva de todas.",
+     "Esa libertad es la de hacer <strong>uso público</strong> de la propia razón: hablar como alguien docto ante todo el público que lee.",
+     "El <strong>uso privado</strong> es el que hacemos en un cargo que se nos ha confiado. Ahí sí se puede limitar: el oficial de servicio tiene que obedecer, aunque la orden le parezca mal.",
+     "Pero ese mismo oficial, <strong>como docto</strong>, puede escribir después contra los fallos del servicio. Por eso Kant resume lo que dice su rey: «razonad cuanto queráis y sobre lo que queráis, pero obedeced»."
+    ],
+    "comprobacion": {
+     "pregunta": "Un oficial recibe una orden que le parece equivocada. Según Kant, ¿qué debe hacer?",
+     "opciones": [
+      [
+       "Obedecer mientras está de servicio, y después, como docto, criticar públicamente el error ante los lectores.",
+       true
+      ],
+      [
+       "Desobedecer, porque la razón está por encima de las órdenes.",
+       false,
+       "En el cargo, el uso privado de la razón puede limitarse: ahí hay que obedecer.",
+       "g-uso-privado"
+      ],
+      [
+       "Obedecer y callar siempre, porque así funciona el Estado.",
+       false,
+       "Kant pide que el uso público sea siempre libre: callar para siempre no es la salida.",
+       "g-uso-publico"
+      ],
+      [
+       "Dimitir, porque no se puede obedecer y pensar a la vez.",
+       false,
+       "Kant muestra que sí se puede: obedecer en el cargo y razonar en público."
+      ]
+     ],
+     "ok": "Exacto: obedecer en el uso privado y razonar libremente en el uso público.",
+     "mal": "No exactamente."
+    },
+    "rescate": [
+     {
+      "boton": "Mostrar la explicación",
+      "etiqueta": "Dos usos de la razón",
+      "titulo": "Razonar en público, obedecer en el cargo",
+      "glosario": [
+       "g-uso-publico",
+       "g-uso-privado"
+      ],
+      "cita": {
+       "texto": "«Entiendo por uso público de la propia razón aquel que alguien hace de ella, como docto, ante todo el público del mundo de los lectores.»",
+       "fuente": "Kant, <em>¿Qué es la Ilustración?</em> (1784), Ak. VIII 37 (traducción propia del alemán)"
+      },
+      "definicion": [
+       "<strong>Uso público</strong> → hablar o escribir como docto ante todos los lectores. Tiene que ser siempre libre, porque es el único que lleva la Ilustración a los demás.",
+       "<strong>Uso privado</strong> → el que se hace en un cargo que se nos ha confiado (el oficial, el funcionario, el pastor ante su comunidad). Puede limitarse sin frenar la Ilustración.",
+       "Por eso Kant dice que vive en una <strong>época de Ilustración</strong>, pero no en una época ilustrada: el camino está abierto, no recorrido."
+      ],
+      "comprobacion": {
+       "boton": "Terminar comprobando",
+       "pregunta": "¿Por qué el uso público de la razón tiene que ser siempre libre?",
+       "opciones": [
+        [
+         "Porque es el único que puede llevar la Ilustración a los demás.",
+         true
+        ],
+        [
+         "Porque así nadie tiene que obedecer nunca.",
+         false,
+         "Kant mantiene la obediencia en el uso privado."
+        ],
+        [
+         "Porque solo lo ejercen los gobernantes.",
+         false,
+         "Lo puede ejercer cualquiera, como docto, ante los lectores."
+        ],
+        [
+         "Porque no tiene ninguna consecuencia.",
+         false,
+         "Kant lo llama «inofensivo» para el orden, pero es justo lo que hace avanzar la Ilustración."
+        ]
+       ],
+       "ok": "Correcto: sin uso público libre, no hay Ilustración.",
+       "mal": "Relee la explicación."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ya puedes explicar «¿Qué es la Ilustración?»",
+   "parrafos": [
+    "La Ilustración es la salida de una minoría de edad de la que uno mismo es culpable: no falta entendimiento, faltan decisión y valor (<em>Sapere aude</em>). Para salir solo hace falta libertad para hacer uso público de la razón, que debe ser siempre libre, mientras que el uso privado, el del cargo, puede limitarse.",
+    "Para la PAU: en el resumen, distingue la definición, las causas y los dos usos de la razón; en la opción A o B, relaciónalo con la autonomía de la ética de Kant."
+   ],
+   "siguiente": "kant-imperativo"
+  }
+ },
+ {
   "id": "kant-imperativo",
+  "ilustre": "kant",
   "subject": "hf",
   "tema": "Tema 20 · Kant: la ética del deber",
   "unidad": "hf-etica-deber",
@@ -1465,6 +2218,7 @@ const PISTAS = [
  },
  {
   "id": "kant-humanidad",
+  "ilustre": "kant",
   "subject": "hf",
   "tema": "Tema 20 · Kant: la ética del deber",
   "unidad": "hf-etica-deber",
@@ -1704,6 +2458,7 @@ const PISTAS = [
  },
  {
   "id": "marx-alienacion",
+  "ilustre": "marx",
   "subject": "hf",
   "tema": "Tema 21 · Marx",
   "unidad": "hf-sospecha",
@@ -1950,6 +2705,7 @@ const PISTAS = [
  },
  {
   "id": "nietzsche-destino",
+  "ilustre": "nietzsche",
   "subject": "hf",
   "tema": "Tema 21 · Nietzsche",
   "unidad": "hf-sospecha",
@@ -2196,6 +2952,7 @@ const PISTAS = [
  },
  {
   "id": "beauvoir-conclusion",
+  "ilustre": "beauvoir",
   "subject": "hf",
   "tema": "Tema 26 · Beauvoir",
   "unidad": "hf-beauvoir",

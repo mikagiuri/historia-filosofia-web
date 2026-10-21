@@ -3000,6 +3000,22 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "imp": 5,
+  "impg": 5,
+  "t": "Minoría de edad",
+  "id": "g-minoria-de-edad",
+  "et": "Traduce el alemán *Unmündigkeit*: no ser *mündig*, «mayor de edad», palabra que viene del antiguo *munt*, «protección, tutela».",
+  "area": "Ética",
+  "bloque": "C",
+  "unidad": "CK",
+  "tema": "La filosofía de Kant",
+  "def": "Para Kant, la incapacidad de servirse del propio entendimiento sin la guía de otro. Uno mismo es culpable de ella cuando no se debe a falta de entendimiento, sino de decisión y de valor; sus causas son la pereza y la cobardía (*¿Qué es la Ilustración?*, 1784, Ak. VIII 35).",
+  "ilustre": [
+   "kant"
+  ]
+ },
+ {
+  "subject": "hf",
   "imp": 4,
   "impg": 11,
   "t": "Modernidad inacabada",
@@ -3044,6 +3060,22 @@ const GLOSARIO = [
   "def": "La expresión concreta de la sustancia única. Los seres particulares no son sustancias independientes, sino modos limitados.",
   "ilustre": [
    "spinoza"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 5,
+  "impg": 4,
+  "t": "Moral provisional",
+  "id": "g-moral-provisional",
+  "et": "*Provisional*, del latín *providere*, «prever, proveer»: lo que se toma mientras llega lo definitivo.",
+  "area": "Ética",
+  "bloque": "B",
+  "unidad": "DM",
+  "tema": "Descartes y el racionalismo: unidad completa",
+  "def": "Las máximas que Descartes se da para vivir mientras lo pone todo en duda (*Discurso del método*, III): obedecer las leyes y costumbres de su país, ser firme en las acciones una vez decidido, intentar vencerse a sí mismo antes que a la fortuna y dedicar la vida a cultivar la razón.",
+  "ilustre": [
+   "descartes"
   ]
  },
  {
@@ -3352,6 +3384,22 @@ const GLOSARIO = [
   "def": "Educación en sentido amplio: formación del carácter y de la mente. En Platón, tarea principal de la ciudad, que selecciona a los gobernantes tras un largo recorrido de estudios y pruebas.",
   "ilustre": [
    "platon"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 5,
+  "impg": 4,
+  "t": "Reglas del método",
+  "id": "g-reglas-del-metodo",
+  "et": "*Regla*, del latín *regula*, «regla, norma»; *método*, del griego μέθοδος (*méthodos*), «camino para ir tras algo».",
+  "area": "Método",
+  "bloque": "B",
+  "unidad": "DM",
+  "tema": "Descartes y el racionalismo: unidad completa",
+  "def": "Las cuatro reglas del *Discurso del método* (II): evidencia (no admitir nada que no se conozca con evidencia), análisis (dividir cada dificultad en tantas partes como haga falta), síntesis (ir con orden, de lo más simple a lo más complejo) y enumeración (revisarlo todo para no omitir nada).",
+  "ilustre": [
+   "descartes"
   ]
  },
  {
@@ -4608,6 +4656,22 @@ const GLOSARIO = [
   "unidad": "A8",
   "tema": "La ética clásica",
   "def": "La medida adecuada entre el exceso y el defecto, ajustada a la situación y a la recta razón."
+ },
+ {
+  "subject": "hf",
+  "imp": 5,
+  "impg": 5,
+  "t": "Uso privado de la razón",
+  "id": "g-uso-privado",
+  "et": "*Privado*, del latín *privatus*, «particular, apartado de lo público».",
+  "area": "Política",
+  "bloque": "C",
+  "unidad": "CK",
+  "tema": "La filosofía de Kant",
+  "def": "El que alguien hace de su razón en un cargo o puesto civil que se le ha confiado: un oficial de servicio, un funcionario, un pastor ante su comunidad. Kant admite que se limite, porque ahí hay que obedecer; el uso público, en cambio, debe ser siempre libre (Ak. VIII 37).",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "hf",
