@@ -5,28 +5,28 @@
 const REP_MAZO_B = {
   acciones: [
     // ── Fase I · Especialización (369b-372a)
-    { id:"oficio", v:"b", fase:0, ap:1, name:"Un oficio por persona",
+    { id:"oficio", img:"ac-oficio", v:"b", fase:0, ap:1, name:"Un oficio por persona",
       d:"Cada cual hace una sola cosa, la suya: +6 de producción y, si los productores no desbordan la ciudad, +1 de armonía.",
       cita:"«Cada uno de nosotros no nace igual a otro, sino distinto por naturaleza, apto para un trabajo distinto. Y se hace más, mejor y más fácilmente cuando uno hace una sola cosa, la suya, en su momento, dejando las demás.»",
       loc:"República II, 370a-c; IV, 433a-b",
       nota:"La división del trabajo es el origen de la ciudad y la raíz de la justicia: hacer lo propio. Por eso esta carta inaugura el mazo. Simplificado: «ninguna clase desbordada» se mide como «los productores no son mayoría excesiva».",
       ef:{ prod:6, si:{ req:"!mayoriaE", ef:{ arm:1 } } } },
 
-    { id:"b_mercado", v:"b", fase:0, ap:1, name:"Mercado y moneda",
+    { id:"b_mercado", img:"ac-mercado", v:"b", fase:0, ap:1, name:"Mercado y moneda",
       d:"La ciudad crece en comodidad, no en justicia: +10 de producción, sin armonía. Abre la puerta a «La ciudad hinchada».",
       cita:"«Harán falta comerciantes, un mercado y una moneda, símbolo del cambio. Así la ciudad crece. Pero si buscamos el lujo, ya no fundamos una ciudad sana, sino una ciudad afiebrada, henchida de cosas que no hacen falta.»",
       loc:"República II, 371a-d; 372e-373a",
       nota:"Platón distingue la pólis «sana» de la «hinchada», φλεγμαίνουσα (*phlegmaínousa*). El bienestar material no es, por sí, justicia: útil para debatir sobre crecimiento y límites.",
       ef:{ prod:10 } },
 
-    { id:"b_labranza", v:"b", fase:0, ap:1, name:"Reparto de tierras y tareas",
+    { id:"b_labranza", img:"ac-labranza", v:"b", fase:0, ap:1, name:"Reparto de tierras y tareas",
       d:"+8 de producción. Si los productores alimentan a toda la población, además +1 de armonía.",
       cita:"«El labrador no se fabricará él mismo el arado ni la azada: se los hará el herrero. Y así, cada oficio sirve a los demás, y de las necesidades de muchos nace la ciudad.»",
       loc:"República II, 369b-370a",
       nota:"La clase productora no es la despreciable: es el cimiento. Sin su templanza y su trabajo, ni gobierno ni defensa se sostienen.",
       ef:{ prod:8, si:{ req:"alimenta", ef:{ arm:1 } } } },
 
-    { id:"b_frugalidad", v:"b", fase:0, ap:1, name:"Ciudad sana, no hinchada",
+    { id:"b_frugalidad", img:"ac-frugalidad", v:"b", fase:0, ap:1, name:"Ciudad sana, no hinchada",
       d:"Renunciar al lujo: +1 de armonía y este turno «La ciudad hinchada» no hace daño, pero −4 de producción.",
       cita:"«¿Quieres que examinemos primero una ciudad sana? Comerán pan y vino, tendrán sal, aceitunas y queso; cocerán cebollas y verduras. Y pasarán la vida en paz y con salud, y morirán ancianos, legando a sus hijos la misma vida.»",
       loc:"República II, 372a-d",
@@ -34,7 +34,7 @@ const REP_MAZO_B = {
       ef:{ arm:1, prod:-4, escudo:{ tags:["b_ev_hinchada"], turnos:1 } } },
 
     // ── Fase II · Guardianes: música y gimnasia (376e-417b)
-    { id:"musica", v:"b", fase:1, ap:1, name:"Educación: música (μουσική, *mousiké*)",
+    { id:"musica", img:"ac-musica", v:"b", fase:1, ap:1, name:"Educación: música (μουσική, *mousiké*)",
       d:"El ritmo y la armonía afinan el alma: +1 de valentía y +1 de templanza a cada guardián auxiliar. Prepara «El guardián afinado».",
       cita:"«La educación en la música es soberana, porque el ritmo y la armonía penetran hasta lo más hondo del alma y, si se educa bien, la hacen graciosa; y si mal, lo contrario.»",
       loc:"República III, 401d-402a; II, 376e-377a",
@@ -48,7 +48,7 @@ const REP_MAZO_B = {
       nota:"Gimnasia sin música embrutece; música sin gimnasia ablanda. Simplificado: sin Música no hay castigo propio (el mazo hablaba de un guardián «fiero» también con los suyos).",
       ef:{ gv:1, si:{ req:"flag:musica", ef:{ arm:1 } } } },
 
-    { id:"b_equilibrio_guardian", v:"b", fase:1, ap:2, name:"El guardián afinado",
+    { id:"b_equilibrio_guardian", img:"ac-equilibrio-guardian", v:"b", fase:1, ap:2, name:"El guardián afinado",
       d:"Tras Música y Gimnasia: +2 de armonía. El guardián es fiero con el enemigo y manso con los suyos: «Guerra por el territorio» hace la mitad de daño.",
       cita:"«Quien mezcle música y gimnasia en la medida más justa y las aplique al alma con proporción, a ese llamaremos el más perfectamente educado y el más armonioso, mucho más que al afinador de cuerdas.»",
       loc:"República III, 410c-412a",
@@ -56,21 +56,21 @@ const REP_MAZO_B = {
       req:"flag:b_gimnasia",
       ef:{ si:{ req:"flag:musica", ef:{ arm:2 } } } },
 
-    { id:"pruebas", v:"b", fase:1, ap:2, name:"Pruebas de los guardianes",
+    { id:"pruebas", img:"ac-pruebas", v:"b", fase:1, ap:2, name:"Pruebas de los guardianes",
       d:"Si los auxiliares están educados, el mejor pasa a gobernante (1 de auxiliar a gobernante). Si no, se promueve al que no debía: −1 de armonía.",
       cita:"«Hay que observarlos en todas las edades, a ver si guardan ese principio y no se dejan ni hechizar ni forzar hasta olvidar la opinión de que se debe hacer lo mejor para la ciudad. Al que salga puro de la prueba, como el oro probado en el fuego, lo pondremos de jefe y guardián.»",
       loc:"República III, 413c-414a",
       nota:"Los gobernantes salen de los guardianes por mérito probado, no por cuna (415b-c). Simplificado: la educación se comprueba solo con Gimnasia jugada (el mazo pide Música y Gimnasia).",
       ef:{ arm:-1, si:{ req:"flag:b_gimnasia", ef:{ arm:1, mov:["G","Z",1] } } } },
 
-    { id:"mito", v:"b", fase:1, ap:1, name:"El mito de los metales",
+    { id:"mito", img:"ac-mito", v:"b", fase:1, ap:1, name:"El mito de los metales",
       d:"Un relato compartido cohesiona la pólis: +2 de armonía y, durante 2 turnos, «Rebelión por desigualdad» no hace daño.",
       cita:"«Diremos: sois hermanos, pero el dios, al formaros, mezcló oro en los que son capaces de mandar, plata en los auxiliares, y hierro y bronce en los labradores y artesanos. Y lo primero y más importante que el dios ordena es cuidar qué metal lleva el alma de cada hijo.»",
       loc:"República III, 414b-415c",
       nota:"La «mentira noble», γενναῖον ψεῦδος (*gennaîon pseûdos*). ¿Puede fundarse una ciudad justa en un relato que no es literalmente verdad? Popper ve propaganda; otros, mito fundacional. Simplificado: sin la elección «verdad / símbolo».",
       ef:{ arm:2, escudo:{ tags:["b_ev_desigualdad"], turnos:2 } } },
 
-    { id:"b_hijo_bronce", v:"b", fase:1, ap:1, name:"Un hijo de bronce en casa de oro",
+    { id:"b_hijo_bronce", img:"ac-hijo-bronce", v:"b", fase:1, ap:1, name:"Un hijo de bronce en casa de oro",
       d:"Tras el mito: cada cual a la clase de su alma, no de su familia. Un productor de alma de oro sube a gobernante; +1 de armonía si la ciudad queda en equilibrio.",
       cita:"«Si de ellos nace un hijo con bronce o hierro en el alma, de ninguna manera tengan compasión: denle el rango que su naturaleza merece y empújenlo hacia los artesanos o labradores. Y si de estos nace uno con oro o plata, hónrenlo y llévenlo arriba.»",
       loc:"República III, 415a-c",
@@ -78,7 +78,7 @@ const REP_MAZO_B = {
       req:"flag:mito",
       ef:{ mov:["E","Z",1], si:{ req:"equilibrio", ef:{ arm:1 } } } },
 
-    { id:"comun", v:"b", fase:1, ap:2, name:"Guardianes sin propiedad",
+    { id:"comun", img:"ac-comun", v:"b", fase:1, ap:2, name:"Guardianes sin propiedad",
       d:"Sin casa, tierra ni oro propios: +2 de armonía y no habrá facción en el gobierno, pero −6 de producción. Abre el debate «¿Son felices los guardianes?».",
       cita:"«Ninguno tendrá casa ni tierra ni bien propio. Recibirán su sustento de los demás, como salario de su guarda, y lo gastarán en común. Solo a ellos les está vedado tocar el oro y la plata, no vaya a ser que, teniendo lo suyo, dejen de guardar el bien de todos.»",
       loc:"República III, 416d-417b",
@@ -86,7 +86,7 @@ const REP_MAZO_B = {
       ef:{ arm:2, prod:-6 } },
 
     // ── Fase III · Gobierno: el filósofo-rey (473c-d, 519c-520d)
-    { id:"rey", v:"b", fase:2, ap:3, name:"El rey filósofo",
+    { id:"rey", img:"ac-rey", v:"b", fase:2, ap:3, name:"El rey filósofo",
       d:"Solo si hay un gobernante de sabiduría plena: +3 de armonía. Sin él, la carta está bloqueada.",
       cita:"«Si los filósofos no reinan en las ciudades, o los que ahora se llaman reyes no filosofan de verdad y con fuerza, y no coinciden en lo mismo el poder político y la filosofía, no hay descanso para los males de las ciudades ni, creo, para los del género humano.»",
       loc:"República V, 473c-d",
@@ -94,7 +94,7 @@ const REP_MAZO_B = {
       req:"sabios",
       ef:{ arm:3 } },
 
-    { id:"bajar", v:"b", fase:2, ap:2, name:"Volver a la caverna",
+    { id:"bajar", img:"ac-bajar", v:"b", fase:2, ap:2, name:"Volver a la caverna",
       d:"Tras el rey filósofo: si hay gobernantes sabios que bajan a gobernar, +2 de armonía al empezar cada uno de los 2 turnos siguientes.",
       cita:"«Bajaréis, cada uno a su turno, a la morada de los demás, y os acostumbraréis a mirar en lo oscuro. Porque habréis visto la verdad de lo bello, lo justo y lo bueno; y así la ciudad se gobernará despierta, y no en sueños, como las de ahora, que pelean por sombras.»",
       loc:"República VII, 519c-520d",
@@ -102,21 +102,21 @@ const REP_MAZO_B = {
       req:"flag:rey",
       ef:{ si:{ req:"sabios", ef:{ dura:{ k:"arm", n:2, turnos:2 } } } } },
 
-    { id:"b_consejo", v:"b", fase:2, ap:1, name:"Consejo que delibera",
+    { id:"b_consejo", img:"ac-consejo-delibera", v:"b", fase:2, ap:1, name:"Consejo que delibera",
       d:"Los gobernantes deliberan sobre el todo: +1 de sabiduría a cada gobernante y +1 de armonía.",
       cita:"«La ciudad fundada según naturaleza sería sabia entera por aquella parte, la más pequeña, que está al frente y manda; y a esa le corresponde, al parecer, participar de la ciencia que, sola entre todas, debe llamarse σοφία (*sophía*).»",
       loc:"República IV, 428c-429a",
       nota:"La sabiduría de la ciudad está en saber deliberar sobre el todo, no en la suma de saberes técnicos. Simplificado: +1 de sabiduría por gobernante (el mazo decía +2).",
       ef:{ zsj:1, arm:1 } },
 
-    { id:"b_unidad", v:"b", fase:2, ap:2, name:"Una sola ciudad",
+    { id:"b_unidad", img:"ac-unidad", v:"b", fase:2, ap:2, name:"Una sola ciudad",
       d:"+1 de armonía, o +2 si las tres funciones se cumplen. El turno siguiente, «Facción en el gobierno» no hace daño.",
       cita:"«¿Hay mal mayor para una ciudad que lo que la disgrega y la hace muchas en vez de una? ¿Y bien mayor que lo que la une y la hace una? Cuando entre los ciudadanos el placer y el dolor son comunes —todos se alegran y se duelen de lo mismo—, ese compartir es lo que ata la ciudad.»",
       loc:"República V, 462a-e; IV, 423c-d",
       nota:"La unidad es el fin político de Platón; Aristóteles objeta que una ciudad demasiado una deja de ser ciudad (Política II, 1261a). Simplificado: anula la facción un turno en vez de reducir su daño a la mitad.",
       ef:{ arm:1, si:{ req:"equilibrio", ef:{ arm:1 } }, escudo:{ tags:["b_ev_faccion"], turnos:1 } } },
 
-    { id:"b_tamano", v:"b", fase:2, ap:1, name:"Ni grande ni pequeña",
+    { id:"b_tamano", img:"ac-tamano", v:"b", fase:2, ap:1, name:"Ni grande ni pequeña",
       d:"La ciudad crece solo mientras siga siendo una: si tiene menos de 30 habitantes, +1 de armonía para compensar la penalización por tamaño.",
       cita:"«Hasta donde la ciudad quiera crecer siendo una, que crezca; pero no más allá. Que sea ni pequeña en apariencia ni grande, sino una y suficiente.»",
       loc:"República IV, 423b-d",
@@ -124,28 +124,28 @@ const REP_MAZO_B = {
       ef:{ si:{ req:"pequena", ef:{ arm:1 } } } },
 
     // ── Fase IV · Prueba (441c-444a)
-    { id:"b_cada_cual_lo_suyo", v:"b", fase:3, ap:2, name:"Cada cual en lo suyo",
+    { id:"b_cada_cual_lo_suyo", img:"ac-cada-cual", v:"b", fase:3, ap:2, name:"Cada cual en lo suyo",
       d:"La justicia puesta en juego: +3 de armonía si sabiduría, defensa y alimento se cumplen a la vez; si no, +1. Nunca resta.",
       cita:"«Esto que veníamos diciendo desde el principio —hacer cada uno lo suyo— resulta ser la justicia, o una forma de ella. Hacer lo propio y no andar en lo de muchos: eso es lo justo.»",
       loc:"República IV, 433a-b; 443c-d",
       nota:"La definición operativa de justicia, τὰ αὑτοῦ πράττειν (*tà hautoû práttein*). Simplificado: dos niveles (+3 o +1) en vez de restar 1 por cada clase que falla.",
       ef:{ arm:1, si:{ req:"equilibrio", ef:{ arm:2 } } } },
 
-    { id:"b_armonia_alma", v:"b", fase:3, ap:2, name:"La ciudad y el alma",
+    { id:"b_armonia_alma", img:"ac-armonia-alma", v:"b", fase:3, ap:2, name:"La ciudad y el alma",
       d:"+2 de armonía. Si la razón manda (hay gobernantes sabios), durante 2 turnos cada evento negativo resta 1 menos.",
       cita:"«Lo mismo que en la ciudad, tres clases; así en el alma de cada uno, tres partes: aquella con que razona, aquella con que se enardece, y aquella con que desea. Justo es aquel en quien cada parte hace lo suyo, y la razón manda, y el ánimo le obedece como aliado.»",
       loc:"República IV, 439d-441c; 441d-442d",
       nota:"El paralelo alma-ciudad, lo que más se pregunta en la PAU: la justicia interior tiene la misma estructura que la política. Simplificado: la protección se decide al jugar la carta.",
       ef:{ arm:2, si:{ req:"sabios", ef:{ dura:{ k:"menos", n:1, turnos:2 } } } } },
 
-    { id:"b_salud_alma", v:"b", fase:3, ap:1, name:"Salud del alma",
+    { id:"b_salud_alma", img:"ac-salud-alma", v:"b", fase:3, ap:1, name:"Salud del alma",
       d:"Reordenar sin expulsar a nadie: +1 de armonía, y +1 más si alguna función de la ciudad está fallando.",
       cita:"«Producir justicia es poner las partes del alma en su orden natural, que unas manden y otras obedezcan; producir injusticia es la revuelta de unas contra otras. La justicia es, entonces, salud del alma; la injusticia, su enfermedad.»",
       loc:"República IV, 443c-444e",
       nota:"Justicia = salud; injusticia = enfermedad del alma: responde a Glaucón (¿compensa ser justo?). Simplificado: «limpiar un desorden» se traduce en +1 de armonía cuando falta el equilibrio.",
       ef:{ arm:1, si:{ req:"!equilibrio", ef:{ arm:1 } } } },
 
-    { id:"b_reparto_virtud", v:"b", fase:3, ap:1, name:"Honrar a cada clase",
+    { id:"b_reparto_virtud", img:"ac-reparto-virtud", v:"b", fase:3, ap:1, name:"Honrar a cada clase",
       d:"Ninguna clase sobra: +1 de armonía y +1 de sabiduría a cada gobernante, +1 de valentía a cada auxiliar y +1 de templanza a cada productor.",
       cita:"«No fundamos la ciudad para que una sola clase sea especialmente feliz, sino para que lo sea la ciudad entera cuanto sea posible. Porque en una ciudad así es donde esperábamos encontrar la justicia.»",
       loc:"República IV, 420b-421c",
@@ -154,7 +154,7 @@ const REP_MAZO_B = {
   ],
 
   eventos: [
-    { id:"b_ev_entrometimiento", v:"b", name:"El zapatero quiere gobernar", loc:"República IV, 434a-c",
+    { id:"b_ev_entrometimiento", img:"ev-entrometimiento", v:"b", name:"El zapatero quiere gobernar", loc:"República IV, 434a-c",
       cita:"«Que el carpintero intente hacer de zapatero, o el zapatero de carpintero, cambiándose las herramientas y los honores, no daña mucho a la ciudad. Pero que el que es por naturaleza artesano se cuele, envalentonado, en la clase guerrera, o el guerrero en la de los que gobiernan sin merecerlo: ese trueque es la ruina de la ciudad.»",
       threat:"Pone a prueba si cada clase está en su sitio: sabiduría arriba, defensa suficiente y alimento para todos.",
       req:"equilibrio",
@@ -162,7 +162,7 @@ const REP_MAZO_B = {
       no:{ ef:{ arm:-2 }, msg:"Alguna clase se mete en lo ajeno, πολυπραγμοσύνη (*polypragmosýne*): −2 de armonía." },
       nota:"La injusticia definida: meterse en lo ajeno. Es el reverso exacto de «Cada cual en lo suyo»." },
 
-    { id:"b_ev_hinchada", v:"b", name:"La ciudad hinchada", loc:"República II, 372e-373e",
+    { id:"b_ev_hinchada", img:"ev-hinchada", v:"b", name:"La ciudad hinchada", loc:"República II, 372e-373e",
       cita:"«Si queremos ver cómo nace en la ciudad la justicia y la injusticia, miremos la ciudad que se llena de cosas que no hace falta: cazadores, artistas, cocineros, médicos para tanto exceso. El territorio, antes bastante, se queda pequeño; y habrá que cortar el de los vecinos. Y de ahí la guerra.»",
       threat:"Tras el mercado, si los productores son la gran mayoría, el lujo desborda la ciudad.",
       aparece:"flag:b_mercado",
@@ -179,7 +179,7 @@ const REP_MAZO_B = {
       no:{ ef:{ arm:-2, si:{ req:"flag:b_reparto_virtud", ef:{ arm:2 } } }, msg:"Sin relato común, la ciudad se parte en dos: −2 de armonía (nada, si honraste a cada clase)." },
       nota:"La cohesión no se da por supuesta: hay que construirla (relato compartido, reconocimiento). Enlaza con la crítica de la desigualdad. Simplificado: no se parte la pólis." },
 
-    { id:"b_ev_faccion", v:"b", name:"Facción en el gobierno (στάσις, *stásis*)", loc:"República III, 417a-b",
+    { id:"b_ev_faccion", img:"ev-faccion", v:"b", name:"Facción en el gobierno (στάσις, *stásis*)", loc:"República III, 417a-b",
       cita:"«Teniendo tierras, casas y dinero propios, de guardianes se volverán amos y labradores; de aliados de los demás ciudadanos, señores que odian y son odiados; y pasarán la vida temiendo más a los de dentro que a los enemigos de fuera, corriendo ya, ellos y la ciudad, hacia la perdición.»",
       threat:"Si los guardianes tienen propiedad privada, pelean por lo suyo.",
       req:"flag:comun",
@@ -187,7 +187,7 @@ const REP_MAZO_B = {
       no:{ ef:{ arm:-2, si:{ req:"!justos", ef:{ kill:["Z",1] } } }, msg:"Los gobernantes se pelean por su hacienda: −2 de armonía y, si no son justos, cae uno." },
       nota:"Por qué Platón quita la propiedad a los guardianes: para que no haya facción arriba. La objeción de Aristóteles espera en «Guardianes sin propiedad». Simplificado: el agravamiento se mide con «justos»; no se mira si son varios." },
 
-    { id:"b_ev_sofistas", v:"b", name:"El maestro que halaga a la fiera", loc:"República VI, 493a-c",
+    { id:"b_ev_sofistas", img:"ev-halaga-fiera", v:"b", name:"El maestro que halaga a la fiera", loc:"República VI, 493a-c",
       cita:"«Es como si alguien, criando a un animal grande y fuerte, aprendiera sus humores y apetitos: cuándo se amansa y cuándo se enfurece, qué voces lo calman; y a eso, aprendido a fuerza de tratarlo, lo llamara sabiduría. Pero no sabría cuál de esos gustos del animal es bello o feo, justo o injusto: solo los nombra como opina la bestia.»",
       threat:"Si falta sabiduría arriba, el relativismo seduce a la juventud.",
       req:"sabios",
@@ -220,7 +220,7 @@ const REP_MAZO_B = {
         critica:{ autor:"Aristóteles", txt:"«No es posible que el todo sea feliz si no lo son la mayoría de sus partes, o todas, o algunas.»", loc:"Política II 5, 1264b17-19" },
         glo:["g-la-ciudad-justa"] } },
 
-    { id:"b_ev_tres_olas", v:"b", name:"Las tres olas", loc:"República V, 457b-c; 472b-473c",
+    { id:"b_ev_tres_olas", img:"ev-tres-olas", v:"b", name:"Las tres olas", loc:"República V, 457b-c; 472b-473c",
       cita:"«Tres olas nos amenazan con reírse y hundirnos: la comunidad de hombres y mujeres, la de hijos, y la mayor de todas, que los filósofos reinen. Pero habrá que decir si esta ciudad puede llegar a ser, y de qué modo. Porque el que dibuja el modelo de lo mejor no es menos bueno por no mostrar que puede darse.»",
       threat:"Prueba final: ¿se cumplen a la vez la sabiduría, la defensa y el alimento?",
       req:"equilibrio",

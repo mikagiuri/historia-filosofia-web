@@ -459,6 +459,22 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "imp": 4,
+  "impg": 10,
+  "t": "Cinco vías",
+  "id": "g-cinco-vias",
+  "et": "*Vía*, del latín *via*, «camino»: Tomás habla de *quinque viae*, «cinco caminos».",
+  "area": "Religión",
+  "bloque": "B",
+  "unidad": "BT",
+  "tema": "Tomás de Aquino",
+  "def": "Los cinco argumentos con los que Tomás de Aquino quiere demostrar a posteriori que Dios existe. Parten de hechos del mundo (el movimiento, las causas, la contingencia, los grados de perfección y el orden), muestran que dependen de otro y concluyen que hace falta un primer fundamento: primer motor, causa primera, ser necesario, ser perfectísimo y ordenador supremo. Son argumentos metafísicos, no pruebas experimentales; Hume y Kant negarán que la razón pueda saltar así más allá de la experiencia.",
+  "ilustre": [
+   "tomas"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
   "impg": 9,
   "t": "Cinismo",
   "id": "g-cinismo",
@@ -752,6 +768,21 @@ const GLOSARIO = [
   "def": "Actuar por respeto a la ley moral; no solo coincidir con la norma, sino tener la motivación moral correcta.",
   "ilustre": [
    "kant"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
+  "impg": 11,
+  "t": "Declaración de los Derechos de la Mujer",
+  "id": "g-declaracion-de-los-derechos-de-la-mujer",
+  "area": "Política",
+  "bloque": "C",
+  "unidad": "C1",
+  "tema": "La Ilustración",
+  "def": "La *Declaración de los Derechos de la Mujer y de la Ciudadana* (1791) de Olympe de Gouges: reescribe artículo por artículo la de 1789 para incluir a la mujer y denuncia que unos derechos «universales» que excluyen a la mitad de la humanidad se contradicen. «La mujer nace libre y permanece igual al hombre en derechos» (art. 1).",
+  "ilustre": [
+   "gouges"
   ]
  },
  {
@@ -1652,6 +1683,24 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "imp": 4,
+  "impg": 10,
+  "t": "Estado de naturaleza",
+  "id": "g-estado-de-naturaleza",
+  "et": "*Naturaleza*, del latín *natura*, de *nasci*, «nacer».",
+  "area": "Política",
+  "bloque": "B",
+  "unidad": "B6",
+  "tema": "El contrato social",
+  "def": "La situación hipotética anterior al Estado, sin un poder común. No es un hecho histórico, sino un experimento mental para justificar el poder: para Hobbes es una guerra de todos contra todos; para Locke ya hay derechos naturales, pero mal protegidos; para Rousseau el ser humano es libre y bueno, y es la sociedad desigual la que lo corrompe.",
+  "ilustre": [
+   "hobbes",
+   "locke",
+   "rousseau"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
   "impg": 9,
   "t": "Eudaimonía (felicidad)",
   "id": "g-eudaimonia",
@@ -2389,6 +2438,22 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "imp": 5,
+  "impg": 5,
+  "t": "Juicios sintéticos a priori",
+  "id": "g-juicios-sinteticos-a-priori",
+  "et": "*Sintético*, del griego σύνθεσις (*sýnthesis*), «composición»; *a priori*, del latín, «desde lo que va antes».",
+  "area": "Epistemología",
+  "bloque": "C",
+  "unidad": "CK",
+  "tema": "La filosofía de Kant",
+  "def": "Juicios que amplían el conocimiento (sintéticos) y a la vez son universales y necesarios, sin depender de la experiencia (a priori), como «7 + 5 = 12» o «todo lo que sucede tiene una causa». Son los de la matemática y la física; Kant pregunta cómo son posibles y responde con las formas a priori del sujeto.",
+  "ilustre": [
+   "kant"
+  ]
+ },
+ {
+  "subject": "hf",
   "imp": 3,
   "impg": 12,
   "t": "Justicia",
@@ -2958,6 +3023,22 @@ const GLOSARIO = [
  {
   "subject": "hf",
   "imp": 4,
+  "impg": 11,
+  "t": "Mala fe",
+  "id": "g-mala-fe",
+  "et": "Traduce el francés *mauvaise foi*.",
+  "area": "Antropología",
+  "bloque": "C",
+  "unidad": "C8",
+  "tema": "El existencialismo",
+  "def": "Según Sartre, el autoengaño con el que huimos de la angustia de la libertad: tratarnos como una cosa con un carácter fijo («yo soy así») o culpar a la situación («no tuve opción»). Siempre hay elección: no elegir también es elegir.",
+  "ilustre": [
+   "sartre"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
   "impg": 10,
   "t": "Materialismo",
   "id": "g-materialismo",
@@ -3452,6 +3533,22 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "imp": 4,
+  "impg": 11,
+  "t": "Razón vital",
+  "id": "g-razon-vital",
+  "et": "*Vital*, del latín *vita*, «vida».",
+  "area": "Epistemología",
+  "bloque": "C",
+  "unidad": "C8",
+  "tema": "El existencialismo",
+  "def": "La razón según Ortega y Gasset: no una abstracción fría, sino una herramienta de la vida concreta, que es la realidad radical. Quiere superar a la vez el racionalismo puro y el vitalismo irracional; por eso dice que el ser humano no tiene naturaleza, sino historia.",
+  "ilustre": [
+   "ortega"
+  ]
+ },
+ {
+  "subject": "hf",
   "imp": 5,
   "impg": 4,
   "t": "Reglas del método",
@@ -3480,6 +3577,22 @@ const GLOSARIO = [
   "def": "Las dos clases de conocimiento según Hume (*Investigación sobre el entendimiento humano*, IV): las relaciones de ideas (matemáticas y lógica), ciertas por demostración, porque su contrario es contradictorio; y las cuestiones de hecho, que dependen de la experiencia y cuyo contrario siempre es posible (que el sol no salga mañana). Lo que no es ni lo uno ni lo otro, dice al final de la obra, «al fuego».",
   "ilustre": [
    "hume"
+  ]
+ },
+ {
+  "subject": "hf",
+  "imp": 5,
+  "impg": 5,
+  "t": "Revolución copernicana",
+  "id": "g-revolucion-copernicana",
+  "et": "Por Nicolás Copérnico, que puso en el centro el Sol y no la Tierra.",
+  "area": "Epistemología",
+  "bloque": "C",
+  "unidad": "CK",
+  "tema": "La filosofía de Kant",
+  "def": "El giro de Kant en la teoría del conocimiento: no es el sujeto el que se ajusta a los objetos, sino los objetos, tal como los conocemos, los que se ajustan a las formas a priori del sujeto (espacio, tiempo y categorías). No significa que el sujeto invente el mundo: la experiencia pone la materia.",
+  "ilustre": [
+   "kant"
   ]
  },
  {
@@ -4799,6 +4912,22 @@ const GLOSARIO = [
  },
  {
   "subject": "hf",
+  "imp": 4,
+  "impg": 10,
+  "t": "Verdades naturales y sobrenaturales",
+  "id": "g-verdades-naturales-y-sobrenaturales",
+  "et": "*Sobrenatural*, del latín *super*, «por encima de», y *natura*, «naturaleza».",
+  "area": "Religión",
+  "bloque": "B",
+  "unidad": "BT",
+  "tema": "Tomás de Aquino",
+  "def": "La distinción de Tomás de Aquino entre las verdades que alcanza la razón natural (que Dios existe) y las que la superan y solo se conocen por revelación (la Trinidad). Algunas se conocen por los dos caminos. No pueden contradecirse, porque la verdad es una sola: fe y razón se distinguen, pero colaboran.",
+  "ilustre": [
+   "tomas"
+  ]
+ },
+ {
+  "subject": "hf",
   "imp": 3,
   "impg": 12,
   "t": "Verificabilidad",
@@ -4970,6 +5099,22 @@ const GLOSARIO = [
   "unidad": "C9",
   "tema": "El feminismo",
   "def": "La línea que trae al centro de la moral la dependencia, la vulnerabilidad y la relación."
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
+  "impg": 10,
+  "t": "Voluntad general",
+  "id": "g-voluntad-general",
+  "et": "*Voluntad*, del latín *voluntas*, de *velle*, «querer».",
+  "area": "Política",
+  "bloque": "B",
+  "unidad": "B6",
+  "tema": "El contrato social",
+  "def": "Según Rousseau, el interés común de la comunidad política, que nace del contrato social. No es la «voluntad de todos», la suma de los intereses particulares. La soberanía reside en el pueblo y no se representa; ser libre es obedecer la ley que uno mismo se ha dado. Sus críticos discuten quién decide en la práctica cuál es ese interés común.",
+  "ilustre": [
+   "rousseau"
+  ]
  },
  {
   "subject": "hf",
