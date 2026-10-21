@@ -4,7 +4,7 @@
    sino TESIS. Cada tesis es una frase con su referencia (obra y lugar canónico) y su forma: «literal»,
    «paráfrasis» o «fórmula tradicional» (no literal del autor). Los enlaces dicen si dos tesis concuerdan
    (verde) o se oponen (rojo) y POR QUÉ; las relaciones son discutibles a propósito: discutirlas es el ejercicio.
-   tesis: {id, ilustre (id de ILUSTRES; no se traduce), t, ref, forma}
+   tesis: {id, ilustre (id de BIOGRAFIAS; no se traduce), t, ref, forma}
    enlaces: {k:"idTesisA|idTesisB" (no se traduce), tipo:"acuerdo"|"desacuerdo" (no se traduce), por}
    Vista: genealogiasview.js (modo «Red de tesis»). */
 const GEN_TESIS = {

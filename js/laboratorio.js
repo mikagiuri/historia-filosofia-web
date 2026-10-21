@@ -9,7 +9,7 @@
 const LAB = {
   t: {
     tabLab: "Laboratorio",
-    mesaHablamos: "Hablamos", mesaArbol: "Árbol de verdad", mesaMundo: "Mundo de figuras", mesaRelaciones: "Relaciones", mesaDemos: "Demostraciones guiadas",
+    mesaHablamos: "Hablamos", mesaArbol: "Árbol de verdad", mesaMundo: "Mundo de figuras", mesaRelaciones: "Relaciones", mesaDemos: "Demostraciones guiadas", mesaSpinoza: "Spinoza (en desarrollo)",
     intro: "Mesas para hacer lógica con las manos: descifrar una conectiva desconocida, cultivar árboles de verdad, construir mundos donde las oraciones sean verdaderas, dibujar relaciones y seguir demostraciones famosas paso a paso.",
     verdadera: "verdadera", falsa: "falsa", V: "V", F: "F", relSi: "Sí", relNo: "No",
     /* errores del analizador */
@@ -122,6 +122,16 @@ const LAB = {
     xMen: "Sócrates no le dice al esclavo ninguna respuesta: solo pregunta. ¿Es verdad? Relee las preguntas de los pasos 4 y 5: ¿dejan elegir de verdad, o ya contienen la respuesta? Es una vieja objeción a la anamnesis: quizá el maestro enseña más de lo que parece.",
     menLado2: "lado 2 · área 4", menLado4: "lado 4 · área 16 (cuatro veces)", menLado3: "lado 3 · área 9", menMitades: "cuatro mitades de 4 = 8", menCuatro: "cuatro cuadrados de área 4",
     menAria1: "Cuadrado de 2 pies de lado dividido en 4 cuadraditos", menAria2: "Cuadrado de 4 pies de lado: contiene cuatro cuadrados como el inicial",
+    mesaKant: "Juicios de Kant",
+    kLede: "Para Kant, todo lo que hace el entendimiento se reduce a juzgar (<em>Crítica de la razón pura</em>, A69/B94). Por eso ordena las formas del juicio en cuatro títulos de tres momentos (A70/B95) y saca de ellas, una a una, las doce categorías (A80/B106). Pulsa una fila para ver un ejemplo, cómo se escribe hoy y en qué mesa del Rincón se trabaja.",
+    kJuicio: "Juicio", kCategoria: "Categoría", kEjemplo: "Ejemplo", kHoy: "En la lógica actual", kQueHace: "Qué hace la categoría", kTrabajala: "Trabájalo en:",
+    kElige: "Pulsa una fila de la tabla.", kTercera: "La tercera categoría de cada título nace de juntar las dos primeras (B110-111): {t}",
+    kParejaDudosa: "En la cantidad, Kant empareja las dos tablas por orden (universal-unidad, singular-totalidad), y los especialistas discuten si es un descuido.",
+    kModal: "La lógica modal (□, «es necesario que»; ◇, «es posible que») no está en el Rincón: la construyeron C. I. Lewis (1918) y Saul Kripke (1959-1963).",
+    kExplo: "Más en la exploración de Historia de la Filosofía «De los juicios a las categorías»",
+    kEjTit: "Ponle sus etiquetas", kEjAyuda: "Según Kant, todo juicio tiene a la vez una forma de cada título. Elige la de cada uno y comprueba. Fíjate en la forma de la frase, no en si es verdad.",
+    kComprobar: "Comprobar", kSiguiente: "Otro juicio", kFrase: "Juicio {n} de {m}", kBien: "Bien.", kMal: "No: es {x}.", kNoSePide: "aquí no se pide",
+    kTodas: "<strong>¡Todas bien!</strong>", kRevisa: "Revisa las marcadas.",
     menAria3: "Cuadrado de 3 pies de lado con 9 cuadraditos", menAria4: "Cuatro cuadrados de 2 pies con sus diagonales, que forman un cuadrado inclinado"
   },
   /* nombres que aparecen dentro de las frases */
@@ -188,6 +198,42 @@ const LAB = {
     "Reflexiva y antisimétrica, pero no transitiva",
     "Simétrica y asimétrica a la vez, con al menos una flecha"
   ],
+  /* Juicios de Kant (21-10-2026): tabla de los juicios (A70/B95) y de las categorías (A80/B106). Coherente con la
+     exploración de HF «hf-kant-juicios» (theory.js), de la que salen los ejemplos y el volcado a la lógica actual.
+     Las fórmulas y los enlaces a otras mesas van en la vista (laboratorioview.js, LB_KANT). */
+  kant: {
+    titulos: [
+      { nom: "Cantidad", preg: "¿de cuántos se habla?", momentos: [
+        { juicio: "Universal", cat: "Unidad", ej: "Todos los metales son conductores.", letras: "M: metal · C: conductor", hace: "Tomar algo como uno", nota: "Se gana precisión: «para cualquier cosa, si es metal, es conductora». No afirma que existan metales." },
+        { juicio: "Particular", cat: "Pluralidad", ej: "Algunos metales son magnéticos.", letras: "M: metal · G: magnético", hace: "Tomar algo como muchos", nota: "Afirma que existe al menos uno, y nada más: «algunos» no quiere decir «no todos»." },
+        { juicio: "Singular", cat: "Totalidad", ej: "Este metal es cobre.", letras: "a: este metal · C: cobre", hace: "Tomar muchos como un todo", nota: "Kant tenía razón. La lógica tradicional trataba el singular como un universal; la actual lo escribe de otra forma, sin cuantificador, con un nombre de individuo (a)." } ] },
+      { nom: "Cualidad", preg: "¿se afirma o se niega?", momentos: [
+        { juicio: "Afirmativo", cat: "Realidad", ej: "El alma es mortal.", letras: "a: el alma · M: mortal", hace: "Que algo esté dado", nota: "Sin cambios." },
+        { juicio: "Negativo", cat: "Negación", ej: "El alma no es mortal.", letras: "a: el alma · M: mortal", hace: "Que algo no esté dado", nota: "Sin cambios." },
+        { juicio: "Infinito", cat: "Limitación", ej: "El alma es no-mortal.", letras: "a: el alma · M: mortal", hace: "Lo real acotado por una negación", nota: "Se pierde la distinción. En lógica de predicados, «no-mortal» y «no es mortal» se escriben igual. Solo las lógicas de términos, más cercanas a Aristóteles, distinguen negar un predicado de negar una frase." } ] },
+      { nom: "Relación", preg: "¿cómo se unen las partes?", momentos: [
+        { juicio: "Categórico", cat: "Sustancia y accidente", ej: "El agua es líquida.", letras: "a: el agua · L: líquido", hace: "Lo que permanece bajo lo que cambia", nota: "La forma «S es P» se divide en dos: predicar algo de un individuo, o relacionar dos clases." },
+        { juicio: "Hipotético", cat: "Causa y efecto", ej: "Si hay una justicia perfecta, el malvado obstinado será castigado.", letras: "p: hay una justicia perfecta · q: el malvado obstinado será castigado", hace: "Lo que, puesto, va seguido de otra cosa según una regla", nota: "Como en Kant, no afirma ni p ni q: solo su conexión. Pero el «→» actual es más débil: es verdadero siempre que p sea falsa. La causalidad de Kant no es la conectiva, sino la conexión necesaria en el tiempo." },
+        { juicio: "Disyuntivo", cat: "Comunidad (acción recíproca)", ej: "El mundo existe por ciego azar, o por necesidad interna, o por una causa externa.", letras: "p: por ciego azar · q: por necesidad interna · r: por una causa externa", hace: "Cosas que existen a la vez y actúan unas sobre otras", nota: "La «∨» actual es inclusiva. Para decir lo que dice Kant, que una y solo una de las alternativas es verdadera, hay que añadir que no se dan dos a la vez." } ] },
+      { nom: "Modalidad", preg: "¿con qué fuerza se afirma?", momentos: [
+        { juicio: "Problemático", cat: "Posibilidad e imposibilidad", ej: "Puede que llueva.", letras: "p: llueve", hace: "Lo que encaja con las condiciones de la experiencia", nota: "Pasa a la lógica modal, con sus propias reglas: ◇p equivale a ¬□¬p («no es necesario que no»)." },
+        { juicio: "Asertórico", cat: "Existencia y no existencia", ej: "Llueve.", letras: "p: llueve", hace: "Lo que se da efectivamente en la percepción", nota: "Sin operador: es la afirmación sin más." },
+        { juicio: "Apodíctico", cat: "Necesidad y contingencia", ej: "Tiene que llover.", letras: "p: llueve", hace: "Lo que no puede dejar de darse, según las leyes de la experiencia", nota: "Cambia el sentido. Para Kant, la modalidad no añade nada al contenido del juicio; en la lógica modal, □ forma parte del contenido y cambia sus condiciones de verdad." } ] }
+    ],
+    terceras: "la totalidad es la pluralidad considerada como unidad; la limitación, la realidad unida a la negación; la comunidad, la causalidad de unas sustancias sobre otras, recíprocamente; y la necesidad, la existencia dada por la misma posibilidad.",
+    /* ejercicio: r = momento de cada título (0, 1, 2) en el orden cantidad, cualidad, relación, modalidad; -1 = no se pide */
+    ejercicio: [
+      { txt: "Todos los cuerpos son pesados.", r: [0, 0, 0, 1] },
+      { txt: "Sócrates es mortal.", r: [2, 0, 0, 1] },
+      { txt: "Algunos metales no son magnéticos.", r: [1, 1, 0, 1] },
+      { txt: "Ningún metal es transparente.", r: [0, 1, 0, 1] },
+      { txt: "Puede que algunos planetas tengan agua líquida.", r: [1, 0, 0, 0] },
+      { txt: "El alma es no-mortal.", r: [-1, 2, 0, 1], nota: "El ejemplo es de Kant: afirma, pero solo coloca el alma en el resto, sin límites, de lo que no es mortal." },
+      { txt: "Si hay una justicia perfecta, el malvado obstinado será castigado.", r: [-1, -1, 1, -1], nota: "También es de Kant (A73/B98): une dos juicios sin afirmar ninguno de los dos." },
+      { txt: "El mundo existe por ciego azar, o por necesidad interna, o por una causa externa.", r: [-1, -1, 2, -1], nota: "Otro ejemplo de Kant (A73-74/B99): las alternativas se excluyen y juntas lo cubren todo." },
+      { txt: "Necesariamente, todo cambio tiene una causa.", r: [0, 0, 0, 2] }
+    ]
+  },
   /* Demostraciones: op = [texto, correcta, nota]; tipo = suposición, paso, choque o conclusión; img = dibujo de la vista */
   demos: [
     { id: "raiz2", nom: "√2 es irracional",

@@ -1,5 +1,5 @@
 // Generado por tools/build_subject.js (hf) — alumnado, sin material del profesor.
-const ILUSTRES = {
+const BIOGRAFIAS = {
  "homero": {
   "name": "Homero",
   "dates": "s. VIII a. C.",

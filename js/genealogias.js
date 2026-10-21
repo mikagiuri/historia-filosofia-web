@@ -2,9 +2,9 @@
 /* ===== Genealogías: líneas de pensamiento a lo largo de la historia (vista diacrónica) =====
    (29-09) Complemento de los Cronogramas (sincronía): aquí no hay eje de años, sino el orden en que
    una tradición pasa de unos pensadores a otros. Relaciones deliberadamente aproximadas.
-   lineas: {id, name, color, desc, ilustre: [ids de ILUSTRES en orden]}; un mismo pensador en varias
+   lineas: {id, name, color, desc, ilustre: [ids de BIOGRAFIAS en orden]}; un mismo pensador en varias
    líneas es un «transbordo». op: [{ilustre: [idA, idB]}] oposiciones clave (línea roja discontinua). Los ids van en campos «ilustre», que la traducción no toca.
-   Solo ids con ficha en Ilustres de Historia de la Filosofía (los nombres salen de ILUSTRES). */
+   Solo ids con ficha en Ilustres de Historia de la Filosofía (los nombres salen de BIOGRAFIAS). */
 const GENEALOGIAS = {
  lineas: [
   { id: "idea", name: "Razón e Ideas", color: "#2f6fd6",

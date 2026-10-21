@@ -7,7 +7,7 @@
    Sin bucles (24-09, v2): la red siempre avanza hacia los finales; 43.2→40, 93.1→10, 41.1→5, 91.1→5, 45.2→46,
    92.1→10, 94.2→10, 90.1→F, 90.2→B. Validar con: node tools/validar_rayuela.js (comprueba también que no haya ciclos)
    estaciones: { "<n>": { tipo: pregunta|vida|contradiccion, red, linea, xy:[x,y], titulo, texto, pregunta,
-                 opciones:[{t, to, marca}], temas:[clave THEORY], autores:[{id: clave ILUSTRES}], choque:[marcas] } }
+                 opciones:[{t, to, marca}], temas:[clave THEORY], autores:[{id: clave BIOGRAFIAS}], choque:[marcas] } }
    terminales: { "<letra>": { titulo, texto, abierto, reflexion, autores, temas, xy } }  · to = "<n>" o "F<letra>"
    inicio: la estación 1 (el andén de salida; desde ella se llega a toda la red). inicios (25-09): estaciones de
    pregunta desde las que puede salir un viaje de la web, al azar (solo las de redes abiertas; todas con al menos

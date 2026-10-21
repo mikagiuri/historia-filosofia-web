@@ -2,10 +2,10 @@
 /* ===== Fichas de época (10-10-2026) =====
    Idea tomada de las «eras» de cerebrofilosofico.com, con contenido propio y comprobado. Una ficha por época de
    Ilustres (ant, med, ren, mod, ilu, con); se abren desde el título de la época en el listado de Ilustres, desde la
-   etiqueta de época de cada ficha (#ilustres/epoca-<b>) y desde «La época» al final de los temas de HF.
+   etiqueta de época de cada ficha (#biografias/epoca-<b>) y desde «La época» al final de los temas de HF.
    Campos: anos (rango), abre (lo que la inaugura), social, politico, ciencia, arte (11-10), pensamiento, rupturas (paso a la
-   siguiente), trampa (caso trampa). Los pensadores se calculan de ILUSTRES (block). Vista: biografiasview.js.
-   Campos opcionales (Fase 3, 10-10): nombre (título propio), block (bloque de ILUSTRES si la clave no lo es), nacidos [desde, hasta] (filtra por año de nacimiento), temasHF (temas de HF que enlazan aquí). Contemporánea se parte en con (siglo XIX) y con2 (siglos XX y XXI). Fuentes en #fuentes. Siete fichas: piloto (Ilustración) aprobado el 10-10; las demás escritas después, y Contemporánea partida en dos (Fase 3). */
+   siguiente), trampa (caso trampa). Los pensadores se calculan de BIOGRAFIAS (block). Vista: biografiasview.js.
+   Campos opcionales (Fase 3, 10-10): nombre (título propio), block (bloque de BIOGRAFIAS si la clave no lo es), nacidos [desde, hasta] (filtra por año de nacimiento), temasHF (temas de HF que enlazan aquí). Contemporánea se parte en con (siglo XIX) y con2 (siglos XX y XXI). Fuentes en #fuentes. Siete fichas: piloto (Ilustración) aprobado el 10-10; las demás escritas después, y Contemporánea partida en dos (Fase 3). */
 const EPOCAS_FICHAS = {
  "ant": {
   "anos": "Del siglo VI a. C. al siglo V d. C. (por convención, hasta la caída de Roma en 476).",

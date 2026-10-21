@@ -107,7 +107,7 @@ const GUIA = {
       { nombre: "Épocas", texto: "Fichas de cada época: cómo eran la sociedad, la política, la ciencia y el arte, y cómo se imaginaba el cosmos. Arriba, los botones Cronogramas y Genealogías.", view: "epocas", solo: "hf" },
       { nombre: "Épocas", texto: "Fichas de cada época: cómo eran la sociedad, la política, la ciencia y el arte, y cómo se imaginaba el cosmos.", view: "epocas", solo: "fil" },
       { nombre: "Cronogramas", texto: "Líneas de tiempo: quién vivió a la vez que quién.", view: "cronogramas", solo: "hf" },
-      { nombre: "Biografías", texto: "Las biografías de los pensadores que aparecen en la teoría: quiénes fueron, qué pensaron y en qué temas los estudiamos. Arriba, los botones Perseguidos (filósofos y científicos a los que su manera de pensar les costó la vida, la libertad o la patria) y Comunidades (escuelas y grupos de pensadores).", view: "ilustres" },
+      { nombre: "Biografías", texto: "Las biografías de los pensadores que aparecen en la teoría: quiénes fueron, qué pensaron y en qué temas los estudiamos. Arriba, los botones Perseguidos (filósofos y científicos a los que su manera de pensar les costó la vida, la libertad o la patria) y Comunidades (escuelas y grupos de pensadores).", view: "biografias" },
       { nombre: "Adagios", texto: "Lemas latinos y griegos que los filósofos llevan siglos citando, y cuándo usarlos.", view: "adagios" },
       { nombre: "Galería", texto: "Imágenes por autor y tema; púlsalas para verlas a pantalla completa.", view: "galeria" }
     ] },
