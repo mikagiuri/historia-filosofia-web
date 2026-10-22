@@ -66,6 +66,7 @@ const GUIA = {
     { type: "img", src: "02_menu_estudiar.webp", cap: "El menú «Estudiar».", w: "menu" },
     { type: "list", rows: [
       { nombre: "Teoría", texto: "La página de la materia, con la lista de temas. Desde ahí entras en cada tema.", view: "MATERIA" },
+      { nombre: "Pilares", texto: "Los grandes conceptos (razón, idea, causa) en diez peldaños, de la palabra de todos los días al debate de hoy. Cada peldaño corrige al anterior y pide trabajo: aplicar la idea a un caso, enlazarla con lo que ya has subido y comprobar si la has entendido. Marca los peldaños que superes: se guarda solo en tu navegador.", view: "pilares" },
       { nombre: "Tarjetas", texto: "Pulsa la tarjeta (o la barra espaciadora) para darle la vuelta y marca «Ya la sé» las que domines. Tu avance se guarda.", view: "tarjetas" },
       { nombre: "Mapas e infografías", texto: "Mapas que se pliegan y despliegan: pulsa un nodo para abrir o cerrar sus ramas, arrastra para moverte y usa la rueda para ampliar. Las infografías y los esquemas de cada tema se abren desde la caja «Para seguir con este tema» o desde «Explora la materia», en la página de la materia.", view: "mapas" },
       { nombre: "Glosario", texto: "El diccionario de la asignatura: cada término con su definición. Busca una palabra o filtra los términos.", view: "glosario" },
