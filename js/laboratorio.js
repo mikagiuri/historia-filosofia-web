@@ -9,7 +9,7 @@
 const LAB = {
   t: {
     tabLab: "Laboratorio",
-    mesaHablamos: "Hablamos", mesaArbol: "Árbol de verdad", mesaMundo: "Mundo de figuras", mesaRelaciones: "Relaciones", mesaDemos: "Demostraciones guiadas", mesaSpinoza: "Spinoza (en desarrollo)",
+    mesaHablamos: "Hablamos", mesaArbol: "Árbol de verdad", mesaMundo: "Mundo de figuras", mesaRelaciones: "Relaciones", mesaDemos: "Demostraciones guiadas", mesaDeduccion: "Deducción natural", mesaInduccion: "Inducción y abducción", mesaSpinoza: "Spinoza (en desarrollo)",
     intro: "Mesas para hacer lógica con las manos: descifrar una conectiva desconocida, cultivar árboles de verdad, construir mundos donde las oraciones sean verdaderas, dibujar relaciones y seguir demostraciones famosas paso a paso.",
     verdadera: "verdadera", falsa: "falsa", V: "V", F: "F", relSi: "Sí", relNo: "No",
     /* errores del analizador */
