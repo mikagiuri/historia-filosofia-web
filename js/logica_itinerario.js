@@ -11,6 +11,7 @@ const LOG_ITIN = {
   nivel: "Nivel {n}", meta: "Al acabar sabrás:", pasos: "Qué hacer, en este orden", control: "Punto de control:", falta: "En preparación:", limite: "Hasta dónde llega:",
   hecho: "Lo he superado", progreso: "Has superado {n} de {t} niveles.", progresoNada: "Marca cada nivel cuando superes su punto de control: se guarda solo en este navegador.",
   noAqui: "no está en esta web",
+  enLaDe1o: "en la web de 1.º",
   /* (22-10) mapa y una página por nivel (#logica/itinerario/N), a petición del profesor: «ridículo apilar todo en una página» */
   mapaIntro: "Pulsa un nivel para abrir su página. El recuadro marcado es el siguiente que te toca.",
   estHecho: "superado", estSig: "siguiente", anterior: "Nivel anterior", siguiente: "Nivel siguiente", volverMapa: "Mapa del itinerario",

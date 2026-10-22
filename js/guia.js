@@ -86,9 +86,10 @@ const GUIA = {
     { type: "tip", x: "Haz el cuestionario de un tema sin mirar los apuntes y lee siempre la explicación de las preguntas que falles: ahí está el aprendizaje." },
     { type: "p", x: "Los de <strong>Debatir</strong> son un buen entrenamiento para la disertación: obligan a dar razones y a tener en cuenta las del otro lado." },
 
-    { type: "h", x: "Lógica" },
-    { type: "p", x: "El <strong>Rincón de lógica</strong> tiene ahora su propia pestaña. Reúne tablas de verdad, argumentos válidos, silogismos con diagramas de Venn, paradojas y ejercicios para entrenar el razonamiento." },
-    { type: "p", x: "Arriba está el <strong>Laboratorio</strong>, con varias mesas para trabajar paso a paso: árboles de verdad, un mundo de figuras, relaciones, demostraciones guiadas y las mesas de los juicios de Kant y de los afectos de Spinoza." },
+    // (22-10, opción A del profesor) en HF el Rincón de lógica no está en el menú: este bloque, solo en 1.º
+    { type: "h", x: "Lógica", solo: "fil" },
+    { type: "p", solo: "fil", x: "El <strong>Rincón de lógica</strong> tiene ahora su propia pestaña. Reúne tablas de verdad, argumentos válidos, silogismos con diagramas de Venn, paradojas y ejercicios para entrenar el razonamiento." },
+    { type: "p", solo: "fil", x: "Arriba está el <strong>Laboratorio</strong>, con varias mesas para trabajar paso a paso: árboles de verdad, un mundo de figuras, relaciones, demostraciones guiadas y las mesas de los juicios de Kant y de la Ética de Spinoza." },
 
     { type: "h", x: "PAU", solo: "hf" },
     { type: "img", src: "04_menu_tercera.webp", cap: "El menú «PAU».", w: "menu", solo: "hf" },
@@ -110,7 +111,8 @@ const GUIA = {
     { type: "p", x: "La pestaña <strong>Historia</strong> reúne material para entender el contexto de los filósofos. No es imprescindible, pero ayuda mucho a situar las ideas:" },
     { type: "list", rows: [
       { nombre: "Épocas", texto: "Fichas de cada época: cómo eran la sociedad, la política, la ciencia y el arte, y cómo se imaginaba el cosmos. Arriba, los botones Cronogramas y Genealogías.", view: "epocas", solo: "hf" },
-      { nombre: "Épocas", texto: "Fichas de cada época: cómo eran la sociedad, la política, la ciencia y el arte, y cómo se imaginaba el cosmos.", view: "epocas", solo: "fil" },
+      // (22-10, informe curar_webs n.º 10) en 1.º «Épocas» sale del menú (navHide): sus fichas se abren desde el pie de los temas. Fila anterior:
+      // { nombre: "Épocas", texto: "Fichas de cada época: cómo eran la sociedad, la política, la ciencia y el arte, y cómo se imaginaba el cosmos.", view: "epocas", solo: "fil" },
       { nombre: "Cronogramas", texto: "Líneas de tiempo: quién vivió a la vez que quién.", view: "cronogramas", solo: "hf" },
       { nombre: "Biografías", texto: "Las biografías de los pensadores que aparecen en la teoría: quiénes fueron, qué pensaron y en qué temas los estudiamos. Arriba, los botones Perseguidos (filósofos y científicos a los que su manera de pensar les costó la vida, la libertad o la patria) y Comunidades (escuelas y grupos de pensadores).", view: "biografias" },
       { nombre: "Adagios", texto: "Lemas latinos y griegos que los filósofos llevan siglos citando, y cuándo usarlos. Arriba, el botón <strong>Frases</strong>: frases célebres de los pensadores, con lo que quieren decir y cuándo usarlas.", view: "adagios" },
