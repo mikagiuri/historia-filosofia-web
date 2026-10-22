@@ -122,7 +122,8 @@ const GUIA = {
       { nombre: "Eudaimonía", texto: "Encarna a un pensador griego y afronta dilemas morales: tus decisiones deciden si alcanzas la buena vida.", view: "eudaimonia", solo: "hf" },
       { nombre: "República", texto: "Reparte la población en las tres clases de Platón y mantén la ciudad en armonía.", view: "republica", solo: "hf" },
       { nombre: "Rayuela filosófica", texto: "Un viaje por una red de ideas: tus respuestas deciden el camino y al final descubres con qué filósofos coincides.", view: "rayuela" },
-      { nombre: "Talleres", texto: "Cuatro talleres que unen la filosofía con otras materias, con sus botones arriba: el Taller de Leibniz (matemáticas e informática), El universo aristotélico (física, química y biología), El arte de la palabra (literatura, retórica y lenguas clásicas) y Los afectos de Spinoza (psicología y un modelo que se simula paso a paso).", view: "leibniz" }
+      { nombre: "Talleres", texto: "Cuatro talleres que unen la filosofía con otras materias, con sus botones arriba: el Taller de Leibniz (matemáticas e informática), El universo aristotélico (física, química y biología), El arte de la palabra (literatura, retórica y lenguas clásicas) y Los afectos de Spinoza (psicología y un modelo que se simula paso a paso).", view: "leibniz", solo: "fil" },
+      { nombre: "Talleres", texto: "Cinco talleres que unen la filosofía con otras materias, con sus botones arriba: el Taller de Leibniz (matemáticas e informática), El universo aristotélico (física, química y biología), El arte de la palabra (literatura, retórica y lenguas clásicas), Los afectos de Spinoza (psicología y un modelo que se simula paso a paso) y el Taller de Hegel (historia: el camino de la conciencia y la historia de la libertad, leída como Hegel y a contrapelo).", view: "leibniz", solo: "hf" }
     ] },
 
     { type: "h", x: "El buscador" },
