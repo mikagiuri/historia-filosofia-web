@@ -42,13 +42,13 @@ const GUIA = {
     { type: "h", x: "Dentro de un tema" },
     { type: "img", src: "05_tema.webp", cap: "Un tema abierto: a la izquierda, sus apartados; a la derecha, el texto." },
     { type: "p", x: "En la columna de la izquierda están los <strong>apartados del tema</strong>: pulsa uno para saltar a esa parte. <strong>Ver el tema entero</strong> muestra todos los apartados seguidos, para leerlo de principio a fin o imprimirlo con el navegador." },
-    { type: "p", x: "Al final de cada tema hay una caja, <strong>Para seguir con este tema</strong>, con todo el material de ese tema en tres bloques: <strong>Estudiar</strong> (tarjetas, cuestionarios, infografías, mapas, esquemas, conceptos del glosario, su época y su cronograma), <strong>Preparar la PAU</strong> (lecturas, comentarios, disertaciones y comparativas) y <strong>Ampliar</strong>, que se despliega al pulsarlo (exploraciones, polémicas, juegos y, en algunos temas, vídeos en euskera con su transcripción).", solo: "hf" },
-    { type: "p", x: "Al final de cada tema hay una caja, <strong>Para seguir con este tema</strong>, con todo el material de ese tema en tres bloques: <strong>Estudiar</strong> (tarjetas, cuestionarios, infografías, mapas, esquemas, conceptos del glosario y su época), <strong>Pensar y escribir</strong> (lecturas, disertaciones, dilemas y el Rincón de lógica) y <strong>Ampliar</strong>, que se despliega al pulsarlo (exploraciones, polémicas, juegos y, en algunos temas, vídeos en euskera con su transcripción).", solo: "fil" },
+    { type: "p", x: "Al final de cada tema hay una caja, <strong>Para seguir con este tema</strong>, con todo el material de ese tema en tres bloques: <strong>Estudiar</strong> (tarjetas, cuestionarios, infografías, mapas, esquemas, conceptos del diccionario, su época y su cronograma), <strong>Preparar la PAU</strong> (lecturas, comentarios, disertaciones y comparativas) y <strong>Ampliar</strong>, que se despliega al pulsarlo (exploraciones, polémicas, juegos y, en algunos temas, vídeos en euskera con su transcripción).", solo: "hf" },
+    { type: "p", x: "Al final de cada tema hay una caja, <strong>Para seguir con este tema</strong>, con todo el material de ese tema en tres bloques: <strong>Estudiar</strong> (tarjetas, cuestionarios, infografías, mapas, esquemas, conceptos del diccionario y su época), <strong>Pensar y escribir</strong> (lecturas, disertaciones, dilemas y el Rincón de lógica) y <strong>Ampliar</strong>, que se despliega al pulsarlo (exploraciones, polémicas, juegos y, en algunos temas, vídeos en euskera con su transcripción).", solo: "fil" },
     { type: "img", src: "06_para_seguir.webp", cap: "La caja del final del tema, con «Ampliar» desplegado: cada botón te lleva a un material de ese mismo tema." },
     { type: "tip", x: "Lee el tema y, justo al terminar, entra en sus tarjetas y en su cuestionario desde esta caja. Repasar en el momento fija mucho mejor lo que acabas de leer." },
 
     { type: "h", x: "Los puntos de importancia (●●●●●)", solo: "hf" },
-    { type: "p", solo: "hf", x: "En esta web, los pensadores, los temas y los términos del glosario llevan de uno a cinco <strong>puntos de importancia</strong> ●●●●○: cuantos más puntos, más pesa en la materia y en la PAU. Cada nivel tiene su nombre:" },
+    { type: "p", solo: "hf", x: "En esta web, los pensadores, los temas y los términos del diccionario llevan de uno a cinco <strong>puntos de importancia</strong> ●●●●○: cuantos más puntos, más pesa en la materia y en la PAU. Cada nivel tiene su nombre:" },
     { type: "list", solo: "hf", rows: [
       { nombre: "●●●●● Imprescindible", texto: "Lectura o autor de la PAU, o algo sin lo que no se entienden." },
       { nombre: "●●●●○ Esencial", texto: "Lo que el currículo marca como imprescindible (con asterisco) o lo que ya ha caído en la PAU." },
@@ -58,7 +58,7 @@ const GUIA = {
       { nombre: "●●●◐○ Medio punto", texto: "Entre dos niveles. Un 3,5 no cuenta todavía como esencial." }
     ] },
     { type: "p", solo: "hf", x: "Criterio: primero el currículo vasco (Decreto 76/2023), después la PAU de la UPV/EHU. Es decir, lo que la ley pide estudiar en esta materia y lo que se pregunta en el examen." },
-    { type: "p", solo: "hf", x: "Los puntos aparecen en <strong>Biografías</strong> (junto a las fechas de cada pensador; en su ficha, con el nombre del nivel y una línea <strong>Por qué</strong> que explica el motivo), en la <strong>lista de temas</strong> de la página de la materia y en el <strong>Glosario</strong>. En Biografías y en el Glosario, el botón <strong>Solo imprescindibles y esenciales</strong> deja solo los de cinco y cuatro puntos, y <strong>Qué significan los puntos</strong> despliega esta misma explicación." },
+    { type: "p", solo: "hf", x: "Los puntos aparecen en <strong>Biografías</strong> (junto a las fechas de cada pensador; en su ficha, con el nombre del nivel y una línea <strong>Por qué</strong> que explica el motivo), en la <strong>lista de temas</strong> de la página de la materia y en el <strong>Diccionario</strong>. En Biografías y en el Diccionario, el botón <strong>Solo imprescindibles y esenciales</strong> deja solo los de cinco y cuatro puntos, y <strong>Qué significan los puntos</strong> despliega esta misma explicación." },
     { type: "img", solo: "hf", src: "11_imprescindibles.webp", cap: "Una ficha de Biografías: los puntos, el nombre del nivel y el «Por qué»." },
     { type: "tip", solo: "hf", x: "Si tienes poco tiempo, empieza por lo que tiene cinco y cuatro puntos; lo demás te ayuda a entenderlo mejor y a argumentar en la disertación." },
 
@@ -97,7 +97,7 @@ const GUIA = {
       { nombre: "Guía de la prueba", texto: "Cómo es el examen, cómo afrontar el Ejercicio 1 (comprensión de texto) y el Ejercicio 3 (exposición), y los modelos oficiales.", view: "pau" },
       { nombre: "Comentario de texto", texto: "El método paso a paso para comentar un texto, con rúbrica, plantilla y ejemplos resueltos de los cinco autores.", view: "comentario" },
       { nombre: "Disertaciones", texto: "La metodología y la rúbrica de la disertación (Ejercicio 2), con modelos completos resueltos para practicar la argumentación.", view: "disertaciones" },
-      { nombre: "Lecturas", texto: "Los cinco textos de la PAU con su guía de lectura, los fragmentos, modelos de respuesta y glosario.", view: "lecturas" }
+      { nombre: "Lecturas", texto: "Los cinco textos de la PAU con su guía de lectura, los fragmentos, modelos de respuesta y diccionario.", view: "lecturas" }
     ] },
     { type: "tip", solo: "hf", x: "Empieza por la Guía de la prueba para saber qué te van a pedir, y sigue el Itinerario PAU de la página de la materia: te lleva en orden por cada ejercicio." },
     { type: "h", x: "Escribir y leer", solo: "fil" },
@@ -130,7 +130,7 @@ const GUIA = {
     ] },
 
     { type: "h", x: "El buscador" },
-    { type: "p", x: "Pulsa la lupa 🔎 y escribe una palabra: el buscador mira en toda la web (teoría, glosario, lecturas, preguntas, tarjetas…) y agrupa los resultados por tipo, con la palabra resaltada. Muévete con las flechas, abre un resultado con Intro y cierra con Esc. Al abrir un resultado, la web te lleva al punto exacto donde aparece la palabra." },
+    { type: "p", x: "Pulsa la lupa 🔎 y escribe una palabra: el buscador mira en toda la web (teoría, diccionario, lecturas, preguntas, tarjetas…) y agrupa los resultados por tipo, con la palabra resaltada. Muévete con las flechas, abre un resultado con Intro y cierra con Esc. Al abrir un resultado, la web te lleva al punto exacto donde aparece la palabra." },
     { type: "img", src: "09_buscador.webp", cap: "El buscador, con la palabra resaltada en cada resultado." },
 
     { type: "h", x: "En el móvil" },

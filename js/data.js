@@ -7927,7 +7927,7 @@ const QUIZZES = {
     "fb": "En la Teogonía, de un caos originario surgen parejas de contrarios; es un relato mítico protagonizado por seres divinos."
    },
    {
-    "q": "En el glosario del tema, el término logos incluye, además de «palabra» y «razón»…",
+    "q": "En el diccionario del tema, el término logos incluye, además de «palabra» y «razón»…",
     "o": [
      "la obligación de aceptar lo que transmiten los poetas",
      "la obediencia a las leyes aprobadas por la asamblea",
@@ -10162,7 +10162,7 @@ const QUIZZES = {
     "fb": "Para el intelectualismo socrático, el mal nace de la ignorancia: si se conoce de verdad el bien, se obra bien, así que la solución es enseñar."
    },
    {
-    "q": "¿Qué significa areté según el glosario del tema?",
+    "q": "¿Qué significa areté según el diccionario del tema?",
     "o": [
      "Virtud: excelencia en la realización de la función propia",
      "Felicidad plena: fin último de todas las acciones humanas",
@@ -11477,7 +11477,7 @@ const QUIZZES = {
     "fb": "La navaja de Ockham manda no multiplicar los entes sin necesidad: entre dos explicaciones equivalentes, la más simple."
    },
    {
-    "q": "¿Qué es una verdad natural, según el glosario del tema?",
+    "q": "¿Qué es una verdad natural, según el diccionario del tema?",
     "o": [
      "La que alcanza la razón y es accesible a todos.",
      "La que solo se conoce por revelación divina.",
@@ -13280,7 +13280,7 @@ const QUIZZES = {
      "Un invento reciente del neoliberalismo del siglo XX"
     ],
     "a": 2,
-    "fb": "Según el glosario, la propiedad privada se entiende como un derecho natural y es la base del capitalismo."
+    "fb": "Según el diccionario, la propiedad privada se entiende como un derecho natural y es la base del capitalismo."
    },
    {
     "q": "Según la aporía del tema, ¿de qué depende qué sistema político nos parece «natural»?",
@@ -17346,7 +17346,7 @@ const QUIZZES = {
     "fb": "Herrero critica un sistema que prioriza el beneficio y actúa como si los recursos del planeta fueran infinitos, ignorando que somos ecodependientes."
    },
    {
-    "q": "Según el glosario del tema, ¿qué une el ecofeminismo de Yayo Herrero?",
+    "q": "Según el diccionario del tema, ¿qué une el ecofeminismo de Yayo Herrero?",
     "o": [
      "La crisis ecológica y la opresión de las mujeres",
      "La lucha obrera y la defensa del libre mercado",
@@ -17734,7 +17734,7 @@ const QUIZZES = {
     "fb": "Se conserva la estructura de contrarios y la búsqueda de un orden, pero se abandona el recurso a lo sobrenatural y a lo arbitrario."
    },
    {
-    "q": "En el glosario del tema, la polis se define como…",
+    "q": "En el diccionario del tema, la polis se define como…",
     "o": [
      "la ciudad y la comunidad política",
      "el derecho igual a hablar en la asamblea",
@@ -18477,7 +18477,7 @@ const QUIZZES = {
     "fb": "Para Aristóteles el ser humano es materia (cuerpo) más forma (alma): el hilemorfismo."
    },
    {
-    "q": "Según el glosario del tema, ¿en qué consiste el cambio?",
+    "q": "Según el diccionario del tema, ¿en qué consiste el cambio?",
     "o": [
      "En la unión de materia y forma.",
      "En el paso de la potencia al acto.",
@@ -18485,7 +18485,7 @@ const QUIZZES = {
      "En la purificación del alma mediante la filosofía."
     ],
     "a": 1,
-    "fb": "El glosario define el cambio como el paso de la potencia (posibilidad de ser) al acto (su realización)."
+    "fb": "El diccionario define el cambio como el paso de la potencia (posibilidad de ser) al acto (su realización)."
    },
    {
     "q": "¿Cuándo sitúa la teoría el giro antropológico de la filosofía?",
@@ -18627,7 +18627,7 @@ const QUIZZES = {
     "fb": "Las virtudes éticas son hábitos que se adquieren por la repetición de actos; las dianoéticas, en cambio, se adquieren por la enseñanza."
    },
    {
-    "q": "¿Cómo define el glosario el «término medio»?",
+    "q": "¿Cómo define el diccionario el «término medio»?",
     "o": [
      "La media aritmética que se calcula entre dos cantidades",
      "El equilibrio que se produce entre el alma y el cuerpo",
@@ -18894,7 +18894,7 @@ const QUIZZES = {
     "fb": "El estoicismo fue fundado por Zenón de Citio."
    },
    {
-    "q": "En el glosario del tema, ¿qué es la koiné?",
+    "q": "En el diccionario del tema, ¿qué es la koiné?",
     "o": [
      "El ideal de vivir oculto",
      "La lengua griega común del helenismo",
@@ -19246,7 +19246,7 @@ const QUIZZES = {
      "El conjunto de autores que defendieron el cristianismo frente a las acusaciones del Imperio."
     ],
     "a": 0,
-    "fb": "El glosario define la patrística como la tradición de los primeros pensadores de la Iglesia que intenta explicar la fe cristiana con el lenguaje conceptual griego y romano; Agustín es una de sus cumbres."
+    "fb": "El diccionario define la patrística como la tradición de los primeros pensadores de la Iglesia que intenta explicar la fe cristiana con el lenguaje conceptual griego y romano; Agustín es una de sus cumbres."
    },
    {
     "q": "¿Cómo se define la escolástica en el tema?",
@@ -22203,7 +22203,7 @@ const QUIZZES = {
     "fb": "El tema denomina «heteronorma» a lo que se presenta como normal, que no es natural sino el resultado de una norma repetida, según Butler."
    },
    {
-    "q": "Según el glosario del tema, ¿qué es la performatividad?",
+    "q": "Según el diccionario del tema, ¿qué es la performatividad?",
     "o": [
      "La esencia biológica e inmutable del sexo",
      "La prohibición externa de los roles sociales",
@@ -22214,7 +22214,7 @@ const QUIZZES = {
     "fb": "La performatividad designa el género como acto repetido: algo que hacemos mediante la repetición de gestos, ropa y formas de hablar."
    },
    {
-    "q": "Según el glosario, la ecodependencia es la idea de que…",
+    "q": "Según el diccionario, la ecodependencia es la idea de que…",
     "o": [
      "el ser humano es un sujeto soberano situado fuera de la naturaleza",
      "la economía funciona al margen de la biosfera",
@@ -22258,7 +22258,7 @@ const QUIZZES = {
     "fb": "La esfera pública necesita información fiable, debate razonado y atención compartida, condiciones que la lógica de las plataformas suele debilitar."
    },
    {
-    "q": "Un sistema automático de selección de personal descarta a candidatas de ciertos barrios porque aprende de datos históricos sesgados. ¿Qué concepto del glosario lo explica mejor?",
+    "q": "Un sistema automático de selección de personal descarta a candidatas de ciertos barrios porque aprende de datos históricos sesgados. ¿Qué concepto del diccionario lo explica mejor?",
     "o": [
      "La discriminación algorítmica",
      "La fabricación del consentimiento",

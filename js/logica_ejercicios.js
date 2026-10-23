@@ -25,7 +25,7 @@ const LOGX = {
     silNoValido: "No válido",
     silTrad: "Válido solo si existe lo que dice el término medio",
     nomTit: "Falacias no formales: la lista del Rincón",
-    nomIntro: "Las trampas que no están en la forma del razonamiento, sino en su contenido: qué se dice, de quién y para qué. Cada nombre lleva a su entrada del glosario, que es donde se definen; aquí van otros nombres, un ejemplo y cómo pararla.",
+    nomIntro: "Las trampas que no están en la forma del razonamiento, sino en su contenido: qué se dice, de quién y para qué. Cada nombre lleva a su entrada del diccionario, que es donde se definen; aquí van otros nombres, un ejemplo y cómo pararla.",
     nomOtros: "Otros nombres:", nomEj: "Ejemplo:", nomParar: "Cómo pararla:",
     qfTit: "Ejercicio: ¿qué falacia es?",
     qfIntro: "Veinte casos. En tres de ellos no hay ninguna falacia: también hay que saber reconocer un buen argumento.",

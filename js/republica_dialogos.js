@@ -262,7 +262,7 @@ const REP_DIAL = {
     dPlaton:"Argumento de Platón: la justicia es la armonía de las partes, en la ciudad como en el alma (República IV, 433a y 441d-e).",
     dObjecion:"Objeción: elige una de las críticas que salieron en tu partida (Trasímaco, Glaucón, Aristóteles, Popper…) y explícala con tus palabras.",
     dTuya:"Tu conclusión: ¿qué postura de tu partida defenderías por escrito, y por qué?",
-    glosario:"Conceptos en el glosario",
+    glosario:"Conceptos en el diccionario",
     sinDialogos:"En esta partida no hubo diálogos.",
     hudReg:"Régimen",
     elegir:"Elige versión",

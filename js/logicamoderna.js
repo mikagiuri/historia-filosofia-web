@@ -250,7 +250,7 @@ const LOGM_EXTRA_TXT = {
   lpIntro: "Las falacias formales de arriba se refutan con la forma: basta un contraejemplo. Otras falacias no tienen un fallo de forma, pero formalizarlas ayuda a verlas; y otras no se pueden refutar con lógica, porque el problema está en el contenido.",
   lpAyuda: "La lógica ayuda, pero no basta", lpNo: "La lógica no las refuta", lpQueVe: "Qué muestra la lógica",
   lpNoIntro: "Su forma puede ser válida o ni siquiera ser un argumento: el fallo está en si las premisas son verdaderas o vienen a cuento. Para detectarlas hay que preguntar por el contenido.",
-  lpNoNomina: "Esta es solo una muestra. La lista completa de falacias no formales, con un nombre para cada una y su definición del glosario, es la de «Falacias no formales: la lista del Rincón», más abajo en esta pestaña.", lpNoNominaIr: "Ir a la lista completa ↓",   /* (22-10) remite a la nómina única */
+  lpNoNomina: "Esta es solo una muestra. La lista completa de falacias no formales, con un nombre para cada una y su definición del diccionario, es la de «Falacias no formales: la lista del Rincón», más abajo en esta pestaña.", lpNoNominaIr: "Ir a la lista completa ↓",   /* (22-10) remite a la nómina única */
   lpDuelo: "Practícalas en el Duelo de razones →"
 };
 const LOGM_CONV = [
