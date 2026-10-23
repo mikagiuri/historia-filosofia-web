@@ -148,6 +148,8 @@ const LOG_ITIN = {
       meta: "separar un argumento famoso en sus premisas, ver cuál hace el trabajo en cada paso y dónde ponen el dedo las objeciones.",
       pasos: [
         { t: "Laboratorio, «Spinoza», mundo «Las cinco vías»", h: "#logica/spinoza" },
+        { t: "Laboratorio, «Spinoza», mundo «Las antinomias de Kant»: tesis, antítesis, la salida de Kant y otras", h: "#logica/spinoza" },
+        { t: "Laboratorio, «Spinoza», mundo «Del ser al cosmos»: Parménides, sus herederos y el Demiurgo", h: "#logica/spinoza" },
         { t: "Las cinco vías y de dónde vienen", h: "#teoria/hf-cinco-vias" },
       ],
       control: { t: "Explicar con tus palabras el contramodelo de las proposiciones 5 y 9: qué premisa falta y por qué." },
