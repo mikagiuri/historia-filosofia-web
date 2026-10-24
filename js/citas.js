@@ -1007,9 +1007,9 @@ const CITAS = [
   "uso": "Para explicar la Ilustración y su lema «Sapere aude!», o en debates sobre la autonomía y la educación."
  },
  {
-  "c": "El oficial dice: ¡no razones, adiéstrate! El recaudador: ¡no razones, paga! El clérigo: ¡no razones, cree! […] Un único señor en el mundo dice: razonad cuanto queráis y sobre lo que queráis, pero obedeced.",
+  "c": "El oficial dice: «¡No razonéis, haced la instrucción!». El consejero de finanzas: «¡No razonéis, pagad!». El sacerdote: «¡No razonéis, creed!». [...] Solo un señor en el mundo dice: «Razonad todo lo que queráis y acerca de lo que queráis; pero ¡obedeced!».",
   "a": "Immanuel Kant",
-  "o": "Respuesta a la pregunta: ¿Qué es la Ilustración? (1784) (Ak VIII, 36-37)",
+  "o": "Respuesta a la pregunta: ¿Qué es la Ilustración? (1784) (Ak VIII, 36-37), trad. propia",
   "e": "moderna",
   "id": "kant",
   "img": "media/retratos/museo/kant.jpg",
@@ -1037,9 +1037,9 @@ const CITAS = [
   "uso": "Para explicar la crítica de Nietzsche a la moral y su perspectivismo, o en una disertación sobre si existen valores morales objetivos."
  },
  {
-  "c": "Las verdades son ilusiones de las que se ha olvidado que lo son, metáforas que se han desgastado y han perdido su fuerza sensible, monedas que han perdido su efigie […].",
+  "c": "Las verdades son ilusiones cuya condición de ilusiones ha caído en el olvido; metáforas gastadas por el uso que ya no tienen fuerza para los sentidos; monedas que han perdido su cuño y que ya no cuentan como monedas, sino solo como metal.",
   "a": "Friedrich Nietzsche",
-  "o": "Sobre verdad y mentira en sentido extramoral (1873), § 1",
+  "o": "Sobre verdad y mentira en sentido extramoral (1873), § 1, trad. propia",
   "e": "contemporanea",
   "id": "nietzsche",
   "img": "media/retratos/museo/nietzsche.jpg",
@@ -1047,9 +1047,9 @@ const CITAS = [
   "uso": "Para explicar la crítica de Nietzsche al conocimiento y al lenguaje, o en una disertación sobre qué es la verdad."
  },
  {
-  "c": "¿Qué es bueno? Todo lo que eleva en el hombre el sentimiento de poder, la voluntad de poder, el poder mismo. ¿Qué es malo? Todo lo que procede de la debilidad.",
+  "c": "¿Qué es bueno? Lo que hace crecer en el hombre la conciencia de su poder, la voluntad de poder y el poder mismo. ¿Qué es malo? Lo que procede de la debilidad.",
   "a": "Friedrich Nietzsche",
-  "o": "El Anticristo (1888), § 2",
+  "o": "El Anticristo (1888), § 2, trad. propia",
   "e": "contemporanea",
   "id": "nietzsche",
   "img": "media/retratos/museo/nietzsche.jpg",
@@ -1077,9 +1077,9 @@ const CITAS = [
   "uso": "Para explicar la conclusión de El segundo sexo y su idea de una relación libre e igualitaria entre los sexos, o en debates sobre la opresión."
  },
  {
-  "c": "Pero ¿qué soy entonces? Una cosa que piensa. ¿Y qué es eso? Una cosa que duda, que entiende, que afirma, que niega, que quiere, que no quiere, que imagina también, y que siente.",
+  "c": "Pero entonces, ¿qué soy? Una cosa pensante. ¿Y qué es esto? Pues algo que duda, comprende, afirma, niega, quiere y rehúsa, y que además imagina y siente.",
   "a": "René Descartes",
-  "o": "Meditaciones metafísicas (1641) II (AT VII, 28)",
+  "o": "Meditaciones metafísicas (1641), II (AT VII, 28), trad. propia",
   "e": "moderna",
   "id": "descartes",
   "img": "media/retratos/museo/descartes.jpg",
@@ -1087,9 +1087,9 @@ const CITAS = [
   "uso": "Para explicar la res cogitans y el dualismo cartesiano, o en una disertación sobre qué es la mente."
  },
  {
-  "c": "Si hubiera máquinas que tuvieran la semejanza de nuestros cuerpos e imitaran nuestras acciones, tendríamos dos medios muy ciertos para reconocer que no serían por ello verdaderos hombres.",
+  "c": "Si existieran máquinas con el aspecto de nuestros cuerpos y que imitaran nuestras acciones tanto como en la práctica fuera posible, siempre contaríamos con dos medios muy seguros para reconocer que no por eso serían hombres de verdad.",
   "a": "René Descartes",
-  "o": "Discurso del método (1637) V (AT VI, 56)",
+  "o": "Discurso del método (1637), V (AT VI, 56), trad. propia",
   "e": "moderna",
   "id": "descartes",
   "img": "media/retratos/museo/descartes.jpg",
@@ -1097,9 +1097,9 @@ const CITAS = [
   "uso": "Para explicar el mecanicismo y el dualismo de Descartes, o en debates actuales sobre la inteligencia artificial y el test de Turing."
  },
  {
-  "c": "¿Contiene algún razonamiento abstracto sobre la cantidad o el número? No. ¿Contiene algún razonamiento experimental sobre cuestiones de hecho […]? No. Arrojémoslo entonces a las llamas, pues no puede contener más que sofistería e ilusión.",
+  "c": "Cojamos un libro, pongamos por caso de teología o de metafísica de escuela, y preguntemos: ¿incluye algún razonamiento abstracto acerca de la cantidad o el número? No. ¿Incluye algún razonamiento basado en la experiencia acerca de cuestiones de hecho y existencia? No. Pues entréguese a las llamas, porque no puede encerrar más que sofistería e ilusión.",
   "a": "David Hume",
-  "o": "Investigación sobre el entendimiento humano (1748), sección XII, parte 3",
+  "o": "Investigación sobre el entendimiento humano (1748), sección XII, parte 3, trad. propia",
   "e": "moderna",
   "id": "hume",
   "img": "media/retratos/museo/hume.jpg",
@@ -1107,9 +1107,9 @@ const CITAS = [
   "uso": "Para explicar la crítica de Hume a la metafísica y la llamada «horquilla de Hume», o al presentar el empirismo frente al racionalismo."
  },
  {
-  "c": "Bien podríamos afirmar que un hombre, por permanecer en un navío, consiente libremente en el dominio del capitán, aunque fue llevado a bordo mientras dormía […].",
+  "c": "Lo mismo podríamos sostener que un hombre que sigue en un barco consiente libremente la autoridad del patrón, aunque lo subieran a bordo dormido y, en cuanto lo abandonara, tuviera que saltar al océano y perecer.",
   "a": "David Hume",
-  "o": "«Del contrato original» (1748), en Ensayos morales, políticos y literarios",
+  "o": "«Del contrato original» (1748), en Ensayos morales, políticos y literarios, trad. propia",
   "e": "moderna",
   "id": "hume",
   "img": "media/retratos/museo/hume.jpg",
@@ -1117,9 +1117,9 @@ const CITAS = [
   "uso": "Para presentar las críticas al contractualismo de Locke, o en una disertación sobre el origen de la obligación política."
  },
  {
-  "c": "Supongamos, pues, que la mente sea, como decimos, un papel en blanco, limpio de todo carácter, sin ninguna idea. ¿Cómo llega a llenarse? […] A esto respondo con una sola palabra: de la experiencia.",
+  "c": "Supongamos, entonces, que la mente es, como solemos decir, un papel en blanco, sin ningún carácter escrito y sin idea alguna. ¿De qué modo llega a quedar provista? [...] ¿De dónde saca todos los materiales de la razón y del conocimiento? Respondo con una palabra: de la experiencia.",
   "a": "John Locke",
-  "o": "Ensayo sobre el entendimiento humano (1690) II, 1, § 2",
+  "o": "Ensayo sobre el entendimiento humano (1690), II, 1, § 2, trad. propia",
   "e": "moderna",
   "id": "locke",
   "img": "media/retratos/museo/locke.jpg",
@@ -1128,9 +1128,9 @@ const CITAS = [
   "trampa": "Se suele decir que Locke habla de «tabula rasa», pero en el Ensayo la imagen es la de un papel en blanco; la expresión latina viene de la tradición aristotélica."
  },
  {
-  "c": "Se me opondrá ese axioma admitido entre los filósofos: que nada hay en el alma que no venga de los sentidos. Pero hay que exceptuar el alma misma y sus afecciones.",
+  "c": "Se me objetará este axioma, aceptado entre los filósofos: que en el alma no hay nada que no proceda de los sentidos. Pero de ello debe exceptuarse el alma misma, junto con sus afecciones. En el intelecto no hay nada que no estuviera antes en el sentido, salvo el intelecto mismo.",
   "a": "Leibniz",
-  "o": "Nuevos ensayos sobre el entendimiento humano (1704; publ. 1765) II, 1, § 2",
+  "o": "Nuevos ensayos sobre el entendimiento humano (1704; publ. 1765), II, 1, § 2, trad. propia",
   "e": "moderna",
   "id": "leibniz",
   "img": "media/retratos/museo2/leibniz.jpg",
@@ -1139,9 +1139,9 @@ const CITAS = [
   "trampa": "Se suele creer que Leibniz rechaza la experiencia; en realidad acepta el viejo axioma escolástico y solo añade la excepción del propio entendimiento («nisi ipse intellectus»)."
  },
  {
-  "c": "Su ser es ser percibidas, y no es posible que tengan existencia alguna fuera de las mentes o cosas pensantes que las perciben.",
+  "c": "Me resulta del todo ininteligible eso que se afirma de una existencia absoluta de las cosas que no piensan, al margen de que sean percibidas. Su esse consiste en ser percibidas (percipi), y es imposible que tengan existencia alguna fuera de las mentes, las cosas pensantes que las perciben.",
   "a": "Berkeley",
-  "o": "Tratado sobre los principios del conocimiento humano (1710) I, § 3",
+  "o": "Tratado sobre los principios del conocimiento humano (1710), I, § 3, trad. propia",
   "e": "moderna",
   "id": "berkeley",
   "img": "media/retratos/museo2/berkeley.jpg",
@@ -1150,9 +1150,9 @@ const CITAS = [
   "trampa": "Se suele decir que, para Berkeley, las cosas desaparecen cuando nadie las mira; en realidad siguen existiendo porque Dios las percibe siempre."
  },
  {
-  "c": "Así como la luz se manifiesta a sí misma y manifiesta las tinieblas, así la verdad es norma de sí misma y de lo falso.",
+  "c": "En efecto, igual que la luz se pone de manifiesto a sí misma y a las tinieblas, así la verdad es la norma tanto de sí misma como de lo falso.",
   "a": "Spinoza",
-  "o": "Ética (1677) II, proposición 43, escolio",
+  "o": "Ética (1677), II, proposición 43, escolio, trad. propia",
   "e": "moderna",
   "id": "spinoza",
   "img": "media/retratos/museo/spinoza.jpg",
@@ -1170,9 +1170,9 @@ const CITAS = [
   "uso": "Para presentar la teoría de la verdad como correspondencia, o en una disertación sobre qué es la verdad y sus distintas teorías."
  },
  {
-  "c": "Construyendo casas se hacen constructores, y tocando la cítara, citaristas. Así también, practicando la justicia nos hacemos justos; practicando la moderación, moderados, y practicando la valentía, valientes.",
+  "c": "Lo que hay que aprender para hacerlo, lo aprendemos haciéndolo: uno se hace constructor construyendo, y citarista tocando la cítara. Del mismo modo, nos volvemos justos realizando actos justos; templados, realizando actos templados; y valientes, realizando actos valientes.",
   "a": "Aristóteles",
-  "o": "Ética a Nicómaco II, 1, 1103a33-b2",
+  "o": "Ética a Nicómaco, II, 1, 1103a32-b2, trad. propia",
   "e": "antigua",
   "id": "aristoteles",
   "img": "media/retratos/museo/aristoteles.jpg",
@@ -1180,9 +1180,9 @@ const CITAS = [
   "uso": "Para explicar la virtud como hábito en la ética de Aristóteles, o en debates sobre la educación moral."
  },
  {
-  "c": "Los muchos, cada uno de los cuales no es un hombre virtuoso, reunidos pueden ser mejores que aquellos, no individualmente, sino en conjunto […].",
+  "c": "Puede ocurrir que los muchos, aunque ninguno de ellos sea por separado un hombre excelente, al juntarse resulten mejores que aquellos pocos, no uno a uno, sino todos en conjunto, igual que los banquetes a escote superan a los costeados por uno solo.",
   "a": "Aristóteles",
-  "o": "Política III, 11, 1281a42-b3",
+  "o": "Política, III, 11, 1281a42-b3, trad. propia",
   "e": "antigua",
   "id": "aristoteles",
   "img": "media/retratos/museo/aristoteles.jpg",
@@ -1200,9 +1200,9 @@ const CITAS = [
   "uso": "Para explicar la visión aristotélica de la familia y la polis, o en debates sobre cómo juzgar a los clásicos desde los valores actuales."
  },
  {
-  "c": "Yo soy de los que con gusto serían refutados si dicen algo que no es verdad, y con gusto refutarían a quien lo dijera […].",
+  "c": "¿Y yo, de qué clase soy? De los que se dejan refutar a gusto si digo algo que no es verdad, y refutan a gusto a otro si dice algo que no lo es; y no me agrada menos ser refutado que refutar, porque lo tengo por un bien mayor: es mejor librarse uno mismo del peor de los males que librar de él a otro.",
   "a": "Platón",
-  "o": "Gorgias 458a (habla Sócrates)",
+  "o": "Gorgias, 458a (habla Sócrates), trad. propia",
   "e": "antigua",
   "id": "platon",
   "img": "media/retratos/museo/platon.jpg",
@@ -1210,9 +1210,9 @@ const CITAS = [
   "uso": "Para explicar el método socrático y la diferencia entre diálogo y retórica sofística, o en una disertación sobre cómo debatir bien."
  },
  {
-  "c": "Si hubiera dos anillos así y se pusiera uno el justo y otro el injusto, nadie sería, al parecer, tan de acero como para mantenerse en la justicia.",
+  "c": "Si existieran dos anillos como ese y el justo se pusiera uno y el injusto el otro, no habría, según parece, nadie de una firmeza tan inquebrantable que perseverara en la justicia y se atreviera a no tocar lo ajeno.",
   "a": "Platón",
-  "o": "República II, 360b (habla Glaucón)",
+  "o": "República, II, 360b (habla Glaucón), trad. propia",
   "e": "antigua",
   "id": "platon",
   "img": "media/retratos/museo/platon.jpg",
@@ -1220,9 +1220,9 @@ const CITAS = [
   "uso": "Para presentar el problema de la justicia en la República de Platón, o en una disertación sobre si actuaríamos bien sin que nadie nos viera."
  },
  {
-  "c": "Los marineros disputan entre sí por el gobierno de la nave, y cada uno cree que debe pilotarla él, sin haber aprendido nunca el arte […].",
+  "c": "Los marineros andan enfrentados unos con otros por el timón; cada uno cree que le corresponde gobernar la nave, aunque jamás aprendió ese arte ni puede señalar quién se lo enseñó ni cuándo lo estudió [...].",
   "a": "Platón",
-  "o": "República VI, 488b",
+  "o": "República, VI, 488b-c, trad. propia",
   "e": "antigua",
   "id": "platon",
   "img": "media/retratos/museo/platon.jpg",
@@ -1230,9 +1230,9 @@ const CITAS = [
   "uso": "Para explicar la crítica de Platón a la democracia y el gobierno de los filósofos, o en debates sobre la política y el saber de los expertos."
  },
  {
-  "c": "Lo terrible de la escritura, Fedro, es que se parece de veras a la pintura: también las criaturas de esta se presentan como si estuvieran vivas, pero si les preguntas algo callan con toda solemnidad.",
+  "c": "La escritura, Fedro, tiene algo inquietante, y en esto se parece de verdad a la pintura: los seres que esta engendra se alzan ante nosotros como si vivieran, pero si se les pregunta algo, guardan un silencio de lo más solemne. Lo mismo ocurre con los discursos escritos.",
   "a": "Platón",
-  "o": "Fedro 275d",
+  "o": "Fedro, 275d, trad. propia",
   "e": "antigua",
   "id": "platon",
   "img": "media/retratos/museo/platon.jpg",
@@ -1240,9 +1240,9 @@ const CITAS = [
   "uso": "Para explicar la crítica de Platón a la escritura en el Fedro, o en debates sobre la memoria, la lectura y las nuevas tecnologías."
  },
  {
-  "c": "La guerra es padre de todas las cosas y rey de todas: a unos los mostró dioses, a otros hombres; a unos los hizo esclavos, a otros libres.",
+  "c": "La guerra es padre de todo y de todo es rey; a unos los ha revelado como dioses y a otros como hombres; a unos los ha hecho esclavos y a otros libres.",
   "a": "Heráclito",
-  "o": "fragmento DK 22 B53",
+  "o": "fragmento DK 22 B53, trad. propia",
   "e": "antigua",
   "id": "heraclito",
   "img": "media/retratos/museo2/heraclito.jpg",
@@ -1251,9 +1251,9 @@ const CITAS = [
   "trampa": "Se suele leer como un elogio de la guerra entre pueblos; en Heráclito, «guerra» designa sobre todo la tensión de los contrarios que mueve la realidad."
  },
  {
-  "c": "Lo que es es ingénito e imperecedero, entero, único, inmóvil y sin término. Ni fue nunca ni será, puesto que es ahora, todo junto, uno, continuo.",
+  "c": "Lo que es no ha nacido ni puede perecer, pues es entero, de una sola especie, inmóvil y sin fin. No fue jamás ni será, porque es ahora, todo a la vez, uno, continuo.",
   "a": "Parménides",
-  "o": "fragmento DK 28 B8, 3-6",
+  "o": "fragmento DK 28 B8, 3-6, trad. propia",
   "e": "antigua",
   "id": "parmenides",
   "img": "media/retratos/museo2/parmenides.jpg",
@@ -1261,9 +1261,9 @@ const CITAS = [
   "uso": "Para explicar la vía de la verdad de Parménides, o al contraponer el ser inmóvil al devenir de Heráclito."
  },
  {
-  "c": "Por convención lo dulce y por convención lo amargo; por convención lo caliente, por convención lo frío, por convención el color; pero en realidad, átomos y vacío.",
+  "c": "Dulce por convención, amargo por convención, caliente por convención, frío por convención, el color por convención; en verdad, átomos y vacío.",
   "a": "Demócrito",
-  "o": "fragmento DK 68 B9 (en Sexto Empírico, Contra los matemáticos VII, 135)",
+  "o": "fragmento DK 68 B9 (en Sexto Empírico, Adversus mathematicos VII, 135), trad. propia",
   "e": "antigua",
   "id": "democrito",
   "img": "media/retratos/museo2/democrito.jpg",
@@ -1271,9 +1271,9 @@ const CITAS = [
   "uso": "Para explicar el atomismo de Demócrito, o en una disertación sobre la diferencia entre apariencia y realidad."
  },
  {
-  "c": "El discurso es un soberano poderoso que, con un cuerpo pequeñísimo y del todo invisible, lleva a cabo obras divinísimas: puede detener el miedo, quitar la pena, producir alegría y acrecentar la compasión.",
+  "c": "La palabra es un gran soberano: con el cuerpo más diminuto y más invisible lleva a término las obras más divinas, pues es capaz de acabar con el miedo, apartar el dolor, infundir alegría y hacer crecer la compasión.",
   "a": "Gorgias",
-  "o": "Elogio de Helena, 8 (DK 82 B11)",
+  "o": "Elogio de Helena, 8 (DK 82 B11), trad. propia",
   "e": "antigua",
   "id": "gorgias",
   "img": "media/retratos/museo2/gorgias.jpg",
@@ -1281,9 +1281,9 @@ const CITAS = [
   "uso": "Para explicar la retórica de los sofistas, o en debates sobre la persuasión, la manipulación y la propaganda."
  },
  {
-  "c": "Que nadie, por joven, aplace el filosofar; ni, por viejo, se canse de filosofar. Para la salud del alma nadie llega ni pronto ni tarde.",
+  "c": "Que nadie, siendo joven, demore el dedicarse a la filosofía, ni, llegado a viejo, se fatigue de ella; pues, cuando se trata de la salud del alma, nunca es demasiado pronto ni demasiado tarde para nadie.",
   "a": "Epicuro",
-  "o": "Carta a Meneceo, 122 (en Diógenes Laercio, Vidas X)",
+  "o": "Carta a Meneceo, 122 (en Diógenes Laercio, Vidas X, 122), trad. propia",
   "e": "antigua",
   "id": "epicuro",
   "img": "media/retratos/museo/epicuro.jpg",
@@ -1291,9 +1291,9 @@ const CITAS = [
   "uso": "Para presentar la ética de Epicuro y la filosofía helenística como arte de vivir, o en una disertación sobre para qué sirve la filosofía."
  },
  {
-  "c": "Es propio del ignorante culpar a otros de lo que a él le va mal; del que empieza a instruirse, culparse a sí mismo; y del ya instruido, no culpar ni a otro ni a sí mismo.",
+  "c": "Acusar a otros de aquello en lo que a uno le va mal es cosa del que no tiene educación; acusarse a sí mismo, del que ha empezado a educarse; no acusar ni a los demás ni a uno mismo, del que ya está educado.",
   "a": "Epicteto",
-  "o": "Enquiridión 5",
+  "o": "Enquiridión 5, trad. propia",
   "e": "antigua",
   "id": "epicteto",
   "img": "media/retratos/citas/epicteto.jpg",
@@ -1301,9 +1301,9 @@ const CITAS = [
   "uso": "Para explicar el estoicismo y la distinción entre lo que depende y lo que no depende de nosotros, o en debates sobre la responsabilidad."
  },
  {
-  "c": "La filosofía no es un oficio popular ni está hecha para la exhibición; no está en las palabras, sino en los hechos. […] Forma y modela el alma, ordena la vida, rige las acciones.",
+  "c": "La filosofía no es un oficio para agradar al gentío ni algo dispuesto para la ostentación; no consiste en palabras, sino en obras. [...] Da forma al alma y la construye, pone orden en la vida, gobierna los actos, muestra qué hay que hacer y qué hay que dejar.",
   "a": "Séneca",
-  "o": "Epístolas a Lucilio 16, 3",
+  "o": "Epístolas a Lucilio 16, 3, trad. propia",
   "e": "antigua",
   "id": "seneca",
   "img": "media/retratos/museo/seneca.jpg",
@@ -1321,17 +1321,17 @@ const CITAS = [
   "uso": "Para explicar el cosmopolitismo estoico, o en debates sobre la relación entre el interés individual y el bien común."
  },
  {
-  "c": "No eres tú el mortal, sino este cuerpo; ni eres tú aquel que esa forma tuya muestra: la mente de cada uno es cada uno, y no esa figura que puede señalarse con el dedo.",
+  "c": "Esfuérzate, pues, y tenlo por cierto: no eres tú el que es mortal, sino este cuerpo. Porque tú no eres lo que esa figura tuya deja ver; lo que cada uno es, es su mente, y no la forma que puede señalarse con el dedo.",
   "a": "Cicerón",
-  "o": "Sobre la república VI, 26 («El sueño de Escipión»)",
+  "o": "Sobre la república (54-51 a. C.), libro VI, 26 («Sueño de Escipión»), trad. propia",
   "e": "antigua",
   "sen": "En el sueño de Escipión, Cicerón sostiene que el verdadero yo es la mente o el alma, no el cuerpo mortal que se ve: el cuerpo muere, pero el alma es lo que somos de verdad.",
   "uso": "Para explicar la herencia platónica en Roma y la relación entre alma y cuerpo, o en una disertación sobre la identidad personal."
  },
  {
-  "c": "No salgas fuera; vuelve a ti mismo: en el hombre interior habita la verdad. Y si encuentras que tu propia naturaleza es mudable, trasciéndete también a ti mismo.",
+  "c": "No vayas fuera; regresa a ti mismo: en el interior del hombre habita la verdad. Y si descubres que tu naturaleza es mudable, ve también más allá de ti mismo.",
   "a": "San Agustín",
-  "o": "De la verdadera religión (390-391) XXXIX, 72",
+  "o": "De la verdadera religión (390-391) XXXIX, 72, trad. propia",
   "e": "medieval",
   "id": "agustin",
   "img": "media/retratos/museo/agustin.jpg",
@@ -1339,9 +1339,9 @@ const CITAS = [
   "uso": "Para explicar la interioridad y la iluminación en San Agustín, o al compararlo con el cogito de Descartes."
  },
  {
-  "c": "Los empíricos, a la manera de la hormiga, solo amontonan y usan lo amontonado; los racionales, a la manera de las arañas, sacan de sí mismos su tela. La abeja, en cambio, tiene un modo intermedio.",
+  "c": "Los empíricos, como las hormigas, se limitan a acumular y a consumir; los racionalistas, como las arañas, tejen sus telas sacándolas de sí mismos. La abeja sigue un camino intermedio: toma su materia de las flores de jardines y campos, pero, con una capacidad que le es propia, la elabora y la digiere.",
   "a": "Francis Bacon",
-  "o": "Novum Organum (1620) I, aforismo 95",
+  "o": "Novum Organum (1620) I, aforismo 95, trad. propia",
   "e": "moderna",
   "id": "francis_bacon",
   "img": "media/retratos/museo2/bacon.jpg",
@@ -1349,9 +1349,9 @@ const CITAS = [
   "uso": "Para explicar el método inductivo de Bacon y el nacimiento de la ciencia moderna, o en una disertación sobre razón y experiencia."
  },
  {
-  "c": "Y lo que es peor de todo, miedo continuo, y peligro de muerte violenta; y la vida del hombre, solitaria, pobre, desagradable, brutal, y corta.",
+  "c": "[...] no hay artes, ni letras, ni sociedad; y, lo peor de todo, un temor incesante y el peligro de una muerte violenta; y la vida humana, solitaria, pobre, sórdida, bestial y breve.",
   "a": "Thomas Hobbes",
-  "o": "Leviatán (1651) I, 13",
+  "o": "Leviatán (1651) I, 13, trad. propia",
   "e": "moderna",
   "id": "hobbes",
   "img": "media/retratos/museo2/hobbes.jpg",
@@ -1360,9 +1360,9 @@ const CITAS = [
   "trampa": "Se suele pensar que Hobbes describe una época histórica; en realidad es sobre todo una hipótesis de lo que pasaría sin Estado."
  },
  {
-  "c": "Esta es la generación de aquel gran Leviatán, o más bien —hablando con más reverencia— de aquel dios mortal a quien debemos, bajo el Dios inmortal, nuestra paz y nuestra defensa.",
+  "c": "Así se engendra ese gran Leviatán o, por hablar con mayor reverencia, ese dios mortal al que, por debajo del Dios inmortal, debemos nuestra paz y nuestra protección.",
   "a": "Thomas Hobbes",
-  "o": "Leviatán (1651) II, 17",
+  "o": "Leviatán (1651) II, 17, trad. propia",
   "e": "moderna",
   "id": "hobbes",
   "img": "media/retratos/museo2/hobbes.jpg",
@@ -1390,9 +1390,9 @@ const CITAS = [
   "uso": "Para explicar el origen de la desigualdad en Rousseau, o en debates sobre la propiedad privada y la justicia social."
  },
  {
-  "c": "Así pues, toda la educación de las mujeres debe ser relativa a los hombres. Agradarles, serles útiles, hacerse amar y honrar por ellos […]: he aquí los deberes de las mujeres en todo tiempo.",
+  "c": "Por eso, toda la educación de las mujeres ha de estar referida a los hombres. Complacerles, serles de provecho, ganarse su amor y su estima, criarlos cuando son niños, atenderlos cuando son adultos, darles consejo y consuelo, volverles grata y dulce la existencia: tales son los deberes de las mujeres en todas las épocas, y lo que se les debe enseñar desde la infancia.",
   "a": "Rousseau",
-  "o": "Emilio o De la educación (1762) V",
+  "o": "Emilio o De la educación (1762) V, trad. propia",
   "e": "moderna",
   "id": "rousseau",
   "img": "media/retratos/museo/rousseau.jpg",
@@ -1400,9 +1400,9 @@ const CITAS = [
   "uso": "Para explicar la contradicción entre igualdad y exclusión de las mujeres en la Ilustración, o al presentar la crítica de Mary Wollstonecraft a Rousseau."
  },
  {
-  "c": "Se querría ser lo uno y lo otro; pero, como es difícil juntarlos, es mucho más seguro ser temido que amado cuando haya de faltar uno de los dos.",
+  "c": "La respuesta es que convendría ser ambas cosas; pero, como es difícil juntarlas, cuando haya que renunciar a una de las dos lo más seguro, con mucho, es ser temido antes que amado.",
   "a": "Maquiavelo",
-  "o": "El príncipe (1513) XVII",
+  "o": "El príncipe (1513) XVII, trad. propia",
   "e": "moderna",
   "id": "maquiavelo",
   "img": "media/retratos/museo2/maquiavelo.jpg",
@@ -1411,9 +1411,9 @@ const CITAS = [
   "trampa": "Se le atribuye a Maquiavelo «el fin justifica los medios», pero esa frase no aparece en El príncipe."
  },
  {
-  "c": "Somos todos retazos, y de una contextura tan informe y diversa que cada pieza, cada momento, hace su juego. Y hay tanta diferencia de nosotros a nosotros mismos como de nosotros a otro.",
+  "c": "Todos estamos hechos de pedazos, y con una textura tan informe y variada que cada pieza, cada momento, juega por su cuenta. Y hay tanta diferencia entre nosotros y nosotros mismos como entre nosotros y los demás.",
   "a": "Montaigne",
-  "o": "Ensayos (1580) II, 1",
+  "o": "Ensayos (1580) II, 1, trad. propia",
   "e": "moderna",
   "id": "montaigne",
   "img": "media/retratos/museo2/montaigne.jpg",
@@ -1421,9 +1421,9 @@ const CITAS = [
   "uso": "Para presentar los Ensayos de Montaigne y su escepticismo, o en una disertación sobre la identidad personal: ¿somos siempre la misma persona?"
  },
  {
-  "c": "Nada hay justo ni injusto que no cambie de cualidad al cambiar de clima. […] ¡Graciosa justicia la que limita un río! Verdad de este lado de los Pirineos, error del otro.",
+  "c": "No se ve nada justo o injusto que no cambie de condición al mudar de clima. Tres grados más de altura del polo trastocan toda la jurisprudencia; un meridiano decide qué es verdad. [...] ¡Curiosa justicia, la que tiene un río por frontera! Verdad a este lado de los Pirineos, error al otro lado.",
   "a": "Blaise Pascal",
-  "o": "Pensamientos, fr. 60 (ed. Lafuma) / 294 (ed. Brunschvicg)",
+  "o": "Pensamientos, fr. 60 (ed. Lafuma) / 294 (ed. Brunschvicg), trad. propia",
   "e": "moderna",
   "id": "pascal",
   "img": "media/retratos/museo2/pascal.jpg",
@@ -1431,9 +1431,9 @@ const CITAS = [
   "uso": "Para explicar el relativismo moral y cultural, o en una disertación sobre si existe una justicia natural válida para todos."
  },
  {
-  "c": "Las ideas de la clase dominante son en cada época las ideas dominantes; es decir, la clase que es el poder material dominante de la sociedad es, al mismo tiempo, su poder espiritual dominante.",
+  "c": "En toda época, los pensamientos de la clase dominante son los pensamientos dominantes; o sea, la clase que constituye el poder material dominante en la sociedad es a la vez su poder espiritual dominante.",
   "a": "Karl Marx",
-  "o": "La ideología alemana (1845-1846, con F. Engels), I, «Feuerbach»",
+  "o": "La ideología alemana (1845-1846, con F. Engels), I, «Feuerbach», trad. propia",
   "e": "contemporanea",
   "id": "marx",
   "img": "media/retratos/museo/marx.jpg",
@@ -1441,9 +1441,9 @@ const CITAS = [
   "uso": "Para explicar el concepto de ideología en Marx y la relación entre infraestructura y superestructura."
  },
  {
-  "c": "La conciencia de Dios es la autoconciencia del hombre; el conocimiento de Dios, el conocimiento que el hombre tiene de sí mismo.",
+  "c": "La conciencia de Dios es autoconciencia del ser humano; el conocimiento de Dios, autoconocimiento del ser humano. Por su Dios conoces al ser humano y, a la inversa, por el ser humano conoces a su Dios: ambas cosas son una.",
   "a": "Feuerbach",
-  "o": "La esencia del cristianismo (1841), Introducción, 2",
+  "o": "La esencia del cristianismo (1841), Introducción, 2, trad. propia",
   "e": "contemporanea",
   "id": "feuerbach",
   "img": "media/retratos/museo2/feuerbach.jpg",
@@ -1461,9 +1461,9 @@ const CITAS = [
   "uso": "Para presentar la ética de Schopenhauer frente al deber kantiano, o en una disertación sobre si la moral se funda en la razón o en los sentimientos."
  },
  {
-  "c": "Sobre sí mismo, sobre su propio cuerpo y su propia mente, el individuo es soberano.",
+  "c": "En lo que únicamente le atañe a sí mismo, su independencia es absoluta por derecho. Sobre sí mismo, sobre su cuerpo y su mente, el individuo es soberano.",
   "a": "John Stuart Mill",
-  "o": "Sobre la libertad (1859), cap. I",
+  "o": "Sobre la libertad (1859), cap. I, trad. propia",
   "e": "contemporanea",
   "id": "mill",
   "img": "media/retratos/museo/mill.jpg",
@@ -1471,9 +1471,9 @@ const CITAS = [
   "uso": "Para explicar el liberalismo de Mill, o en debates sobre la autonomía personal, la eutanasia o el consumo de drogas."
  },
  {
-  "c": "El único propósito para el que cabe ejercer legítimamente poder sobre un miembro de una comunidad civilizada, contra su voluntad, es evitar un daño a otros.",
+  "c": "El único fin por el que puede ejercerse con derecho el poder sobre cualquier miembro de una comunidad civilizada, en contra de su voluntad, es impedir que cause daño a otros. No basta como justificación su propio bien, sea físico o moral.",
   "a": "John Stuart Mill",
-  "o": "Sobre la libertad (1859), cap. I",
+  "o": "Sobre la libertad (1859), cap. I, trad. propia",
   "e": "contemporanea",
   "id": "mill",
   "img": "media/retratos/museo/mill.jpg",
@@ -1481,9 +1481,9 @@ const CITAS = [
   "uso": "Para explicar los límites de la libertad en Mill y la crítica al paternalismo, o en una disertación sobre la libertad de expresión."
  },
  {
-  "c": "Los derechos naturales son un sinsentido sin más; los derechos naturales e imprescriptibles, un sinsentido retórico, un sinsentido con zancos.",
+  "c": "Los derechos naturales son un simple disparate; los derechos naturales e imprescriptibles, un disparate retórico: un disparate encaramado en zancos.",
   "a": "Jeremy Bentham",
-  "o": "Falacias anárquicas (escrito en 1796; publ. 1843), artículo II",
+  "o": "Falacias anárquicas (escrito en 1796; publ. 1843), artículo II, trad. propia",
   "e": "moderna",
   "id": "bentham",
   "img": "media/retratos/museo2/bentham.jpg",
@@ -1491,9 +1491,9 @@ const CITAS = [
   "uso": "Para presentar el utilitarismo de Bentham y el positivismo jurídico, o en un debate sobre el fundamento de los derechos humanos."
  },
  {
-  "c": "Los Derechos del Hombre, supuestamente inalienables, demostraron ser inaplicables —incluso en países cuyas constituciones se basaban en ellos— en cuanto aparecieron personas que ya no eran ciudadanos de ningún Estado soberano.",
+  "c": "Los Derechos del Hombre, a los que se suponía inalienables, resultaron imposibles de hacer valer —aun en países cuyas constituciones descansaban sobre ellos— en cuanto surgieron personas que ya no eran ciudadanas de ningún Estado soberano.",
   "a": "Arendt",
-  "o": "Los orígenes del totalitarismo (1951), parte II, cap. 9",
+  "o": "Los orígenes del totalitarismo (1951), parte II, cap. 9, trad. propia",
   "e": "contemporanea",
   "id": "arendt",
   "img": "media/retratos/museo/arendt.jpg",
@@ -1521,9 +1521,9 @@ const CITAS = [
   "uso": "Para presentar el talante liberal y antidogmático de Russell, o en una disertación sobre la libertad de pensamiento y el conformismo."
  },
  {
-  "c": "Por decir todavía una palabra sobre el enseñar cómo debe ser el mundo: para eso la filosofía llega siempre demasiado tarde. […] El búho de Minerva no alza el vuelo hasta que cae el crepúsculo.",
+  "c": "Para decir aún una palabra sobre eso de enseñar cómo debe ser el mundo: a ello, de todos modos, la filosofía llega siempre demasiado tarde. Como pensamiento del mundo, no aparece en el tiempo sino después de que la realidad ha consumado su proceso de formación y ha quedado lista. [...] La lechuza de Minerva no emprende su vuelo hasta que irrumpe el crepúsculo.",
   "a": "Hegel",
-  "o": "Principios de la filosofía del derecho (1820), Prefacio",
+  "o": "Principios de la filosofía del derecho (1820), Prefacio, trad. propia",
   "e": "contemporanea",
   "id": "hegel",
   "img": "media/retratos/museo/hegel.jpg",
@@ -1551,26 +1551,26 @@ const CITAS = [
   "uso": "Para presentar la razón poética de María Zambrano, o en una disertación sobre la relación entre filosofía y literatura."
  },
  {
-  "c": "Si la injusticia es de tal naturaleza que exige de ti que seas agente de la injusticia contra otro, entonces te digo: quebranta la ley.",
+  "c": "Pero si la injusticia es de tal índole que te exige ser tú el instrumento de una injusticia contra otro, entonces, lo digo, infringe la ley.",
   "a": "Thoreau",
-  "o": "Desobediencia civil (1849)",
+  "o": "Desobediencia civil (1849), trad. propia",
   "e": "contemporanea",
   "sen": "Para Thoreau, la conciencia está por encima de la ley: si obedecerla te obliga a cometer una injusticia contra otro, como la esclavitud o una guerra injusta, debes desobedecerla y aceptar las consecuencias.",
   "uso": "Para explicar la desobediencia civil, o en una disertación sobre la relación entre ley y justicia o sobre el deber de obedecer."
  },
  {
-  "c": "Los desdichados no necesitan en este mundo otra cosa que hombres capaces de prestarles atención. […] La plenitud del amor al prójimo consiste simplemente en ser capaz de preguntarle: «¿Cuál es tu tormento?».",
+  "c": "Los desgraciados no necesitan nada más en este mundo que personas capaces de fijar en ellos su atención. [...] El amor al prójimo, en su plenitud, consiste sencillamente en poder preguntarle: «¿Cuál es tu tormento?».",
   "a": "Simone Weil",
-  "o": "«Reflexiones sobre el buen uso de los estudios escolares como medio de cultivar el amor a Dios» (1942), en A la espera de Dios",
+  "o": "«Reflexiones sobre el buen uso de los estudios escolares como medio de cultivar el amor a Dios» (1942), en A la espera de Dios, trad. propia",
   "e": "contemporanea",
   "img": "media/retratos/museo2/weil.jpg",
   "sen": "Para Simone Weil, ayudar a quien sufre empieza por algo sencillo y difícil: prestarle atención de verdad, interesarse por su desgracia concreta en vez de verlo como un caso más.",
   "uso": "Para presentar la ética de la atención de Simone Weil, o en una disertación sobre la compasión, el cuidado y el amor al prójimo."
  },
  {
-  "c": "Si todos los hombres nacen libres, ¿cómo es que todas las mujeres nacen esclavas?",
+  "c": "Si todos los hombres nacen libres, ¿por qué todas las mujeres nacen esclavas?, como sin duda nacen si estar sometidas a la voluntad inconstante, incierta, desconocida y arbitraria de los hombres es la condición perfecta de la esclavitud.",
   "a": "Mary Astell",
-  "o": "Algunas reflexiones sobre el matrimonio, prefacio a la 3.ª ed. (1706)",
+  "o": "Algunas reflexiones sobre el matrimonio, prefacio a la 3.ª ed. (1706), trad. propia",
   "e": "moderna",
   "sen": "Astell señala una contradicción de los defensores de la libertad: dicen que todos los hombres nacen libres frente al poder absoluto del rey, pero aceptan el poder absoluto del marido sobre la mujer.",
   "uso": "Para presentar los orígenes del pensamiento feminista, o en una disertación sobre la universalidad de los derechos y sus exclusiones."
