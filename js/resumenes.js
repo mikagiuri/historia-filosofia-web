@@ -973,7 +973,7 @@ const RESUMENES = [
         "items": [
           {
             "t": "Guerra de todos contra todos",
-            "d": "«El hombre es un lobo para el hombre.»"
+            "d": "«El hombre es un lobo para el hombre»: frase de Plauto que Hobbes hizo célebre."
           },
           {
             "t": "Un soberano absoluto: el Leviatán",

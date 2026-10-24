@@ -12932,7 +12932,7 @@ const QUIZZES = {
      "Hobbes la ve egoísta; Rousseau, buena hasta que la sociedad la corrompe."
     ],
     "a": 3,
-    "fb": "Para Hobbes, sin Estado el ser humano es egoísta («lobo para el hombre»); para Rousseau es bueno por naturaleza y la sociedad lo corrompe."
+    "fb": "Para Hobbes, sin Estado el ser humano es egoísta («lobo para el hombre», con la frase de Plauto que él hizo célebre); para Rousseau es bueno por naturaleza y la sociedad lo corrompe."
    },
    {
     "q": "¿Qué idea de la tradición antigua ponen en cuestión los contractualistas modernos?",
@@ -13067,15 +13067,15 @@ const QUIZZES = {
     "fb": "La coerción es el uso de la fuerza del Estado (aquí, la sanción) para hacer cumplir las leyes."
    },
    {
-    "q": "¿A quién pertenece la frase «el hombre es un lobo para el hombre»?",
+    "q": "¿Qué filósofo moderno popularizó la frase de Plauto «el hombre es un lobo para el hombre»?",
     "o": [
-     "A Maquiavelo.",
-     "A Rousseau.",
-     "A Locke.",
-     "A Hobbes."
+     "Maquiavelo.",
+     "Rousseau.",
+     "Locke.",
+     "Hobbes."
     ],
     "a": 3,
-    "fb": "La frase resume la visión de Hobbes del estado de naturaleza: sin Estado, el egoísmo lleva a la guerra de todos contra todos."
+    "fb": "La frase es de Plauto (Asinaria), pero la hizo célebre Hobbes en De cive (1642): para él, sin Estado, el egoísmo lleva a la guerra de todos contra todos."
    },
    {
     "q": "¿Qué autor escribió «El príncipe», donde describe el poder tal como es?",

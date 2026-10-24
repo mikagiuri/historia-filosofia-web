@@ -77,7 +77,7 @@ const CINE = [
   "t": "El señor de las moscas",
   "year": 1990,
   "autor": "Harry Hook",
-  "q": "El estado de naturaleza de Hobbes: sin pacto, «el hombre es un lobo para el hombre».",
+  "q": "El estado de naturaleza de Hobbes: sin pacto, «el hombre es un lobo para el hombre» (frase de Plauto que él hizo célebre).",
   "esc": "La caracola como símbolo del turno de palabra y el momento en que el grupo de Jack la desprecia.",
   "pregs": [
    "¿Qué representa la caracola y por qué pierde su poder?",

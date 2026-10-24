@@ -112,7 +112,7 @@ const MAPS = {
   "subject": "hf",
   "tema": "Historia de la Filosofía · Filosofía política moderna",
   "title": "El contrato social",
-  "md": "# El contrato social\n## La idea\n- El poder no viene de Dios, sino de un **pacto** entre individuos\n- Del **estado de naturaleza** a la **sociedad civil**\n## Hobbes — absolutismo\n- Estado de naturaleza: **guerra de todos contra todos**\n- *«El hombre es un lobo para el hombre»*\n- Se cede **todo** el poder al soberano: el **Leviatán**\n- Fin: la **seguridad**\n## Locke — liberalismo\n- Derechos naturales: vida, libertad y **propiedad**\n- El poder es **limitado** y revocable\n- **División de poderes**; monarquía parlamentaria\n- Fin: proteger los derechos\n## Rousseau — democracia\n- El ser humano nace **bueno**; la sociedad lo corrompe\n- **Voluntad general** — soberanía del pueblo\n- Fin: la **libertad** y la igualdad"
+  "md": "# El contrato social\n## La idea\n- El poder no viene de Dios, sino de un **pacto** entre individuos\n- Del **estado de naturaleza** a la **sociedad civil**\n## Hobbes — absolutismo\n- Estado de naturaleza: **guerra de todos contra todos**\n- *«El hombre es un lobo para el hombre»* (Plauto; la popularizó Hobbes)\n- Se cede **todo** el poder al soberano: el **Leviatán**\n- Fin: la **seguridad**\n## Locke — liberalismo\n- Derechos naturales: vida, libertad y **propiedad**\n- El poder es **limitado** y revocable\n- **División de poderes**; monarquía parlamentaria\n- Fin: proteger los derechos\n## Rousseau — democracia\n- El ser humano nace **bueno**; la sociedad lo corrompe\n- **Voluntad general** — soberanía del pueblo\n- Fin: la **libertad** y la igualdad"
  },
  "map-utilitarismo-liberalismo": {
   "subject": "hf",

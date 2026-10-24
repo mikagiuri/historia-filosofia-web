@@ -3550,7 +3550,7 @@ const ESQUEMAS = {
   "block": "B",
   "tema": "Contrato social",
   "title": "El contrato social",
-  "mermaid": "flowchart TD\n  center[\"EL CONTRATO SOCIAL\"]:::axis\n  idea[\"Del estado de naturaleza a la sociedad<br>por un pacto\"]:::key\n  hob[\"HOBBES\"]:::key\n  loc[\"LOCKE\"]:::key\n  rou[\"ROUSSEAU\"]:::key\n  center -->|\"tesis común\"| idea\n  idea --> hob\n  idea --> loc\n  idea --> rou\n  hob --> h1[\"«homo homini lupus»\"]\n  hob -->|\"pacto que da\"| h2[\"Leviatán:<br>monarquía absoluta\"]\n  loc --> l1[\"derechos naturales:<br>vida, libertad, propiedad\"]\n  loc -->|\"pacto que da\"| l2[\"monarquía parlamentaria<br>+ separación de poderes\"]\n  rou --> r1[\"la voluntad general\"]\n  rou -->|\"pacto que da\"| r2[\"democracia asamblearia\"]\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;",
+  "mermaid": "flowchart TD\n  center[\"EL CONTRATO SOCIAL\"]:::axis\n  idea[\"Del estado de naturaleza a la sociedad<br>por un pacto\"]:::key\n  hob[\"HOBBES\"]:::key\n  loc[\"LOCKE\"]:::key\n  rou[\"ROUSSEAU\"]:::key\n  center -->|\"tesis común\"| idea\n  idea --> hob\n  idea --> loc\n  idea --> rou\n  hob --> h1[\"«homo homini lupus»<br>(Plauto, popularizada por Hobbes)\"]\n  hob -->|\"pacto que da\"| h2[\"Leviatán:<br>monarquía absoluta\"]\n  loc --> l1[\"derechos naturales:<br>vida, libertad, propiedad\"]\n  loc -->|\"pacto que da\"| l2[\"monarquía parlamentaria<br>+ separación de poderes\"]\n  rou --> r1[\"la voluntad general\"]\n  rou -->|\"pacto que da\"| r2[\"democracia asamblearia\"]\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;",
   "v2": {
    "pregunta": "Si la sociedad no es natural, ¿por qué obedecemos al poder y qué límites tiene?",
    "raiz": "EL CONTRATO SOCIAL",
@@ -3576,7 +3576,7 @@ const ESQUEMAS = {
       {
        "rel": "estado de naturaleza",
        "t": "Guerra de todos contra todos",
-       "d": "«El hombre es un lobo para el hombre.»"
+       "d": "«El hombre es un lobo para el hombre»: frase de Plauto que Hobbes hizo célebre."
       },
       {
        "rel": "el contrato crea",

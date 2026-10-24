@@ -3134,16 +3134,16 @@ const PISTAS = [
     "repaso": [
      "¿He dicho que, para Spinoza, nada es más útil al ser humano que otro ser humano?",
      "¿He explicado que quienes se guían por la razón concuerdan, porque desean para los demás lo que desean para sí?",
-     "¿He contrapuesto su fórmula «el hombre es un dios para el hombre» al «lobo» de Hobbes?"
+     "¿He contrapuesto su fórmula «el hombre es un dios para el hombre» al «lobo» de Plauto que popularizó Hobbes?"
     ],
     "intro": [
-     "Hobbes, contemporáneo de Spinoza, pensaba que, si cada uno busca lo suyo, el ser humano es un lobo para el ser humano. Spinoza también parte del interés propio. Piensa adónde llega."
+     "Hobbes, contemporáneo de Spinoza, pensaba que, si cada uno busca lo suyo, el ser humano es un lobo para el ser humano (una frase de Plauto que él hizo célebre). Spinoza también parte del interés propio. Piensa adónde llega."
     ],
     "pistas": [
      "Recuerda: para Spinoza, buscar la propia utilidad no es un vicio; es la base de la virtud.",
      "Pregúntate qué es lo más útil para conservar y aumentar tu potencia. ¿Una cosa, o alguien?",
      "Spinoza responde que <strong>nada es más útil al hombre que el hombre</strong>, sobre todo el que se guía por la razón: dos que piensan bien desean cosas compatibles.",
-     "Por eso, quienes se guían por la razón <strong>no desean para sí nada que no deseen para los demás</strong>. Frente al lobo de Hobbes, Spinoza escribe que «el hombre es un dios para el hombre»."
+     "Por eso, quienes se guían por la razón <strong>no desean para sí nada que no deseen para los demás</strong>. Frente al lobo que popularizó Hobbes (la frase es de Plauto), Spinoza escribe que «el hombre es un dios para el hombre»."
     ],
     "comprobacion": {
      "pregunta": "¿Por qué, según Spinoza, buscar la propia utilidad no lleva al enfrentamiento?",
@@ -3189,7 +3189,7 @@ const PISTAS = [
       "definicion": [
        "Spinoza no enfrenta interés propio y moral: buscar lo útil para uno mismo, bajo la razón, es la virtud.",
        "Pero la razón muestra que lo más útil para cada uno es otro ser humano que también se guía por la razón: juntos son más potentes que por separado. Por eso desean para los demás lo mismo que para sí.",
-       "Las pasiones, en cambio, nos enfrentan: en ellas los seres humanos discrepan. Frente al «lobo» de Hobbes, que necesita un soberano que lo contenga, Spinoza confía en que la razón produzca la concordia."
+       "Las pasiones, en cambio, nos enfrentan: en ellas los seres humanos discrepan. Frente al «lobo» de Plauto que hizo célebre Hobbes, un lobo que necesita un soberano que lo contenga, Spinoza confía en que la razón produzca la concordia."
       ],
       "comprobacion": {
        "boton": "Terminar comprobando",
@@ -3212,7 +3212,7 @@ const PISTAS = [
         [
          "Nunca: el hombre es un lobo para el hombre.",
          false,
-         "Esa es la tesis de Hobbes, que Spinoza da la vuelta."
+         "Esa es la visión que Hobbes hizo célebre con la frase de Plauto, y Spinoza le da la vuelta."
         ]
        ],
        "ok": "Correcto: la razón une; las pasiones separan.",
