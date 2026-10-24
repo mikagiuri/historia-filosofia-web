@@ -75,6 +75,8 @@ const LABMP = {
     tEjemplo: "Un mundo de ejemplo",
     ejemploTxt: "En este mundo se cumplen todas tus premisas, y la afirmación también. No es casualidad: pasa en todos los mundos posibles que cumplen esas premisas, y eso es lo que quiere decir que se siga.",
     verIsabelle: "Ver la prueba en Isabelle",
+    asiIsabelle: "Así lo comprueba Isabelle (pulsa para ver la teoría entera):",
+    altTeorema: "Captura de Isabelle: el teorema {t} y su prueba",
     altCaptura: "Captura de pantalla de Isabelle: {t}",
     gElige: "Elige una teoría", gNRetos: "{n} retos", gEmpieza: "para empezar",
     gQTiempo: "¿Quién crea algo tiene que haber empezado antes?", gQReloj: "¿Qué es empezar, durar y sobrevivir, con instantes?",
