@@ -90,7 +90,7 @@ const LOGX = {
       cruz: "La zona de «filósofo» fuera de «autor de libros» tiene dos partes; la que queda fuera de «pensador» ya está en gris. La ✕ va en la otra: un pensador filósofo que no escribió libros (Sócrates, por ejemplo).",
       concl: "«Algún pensador no es autor de libros» pide una ✕ en «pensador» fuera de «autor de libros»: ya está. Es Bocardo." }
   ],
-  /* (22-10, nube) T5: nómina de falacias no formales (g = entrada del glosario de 1.º, que es la fuente de la definición) y
+  /* (22-10, nube) T5: nómina de falacias no formales (g = entrada del diccionario de 1.º, que es la fuente de la definición) y
      ejercicio «¿Qué falacia es?» (tipo = la falacia o "no-es-falacia"; o = opciones) */
   falacias: [
     { g: "g-fil-ad-hominem", nom: "Ad hominem", otros: "Ataque a la persona; envenenar el pozo; tu quoque es una variante", ej: "«No le hagas caso: lo dice porque es de ciencias.»", parar: "Separar a la persona de la razón: «¿Y qué tiene de malo lo que dice?»" },

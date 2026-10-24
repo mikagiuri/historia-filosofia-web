@@ -6,7 +6,7 @@
      ef: arm (armonía), ap (puntos de acción), sj (sabiduría de cada guardián, ±), mov (productores que pasan a guerreros).
      req: condición de la ciudad («sabios»: algún guardián de sabiduría plena; «justos»: al menos la mitad de los
      guardianes son plenamente justos; «ejercito»: guerreros ≥ 2 × guardianes); con req, «si» y «no» llevan ef y r.
-   · glo: ids del glosario (#diccionario/<id>).
+   · glo: ids del diccionario (#diccionario/<id>).
    Citas: traducción propia del griego (Burnet), con el lugar de Stephanus; el griego, siempre transliterado.
    Se traduce como dato (DATA_FILES de web_i18n/i18n_lib.js). */
 const REP_DIAL = {

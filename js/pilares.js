@@ -7,7 +7,7 @@
    Textos traducibles (memoria de traducción): registrado en DATA_FILES de web_i18n/i18n_lib.js. Vista: pilaresview.js. */
 const PILARES = {
   t: {
-    intro: "Un <strong>pilar</strong> es un concepto que sostiene buena parte de la filosofía y que ha cambiado de sentido a lo largo de la historia. Aquí se sube por él en diez peldaños: cada uno es una manera de entenderlo que corrige o desplaza a la anterior. Los primeros te parecerán fáciles; los últimos, difíciles de verdad. No es un glosario para repasar: es un ejercicio. En cada peldaño hay que entender lo que se dice, aplicarlo a un caso, enlazarlo con lo ya subido y comprobar si se ha entendido.",
+    intro: "Un <strong>pilar</strong> es un concepto que sostiene buena parte de la filosofía y que ha cambiado de sentido a lo largo de la historia. Aquí se sube por él en diez peldaños: cada uno es una manera de entenderlo que corrige o desplaza a la anterior. Los primeros te parecerán fáciles; los últimos, difíciles de verdad. No es un diccionario para repasar: es un ejercicio. En cada peldaño hay que entender lo que se dice, aplicarlo a un caso, enlazarlo con lo ya subido y comprobar si se ha entendido.",
     comoTit: "Cómo se trabaja un pilar",
     como: [
       "<strong>Entiende</strong> lo que se dice y la cita: léela despacio y explícala con tus palabras.",

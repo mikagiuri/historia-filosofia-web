@@ -1,7 +1,7 @@
 "use strict";
 /* ===== «Adagios: el lenguaje común de la filosofía» (09-10, Bachillerato) — datos =====
    Repertorio de lemas y adagios clásicos al estilo de los cuadernos de lugares comunes del Renacimiento.
-   Campos: id; la = lema en latín (o la forma con que circula); gr = original griego, si lo hay, y tr = su transliteración (convención del glosario); es = traducción;
+   Campos: id; la = lema en latín (o la forma con que circula); gr = original griego, si lo hay, y tr = su transliteración (convención del diccionario); es = traducción;
    o = de dónde viene (obra y pasaje; «fórmula tradicional» cuando no es literal); er = número en los Adagia de
    Erasmo (solo cuando consta); sen = qué quiere decir; uso = cuándo usarlo; trampa = error frecuente;
    amb = ámbito (saber | realidad | etica | politica | humano); e = época de origen (ant | med | ren | mod),
