@@ -1,6 +1,6 @@
 /* (11-10) «Polémicas: cara a cara» — pensadores COETÁNEOS que se enfrentaron de verdad (cara a cara, por cartas,
    con libros que se responden en vida de ambos o desde escuelas rivales). Datos de polemicasview.js. Hechos, fechas y citas
-   comprobados con las fuentes de cada ficha; ilu_a/ilu_b = ids de Ilustres; pol_via: cara|cartas|libros|escuelas;
+   comprobados con las fuentes de cada ficha; ilu_a/ilu_b = ids de Biografías; pol_via: cara|cartas|libros|escuelas;
    pol_epoca: ant|med|ren|mod|ilu|con; temas = claves de THEORY; duelo (12-10, sesión 40) = id del tema del Duelo de razones (#hf/<duelo>). */
 const POLEMICAS = [
  {

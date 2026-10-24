@@ -27,7 +27,7 @@ const GUIA = {
     { type: "warn", x: "Como el avance se guarda en el navegador, si cambias de dispositivo o borras los datos de navegación, empiezas de cero. El contenido, en cambio, sigue siempre ahí." },
     { type: "p", x: "Las primeras pestañas del menú son las imprescindibles: <strong>Estudiar</strong> (la teoría y lo que te ayuda a aprenderla), <strong>Practicar</strong> (comprobar lo que sabes y entrenar) y <strong>PAU</strong> (el examen, los textos y la escritura). Tras una línea vienen las complementarias: <strong>Historia</strong> (el contexto de los filósofos) y <strong>Juegos</strong>. El <strong>Rincón de lógica</strong> no tiene pestaña en esta web: lo abren los enlaces de los temas que lo usan.", solo: "hf" },
     { type: "p", x: "Las primeras pestañas del menú son las imprescindibles: <strong>Estudiar</strong> (la teoría y lo que te ayuda a aprenderla), <strong>Practicar</strong> (comprobar lo que sabes y entrenar), <strong>Lógica</strong> (el Rincón de lógica, con sus ejercicios y su laboratorio) y <strong>Escribir y leer</strong> (la disertación y los textos). Tras una línea vienen las complementarias: <strong>Historia</strong> (el contexto de los filósofos) y <strong>Juegos</strong>.", solo: "fil" },
-    { type: "p", x: "Algunas secciones reúnen varias cosas del mismo tipo: arriba tienen una <strong>fila de botones</strong> para pasar de una a otra. Por ejemplo, en Cuestionarios puedes cambiar a <strong>Contrarreloj</strong>, y en Biografías, a <strong>Perseguidos</strong> o <strong>Comunidades</strong>." },
+    { type: "p", x: "Algunas secciones reúnen varias cosas del mismo tipo: arriba tienen una <strong>fila de botones</strong> para pasar de una a otra. Por ejemplo, en Cuestionarios puedes cambiar a <strong>Retos</strong>, y en Biografías, a <strong>Perseguidos</strong> o <strong>Comunidades</strong>." },
 
     { type: "h", x: "La pantalla principal" },
     { type: "p", x: "Al abrir la web llegas a la <strong>página de la materia</strong>: el título, una breve presentación y la <strong>lista de temas</strong>. Pulsa un tema para abrir su teoría. Desde cualquier sitio vuelves aquí con <strong>Estudiar › Teoría</strong> o pulsando «Aula de Filosofía», arriba a la izquierda." },
@@ -69,7 +69,7 @@ const GUIA = {
       { nombre: "Pilares", texto: "Los grandes conceptos (razón, idea, causa) en diez peldaños, de la palabra de todos los días al debate de hoy. Cada peldaño corrige al anterior y pide trabajo: aplicar la idea a un caso, enlazarla con lo que ya has subido y comprobar si la has entendido. Marca los peldaños que superes: se guarda solo en tu navegador.", view: "pilares" },
       { nombre: "Tarjetas", texto: "Pulsa la tarjeta (o la barra espaciadora) para darle la vuelta y marca «Ya la sé» las que domines. Tu avance se guarda.", view: "tarjetas" },
       { nombre: "Mapas e infografías", texto: "Mapas que se pliegan y despliegan: pulsa un nodo para abrir o cerrar sus ramas, arrastra para moverte y usa la rueda para ampliar. Las infografías y los esquemas de cada tema se abren desde la caja «Para seguir con este tema» o desde «Explora la materia», en la página de la materia.", view: "mapas" },
-      { nombre: "Glosario", texto: "El diccionario de la asignatura: cada término con su definición. Busca una palabra o filtra los términos.", view: "glosario" },
+      { nombre: "Glosario", texto: "El diccionario de la asignatura: cada término con su definición. Busca una palabra o filtra los términos.", view: "diccionario" },
       { nombre: "Étimos", texto: "De dónde vienen las palabras de la filosofía: su raíz griega o latina, para entender mejor lo que significan hoy. Busca una palabra o recórrelas por temas.", view: "etimos" }
     ] },
     { type: "img", src: "07_tarjetas.webp", cap: "Tarjetas: elige el tipo, el filtro y la baraja; debajo, los botones para pasar, barajar y marcar «Ya la sé»." },
@@ -77,12 +77,12 @@ const GUIA = {
     { type: "h", x: "Practicar" },
     { type: "img", src: "03_menu_practicar.webp", cap: "El menú «Practicar».", w: "menu" },
     { type: "list", rows: [
-      { nombre: "Cuestionarios", texto: "Preguntas tipo test con corrección al instante y la explicación de cada respuesta. Se guarda tu mejor puntuación. Arriba, el botón Contrarreloj: preguntas contra el reloj, con puntos por velocidad y por racha.", view: "cuestionarios" },
+      { nombre: "Cuestionarios", texto: "Preguntas tipo test con corrección al instante y la explicación de cada respuesta. Se guarda tu mejor puntuación. Arriba, el botón Retos: preguntas contra el reloj, con puntos por velocidad y por racha.", view: "cuestionarios" },
       { nombre: "Pistas", texto: "Preguntas clave del temario para responder por tu cuenta, con pistas que se destapan de una en una, de la más vaga a la que casi te da la respuesta.", view: "pistas" },
       { nombre: "Rescritura", texto: "Aprende a explicar un texto con tus palabras: sin copiarlo, sin limitarte a cambiar palabras por sinónimos y sin contar otra cosa.", view: "rescritura" },
       { nombre: "Debatir", texto: "Cuatro maneras de entrenar la argumentación, con sus botones arriba: Dilemas (elige entre dos cosas que importan y da tu razón), Polémicas (filósofos de la misma época que se enfrentaron de verdad), Duelo (debate contra el ordenador) y Nudos (descubre dónde chocan tus propias opiniones).", view: "dilemas" }
     ] },
-    { type: "img", src: "08_cuestionarios.webp", cap: "Cuestionarios: arriba, el botón Contrarreloj; debajo, filtra, elige el cuestionario en el desplegable y responde." },
+    { type: "img", src: "08_cuestionarios.webp", cap: "Cuestionarios: arriba, el botón Retos; debajo, filtra, elige el cuestionario en el desplegable y responde." },
     { type: "tip", x: "Haz el cuestionario de un tema sin mirar los apuntes y lee siempre la explicación de las preguntas que falles: ahí está el aprendizaje." },
     { type: "p", x: "Los de <strong>Debatir</strong> son un buen entrenamiento para la disertación: obligan a dar razones y a tener en cuenta las del otro lado." },
 
@@ -94,12 +94,12 @@ const GUIA = {
     { type: "h", x: "PAU", solo: "hf" },
     { type: "img", src: "04_menu_tercera.webp", cap: "El menú «PAU».", w: "menu", solo: "hf" },
     { type: "list", solo: "hf", rows: [
-      { nombre: "Guía de la prueba", texto: "Cómo es el examen, cómo afrontar el Ejercicio 1 (comprensión de texto) y el Ejercicio 3 (exposición), y los modelos oficiales.", view: "pau" },
+      { nombre: "Prepara PAU", texto: "Cómo es el examen, cómo afrontar el Ejercicio 1 (comprensión de texto) y el Ejercicio 3 (exposición), y los modelos oficiales.", view: "prepara_PAU" },
       { nombre: "Comentario de texto", texto: "El método paso a paso para comentar un texto, con rúbrica, plantilla y ejemplos resueltos de los cinco autores.", view: "comentario" },
       { nombre: "Disertaciones", texto: "La metodología y la rúbrica de la disertación (Ejercicio 2), con modelos completos resueltos para practicar la argumentación.", view: "disertaciones" },
       { nombre: "Lecturas", texto: "Los cinco textos de la PAU con su guía de lectura, los fragmentos, modelos de respuesta y diccionario.", view: "lecturas" }
     ] },
-    { type: "tip", solo: "hf", x: "Empieza por la Guía de la prueba para saber qué te van a pedir, y sigue el Itinerario PAU de la página de la materia: te lleva en orden por cada ejercicio." },
+    { type: "tip", solo: "hf", x: "Empieza por Prepara PAU para saber qué te van a pedir, y sigue el Itinerario PAU de la página de la materia: te lleva en orden por cada ejercicio." },
     { type: "h", x: "Escribir y leer", solo: "fil" },
     { type: "img", src: "04_menu_tercera.webp", cap: "El menú «Escribir y leer».", w: "menu", solo: "fil" },
     { type: "list", solo: "fil", rows: [
@@ -144,7 +144,7 @@ const GUIA = {
       { titulo: "Fija los conceptos", texto: "Desde la caja «Para seguir con este tema», abre sus tarjetas y marca las que ya sabes.", view: "tarjetas" },
       { titulo: "Comprueba lo que sabes", texto: "Practicar › Cuestionarios, filtrando por el tema. Lee la explicación de los fallos.", view: "cuestionarios" },
       { titulo: "Explícalo con tus palabras", texto: "Practicar › Pistas te hace las preguntas clave y te ayuda poco a poco.", view: "pistas" },
-      { titulo: "Prepara el examen", texto: "PAU: lecturas, comentarios y disertaciones.", view: "pau", solo: "hf" },
+      { titulo: "Prepara el examen", texto: "PAU: lecturas, comentarios y disertaciones.", view: "prepara_PAU", solo: "hf" },
       { titulo: "Prepara el examen", texto: "Escribir y leer: disertaciones y lecturas.", view: "disertaciones", solo: "fil" },
       { titulo: "Si quieres más", texto: "Las pestañas Historia y Juegos, Practicar › Debatir y el bloque «Ampliar» de la caja del tema: contexto, juegos, debates y vídeos para ir más allá." }
     ] },

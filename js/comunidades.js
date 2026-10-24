@@ -2,7 +2,7 @@
 /* (11-10) «Comunidades de filósofos y sus lugares» (Bachillerato) — datos de casosview.js. 
    Cada una: dónde se reunían (el lugar físico) y qué queda hoy, quién la fundó y quiénes formaron parte, cómo vivían o trabajaban,
    qué ideas compartían, una cita con su referencia, cómo acabó, el «caso trampa» y una pregunta para pensar.
-   cas_cas_ilu = ids de Ilustres (retratos y biografías); cas_epoca: ant|med|ren|mod|ilu|con; temas = claves de THEORY;
+   cas_cas_ilu = ids de Biografías (retratos y biografías); cas_epoca: ant|med|ren|mod|ilu|con; temas = claves de THEORY;
    imgs = [{f, pie, page}] de Wikimedia Commons, solo dominio público (créditos en recursos/imagenes_museos/comunidades/);
    cronologia = [{a: año, t: suceso}]; etapas = [{nom, a, q: quiénes, d}] (nom y no n: «n» está en KEY_BLACKLIST y no se traduciría) (opcional). Hechos comprobados con las fuentes. */
 const COMUNIDADES = [

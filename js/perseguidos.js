@@ -2,7 +2,7 @@
 /* (11-10) «Perseguidos por sus ideas» (Bachillerato) — datos de casosview.js. 
    Cada caso: quién, cuándo y dónde, qué ideas molestaron, qué poder lo persiguió, qué le pasó (cas_castigo: muerte|carcel|exilio|censura),
    el relato, una cita con su referencia, qué vino después, el «caso trampa» (lo que se suele contar mal) y una pregunta para pensar.
-   cas_ilu = ids de Ilustres (retrato y biografía); cas_epoca: ant|med|ren|mod|ilu|con; temas = claves de THEORY (se enlazan si existen en la web);
+   cas_ilu = ids de Biografías (retrato y biografía); cas_epoca: ant|med|ren|mod|ilu|con; temas = claves de THEORY (se enlazan si existen en la web);
    imgs = [{f, pie, page}] de Wikimedia Commons, solo dominio público (créditos en recursos/imagenes_museos/perseguidos/); cronologia = [{a, t}].
    Hechos, fechas y citas comprobados con las fuentes de cada ficha. */
 const PERSEGUIDOS = [

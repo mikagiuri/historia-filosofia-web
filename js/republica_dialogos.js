@@ -6,7 +6,7 @@
      ef: arm (armonía), ap (puntos de acción), sj (sabiduría de cada guardián, ±), mov (productores que pasan a guerreros).
      req: condición de la ciudad («sabios»: algún guardián de sabiduría plena; «justos»: al menos la mitad de los
      guardianes son plenamente justos; «ejercito»: guerreros ≥ 2 × guardianes); con req, «si» y «no» llevan ef y r.
-   · glo: ids del glosario (#glosario/<id>).
+   · glo: ids del glosario (#diccionario/<id>).
    Citas: traducción propia del griego (Burnet), con el lugar de Stephanus; el griego, siempre transliterado.
    Se traduce como dato (DATA_FILES de web_i18n/i18n_lib.js). */
 const REP_DIAL = {
@@ -262,7 +262,7 @@ const REP_DIAL = {
     dPlaton:"Argumento de Platón: la justicia es la armonía de las partes, en la ciudad como en el alma (República IV, 433a y 441d-e).",
     dObjecion:"Objeción: elige una de las críticas que salieron en tu partida (Trasímaco, Glaucón, Aristóteles, Popper…) y explícala con tus palabras.",
     dTuya:"Tu conclusión: ¿qué postura de tu partida defenderías por escrito, y por qué?",
-    glosario:"Conceptos en el diccionario",
+    diccionario:"Conceptos en el diccionario",
     sinDialogos:"En esta partida no hubo diálogos.",
     hudReg:"Régimen",
     elegir:"Elige versión",

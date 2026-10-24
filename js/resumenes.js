@@ -1,6 +1,6 @@
 "use strict";
-/* Esquemas de autor (ds-*) — datos estructurados generados por tools/extract_esquemas_autor.js. */
-const ESQUEMAS_AUTOR = [
+/* Esquemas de autor (ds-*) — datos estructurados generados por tools/extract_resumenes.js. */
+const RESUMENES = [
   {
     "title": "Métodos y herramientas del filósofo",
     "subject": "hf",

@@ -1,7 +1,7 @@
 "use strict";
 /* ===== Fichas de época (10-10-2026) =====
    Idea tomada de las «eras» de cerebrofilosofico.com, con contenido propio y comprobado. Una ficha por época de
-   Ilustres (ant, med, ren, mod, ilu, con); se abren desde el título de la época en el listado de Ilustres, desde la
+   Biografías (ant, med, ren, mod, ilu, con); se abren desde el título de la época en el listado de Biografías, desde la
    etiqueta de época de cada ficha (#biografias/epoca-<b>) y desde «La época» al final de los temas de HF.
    Campos: anos (rango), abre (lo que la inaugura), social, politico, ciencia, arte (11-10), pensamiento, rupturas (paso a la
    siguiente), trampa (caso trampa). Los pensadores se calculan de BIOGRAFIAS (block). Vista: biografiasview.js.

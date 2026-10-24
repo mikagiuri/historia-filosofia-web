@@ -1,8 +1,8 @@
 "use strict";
 /* ===== Pies de retrato de Biografías con texto en castellano (20-10) =====
-   Generado por lab_iesmdb/encargos/vigilancia_dsh/generar_ilustres_pies.py desde biografias_retratos.js.
+   Generado por lab_iesmdb/encargos/vigilancia_dsh/generar_biografias_pies.py desde biografias_retratos.js.
    Está en DATA_FILES para que se traduzca; biografiasview.js lo prefiere al pie de BIOGRAFIAS_RETRATOS.
-   Si cambian los pies en tools/build_ilustres.js, hay que volver a generarlo. */
+   Si cambian los pies en tools/build_biografias.js, hay que volver a generarlo. */
 const BIOGRAFIAS_PIES = {
  "confucio": "Confucius Tang Dynasty · Wu Daozi (atribuido), 685-758 · Public domain",
  "meliso": "Meliso de Samos (retrato imaginario, 1493) · Hartmann Schedel, Crónica de Núremberg · Public domain",

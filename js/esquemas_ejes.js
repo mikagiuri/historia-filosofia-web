@@ -1,6 +1,6 @@
 "use strict";
 /* (08-10) Ejes comunes de cada bloque para la tabla «Sinóptica» de los Esquemas de autor.
-   Cada fila apunta por «i» a su esquema en ESQUEMAS_AUTOR (esquemas_autor.js); celdas en el orden de «ejes».
+   Cada fila apunta por «i» a su esquema en RESUMENES (resumenes.js); celdas en el orden de «ejes».
    Redactado a partir de theory.js y de cada esquema; euskera en web_i18n/tm/eu.json. */
 const EA_EJES = {
  "A": {

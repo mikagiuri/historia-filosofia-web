@@ -48,7 +48,7 @@ const DILEMAS = [
     "quien": "Sócrates",
     "elige": "B",
     "porque": "Tres razones en el Critón: no hay que devolver injusticia por injusticia; las Leyes lo han criado y él las aceptó al quedarse en Atenas (un acuerdo tácito); huir dañaría su alma, y el alma vale más que la vida.",
-    "ilustre": "socrates"
+    "biografia": "socrates"
    },
    {
     "quien": "Antígona (Sófocles)",
@@ -59,19 +59,19 @@ const DILEMAS = [
     "quien": "Platón",
     "elige": "B",
     "porque": "Hereda la respuesta de su maestro, pero en la República concluye que el problema de fondo es otro: mientras gobiernen los que no saben, las leyes serán injustas; la solución no es huir sino que gobiernen los filósofos.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Spinoza",
     "elige": "B",
     "porque": "Con matices. El hombre libre nunca obra con engaño, ni siquiera para librarse de un peligro de muerte (Ética, IV, 72, escolio), y huir burlando las leyes de la propia ciudad se le parecería. Pero retirarse a tiempo exige tanta firmeza como luchar (IV, 69, corolario), y él, expulsado de su comunidad como Sócrates, se apartó con cautela para seguir pensando: ni mártir ni fugitivo.",
-    "ilustre": "spinoza"
+    "biografia": "spinoza"
    },
    {
     "quien": "Kant",
     "elige": "B",
     "porque": "Obedece en tus actos y razona en público: el oficial cumple la orden y después puede criticarla por escrito (¿Qué es la Ilustración?, 1784). En la Metafísica de las costumbres (1797) niega todo derecho de rebelión; si eso excluye también negarse a cumplir una orden inmoral es un debate abierto entre sus intérpretes.",
-    "ilustre": "kant"
+    "biografia": "kant"
    }
   ],
   "otra": "La de Spinoza, condenado como Sócrates por su propia comunidad: ni huir burlando la ley ni quedarse a morir, sino apartarse a tiempo, callar lo imprescindible (su lema era «Caute», con cautela) y seguir pensando.",
@@ -121,13 +121,13 @@ const DILEMAS = [
     "quien": "Platón",
     "elige": "A",
     "porque": "Quien ha visto el bien no puede quedarse mirándolo: la ciudad lo educó y le debe el regreso; el filósofo que no gobierna deja el poder a los que aman el poder.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Epicuro",
     "elige": "B",
     "porque": "«Vive oculto»: la política es fuente de turbación; el sabio cultiva su jardín con los amigos y no pretende salvar a la multitud, que no quiere ser salvada.",
-    "ilustre": "epicuro"
+    "biografia": "epicuro"
    },
    {
     "quien": "Los estoicos",
@@ -138,7 +138,7 @@ const DILEMAS = [
     "quien": "Nietzsche",
     "elige": "B",
     "porque": "Con sospecha: ¿y si el que baja no quiere liberar sino dominar? Zaratustra baja de la montaña y descubre que el pueblo no quiere su regalo. La verdad no se impone: se ofrece a quien puede soportarla.",
-    "ilustre": "nietzsche"
+    "biografia": "nietzsche"
    }
   ],
   "debate": {
@@ -173,7 +173,7 @@ const DILEMAS = [
     "quien": "Epicuro",
     "elige": "A",
     "porque": "Los placeres del alma, la amistad y la conversación bastan; el deseo natural es fácil de satisfacer y el temor a los dioses y a la muerte es un error de razonamiento. «Vive oculto».",
-    "ilustre": "epicuro"
+    "biografia": "epicuro"
    },
    {
     "quien": "Los estoicos (Zenón, Séneca, Epicteto)",
@@ -189,7 +189,7 @@ const DILEMAS = [
     "quien": "Aristóteles",
     "elige": "B",
     "porque": "Con una corrección: la felicidad es actividad de la razón en la ciudad, con amigos y con algunos bienes externos; ni el tonel de Diógenes ni el jardín de Epicuro son suficientes para una vida plena.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    }
   ],
   "debate": {
@@ -229,13 +229,13 @@ const DILEMAS = [
     "quien": "Agustín de Hipona",
     "elige": "A",
     "porque": "Con matiz: «cree para entender». La fe va primero, pero no contra la razón sino como su guía; la razón entra después para comprender lo creído.",
-    "ilustre": "agustin"
+    "biografia": "agustin"
    },
    {
     "quien": "Tomás de Aquino",
     "elige": "B",
     "porque": "Fe y razón colaboran porque vienen de la misma fuente; la razón puede demostrar que Dios existe (las cinco vías) y defender la fe, aunque los misterios (Trinidad) queden por encima de ella.",
-    "ilustre": "tomas"
+    "biografia": "tomas"
    },
    {
     "quien": "Guillermo de Ockham",
@@ -280,7 +280,7 @@ const DILEMAS = [
     "quien": "Tomás de Aquino",
     "elige": "B",
     "porque": "Lo verdadero no puede contradecir a lo verdadero. Si Aristóteles concluye que el mundo es eterno, hay que examinar su argumento: la razón, dice Tomás, no puede demostrar ni la eternidad ni la creación; la cuestión queda para la fe.",
-    "ilustre": "tomas"
+    "biografia": "tomas"
    },
    {
     "quien": "El obispo Tempier (condena de 1277)",
@@ -325,13 +325,13 @@ const DILEMAS = [
     "quien": "Descartes (racionalismo)",
     "elige": "A",
     "porque": "La duda metódica es voluntaria, provisional y radical, y encuentra un fondo: dudo, luego pienso, luego existo. Desde ahí, con la garantía de Dios, se reconstruye todo con certeza.",
-    "ilustre": "descartes"
+    "biografia": "descartes"
    },
    {
     "quien": "Hume (empirismo)",
     "elige": "B",
     "porque": "La duda cartesiana, si fuera posible, sería incurable: no hay ningún principio que no pueda dudarse. Por suerte es imposible: la naturaleza nos obliga a creer. Hay que partir de la experiencia, no de la nada.",
-    "ilustre": "hume"
+    "biografia": "hume"
    },
    {
     "quien": "Peirce y el pragmatismo (siglo XIX)",
@@ -342,7 +342,7 @@ const DILEMAS = [
     "quien": "Kant",
     "elige": "A",
     "porque": "A su manera: no dudó de todo, pero sí preguntó por las condiciones de todo conocimiento posible antes de admitir ninguno. La crítica es la duda cartesiana hecha método.",
-    "ilustre": "kant"
+    "biografia": "kant"
    }
   ],
   "debate": {
@@ -377,13 +377,13 @@ const DILEMAS = [
     "quien": "Hobbes",
     "elige": "A",
     "porque": "En estado de naturaleza la vida es «solitaria, pobre, brutal y breve»; por miedo, los hombres ceden todo su derecho a un soberano absoluto. Dividir el poder es volver a la guerra.",
-    "ilustre": "hobbes"
+    "biografia": "hobbes"
    },
    {
     "quien": "Rousseau",
     "elige": "B",
     "porque": "El hombre nace libre y bueno; el pacto legítimo no entrega la libertad sino que la transforma: cada uno obedece a la voluntad general de la que forma parte, y así obedece solo a sí mismo.",
-    "ilustre": "rousseau"
+    "biografia": "rousseau"
    },
    {
     "quien": "Locke",
@@ -428,19 +428,19 @@ const DILEMAS = [
     "quien": "Kant",
     "elige": "B",
     "porque": "Lo escribió en 1797 contra quienes le objetaron este caso: mentir es siempre contrario al deber, porque la máxima «miento cuando me conviene» no puede universalizarse sin destruir la confianza que hace posible el lenguaje; del resultado de la verdad no soy yo responsable, sino el asesino.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Bentham y Mill (utilitarismo)",
     "elige": "A",
     "porque": "Una acción es buena si produce la mayor felicidad para el mayor número; la mentira que salva una vida es obligatoria. Mill añadiría que la regla «no mentir» es útil en general y por eso las excepciones deben ser rarísimas y muy claras.",
-    "ilustre": "mill"
+    "biografia": "mill"
    },
    {
     "quien": "Aristóteles",
     "elige": "A",
     "porque": "No por cálculo: la persona prudente (phrónesis) sabe que la veracidad es una virtud entre otras y que la justicia y la amistad pesan aquí más; la ética no es aplicar reglas sino juzgar bien el caso concreto.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Benjamin Constant",
@@ -480,13 +480,13 @@ const DILEMAS = [
     "quien": "Nietzsche",
     "elige": "A",
     "porque": "La moral de los señores dice «bueno» a lo noble y fuerte; la de los esclavos, nacida del resentimiento, invierte los valores: llama bueno al manso y malo al poderoso. Judaísmo y cristianismo ganaron esa batalla; hay que transvalorar los valores.",
-    "ilustre": "nietzsche"
+    "biografia": "nietzsche"
    },
    {
     "quien": "Kant",
     "elige": "B",
     "porque": "La dignidad es igual en todo ser racional; no hay «señores» ni «esclavos» ante la ley moral. Que la moral favorezca al débil no la refuta: la humanidad no es un torneo.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Marx",
@@ -497,7 +497,7 @@ const DILEMAS = [
     "quien": "Simone de Beauvoir",
     "elige": "B",
     "porque": "La moral de la ambigüedad: mi libertad solo es real si quiere la libertad de los otros; el «señor» nietzscheano que necesita esclavos no es libre, es dependiente de su dominio.",
-    "ilustre": "beauvoir"
+    "biografia": "beauvoir"
    }
   ],
   "debate": {
@@ -532,13 +532,13 @@ const DILEMAS = [
     "quien": "Hannah Arendt",
     "elige": "B",
     "porque": "Eichmann era culpable y debía morir; pero lo terrible era su normalidad: la incapacidad de pensar desde el punto de vista de otro. El mal radical no requiere maldad, solo dejar de juzgar. Y eso puede pasarle a cualquiera.",
-    "ilustre": "arendt"
+    "biografia": "arendt"
    },
    {
     "quien": "Kant",
     "elige": "A",
     "porque": "La autonomía moral es darse a uno mismo la ley; quien obedece una orden inmoral ha renunciado a su razón y sigue siendo responsable, porque nadie puede ser obligado a ser inmoral. Kant, ironía trágica, era el filósofo que Eichmann decía haber leído.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Sartre (existencialismo)",
@@ -549,7 +549,7 @@ const DILEMAS = [
     "quien": "Sócrates",
     "elige": "A",
     "porque": "Ya lo dijo ante los Treinta Tiranos, que le ordenaron detener a un inocente: se fue a casa. Es mejor sufrir la injusticia que cometerla, y una ley injusta no convierte en justo lo que manda.",
-    "ilustre": "socrates"
+    "biografia": "socrates"
    }
   ],
   "debate": {
@@ -584,7 +584,7 @@ const DILEMAS = [
     "quien": "Simone de Beauvoir",
     "elige": "B",
     "porque": "«No se nace mujer: se llega a serlo». La mujer ha sido construida como lo Otro; su libertad es real pero situada, y una situación de opresión estrecha las elecciones posibles. No se juzga a la persona: se cambia la situación.",
-    "ilustre": "beauvoir"
+    "biografia": "beauvoir"
    },
    {
     "quien": "Sartre",
@@ -595,7 +595,7 @@ const DILEMAS = [
     "quien": "Mill (liberalismo)",
     "elige": "A",
     "porque": "Sobre uno mismo, sobre su cuerpo y su mente, el individuo es soberano; la sociedad solo puede intervenir para evitar daño a otros. Aunque el propio Mill, en La sujeción de las mujeres, admite que una preferencia educada en la sumisión no es del todo una preferencia.",
-    "ilustre": "mill"
+    "biografia": "mill"
    },
    {
     "quien": "Marx",
@@ -635,7 +635,7 @@ const DILEMAS = [
     "quien": "Rawls (liberalismo igualitario)",
     "elige": "B",
     "porque": "Bajo el velo de ignorancia, un ser racional elige la estrategia maximin: que el peor lugar posible sea lo mejor posible. De ahí sus dos principios: libertades básicas para todos y desigualdades solo si favorecen a los peor situados. El Estado de bienestar tiene así una base moral: intervenir no es caridad, es justicia.",
-    "ilustre": "rawls"
+    "biografia": "rawls"
    },
    {
     "quien": "Nozick (libertarismo)",
