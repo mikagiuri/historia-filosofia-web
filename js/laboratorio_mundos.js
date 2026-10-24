@@ -1,11 +1,11 @@
 "use strict";
 /* ===== Rincón de lógica · Laboratorio · mesa «Spinoza» (en desarrollo, 21-10-2026): textos =====
-   Origen: el «Laboratorio spinozista» de la sesión programa ISABELLE (proyectos\spinoza_isabelle\laboratorio_web),
+   Origen: el «Laboratorio spinozista» de la sesión programa ISABELLE (proyectos\mundos_posibles\laboratorio_web),
    comprobado contra la teoría Spinoza_Etica_I.thy de Isabelle/HOL. Solo textos: pasan por la memoria de traducción
    (tm/<lang>.json: DATA_FILES de web_i18n/i18n_lib.js). Las fórmulas, las premisas que usó Isabelle y el motor
-   están en laboratorio_spinozaview.js. Claves con identificadores: id (KEY_BLACKLIST); las claves de «leccion» son
+   están en laboratorio_mundosview.js. Claves con identificadores: id (KEY_BLACKLIST); las claves de «leccion» son
    nombres de premisa y no se traducen. Las {llaves} son huecos que rellena la vista. */
-const LABSPZ = {
+const LABMP = {
   t: {
     enDesarrollo: "En desarrollo",
     avisoDesarrollo: "<strong>Mesa en desarrollo.</strong> Formaliza la Parte I de la <em>Ética</em> de Spinoza tal como se ha comprobado en el asistente de pruebas Isabelle/HOL. Puede cambiar y tener errores.",
@@ -75,6 +75,7 @@ const LABSPZ = {
     tEjemplo: "Un mundo de ejemplo",
     ejemploTxt: "En este mundo se cumplen todas tus premisas, y la afirmación también. No es casualidad: pasa en todos los mundos posibles que cumplen esas premisas, y eso es lo que quiere decir que se siga.",
     verIsabelle: "Ver la prueba en Isabelle",
+    altCaptura: "Captura de pantalla de Isabelle: {t}",
     gElige: "Elige una teoría", gNRetos: "{n} retos", gEmpieza: "para empezar",
     gQTiempo: "¿Quién crea algo tiene que haber empezado antes?", gQReloj: "¿Qué es empezar, durar y sobrevivir, con instantes?",
     gQSpinoza: "¿Puede haber más de una sustancia?", gQVias: "¿Qué prueban de verdad las cinco vías de Tomás?",
@@ -749,6 +750,18 @@ const LABSPZ = {
     parrafos: [
       "Isabelle/HOL es un programa de ordenador que comprueba demostraciones paso a paso: si acepta una prueba, no tiene fallos lógicos. Cada premisa de esta mesa es una definición en Isabelle, y cada afirmación que la mesa da por demostrada es un teorema con su prueba, que Isabelle ha aceptado sin ningún error.",
       "Aquí puedes ver esas pruebas tal como se escribieron. Junto a cada resultado de la mesa, el enlace «Ver la prueba en Isabelle» te lleva al teorema exacto.",
+    ],
+    tCapturas: "Así se ve Isabelle: ocho capturas",
+    introCapturas: "Capturas reales del programa (Isabelle2025-2) con las teorías de esta mesa. Pulsa una imagen para verla en grande.",
+    capturas: [
+      { f: "01_programa_abierto", t: "1. El programa abierto.", d: "A la izquierda, el editor, donde se escribe la teoría (aquí, la de Parménides). Abajo, el panel «Output», donde contesta Isabelle. A la derecha, la lista de teorías: el recuadro blanco quiere decir que todo está comprobado." },
+      { f: "02_definiciones", t: "2. Una premisa es una frase con nombre.", d: "«definition P_no_ser» da nombre a una frase: «toda cosa x existe en todo instante t». Más abajo, «P_salto_otro»: si x es distinta de y, x no existe. En la mesa, estas frases son las tarjetas de premisas." },
+      { f: "03_teorema_demostrado", t: "3. Un teorema demostrado.", d: "«theorem uno_mesa»: con las dos premisas («assumes»), todas las cosas son la misma («shows»). La prueba es la última línea («by blast»). Isabelle la acepta: en «Output» repite el teorema, sin ningún aviso." },
+      { f: "04_sin_la_premisa", t: "4. Sin una premisa, la prueba no sale.", d: "La misma prueba, pero sin «P_salto_otro». Isabelle marca la línea en rojo y avisa: «Failed to apply initial proof method» (no ha podido aplicar el método de prueba). Solo con «P_no_ser», la afirmación no se sigue." },
+      { f: "05_nitpick_contramodelo", t: "5. Nitpick busca un mundo en que falla.", d: "Nitpick hace lo mismo que la mesa: busca un mundo posible en que la premisa es verdad y la afirmación, falsa. Lo encuentra con 2 cosas y 1 instante: x = c₁ e y = c₂ son dos cosas distintas, y las dos existen. Es un contraejemplo: por eso la afirmación no se sigue." },
+      { f: "06_prueba_por_pasos", t: "6. Una prueba por pasos.", d: "La tesis de la cuarta antinomia («tesis4»), demostrada paso a paso, como en «Paso a paso» de la mesa: cada línea con «have» u «obtain» es un paso, con su justificación («by …»). Abajo, «Proof state» enseña lo que falta por demostrar." },
+      { f: "07_modelo_infinito", t: "7. Un modelo infinito.", d: "«modelo_antitesis3» usa los números enteros (int): cada número tiene una causa, el anterior (x = y + 1), y la serie no se acaba nunca hacia atrás. La mesa solo construye mundos pequeños; Isabelle también razona sobre mundos infinitos." },
+      { f: "08_cuenta_con_numeros", t: "8. Isabelle también sabe matemáticas.", d: "La dicotomía de Zenón: 1/2 + 1/4 + 1/8 + … = 1. En Isabelle se escribe «(λn. (1/2) ^ Suc n) sums 1» («Suc n» es n + 1) y se prueba con dos teoremas de su biblioteca sobre series: infinitas mitades suman una distancia finita." },
     ],
     pdf: "Descargar el cuaderno de Isabelle (PDF, 79 páginas)",
     tTeorias: "Las 15 teorías, con sus 298 resultados",
