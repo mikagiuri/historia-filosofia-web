@@ -66,7 +66,7 @@ const RESCRITURA_TEXTOS = [
         porque: "La primera frase es literal, y el resto, el original con pequeños cambios. Si una frase es famosa, se cita entre comillas; no se hace pasar por propia." },
       { tipo: "sinonimia", texto: "El ser humano ha venido al mundo libre y en todos los lugares se halla atado. Hay quien se considera dueño de los otros y no deja de ser más siervo que ellos. ¿Cómo ha sucedido esta transformación? Lo desconozco. ¿Qué puede volverla justa? Pienso poder solucionar este asunto.",
         porque: "Mismas frases, mismo orden, palabras cambiadas. Y «legítimo» no es lo mismo que «justo»: Rousseau pregunta qué da derecho a mandar." },
-      { tipo: "malinterpretacion", texto: "Rousseau explica cómo los hombres perdieron su libertad natural y propone romper las cadenas volviendo a vivir en la naturaleza, sin leyes ni gobierno.",
+      { tipo: "malinterpretacion", texto: "Rousseau explica cómo los seres humanos perdieron su libertad natural y propone romper las cadenas volviendo a vivir en la naturaleza, sin leyes ni gobierno.",
         porque: "Rousseau dice expresamente que no sabe cómo ocurrió el cambio, y no propone volver a la naturaleza, sino averiguar qué hace legítimo el orden social." }
     ] },
 
@@ -162,19 +162,19 @@ const RESCRITURA_TEXTOS = [
         porque: "Explica qué significa «examen» (preguntarse por la propia vida) y mantiene la fuerza de la afirmación, con otra construcción." },
       { tipo: "copia", texto: "Para Sócrates, una vida sin examen no merece ser vivida.",
         porque: "Añadir «para Sócrates» delante no basta: el resto es la frase original. Una frase tan conocida se cita entre comillas." },
-      { tipo: "sinonimia", texto: "Una existencia sin análisis no es digna de ser vivida por el hombre.",
+      { tipo: "sinonimia", texto: "Una existencia sin análisis no es digna de ser vivida por el ser humano.",
         porque: "La misma frase con sinónimos. Y «análisis» no es lo mismo que «examen»: Sócrates no habla de analizar datos, sino de revisar la propia vida dialogando." },
       { tipo: "malinterpretacion", texto: "Sócrates dice que solo merece la pena vivir si se aprueban los exámenes y se estudia mucho.",
         porque: "Confunde el examen socrático, que consiste en revisar las propias creencias y acciones, con los exámenes del instituto." }
     ] },
 
   { id: "protagoras", autor: "Protágoras", obra: "Citado por Platón en el <em>Teeteto</em>, 152a (siglo V a. C.)",
-    original: "El hombre es la medida de todas las cosas: de las que son, en cuanto que son, y de las que no son, en cuanto que no son.",
+    original: "El ser humano es la medida de todas las cosas: de las que son, en cuanto que son, y de las que no son, en cuanto que no son.",
     terminos: ["medida"],
     versiones: [
       { tipo: "rescritura", texto: "Según Protágoras, no hay ningún criterio por encima del ser humano para decidir qué existe y qué no: esa medida la ponemos nosotros.",
         porque: "Conserva la palabra clave, «medida», y explica a qué se aplica (a lo que existe y a lo que no) con una frase propia." },
-      { tipo: "copia", texto: "Protágoras dice que el hombre es la medida de todas las cosas, de las que son y de las que no son.",
+      { tipo: "copia", texto: "Protágoras dice que el ser humano es la medida de todas las cosas, de las que son y de las que no son.",
         porque: "Es la frase original con «Protágoras dice que» delante y un trozo menos." },
       { tipo: "sinonimia", texto: "El ser humano es el criterio de todos los objetos: de los que existen, en tanto que existen, y de los que no existen, en tanto que no existen.",
         porque: "La misma estructura, palabra por palabra. Y «objetos» no recoge lo que dice Protágoras: «todas las cosas» incluye también lo justo, lo bueno o lo verdadero." },

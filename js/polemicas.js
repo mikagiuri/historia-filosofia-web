@@ -270,7 +270,7 @@ const POLEMICAS = [
    "t": "Se mira la conciencia del que da [el bautismo], que es la que lava la del que lo recibe.",
    "ref": "Petiliano, carta citada por Agustín en Contra las cartas de Petiliano, I, 1, 2"
   },
-  "fuerte_a": "Si el bautismo dependiera de la conciencia del sacerdote, nadie podría estar seguro de estar bautizado, porque la conciencia ajena no se ve. La esperanza se pondría en un hombre y no en Dios.",
+  "fuerte_a": "Si el bautismo dependiera de la conciencia del sacerdote, nadie podría estar seguro de estar bautizado, porque la conciencia ajena no se ve. La esperanza se pondría en un ser humano y no en Dios.",
   "fuerte_b": "Una Iglesia que acoge como pastores a quienes traicionaron la fe para salvarse pierde su santidad. La pureza de los ministros es la garantía de que sigue siendo la Iglesia de los mártires.",
   "desenlace": "En la conferencia de Cartago (1, 3 y 8 de junio de 411), con 286 obispos católicos y unos 280 donatistas, el delegado imperial Marcelino falló a favor de los católicos, y una ley de Honorio de 412 castigó a los donatistas. Agustín, que al principio no quería obligar a nadie, acabó aceptando la presión de las leyes imperiales (carta 93, de 408), una postura que se ha discutido mucho después.",
   "trucos": "Petiliano acusó a Agustín de haber sido sacerdote maniqueo y de ser un «dialéctico», un artista del engaño; Agustín negó lo primero y defendió la dialéctica (Contra las cartas de Petiliano, III, 16-17).",
@@ -534,7 +534,7 @@ const POLEMICAS = [
   ],
   "pregunta": "¿Hay un solo intelecto para toda la humanidad? ¿Puede la razón demostrar lo contrario de lo que enseña la fe?",
   "contexto": "En París, la Facultad de Artes enseñaba a Aristóteles con los comentarios de Averroes, y la Facultad de Teología temía sus consecuencias. Siger de Brabante (hacia 1240-1284), maestro de Artes, defendía la lectura de Averroes; Tomás, teólogo dominico, también admiraba a Aristóteles, pero leído de otro modo. En 1270 Tomás escribió Sobre la unidad del intelecto contra los averroístas, y ese mismo año el obispo Tempier condenó trece tesis.",
-  "tesis_a": "Cada ser humano tiene su propio intelecto, que es parte de su alma: por eso es este hombre concreto el que piensa. Y lo leía en el mismo Aristóteles. La razón bien usada nunca contradice la fe.",
+  "tesis_a": "Cada ser humano tiene su propio intelecto, que es parte de su alma: por eso es este ser humano concreto el que piensa. Y lo leía en el mismo Aristóteles. La razón bien usada nunca contradice la fe.",
   "tesis_b": "Siguiendo a Averroes, el intelecto que conoce es uno y separado para toda la especie humana. Siger decía exponer lo que sostenían los filósofos con la razón natural, aunque, como cristiano, aceptara lo que manda la fe.",
   "cita_a": {
    "t": "Que no hable en los rincones ni ante muchachos que no saben juzgar cuestiones tan arduas, sino que escriba contra este escrito, si se atreve.",

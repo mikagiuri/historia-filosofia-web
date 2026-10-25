@@ -64,7 +64,7 @@ const DILEMAS = [
    {
     "quien": "Spinoza",
     "elige": "B",
-    "porque": "Con matices. El hombre libre nunca obra con engaño, ni siquiera para librarse de un peligro de muerte (Ética, IV, 72, escolio), y huir burlando las leyes de la propia ciudad se le parecería. Pero retirarse a tiempo exige tanta firmeza como luchar (IV, 69, corolario), y él, expulsado de su comunidad como Sócrates, se apartó con cautela para seguir pensando: ni mártir ni fugitivo.",
+    "porque": "Con matices. El ser humano libre nunca obra con engaño, ni siquiera para librarse de un peligro de muerte (Ética, IV, 72, escolio), y huir burlando las leyes de la propia ciudad se le parecería. Pero retirarse a tiempo exige tanta firmeza como luchar (IV, 69, corolario), y él, expulsado de su comunidad como Sócrates, se apartó con cautela para seguir pensando: ni mártir ni fugitivo.",
     "biografia": "spinoza"
    },
    {
@@ -376,13 +376,13 @@ const DILEMAS = [
    {
     "quien": "Hobbes",
     "elige": "A",
-    "porque": "En estado de naturaleza la vida es «solitaria, pobre, brutal y breve»; por miedo, los hombres ceden todo su derecho a un soberano absoluto. Dividir el poder es volver a la guerra.",
+    "porque": "En estado de naturaleza la vida es «solitaria, pobre, brutal y breve»; por miedo, los seres humanos ceden todo su derecho a un soberano absoluto. Dividir el poder es volver a la guerra.",
     "biografia": "hobbes"
    },
    {
     "quien": "Rousseau",
     "elige": "B",
-    "porque": "El hombre nace libre y bueno; el pacto legítimo no entrega la libertad sino que la transforma: cada uno obedece a la voluntad general de la que forma parte, y así obedece solo a sí mismo.",
+    "porque": "El ser humano nace libre y bueno; el pacto legítimo no entrega la libertad sino que la transforma: cada uno obedece a la voluntad general de la que forma parte, y así obedece solo a sí mismo.",
     "biografia": "rousseau"
    },
    {
@@ -393,7 +393,7 @@ const DILEMAS = [
    {
     "quien": "Maquiavelo",
     "elige": "A",
-    "porque": "Sin ilusiones: los hombres son ingratos y volubles, y es más seguro ser temido que amado. El fundador de un orden nuevo necesita las manos libres; después, si es prudente, podrá dar leyes."
+    "porque": "Sin ilusiones: los seres humanos son ingratos y volubles, y es más seguro ser temido que amado. El fundador de un orden nuevo necesita las manos libres; después, si es prudente, podrá dar leyes."
    }
   ],
   "debate": {
@@ -524,7 +524,7 @@ const DILEMAS = [
   "titulo": "Solo cumplía órdenes",
   "situacion": "Jerusalén, 1961. Adolf Eichmann, el funcionario que organizó los trenes hacia los campos de exterminio, se defiende: no odiaba a nadie, no mató a nadie con sus manos, cumplió las leyes de su Estado y las órdenes de sus superiores; desobedecer habría sido, en su mundo, lo inmoral. Hannah Arendt, que asiste al juicio, escribe que no era un monstruo sino un hombre que había dejado de pensar. Tú formas parte del jurado.",
   "a": "Culpable sin atenuantes: obedecer no exime; cada persona es responsable de lo que hace, y «cumplir órdenes» es la excusa de todos los verdugos.",
-  "b": "Culpable, pero el veredicto no basta: si un hombre normal pudo hacer esto solo por no pensar, el problema no es él sino un sistema que fabrica obedientes; juzgarlo a él es demasiado cómodo.",
+  "b": "Culpable, pero el veredicto no basta: si un ser humano normal pudo hacer esto solo por no pensar, el problema no es él sino un sistema que fabrica obedientes; juzgarlo a él es demasiado cómodo.",
   "pregunta": "¿Puede una persona ser responsable del mal que comete obedeciendo? ¿Es el mal una elección o una ausencia de pensamiento?",
   "enjuego": "La banalidad del mal, la responsabilidad individual dentro de un sistema, y la relación entre pensar y actuar bien.",
   "escuelas": [
@@ -563,7 +563,7 @@ const DILEMAS = [
    "Si el mal es no pensar, ¿es la filosofía una vacuna? ¿Y por qué había profesores de filosofía en el partido nazi?",
    "¿Hay órdenes que hoy cumples sin pensar (en el trabajo, en el grupo, en la red)? ¿Dónde pondrías el límite y cómo sabrías que lo has cruzado?"
   ],
-  "ysi": "¿Y si Eichmann hubiera desobedecido y lo hubieran fusilado, y los trenes hubieran salido igual con otro funcionario? Arendt responde que sí importa: no porque cambie el resultado, sino porque el mundo sería otro con un hombre menos que dijo sí.",
+  "ysi": "¿Y si Eichmann hubiera desobedecido y lo hubieran fusilado, y los trenes hubieran salido igual con otro funcionario? Arendt responde que sí importa: no porque cambie el resultado, sino porque el mundo sería otro con un ser humano menos que dijo sí.",
   "pau": "«¿Es responsable de sus actos quien obedece órdenes?» Argumenta en 200-300 palabras a partir de Arendt y de al menos otra posición (Kant, Sartre o Sócrates), con un ejemplo actual.",
   "dato": "Arendt fue duramente atacada por la comunidad judía por su libro: muchos leyeron «banalidad» como disculpa. Ella respondió que había descrito algo más aterrador que un monstruo: que el mal no necesita monstruos."
  },

@@ -83,7 +83,7 @@ const ADAGIOS = [
   sen:"Todo lo que llega a ser procede de algo. Los griegos lo daban por evidente; la idea cristiana de creación «de la nada» (ex nihilo) chocó con él.",
   uso:"Para los presocráticos o para el debate entre fe y razón sobre la creación del mundo.",
   amb:"realidad", e:"ant", t:["hf-preso", "hf-fe-razon", "fil-presocraticos"] },
-{ id:"mensura", img:"media/galeria_museo/adagios/mensura.jpg", pie:"Demócrito y Protágoras, de Salvator Rosa (hacia 1663-1664)", la:"Homo mensura", gr:"Πάντων χρημάτων μέτρον ἄνθρωπος", tr:"pánton khremáton métron ánthropos", es:"El hombre es la medida de todas las cosas.",
+{ id:"mensura", img:"media/galeria_museo/adagios/mensura.jpg", pie:"Demócrito y Protágoras, de Salvator Rosa (hacia 1663-1664)", la:"Homo mensura", gr:"Πάντων χρημάτων μέτρον ἄνθρωπος", tr:"pánton khremáton métron ánthropos", es:"El ser humano es la medida de todas las cosas.",
   o:"Protágoras, citado por Platón, Teeteto 152a",
   sen:"Las cosas son para cada uno tal como le aparecen: no hay una verdad que esté por encima de todos los puntos de vista.",
   uso:"Para los sofistas y el relativismo.",

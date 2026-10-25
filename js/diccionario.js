@@ -1029,7 +1029,7 @@ const DICCIONARIO = [
   "bloque": "B",
   "unidad": "B3",
   "tema": "Renacimiento y ciencia",
-  "def": "La dignidad del hombre: el humanismo renacentista (Pico della Mirandola) defendió que el ser humano no tiene una naturaleza fija, que es un ser capaz de construirse a sí mismo en libertad.",
+  "def": "La dignidad del ser humano: el humanismo renacentista (Pico della Mirandola) defendió que el ser humano no tiene una naturaleza fija, que es un ser capaz de construirse a sí mismo en libertad.",
   "biografia": [
    "pico"
   ]
@@ -4566,7 +4566,7 @@ const DICCIONARIO = [
   "bloque": "A",
   "unidad": "A5",
   "tema": "Sofistas, Aspasia y Sócrates",
-  "def": "La postura según la cual la verdad y los valores dependen del sujeto: la percepción y el interés propios son la medida. Es una forma de relativismo aplicada al individuo (Protágoras: «el hombre es la medida de todas las cosas»).",
+  "def": "La postura según la cual la verdad y los valores dependen del sujeto: la percepción y el interés propios son la medida. Es una forma de relativismo aplicada al individuo (Protágoras: «el ser humano es la medida de todas las cosas»).",
   "biografia": [
    "protagoras"
   ]
@@ -4595,7 +4595,7 @@ const DICCIONARIO = [
   "bloque": "C",
   "unidad": "CN",
   "tema": "Nietzsche",
-  "def": "Es la fuerza vital creadora capaz de crear valores nuevos. No es una caricatura política, sino la imagen de la superación del hombre.",
+  "def": "Es la fuerza vital creadora capaz de crear valores nuevos. No es una caricatura política, sino la imagen de la superación del ser humano.",
   "biografia": [
    "nietzsche"
   ]

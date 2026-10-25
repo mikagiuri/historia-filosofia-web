@@ -277,7 +277,7 @@ const REP_MAZO_B = {
   // (21-10) banco de diálogos de la Versión B ampliado: ciudad de cerdos, perro guardián, mujeres guardianas, Leoncio y Asclepio; citas cotejadas con el griego
   dialogos: [
     { id:"b_dlg_cerdos", emoji:"🐖", quien:"Glaucón", loc:"República II, 372a-e",
-      situacion:"Sócrates describe la primera ciudad: pan de cebada, vino, queso, aceitunas, coronas de mirto y una vida en paz hasta la vejez. Glaucón le interrumpe: eso no es una ciudad de hombres.",
+      situacion:"Sócrates describe la primera ciudad: pan de cebada, vino, queso, aceitunas, coronas de mirto y una vida en paz hasta la vejez. Glaucón le interrumpe: eso no es una ciudad de seres humanos.",
       cita:"«Y si estuvieras fundando una ciudad de cerdos, Sócrates, ¿con qué otra cosa los cebarías?»",
       griego:"ὑῶν πόλις (*hyôn pólis*): «ciudad de cerdos». Glaucón pide lo que «es costumbre»: lechos, mesas, condumios y postres (372d-e).",
       pregunta:"¿Qué ciudad fundas?",

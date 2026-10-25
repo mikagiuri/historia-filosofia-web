@@ -11,7 +11,7 @@ const GEN_TESIS = {
  tesis: [
   { id: "her-flujo", biografia: "heraclito", t: "Todo fluye: no es posible bañarse dos veces en el mismo río.", ref: "Fragmento DK 22 B 91 (Plutarco); «todo fluye» (panta rhei) es la fórmula con que la tradición lo resume", forma: "fórmula tradicional" },
   { id: "par-ser", biografia: "parmenides", t: "El ser es y el no ser no es: el cambio y la multiplicidad son apariencia.", ref: "Poema, fragmentos DK 28 B 2 y B 8", forma: "paráfrasis" },
-  { id: "pro-medida", biografia: "protagoras", t: "El hombre es la medida de todas las cosas.", ref: "Fragmento DK 80 B 1, citado por Platón, Teeteto 152a", forma: "literal" },
+  { id: "pro-medida", biografia: "protagoras", t: "El ser humano es la medida de todas las cosas.", ref: "Fragmento DK 80 B 1, citado por Platón, Teeteto 152a", forma: "literal" },
   { id: "soc-examen", biografia: "socrates", t: "Una vida sin examen no merece ser vivida.", ref: "Platón, Apología de Sócrates 38a", forma: "literal" },
   { id: "soc-virtud", biografia: "socrates", t: "Nadie obra mal a sabiendas: la virtud es conocimiento.", ref: "Platón, Protágoras 345d-e y 358c-d (intelectualismo moral)", forma: "paráfrasis" },
   { id: "pla-ideas", biografia: "platon", t: "Las Ideas, eternas e inmutables, son la verdadera realidad; lo sensible es solo su copia.", ref: "República VII 514a-517c (la caverna); Fedón 74a-75d", forma: "paráfrasis" },
@@ -74,7 +74,7 @@ const GEN_TESIS = {
   { k: "ock-navaja|pla-ideas", tipo: "desacuerdo", por: "La navaja de Ockham sirve para afeitar entidades innecesarias, y un mundo de Ideas separado es el ejemplo clásico de lo que sobra." },
   { k: "tom-vias|nie-dios", tipo: "desacuerdo", por: "Para Tomás, Dios es la causa primera que la razón alcanza; para Nietzsche, la cultura europea ya no puede apoyarse en Dios, y eso cambia todos los valores." },
   { k: "ari-polis|hob-guerra", tipo: "desacuerdo", por: "Hobbes rechaza que seamos sociables por naturaleza: nos unimos por miedo y por interés, mediante un pacto, y no por una inclinación natural a la polis." },
-  { k: "hob-guerra|rou-bueno", tipo: "desacuerdo", por: "Rousseau acusa a Hobbes de atribuir al hombre natural los vicios que en realidad produce la sociedad." },
+  { k: "hob-guerra|rou-bueno", tipo: "desacuerdo", por: "Rousseau acusa a Hobbes de atribuir al ser humano natural los vicios que en realidad produce la sociedad." },
   { k: "hob-guerra|loc-resistir", tipo: "desacuerdo", por: "Para Hobbes el soberano debe tener un poder absoluto para evitar la guerra; para Locke el poder es limitado y, si traiciona su fin, el pueblo puede resistirle." },
   { k: "soc-virtud|hum-esclava", tipo: "desacuerdo", por: "Para Sócrates saber el bien basta para hacerlo; para Hume la razón sola nunca mueve a actuar: son las pasiones las que deciden." },
   { k: "hum-esclava|kan-ley", tipo: "desacuerdo", por: "Kant defiende una razón práctica que, por sí sola, puede determinar la voluntad mediante una ley moral; para Hume eso es imposible." },

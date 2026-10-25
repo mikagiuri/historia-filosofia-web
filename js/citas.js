@@ -154,7 +154,7 @@ const CITAS = [
   "trampa": "No es una cita literal: resume varios pasajes de la República sobre la analogía del sol, donde la Idea de Bien aparece como «hijo» o vástago que el Bien engendra semejante a sí."
  },
  {
-  "c": "El hombre es la medida de todas las cosas: de las que son, que son; de las que no son, que no son.",
+  "c": "El ser humano es la medida de todas las cosas: de las que son, que son; de las que no son, que no son.",
   "a": "Protágoras",
   "o": "fragmento DK 80 B1 (citado por Platón, Teeteto 152a)",
   "e": "antigua",
@@ -307,7 +307,7 @@ const CITAS = [
   "e": "moderna",
   "id": "diderot",
   "img": "media/retratos/museo2/diderot.jpg",
-  "sen": "La Enciclopedia quería recoger todo el saber de su tiempo y ponerlo al alcance del público, para transmitirlo y hacer a los hombres más ilustrados y felices.",
+  "sen": "La Enciclopedia quería recoger todo el saber de su tiempo y ponerlo al alcance del público, para transmitirlo y hacer a los seres humanos más ilustrados y felices.",
   "uso": "Para presentar la Ilustración francesa y la Enciclopedia, o en debates sobre la difusión del conocimiento."
  },
  {
@@ -491,7 +491,7 @@ const CITAS = [
   "e": "moderna",
   "id": "maquiavelo",
   "img": "media/retratos/museo2/maquiavelo.jpg",
-  "sen": "Maquiavelo separa la política de la moral: quien gobierne debe atender a cómo actúan realmente los hombres, no a repúblicas ideales, si quiere mantener el poder.",
+  "sen": "Maquiavelo separa la política de la moral: quien gobierne debe atender a cómo actúan realmente los seres humanos, no a repúblicas ideales, si quiere mantener el poder.",
   "uso": "Para explicar el realismo político de Maquiavelo y el paso a la política moderna, o en debates sobre ética y política."
  },
  {
@@ -693,7 +693,7 @@ const CITAS = [
   "id": "darwin",
   "img": "media/retratos/museo/darwin.jpg",
   "sen": "Con todas sus capacidades, el ser humano procede de formas de vida anteriores; su cuerpo conserva las huellas de esa ascendencia animal.",
-  "uso": "Para explicar la teoría de la evolución y su impacto en la idea de ser humano, o en una disertación sobre el lugar del hombre en la naturaleza."
+  "uso": "Para explicar la teoría de la evolución y su impacto en la idea de ser humano, o en una disertación sobre el lugar del ser humano en la naturaleza."
  },
  {
   "c": "No hay nada fuera del texto.",
@@ -973,7 +973,7 @@ const CITAS = [
   "e": "contemporanea",
   "id": "unamuno",
   "img": "media/retratos/museo2/unamuno.jpg",
-  "sen": "Para Unamuno, la filosofía no debe ocuparse de un hombre abstracto, sino del individuo real que nace, sufre y muere. Lo que mueve a pensar es el anhelo de no morir del todo.",
+  "sen": "Para Unamuno, la filosofía no debe ocuparse de un ser humano abstracto, sino del individuo real que nace, sufre y muere. Lo que mueve a pensar es el anhelo de no morir del todo.",
   "uso": "Para presentar el pensamiento de Unamuno y el sentimiento trágico de la vida, o en una disertación sobre razón y fe ante la muerte."
  },
  {
@@ -1180,7 +1180,7 @@ const CITAS = [
   "uso": "Para explicar la virtud como hábito en la ética de Aristóteles, o en debates sobre la educación moral."
  },
  {
-  "c": "Puede ocurrir que los muchos, aunque ninguno de ellos sea por separado un hombre excelente, al juntarse resulten mejores que aquellos pocos, no uno a uno, sino todos en conjunto, igual que los banquetes a escote superan a los costeados por uno solo.",
+  "c": "Puede ocurrir que los muchos, aunque ninguno de ellos sea por separado un ser humano excelente, al juntarse resulten mejores que aquellos pocos, no uno a uno, sino todos en conjunto, igual que los banquetes a escote superan a los costeados por uno solo.",
   "a": "Aristóteles",
   "o": "Política, III, 11, 1281a42-b3, trad. propia",
   "e": "antigua",
@@ -1240,7 +1240,7 @@ const CITAS = [
   "uso": "Para explicar la crítica de Platón a la escritura en el Fedro, o en debates sobre la memoria, la lectura y las nuevas tecnologías."
  },
  {
-  "c": "La guerra es padre de todo y de todo es rey; a unos los ha revelado como dioses y a otros como hombres; a unos los ha hecho esclavos y a otros libres.",
+  "c": "La guerra es padre de todo y de todo es rey; a unos los ha revelado como dioses y a otros como seres humanos; a unos los ha hecho esclavos y a otros libres.",
   "a": "Heráclito",
   "o": "fragmento DK 22 B53, trad. propia",
   "e": "antigua",
@@ -1355,7 +1355,7 @@ const CITAS = [
   "e": "moderna",
   "id": "hobbes",
   "img": "media/retratos/museo2/hobbes.jpg",
-  "sen": "Para Hobbes, sin un poder común que imponga orden, los hombres viven en guerra de todos contra todos, y la vida es miserable y peligrosa. Así describe el estado de naturaleza.",
+  "sen": "Para Hobbes, sin un poder común que imponga orden, los seres humanos viven en guerra de todos contra todos, y la vida es miserable y peligrosa. Así describe el estado de naturaleza.",
   "uso": "Para explicar el estado de naturaleza en Hobbes y por qué hace falta un pacto, o al compararlo con Locke y Rousseau.",
   "trampa": "Se suele pensar que Hobbes describe una época histórica; en realidad es sobre todo una hipótesis de lo que pasaría sin Estado."
  },
@@ -1406,7 +1406,7 @@ const CITAS = [
   "e": "moderna",
   "id": "maquiavelo",
   "img": "media/retratos/museo2/maquiavelo.jpg",
-  "sen": "Para Maquiavelo, el gobernante debe partir de cómo son los hombres, no de cómo deberían ser: como el amor es inestable, el temor da un control más seguro, aunque sin llegar a ser odiado.",
+  "sen": "Para Maquiavelo, el gobernante debe partir de cómo son los seres humanos, no de cómo deberían ser: como el amor es inestable, el temor da un control más seguro, aunque sin llegar a ser odiado.",
   "uso": "Para explicar el realismo político de Maquiavelo y la separación entre política y moral, o en debates sobre el poder.",
   "trampa": "Se le atribuye a Maquiavelo «el fin justifica los medios», pero esa frase no aparece en El príncipe."
  },

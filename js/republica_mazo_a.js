@@ -281,11 +281,11 @@ const REP_MAZO_A = {
       loc:"República IV, 441c-442d; IX, 580d-581a" },
     { id:"alma_thymos", name:"El alma timocrática (gobierna el ánimo)",
       lema:"Ama el honor y el poder más que el saber.",
-      txt:"El hombre timocrático entrega el mando dentro de sí al elemento irascible y amante de la victoria. *Thymós* es la parte irascible o animosa; su exceso es la ambición (*philotimía*).",
+      txt:"El ser humano timocrático entrega el mando dentro de sí al elemento irascible y amante de la victoria. *Thymós* es la parte irascible o animosa; su exceso es la ambición (*philotimía*).",
       loc:"República VIII, 548d-550b" },
     { id:"alma_epithymia_nec", name:"El alma oligárquica (gobierna el apetito necesario)",
       lema:"Ahorra, teme gastar y deja sin satisfacer todo deseo que no dé beneficio.",
-      txt:"El hombre oligárquico pone en el trono al elemento apetitivo y amante del dinero. *Epithymía* es la parte apetitiva; aquí domina su forma «necesaria», la del dinero.",
+      txt:"El ser humano oligárquico pone en el trono al elemento apetitivo y amante del dinero. *Epithymía* es la parte apetitiva; aquí domina su forma «necesaria», la del dinero.",
       loc:"República VIII, 553a-554e" },
     { id:"alma_epithymia_libre", name:"El alma democrática (gobiernan los apetitos iguales)",
       lema:"Llama a la desvergüenza valentía, y a la anarquía, libertad.",
@@ -293,7 +293,7 @@ const REP_MAZO_A = {
       loc:"República VIII, 561a-561e" },
     { id:"alma_eros_tirano", name:"El alma tiránica (gobierna el deseo con aguijón: Eros)",
       lema:"El que todo lo puede fuera es el más esclavo dentro.",
-      txt:"En el alma del tirano un deseo rector gobierna, como un aguijón, a los demás; es realmente esclavo aunque mande, lleno de miedo, sin amigos, incapaz de hacer lo que quiere: el más infeliz de los hombres. Se expone el argumento de Platón, no un juicio sobre ningún régimen real.",
+      txt:"En el alma del tirano un deseo rector gobierna, como un aguijón, a los demás; es realmente esclavo aunque mande, lleno de miedo, sin amigos, incapaz de hacer lo que quiere: el más infeliz de los seres humanos. Se expone el argumento de Platón, no un juicio sobre ningún régimen real.",
       loc:"República IX, 571a-580a" }
   ],
 

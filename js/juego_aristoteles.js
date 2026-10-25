@@ -47,7 +47,7 @@ const JUEGO_ARIS = {
       virtud:"Maestro de retórica", virtudT:"Cobra caro por enseñar: todo lo que hace a la vista de todos le da dinero.",
       debilidad:"Agnóstico", debilidadT:"Lo que dice de los dioses escandaliza: cada verdad incómoda le gana más enemigos.",
       mods:{ publico:{ hac:1 }, verdad:{ ene:1 } },
-      perfil:"El sofista más famoso y mejor pagado de Grecia; amigo de Pericles y sospechoso para los devotos.", frase:"El hombre es la medida de todas las cosas.",
+      perfil:"El sofista más famoso y mejor pagado de Grecia; amigo de Pericles y sospechoso para los devotos.", frase:"El ser humano es la medida de todas las cosas.",
       destino:"Pericles le encargó las leyes de la colonia de Turios. Según la tradición, lo acusaron de impiedad por su libro Sobre los dioses, quemaron sus libros en el ágora y murió en un naufragio al huir de Atenas." },
     { id:"diogenes", name:"Diógenes", orient:"Contemplativa", sal:8, hac:2, car:7, rep:4, ene:2, phr:6, sinImg:true, noRuina:true,
       virtud:"Autarquía", virtudT:"No necesita casi nada: quedarse sin dinero no lo elimina, y lo pierde a la mitad que los demás.",

@@ -282,7 +282,7 @@ const DECKS = {
    [
     "📏",
     "Protágoras",
-    "«El hombre es la medida de todas las cosas»: relativismo. No hay una verdad ni una justicia únicas; dependen del ser humano."
+    "«El ser humano es la medida de todas las cosas»: relativismo. No hay una verdad ni una justicia únicas; dependen del ser humano."
    ],
    [
     "🌀",
@@ -374,7 +374,7 @@ const DECKS = {
    ],
    [
     "🏛️",
-    "«El hombre es la medida de todas las cosas: de las que son, que son; de las que no son, que no son.»",
+    "«El ser humano es la medida de todas las cosas: de las que son, que son; de las que no son, que no son.»",
     "Protágoras — El hombre como medida (DK B1)"
    ],
    [
@@ -4406,7 +4406,7 @@ const QUIZZES = {
      "Prohibir el debate público."
     ],
     "a": 1,
-    "fb": "El lenguaje de los derechos abre el problema de a quién incluye de verdad el «hombre», pues mujeres, esclavos y colonizados quedaban fuera."
+    "fb": "El lenguaje de los derechos abre el problema de a quién incluye de verdad el «ser humano», pues mujeres, esclavos y colonizados quedaban fuera."
    },
    {
     "q": "¿Qué hace la crítica de Olympe de Gouges?",
@@ -8554,11 +8554,11 @@ const QUIZZES = {
     "o": [
      "Un dios ordenador, imitando un modelo eterno.",
      "Nadie: siempre fue, es y será, un fuego siempre vivo.",
-     "Los hombres, al darle nombre con el lenguaje.",
+     "Los seres humanos, al darle nombre con el lenguaje.",
      "El Amor y el Odio, uniendo y separando las raíces."
     ],
     "a": 1,
-    "fb": "El cosmos no ha sido creado por dioses ni hombres: es eterno y autosuficiente, un fuego que se enciende y se apaga según una medida."
+    "fb": "El cosmos no ha sido creado por dioses ni seres humanos: es eterno y autosuficiente, un fuego que se enciende y se apaga según una medida."
    },
    {
     "q": "¿Qué significa que el fuego de Heráclito se encienda y se apague «según una medida»?",
@@ -9543,7 +9543,7 @@ const QUIZZES = {
     "o": [
      "Porque es la materia de la que el alma es forma, y sin él no podría existir.",
      "Porque la distrae con deseos, temores y enfermedades, y le impide llegar a la verdad.",
-     "Porque fue creado por los dioses como castigo por la culpa de los primeros hombres.",
+     "Porque fue creado por los dioses como castigo por la culpa de los primeros seres humanos.",
      "Porque obliga al alma a obedecer las leyes de la ciudad en lugar de a la razón."
     ],
     "a": 1,
@@ -13937,7 +13937,7 @@ const QUIZZES = {
    {
     "q": "Las tres preguntas de Kant (¿qué puedo conocer?, ¿qué debo hacer?, ¿qué puedo esperar?) se resumen, según él, en una sola. ¿Cuál?",
     "o": [
-     "¿Qué es el hombre?",
+     "¿Qué es el ser humano?",
      "¿Qué es el ser?",
      "¿Qué es la felicidad?",
      "¿Qué es la verdad?"
@@ -14306,7 +14306,7 @@ const QUIZZES = {
      "¿Qué es el ser?"
     ],
     "a": 3,
-    "fb": "Las tres preguntas kantianas son qué puedo conocer, qué debo hacer y qué puedo esperar, resumidas en qué es el hombre."
+    "fb": "Las tres preguntas kantianas son qué puedo conocer, qué debo hacer y qué puedo esperar, resumidas en qué es el ser humano."
    }
   ]
  },
@@ -16322,10 +16322,10 @@ const QUIZZES = {
    {
     "q": "¿Qué relación establece Sartre entre su ateísmo y la libertad humana?",
     "o": [
-     "Dios concede la libertad para que el hombre se salve.",
+     "Dios concede la libertad para que el ser humano se salve.",
      "Sin un Dios que dicte normas, cada uno se hace.",
      "Sin Dios, todo queda sometido a las leyes naturales.",
-     "El ateísmo libera al hombre de toda responsabilidad."
+     "El ateísmo libera al ser humano de toda responsabilidad."
     ],
     "a": 1,
     "fb": "El humanismo ateo de Sartre parte de que no hay un Dios que dicte normas; por eso somos totalmente responsables de lo que somos."
@@ -16346,11 +16346,11 @@ const QUIZZES = {
     "o": [
      "Que el amor a Dios es la prueba de que Dios existe.",
      "Que la razón demuestra que el alma es inmortal.",
-     "Que el sentir define al hombre más que el pensar.",
+     "Que el sentir define al ser humano más que el pensar.",
      "Que solo existe aquello que alguien percibe."
     ],
     "a": 2,
-    "fb": "Unamuno opone su fórmula al «pienso, luego existo»: lo que define al hombre de carne y hueso es el sentir, no el razonar abstracto."
+    "fb": "Unamuno opone su fórmula al «pienso, luego existo»: lo que define al ser humano de carne y hueso es el sentir, no el razonar abstracto."
    },
    {
     "q": "¿Por qué propone Ortega una «razón vital»?",
@@ -16391,7 +16391,7 @@ const QUIZZES = {
      "Sostiene que la vida no tiene un fin prefijado.",
      "Afirma que la historia camina hacia su decadencia.",
      "Niega que el ser humano pueda conocer algo cierto.",
-     "Considera que el hombre es malo por naturaleza."
+     "Considera que el ser humano es malo por naturaleza."
     ],
     "a": 0,
     "fb": "El pesimismo existencialista consiste en que la vida carece de un propósito dado de antemano (la «náusea» de Sartre, la «nada» de Heidegger)."

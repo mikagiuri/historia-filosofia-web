@@ -2649,7 +2649,7 @@ const PISTAS = [
     "pistas": [
      "Recuerda: en Spinoza todo se sigue de la naturaleza de Dios con <strong>necesidad</strong>, como las propiedades de un triángulo se siguen de su definición.",
      "Un triángulo no tiene sus ángulos «para» nada. Pregúntate si la Naturaleza, que es Dios, necesita fines.",
-     "En el apéndice de la parte I, Spinoza dice que los hombres suponen que las cosas naturales obran, como ellos, <strong>por un fin</strong>: es un prejuicio nacido de que ignoramos las causas.",
+     "En el apéndice de la parte I, Spinoza dice que los seres humanos suponen que las cosas naturales obran, como ellos, <strong>por un fin</strong>: es un prejuicio nacido de que ignoramos las causas.",
      "Por eso conocer a Dios no es adivinar sus planes: es <strong>comprender el orden necesario</strong> de la Naturaleza. Ahí se separa de los estoicos, que creían en una providencia buena."
     ],
     "comprobacion": {
@@ -4990,7 +4990,7 @@ const PISTAS = [
     "etiqueta": "Pregunta inicial",
     "pregunta": "¿Qué quiere decir Nietzsche cuando se llama «el primer inmoralista»?",
     "repaso": [
-     "¿He dicho que «inmoralista» encierra dos negaciones: la del tipo de hombre «bueno» y la de la moral cristiana?",
+     "¿He dicho que «inmoralista» encierra dos negaciones: la del tipo de ser humano «bueno» y la de la moral cristiana?",
      "¿He explicado que llama a esa moral «moral de la <em>décadence</em>», signo de debilidad y de una vida que decae?",
      "¿He dicho que negar no es su última palabra: niega para poder decir sí a la vida?"
     ],
@@ -5000,14 +5000,14 @@ const PISTAS = [
     "pistas": [
      "Para aterrizar: un <strong>inmoralista</strong> no es quien defiende el crimen, sino quien niega que la moral recibida valga en sí misma.",
      "En el §4 Nietzsche dice que la palabra encierra <strong>dos negaciones</strong>. Busca a quién se refiere cada una: a un tipo de persona y a un tipo de moral.",
-     "Niega el tipo de hombre tenido por supremo, <strong>los buenos</strong>, los benévolos; y niega la moral que se ha impuesto como «moral en sí»: la <strong>moral cristiana</strong>, que llama moral de la <em>décadence</em>.",
+     "Niega el tipo de ser humano tenido por supremo, <strong>los buenos</strong>, los benévolos; y niega la moral que se ha impuesto como «moral en sí»: la <strong>moral cristiana</strong>, que llama moral de la <em>décadence</em>.",
      "Pero no es solo un «no»: se presenta como la antítesis de un espíritu que dice no. <strong>Negar y aniquilar son condiciones del decir sí</strong> a la vida."
     ],
     "comprobacion": {
      "pregunta": "¿Qué niega Nietzsche al llamarse «inmoralista»?",
      "opciones": [
       [
-       "El tipo de hombre «bueno» y la moral cristiana, a la que considera moral de la decadencia.",
+       "El tipo de ser humano «bueno» y la moral cristiana, a la que considera moral de la decadencia.",
        true
       ],
       [
@@ -5027,7 +5027,7 @@ const PISTAS = [
        "No: lo que critica es el modo en que la moral ha repartido «bueno» y «malo»."
       ]
      ],
-     "ok": "Bien: dos negaciones, el hombre «bueno» y la moral de la <em>décadence</em>.",
+     "ok": "Bien: dos negaciones, el ser humano «bueno» y la moral de la <em>décadence</em>.",
      "mal": "Todavía no."
     },
     "rescate": [
@@ -5084,7 +5084,7 @@ const PISTAS = [
        "g-genealogia-de-la-moral"
       ],
       "definicion": [
-       "<strong>Primera negación</strong> → el tipo de hombre considerado supremo: «los buenos», los benévolos. Su condición de existencia, dice, es no querer ver cómo es la realidad (§4).",
+       "<strong>Primera negación</strong> → el tipo de ser humano considerado supremo: «los buenos», los benévolos. Su condición de existencia, dice, es no querer ver cómo es la realidad (§4).",
        "<strong>Segunda negación</strong>, la decisiva → la moral cristiana, moral de la <em>décadence</em>: una moral de la renuncia a sí mismo que delata una voluntad de final (§4 y §7).",
        "<strong>Pero no es un «no» sin más</strong> → negar y aniquilar son condiciones para decir sí a la vida. Por eso se llama a sí mismo «alegre mensajero» (§1)."
       ],
@@ -5100,7 +5100,7 @@ const PISTAS = [
         [
          "La de las personas concretas que son amables.",
          false,
-         "No ataca a personas concretas, sino a un tipo de hombre que la moral ha puesto como modelo."
+         "No ataca a personas concretas, sino a un tipo de ser humano que la moral ha puesto como modelo."
         ],
         [
          "La de la ciencia y el conocimiento.",
@@ -5217,7 +5217,7 @@ const PISTAS = [
   "cierre": {
    "titulo": "Ya puedes explicar «Por qué soy un destino»",
    "parrafos": [
-    "Nietzsche se llama «el primer inmoralista»: niega el tipo de hombre «bueno» y la moral cristiana, a la que considera moral de la <em>décadence</em>, hostil a la vida. Su fórmula es la transvaloración de todos los valores: crear valores que digan sí a la vida, resumidos en «Dioniso contra el Crucificado».",
+    "Nietzsche se llama «el primer inmoralista»: niega el tipo de ser humano «bueno» y la moral cristiana, a la que considera moral de la <em>décadence</em>, hostil a la vida. Su fórmula es la transvaloración de todos los valores: crear valores que digan sí a la vida, resumidos en «Dioniso contra el Crucificado».",
     "Para la PAU: en el resumen, recoge las dos negaciones del §4; en la opción A o B, relaciónalas con la muerte de Dios y el nihilismo."
    ]
   }
