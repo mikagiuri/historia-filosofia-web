@@ -1,9 +1,10 @@
-/* ===== Guía «Cómo usar la web» (13-10-2026; menú al día el 21-10-2026: Étimos, Lógica como pestaña propia, Adagios|Frases; 22-10: Pilares en Estudiar, Lógica fuera del menú de HF, Épocas fuera del de 1.º, Taller de Hegel en Talleres de HF; 25-10: Esquemas en Estudiar, Pilares y Étimos en Historia, Prepara PAU con índice de 6 grupos, diccionario dentro del texto, portada de 1.º por bloques) =====
+/* ===== Guía «Cómo usar la web» (13-10-2026; menú al día el 21-10-2026: Étimos, Lógica como pestaña propia, Adagios|Frases; 22-10: Pilares en Estudiar, Lógica fuera del menú de HF, Épocas fuera del de 1.º, Taller de Hegel en Talleres de HF; 25-10: Esquemas en Estudiar, Pilares y Étimos en Historia, Prepara PAU con índice de 6 grupos, diccionario dentro del texto, portada de 1.º por bloques; 01-11: portada de HF con bloques plegables por época (v292) y Tema 2 de 1.º reordenado (v293) en la captura 01; cada curso con su guía y su PDF, sin mencionar el otro curso) =====
    Contenido de la sección #guia (la pinta guiaview.js): la versión web del tutorial en PDF para el alumnado
-   (lab_iesmdb\proyectos\tutorial_web_alumnado). Una sola lista de bloques para las dos materias de Bachillerato; los
+   (lab_iesmdb\1_vivo\proyectos\tutorial_web_alumnado: tutorial_aula_de_filosofia_hf.typ y _fil.typ, uno por curso). Una sola lista de bloques para las dos materias de Bachillerato; los
    que solo valen para una llevan `solo: "hf"` o `solo: "fil"`. Las capturas están en media/guia/<materia>/ (y en
    media/guia/<materia>/eu/ las de la web en euskera, desde el 19-10), en MODO NOCHE; las rehace
-   lab_iesmdb\proyectos\tutorial_web_alumnado\scripts\capturas_web_noche.js + png_a_webp.py. Si cambia el menú, hay que rehacerlas.
+   lab_iesmdb\1_vivo\proyectos\tutorial_web_alumnado\scripts\capturas_web_noche.js + png_a_webp.py (la 01, con un bloque
+   abierto, la hace capturas_web_noche_v2.js con el modo «01», desde el 01-11). Si cambia el menú, hay que rehacerlas.
    Tipos de bloque (campo `type`, que no se traduce): h (apartado), p (párrafo), img (captura: src, cap y w = "menu" | "movil"), list (filas con
    nombre, texto y la vista que abre), tip (consejo), warn (aviso), steps (pasos numerados).
    Traducción: es un fichero de datos más (web_i18n/i18n_lib.js DATA_FILES) → memoria tm/<lengua>.json. */
@@ -19,7 +20,7 @@ const GUIA = {
     materia_hf: "Historia de la Filosofía",
     materia_fil: "Filosofía 1.º"
   },
-  pdf: {},
+  pdf: {},   // un PDF por curso (01-11-2026)
   bloques: [
     { type: "h", x: "Antes de empezar" },
     { type: "p", x: "La web reúne en un solo sitio todo lo que trabajamos en clase: la teoría de cada tema, resúmenes, tarjetas de repaso, cuestionarios, ejercicios, juegos y todo lo necesario para los exámenes." },
@@ -31,10 +32,10 @@ const GUIA = {
 
     { type: "h", x: "La pantalla principal" },
     { type: "p", x: "Al abrir la web llegas a la <strong>página de la materia</strong>: el título, una breve presentación y la <strong>lista de temas</strong>. Pulsa un tema para abrir su teoría. Desde cualquier sitio vuelves aquí con <strong>Estudiar › Teoría</strong> o pulsando «Aula de Filosofía», arriba a la izquierda." },
-    { type: "img", src: "01_ficha.webp", cap: "La página de la materia: arriba, el menú; debajo, la lista de temas." },
-    { type: "p", x: "Los temas están agrupados por <strong>épocas</strong> (Antigua, Medieval, Moderna, Ilustración y Contemporánea), cada una con su color, y la lista empieza por el Tema 3. Los temas 1 y 2, de introducción a la materia, están al final. El color de cada época te acompaña por toda la web: en los filtros, las tarjetas y los cuestionarios.", solo: "hf" },
+    { type: "img", src: "01_ficha.webp", cap: "La página de la materia: arriba, el menú; debajo, los temas, en bloques que se despliegan (aquí, uno abierto)." },
+    { type: "p", x: "Los temas están agrupados en <strong>bloques</strong> por épocas («Bloque 1 · Antigua», «Bloque 2 · Medieval»… hasta la Contemporánea), cada uno con su color y, entre paréntesis, cuántos temas tiene. Pulsa la cabecera de un bloque para desplegarlo y verás sus temas; vuelve a pulsarla para plegarlo. Los temas 1 y 2, de introducción a la materia, van al final, en el grupo <strong>Introducción</strong>, en gris. El color de cada época te acompaña por toda la web: en los filtros, las tarjetas y los cuestionarios.", solo: "hf" },
     { type: "p", x: "Si ya has usado la web, arriba aparece <strong>Continuar donde lo dejaste</strong>, con lo último que abriste." },
-    { type: "p", x: "Los temas están agrupados en <strong>bloques</strong> («Bloque 2 · …»), cada uno con el color de su rama de la filosofía (antropología, conocimiento, lógica, ética, política y estética). Pulsa la cabecera de un bloque para desplegarlo: verás sus temas, con los subtemas numerados (1.1, 1.2…). El Tema 1 va aparte, en un grupo de Introducción, en gris. Ese color te acompaña por toda la web: en los filtros, las tarjetas y los cuestionarios.", solo: "fil" },
+    { type: "p", x: "Los temas están agrupados en <strong>bloques</strong> («Bloque 2 · …»), cada uno con el color de su rama de la filosofía (antropología, conocimiento, lógica, ética, política y estética). Pulsa la cabecera de un bloque para desplegarlo: verás sus temas, con los subtemas numerados (1.1, 1.2…). El Bloque 1 («¿Qué es la filosofía?») es la introducción y va en gris. Ese color te acompaña por toda la web: en los filtros, las tarjetas y los cuestionarios.", solo: "fil" },
     { type: "p", x: "La etiqueta dorada <strong>LECTURA PAU</strong> marca los temas que tienen uno de los cinco textos de la PAU (Platón, Descartes, Kant, Nietzsche y Beauvoir). <strong>Exploraciones</strong> despliega lecturas de ampliación del tema, que son voluntarias. Más abajo están <strong>Explora la materia</strong> (todo lo que hay en la web, contado por tipos) y el <strong>Itinerario PAU</strong>, que te guía paso a paso por la preparación del examen.", solo: "hf" },
     { type: "p", x: "Dentro de cada bloque, <strong>Exploraciones</strong> despliega las actividades y lecturas de ampliación, que son voluntarias. Más abajo está <strong>Explora la materia</strong>: todo lo que hay en la web, contado por tipos.", solo: "fil" },
     { type: "p", x: "En la cabecera tienes también el <strong>buscador</strong> 🔎, el botón de <strong>idioma</strong> 🌐, el de <strong>tema claro u oscuro</strong> ◐ y el de esta <strong>guía</strong> ?. Las capturas de esta guía están en <strong>modo noche</strong>; si prefieres el fondo claro, pulsa ◐." },
@@ -68,7 +69,8 @@ const GUIA = {
       { nombre: "Teoría", texto: "La página de la materia, con la lista de temas. Desde ahí entras en cada tema.", view: "MATERIA" },
       { nombre: "Tarjetas", texto: "Pulsa la tarjeta (o la barra espaciadora) para darle la vuelta y marca «Ya la sé» las que domines. Tu avance se guarda.", view: "tarjetas" },
       { nombre: "Mapas e infografías", texto: "Mapas que se pliegan y despliegan: pulsa un nodo para abrir o cerrar sus ramas, arrastra para moverte y usa la rueda para ampliar. Arriba hay dos botones para pasar de los mapas conceptuales a las infografías.", view: "mapas" },
-      { nombre: "Esquemas", texto: "Esquemas conceptuales con sus relaciones. Elige uno por su título. En Historia de la Filosofía puedes filtrarlos por época.", view: "esquemas" },
+      { nombre: "Esquemas", texto: "Esquemas conceptuales con sus relaciones. Elige uno por su título. En Historia de la Filosofía puedes filtrarlos por época.", view: "esquemas", solo: "hf" },
+      { nombre: "Esquemas", texto: "Esquemas conceptuales con sus relaciones. Elige uno por su título.", view: "esquemas", solo: "fil" },
       { nombre: "Diccionario", texto: "El diccionario de la asignatura: cada término con su definición. Busca una palabra o filtra los términos. Dentro de la Teoría, los términos del diccionario de ese tema van con un <em>subrayado punteado</em> la primera vez que salen en cada apartado. Tócalos, llega a ellos con el teclado o pasa el ratón por encima: verás la definición, la raíz y «Ver ficha». <strong>Esc</strong> la cierra. Viene activado de serie, y el botón <strong>Aa</strong> lo apaga.", view: "diccionario" },
     ] },
     { type: "img", src: "07_tarjetas.webp", cap: "Tarjetas: elige el tipo, el filtro y la baraja; debajo, los botones para pasar, barajar y marcar «Ya la sé»." },
