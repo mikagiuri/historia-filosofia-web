@@ -140,6 +140,7 @@ const GUIA = {
 
     { type: "h", x: "Cómo estudiar un tema con la web" },
     { type: "steps", rows: [
+      { titulo: "Repasa sus términos", texto: "Arriba de cada tema, abre «Antes de empezar: 5 términos» y lee sus definiciones antes de la teoría.", view: "MATERIA" },   // (02-11, P-107)
       { titulo: "Lee la teoría del tema", texto: "Estudiar › Teoría › el tema. Usa los apartados de la izquierda para ir por partes.", view: "MATERIA" },
       { titulo: "Repasa con el esquema", texto: "Desde la caja «Para seguir con este tema», abre su esquema, su mapa o su infografía.", view: "MATERIA" },
       { titulo: "Fija los conceptos", texto: "Desde la caja «Para seguir con este tema», abre sus tarjetas y marca las que ya sabes.", view: "tarjetas" },
@@ -148,6 +149,16 @@ const GUIA = {
       { titulo: "Prepara el examen", texto: "PAU: lecturas, comentarios y disertaciones.", view: "prepara_PAU", solo: "hf" },
       { titulo: "Prepara el examen", texto: "Escribir y leer: disertaciones y lecturas.", view: "disertaciones", solo: "fil" },
       { titulo: "Si quieres más", texto: "Las pestañas Historia y Juegos, Practicar › Debatir y el bloque «Ampliar» de la caja del tema: contexto, juegos, debates y vídeos para ir más allá." }
+    ] },
+    /* (02-11, P-107: ideas de Dislegi, aprobadas el 26-10) para toda la clase */
+    { type: "p", x: "<strong>Para estudiar mejor</strong>, sea cual sea el tema:" },
+    { type: "list", rows: [
+      { nombre: "En bloques cortos", texto: "De 10 a 20 minutos con toda la atención, y una pausa breve entre uno y otro: rinde más que una tarde entera a medias." },
+      { nombre: "Tarjeta de dos caras", texto: "Por una cara, el autor y su tesis en una frase; por la otra, un dibujo de la idea. Repasa mirando una cara y diciendo la otra." },
+      { nombre: "Redibuja el mapa", texto: "Mira el mapa conceptual del tema, ciérralo y vuelve a dibujarlo de memoria. Después compáralo con el original: lo que falta es lo que tienes que repasar." },
+      { nombre: "Reconstruye un argumento", texto: "Con tres preguntas: ¿qué afirma el autor?, ¿por qué lo afirma?, ¿cómo pasa de sus razones a su conclusión?" },
+      { nombre: "Antes de responder", texto: "Marca el enunciado: la instrucción, el tema y los límites. Lo explica «Cómo leer un enunciado», en Disertaciones.", view: "disertaciones" },
+      { nombre: "Si te quedas en blanco", texto: "Escribe lo primero que recuerdes, aunque sea una palabra suelta, y vuelve a la pregunta. Si estás estudiando, mira solo el título del apartado e inténtalo otra vez antes de releerlo." }
     ] },
 
     { type: "h", x: "Preguntas frecuentes" },
