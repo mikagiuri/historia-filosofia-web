@@ -61,9 +61,9 @@ const WEEK = [
 const SUBJECTS = {
  "hf": {
   "name": "Historia de la Filosofía",
-  "kick": "2.º de Bachillerato · Bloques A, B y C",
+  "kick": "2.º de Bachillerato",
   "color": "var(--hf)",
-  "intro": "De la filosofía antigua a la contemporánea: teoría de los 27 temas, materiales de aula y los cinco textos de la PAU (Platón, Descartes, Kant, Nietzsche y Beauvoir), en la pestaña «Lecturas».",
+  "intro": "",
   "mats": [],
   "tools": [
    [
@@ -6984,7 +6984,7 @@ const QUIZZES = {
   ]
  },
  "hf-a01-banco": {
-  "name": "T1 · Historicidad y universalidad de la filosofía (banco ampliado)",
+  "name": "T1 · Historicidad y universalidad de la filosofía",
   "subject": "hf",
   "block": "A",
   "items": [
@@ -7376,7 +7376,7 @@ const QUIZZES = {
   ]
  },
  "hf-a02-banco": {
-  "name": "T2 · Los métodos de la filosofía (banco ampliado)",
+  "name": "T2 · Los métodos de la filosofía",
   "subject": "hf",
   "block": "A",
   "items": [
@@ -7768,7 +7768,7 @@ const QUIZZES = {
   ]
  },
  "hf-a03-banco": {
-  "name": "T3 · El surgimiento de la filosofía: del mito al logos (banco ampliado)",
+  "name": "T3 · El surgimiento de la filosofía: del mito al logos",
   "subject": "hf",
   "block": "A",
   "items": [
@@ -8160,7 +8160,7 @@ const QUIZZES = {
   ]
  },
  "hf-a04-banco": {
-  "name": "T4 · El problema de la realidad en los presocráticos (banco ampliado)",
+  "name": "T4 · El problema de la realidad en los presocráticos",
   "subject": "hf",
   "block": "A",
   "items": [
@@ -8596,7 +8596,7 @@ const QUIZZES = {
   ]
  },
  "hf-a05-banco": {
-  "name": "T5 · La Ilustración griega: sofistas, Sócrates y Aspasia (banco ampliado)",
+  "name": "T5 · La Ilustración griega: sofistas, Sócrates y Aspasia",
   "subject": "hf",
   "block": "A",
   "items": [
@@ -9021,7 +9021,7 @@ const QUIZZES = {
   ]
  },
  "hf-a06-banco": {
-  "name": "T6 · Platón: la teoría de las Ideas y la República (banco ampliado)",
+  "name": "T6 · Platón: la teoría de las Ideas y la República",
   "subject": "hf",
   "block": "A",
   "items": [
@@ -9457,7 +9457,7 @@ const QUIZZES = {
   ]
  },
  "hf-a07-banco": {
-  "name": "T7 · La antropología clásica: Sócrates, Platón y Aristóteles (banco ampliado)",
+  "name": "T7 · La antropología clásica: Sócrates, Platón y Aristóteles",
   "subject": "hf",
   "block": "A",
   "items": [
@@ -9849,7 +9849,7 @@ const QUIZZES = {
   ]
  },
  "hf-a08-banco": {
-  "name": "T8 · La ética clásica: intelectualismo, virtudes y eudaimonía (banco ampliado)",
+  "name": "T8 · La ética clásica: intelectualismo, virtudes y eudaimonía",
   "subject": "hf",
   "block": "A",
   "items": [
@@ -10241,7 +10241,7 @@ const QUIZZES = {
   ]
  },
  "hf-a09-banco": {
-  "name": "T9 · La política clásica: Platón y Aristóteles (banco ampliado)",
+  "name": "T9 · La política clásica: Platón y Aristóteles",
   "subject": "hf",
   "block": "A",
   "items": [
@@ -10633,7 +10633,7 @@ const QUIZZES = {
   ]
  },
  "hf-a10-banco": {
-  "name": "T10 · El helenismo: cinismo, estoicismo, epicureísmo y escepticismo (banco ampliado)",
+  "name": "T10 · El helenismo: cinismo, estoicismo, epicureísmo y escepticismo",
   "subject": "hf",
   "block": "A",
   "items": [
@@ -11025,7 +11025,7 @@ const QUIZZES = {
   ]
  },
  "hf-b11-banco": {
-  "name": "T11 · La filosofía medieval: etapas, métodos y el problema de los universales (banco ampliado)",
+  "name": "T11 · La filosofía medieval: etapas, métodos y el problema de los universales",
   "subject": "hf",
   "block": "B",
   "items": [
@@ -11340,7 +11340,7 @@ const QUIZZES = {
   ]
  },
  "hf-b12-banco": {
-  "name": "T12 · Fe y razón: la asimilación de la filosofía griega y la existencia de Dios (banco ampliado)",
+  "name": "T12 · Fe y razón: la asimilación de la filosofía griega y la existencia de Dios",
   "subject": "hf",
   "block": "B",
   "items": [
@@ -11677,7 +11677,7 @@ const QUIZZES = {
   ]
  },
  "hf-b13-banco": {
-  "name": "T13 · El nacimiento de la modernidad: Renacimiento, protestantismo y revolución científica (banco ampliado)",
+  "name": "T13 · El nacimiento de la modernidad: Renacimiento, protestantismo y revolución científica",
   "subject": "hf",
   "block": "B",
   "items": [
@@ -12014,7 +12014,7 @@ const QUIZZES = {
   ]
  },
  "hf-b14-banco": {
-  "name": "T14 · Racionalismo y empirismo: Descartes y Hume (banco ampliado)",
+  "name": "T14 · Racionalismo y empirismo: Descartes y Hume",
   "subject": "hf",
   "block": "B",
   "items": [
@@ -12406,7 +12406,7 @@ const QUIZZES = {
   ]
  },
  "hf-b15-banco": {
-  "name": "T15 · El debate metafísico moderno: dualismo y materialismo (banco ampliado)",
+  "name": "T15 · El debate metafísico moderno: dualismo y materialismo",
   "subject": "hf",
   "block": "B",
   "items": [
@@ -12743,7 +12743,7 @@ const QUIZZES = {
   ]
  },
  "hf-b16-banco": {
-  "name": "T16 · El origen de la sociedad y el poder: Maquiavelo y el contrato social (banco ampliado)",
+  "name": "T16 · El origen de la sociedad y el poder: Maquiavelo y el contrato social",
   "subject": "hf",
   "block": "B",
   "items": [
@@ -13135,7 +13135,7 @@ const QUIZZES = {
   ]
  },
  "hf-b17-banco": {
-  "name": "T17 · Utilitarismo y liberalismo: las bases del capitalismo (banco ampliado)",
+  "name": "T17 · Utilitarismo y liberalismo: las bases del capitalismo",
   "subject": "hf",
   "block": "B",
   "items": [
@@ -13527,7 +13527,7 @@ const QUIZZES = {
   ]
  },
  "hf-c18-banco": {
-  "name": "T18 · El proyecto ilustrado: potencia y límites de la razón (banco ampliado)",
+  "name": "T18 · El proyecto ilustrado: potencia y límites de la razón",
   "subject": "hf",
   "block": "C",
   "items": [
@@ -13919,7 +13919,7 @@ const QUIZZES = {
   ]
  },
  "hf-c19-banco": {
-  "name": "T19 · La filosofía crítica de Kant y el problema de la metafísica (banco ampliado)",
+  "name": "T19 · La filosofía crítica de Kant y el problema de la metafísica",
   "subject": "hf",
   "block": "C",
   "items": [
@@ -14311,7 +14311,7 @@ const QUIZZES = {
   ]
  },
  "hf-c20-banco": {
-  "name": "T20 · Éticas de la felicidad y éticas del deber: Kant frente al utilitarismo (banco ampliado)",
+  "name": "T20 · Éticas de la felicidad y éticas del deber: Kant frente al utilitarismo",
   "subject": "hf",
   "block": "C",
   "items": [
@@ -14703,7 +14703,7 @@ const QUIZZES = {
   ]
  },
  "hf-c21-banco": {
-  "name": "T21 · Los filósofos de la sospecha: Marx, Nietzsche y Freud (banco ampliado)",
+  "name": "T21 · Los filósofos de la sospecha: Marx, Nietzsche y Freud",
   "subject": "hf",
   "block": "C",
   "items": [
@@ -15095,7 +15095,7 @@ const QUIZZES = {
   ]
  },
  "hf-c22-banco": {
-  "name": "T22 · La crítica del capitalismo: de Marx a Rawls (banco ampliado)",
+  "name": "T22 · La crítica del capitalismo: de Marx a Rawls",
   "subject": "hf",
   "block": "C",
   "items": [
@@ -15487,7 +15487,7 @@ const QUIZZES = {
   ]
  },
  "hf-c23-banco": {
-  "name": "T23 · Nietzsche y la posmodernidad: Habermas frente a los rupturistas (banco ampliado)",
+  "name": "T23 · Nietzsche y la posmodernidad: Habermas frente a los rupturistas",
   "subject": "hf",
   "block": "C",
   "items": [
@@ -15868,7 +15868,7 @@ const QUIZZES = {
   ]
  },
  "hf-c24-banco": {
-  "name": "T24 · La filosofía analítica: Wittgenstein y el giro lingüístico (banco ampliado)",
+  "name": "T24 · La filosofía analítica: Wittgenstein y el giro lingüístico",
   "subject": "hf",
   "block": "C",
   "items": [
@@ -16260,7 +16260,7 @@ const QUIZZES = {
   ]
  },
  "hf-c25-banco": {
-  "name": "T25 · El existencialismo: Heidegger, Sartre y la filosofía española (banco ampliado)",
+  "name": "T25 · El existencialismo: Heidegger, Sartre y la filosofía española",
   "subject": "hf",
   "block": "C",
   "items": [
@@ -16652,7 +16652,7 @@ const QUIZZES = {
   ]
  },
  "hf-c26-banco": {
-  "name": "T26 · El feminismo contemporáneo: Simone de Beauvoir (banco ampliado)",
+  "name": "T26 · El feminismo contemporáneo: Simone de Beauvoir",
   "subject": "hf",
   "block": "C",
   "items": [
@@ -17033,7 +17033,7 @@ const QUIZZES = {
   ]
  },
  "hf-c27-banco": {
-  "name": "T27 · La sociedad actual: retos del siglo XXI (banco ampliado)",
+  "name": "T27 · La sociedad actual: retos del siglo XXI",
   "subject": "hf",
   "block": "C",
   "items": [

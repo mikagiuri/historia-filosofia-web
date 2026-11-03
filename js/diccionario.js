@@ -374,6 +374,7 @@ const DICCIONARIO = [
   "area": "Ética",
   "bloque": "C",
   "unidad": "CK",
+  "temaN": 20,
   "tema": "La filosofía de Kant",
   "def": "Que el sujeto racional actúe según el principio que puede darse a sí mismo como ley universal.",
   "biografia": [
@@ -424,6 +425,19 @@ const DICCIONARIO = [
   "unidad": "C6",
   "tema": "La posmodernidad",
   "def": "El régimen que nace cuando el poder moderno administra la vida: gestiona las poblaciones, la salud, la sexualidad, las tasas de natalidad, las migraciones, no solo mediante leyes, sino mediante la estadística, la epidemiología y los dispositivos de seguridad."
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
+  "impg": 9,
+  "t": "Canon",
+  "id": "g-canon",
+  "et": "Del griego κανών (*kanón*), «vara de medir, regla».",
+  "area": "Historia",
+  "bloque": "A",
+  "unidad": "A1-A2",
+  "tema": "En el umbral de la filosofía",
+  "def": "Lista de autores y obras que una tradición tiene por «clásicos» y que, por eso, se estudian. Elegirlos no es neutral: durante siglos dejó fuera a muchas filósofas y a pensadores no europeos."
  },
  {
   "subject": "hf",
@@ -667,6 +681,19 @@ const DICCIONARIO = [
   "subject": "hf",
   "imp": 3,
   "impg": 12,
+  "t": "Cosmovisión",
+  "id": "g-cosmovision",
+  "et": "Calco del alemán *Weltanschauung* (*Welt*, «mundo», y *Anschauung*, «visión»), formado con el griego κόσμος (*kósmos*), «orden, mundo», y el latín *visio*, «visión».",
+  "area": "Historia",
+  "bloque": "A",
+  "unidad": "A1-A2",
+  "tema": "En el umbral de la filosofía",
+  "def": "Conjunto de creencias que una época o una cultura da por supuestas sin discutirlas y desde las que interpreta el mundo. Ponerlas en cuestión es, muchas veces, lo que hace avanzar la filosofía."
+ },
+ {
+  "subject": "hf",
+  "imp": 3,
+  "impg": 12,
   "t": "Crisis ecológica",
   "id": "g-crisis-ecologica",
   "et": "*Crisis*, del griego κρίσις (*krísis*), «decisión, momento decisivo». *Ecología*, del griego οἶκος (*oîkos*) «casa» + λόγος (*lógos*) «estudio».",
@@ -764,6 +791,7 @@ const DICCIONARIO = [
   "area": "Ética",
   "bloque": "C",
   "unidad": "CK",
+  "temaN": 20,
   "tema": "La filosofía de Kant",
   "def": "Actuar por respeto a la ley moral; no solo coincidir con la norma, sino tener la motivación moral correcta.",
   "biografia": [
@@ -1012,6 +1040,7 @@ const DICCIONARIO = [
   "area": "Ética",
   "bloque": "C",
   "unidad": "CK",
+  "temaN": 20,
   "tema": "La filosofía de Kant",
   "def": "El valor absoluto de la persona; no es precio, utilidad ni sustituibilidad.",
   "biografia": [
@@ -1736,6 +1765,7 @@ const DICCIONARIO = [
   "area": "Método",
   "bloque": "A",
   "unidad": "A1-A2",
+  "temaN": 2,
   "tema": "En el umbral de la filosofía",
   "def": "Razonamiento que parece sólido pero no justifica debidamente su conclusión."
  },
@@ -1891,8 +1921,9 @@ const DICCIONARIO = [
   "area": "Texto",
   "bloque": "A",
   "unidad": "A1-A2",
+  "temaN": 2,
   "tema": "En el umbral de la filosofía",
-  "def": "Definición: Forma escrita o discursiva de organizar y expresar el pensamiento."
+  "def": "Forma escrita o discursiva de organizar y expresar el pensamiento."
  },
  {
   "subject": "hf",
@@ -1989,7 +2020,7 @@ const DICCIONARIO = [
   "bloque": "A",
   "unidad": "A1-A2",
   "tema": "En el umbral de la filosofía",
-  "def": "Etimología: historia + -idad, carácter o condición. Definición: El pensamiento está siempre situado en una época, una sociedad y una cultura concretas."
+  "def": "El pensamiento está siempre situado en una época, una sociedad y una cultura concretas."
  },
  {
   "subject": "hf",
@@ -2145,6 +2176,7 @@ const DICCIONARIO = [
   "area": "Ética",
   "bloque": "C",
   "unidad": "CK",
+  "temaN": 20,
   "tema": "La filosofía de Kant",
   "def": "Mandato moral incondicionado: ordena una acción por sí misma, sin depender de ningún fin que uno desee. Su primera fórmula, la de la ley universal: obra solo según aquella máxima que puedas querer a la vez que se convierta en ley universal (*Fundamentación de la metafísica de las costumbres*, II, Ak. IV 421).",
   "biografia": [
@@ -2161,6 +2193,7 @@ const DICCIONARIO = [
   "area": "Ética",
   "bloque": "C",
   "unidad": "CK",
+  "temaN": 20,
   "tema": "La filosofía de Kant",
   "def": "Mandato condicionado: ordena un medio para un fin que uno quiere («si quieres aprobar, estudia»). Kant distingue las reglas de habilidad y los consejos de prudencia; obedecerlos no da valor moral a la acción (*Fundamentación*, II, Ak. IV 414-417).",
   "biografia": [
@@ -3040,6 +3073,19 @@ const DICCIONARIO = [
   "subject": "hf",
   "imp": 4,
   "impg": 10,
+  "t": "Mano invisible",
+  "id": "g-mano-invisible",
+  "et": "Metáfora de Adam Smith (*invisible hand*) en *La riqueza de las naciones* (1776), libro IV, capítulo 2.",
+  "area": "Economía",
+  "bloque": "B",
+  "unidad": "B7",
+  "tema": "Utilitarismo y liberalismo",
+  "def": "Imagen de Adam Smith: quien busca su propio interés en un mercado libre contribuye, sin pretenderlo, al bienestar de todos, como si una mano invisible coordinara los intereses de cada cual. De ahí su idea de que el Estado debe intervenir poco en la economía."
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
+  "impg": 10,
   "t": "Materialismo",
   "id": "g-materialismo",
   "et": "*Materia*, del latín *materia*, «madera, material de construcción», emparentado con *mater*, «madre».",
@@ -3137,11 +3183,25 @@ const DICCIONARIO = [
   "area": "Ética",
   "bloque": "C",
   "unidad": "CK",
+  "temaN": 18,
   "tema": "La filosofía de Kant",
   "def": "Para Kant, la incapacidad de servirse del propio entendimiento sin la guía de otro. Uno mismo es culpable de ella cuando no se debe a falta de entendimiento, sino de decisión y de valor; sus causas son la pereza y la cobardía (*¿Qué es la Ilustración?*, 1784, Ak. VIII 35).",
   "biografia": [
    "kant"
   ]
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
+  "impg": 9,
+  "t": "Mito",
+  "id": "g-mito",
+  "et": "Del griego μῦθος (*mýthos*), «palabra, relato».",
+  "area": "Historia",
+  "bloque": "A",
+  "unidad": "A3",
+  "tema": "El nacimiento de la filosofía en Grecia",
+  "def": "Relato tradicional, transmitido por los poetas (sobre todo Homero y Hesíodo), que explica el origen del mundo y lo que sucede en él por la voluntad de dioses y seres extraordinarios, sin buscar las causas en la propia naturaleza."
  },
  {
   "subject": "hf",
@@ -3154,7 +3214,7 @@ const DICCIONARIO = [
   "bloque": "C",
   "unidad": "C6",
   "tema": "La posmodernidad",
-  "def": "Definición: la idea de Habermas de que las promesas de libertad y razón de la Ilustración deben reconstruirse críticamente sin descartarlas.",
+  "def": "La idea de Habermas de que las promesas de libertad y razón de la Ilustración deben reconstruirse críticamente sin descartarlas.",
   "biografia": [
    "habermas"
   ]
@@ -3281,6 +3341,7 @@ const DICCIONARIO = [
   "area": "Método",
   "bloque": "A",
   "unidad": "A1-A2",
+  "temaN": 2,
   "tema": "En el umbral de la filosofía",
   "def": "Procedimiento que organiza las preguntas, los conceptos y los argumentos para trabajar un problema."
  },
@@ -3533,6 +3594,20 @@ const DICCIONARIO = [
  },
  {
   "subject": "hf",
+  "imp": 3,
+  "impg": 12,
+  "t": "Quaestio y disputatio",
+  "id": "g-quaestio-disputatio",
+  "et": "Del latín *quaestio*, «búsqueda, pregunta», de *quaerere*, «buscar», y *disputatio*, «discusión», de *disputare*, «examinar a fondo».",
+  "area": "Método",
+  "bloque": "A",
+  "unidad": "A1-A2",
+  "temaN": 2,
+  "tema": "En el umbral de la filosofía",
+  "def": "Método de las universidades medievales: se plantea una pregunta, se reúnen las razones y las autoridades a favor y en contra, se da una respuesta razonada y se contesta a cada objeción. Tomás de Aquino escribió así su *Suma teológica*."
+ },
+ {
+  "subject": "hf",
   "imp": 4,
   "impg": 11,
   "t": "Razón vital",
@@ -3642,6 +3717,19 @@ const DICCIONARIO = [
   "biografia": [
    "aristoteles"
   ]
+ },
+ {
+  "subject": "hf",
+  "imp": 3,
+  "impg": 12,
+  "t": "Transmisión",
+  "id": "g-transmision",
+  "et": "Del latín *transmissio*, «paso al otro lado», de *transmittere*, «enviar a través».",
+  "area": "Historia",
+  "bloque": "A",
+  "unidad": "A1-A2",
+  "tema": "En el umbral de la filosofía",
+  "def": "Camino por el que los textos y las ideas llegan de una generación a otra: se copian, se traducen, se comentan y se enseñan en escuelas, monasterios o universidades. Lo que no se transmitió se perdió, y eso cambia la imagen que tenemos de cada autor."
  },
  {
   "subject": "hf",
@@ -3946,7 +4034,7 @@ const DICCIONARIO = [
   "bloque": "C",
   "unidad": "C10",
   "tema": "Retos del XXI",
-  "def": "Definición: que el poder aparezca, en lugar de la prohibición, como mandato continuo de capacidad, automejora y rendimiento."
+  "def": "Que el poder aparezca, en lugar de la prohibición, como mandato continuo de capacidad, automejora y rendimiento."
  },
  {
   "subject": "hf",
@@ -3999,6 +4087,7 @@ const DICCIONARIO = [
   "area": "Método",
   "bloque": "A",
   "unidad": "A1-A2",
+  "temaN": 2,
   "tema": "En el umbral de la filosofía",
   "def": "Al interpretar un texto o a un interlocutor, tratar de reconstruir su versión más sólida. No es estar de acuerdo, sino entender qué defiende realmente antes de criticarlo."
  },
@@ -4198,6 +4287,7 @@ const DICCIONARIO = [
   "area": "Ética",
   "bloque": "C",
   "unidad": "CK",
+  "temaN": 20,
   "tema": "La filosofía de Kant",
   "def": "La postura ética de Joxe Azurmendi: renunciar a los valores absolutos, pero sin caer en el nihilismo; unir la ética de la convicción (principios) y la de la responsabilidad (consecuencias), sin reconocer valor absoluto a ninguna de las dos.",
   "biografia": [
@@ -4684,7 +4774,7 @@ const DICCIONARIO = [
   "bloque": "C",
   "unidad": "C7",
   "tema": "Lenguaje y Ciencia",
-  "def": "Definición: el análisis de Russell para aclarar la estructura lógica que hay bajo la gramática superficial de una frase.",
+  "def": "El análisis de Russell para aclarar la estructura lógica que hay bajo la gramática superficial de una frase.",
   "biografia": [
    "russell"
   ]
@@ -4849,6 +4939,19 @@ const DICCIONARIO = [
   "unidad": "A8",
   "tema": "La ética clásica",
   "def": "La medida adecuada entre el exceso y el defecto, ajustada a la situación y a la recta razón."
+ },
+ {
+  "subject": "hf",
+  "imp": 4,
+  "impg": 9,
+  "t": "Universalidad",
+  "id": "g-universalidad",
+  "et": "Del latín *universalis*, «que concierne al todo», de *universus*, «entero, vuelto hacia lo uno» (*unus* + *versus*).",
+  "area": "Historia",
+  "bloque": "A",
+  "unidad": "A1-A2",
+  "tema": "En el umbral de la filosofía",
+  "def": "Condición de las preguntas filosóficas que reaparecen en épocas y culturas distintas (qué es la verdad, qué es justo, si somos libres), porque nacen de inquietudes básicas de la vida humana. No quiere decir que haya una única respuesta."
  },
  {
   "subject": "hf",
@@ -5497,6 +5600,7 @@ const DICCIONARIO = [
   "id": "g-querella-de-las-mujeres",
   "area": "Feminismo",
   "bloque": "B",
+  "temaN": 11,
   "tema": "La filosofía medieval",
   "def": "Larga polémica, abierta por Christine de Pizan hacia 1400 con la «querella de la Rosa», sobre la dignidad y la capacidad intelectual de las mujeres; se prolongó en la cultura europea hasta la Revolución francesa.",
   "biografia": [

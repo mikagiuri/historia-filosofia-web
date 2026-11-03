@@ -27,11 +27,11 @@ const GUIA = {
     { type: "p", x: "<strong>No hace falta registrarse</strong> ni instalar nada, y está en cinco lenguas: castellano, euskera, francés, inglés y árabe. <strong>Tu avance se guarda en tu navegador</strong>: las tarjetas que ya sabes, tu mejor puntuación en los cuestionarios y el último tema que leíste. No se guarda en ningún servidor ni lo ve nadie más." },
     { type: "warn", x: "Como el avance se guarda en el navegador, si cambias de dispositivo o borras los datos de navegación, empiezas de cero. El contenido, en cambio, sigue siempre ahí." },
     { type: "p", x: "Las primeras pestañas del menú son las imprescindibles: <strong>Estudiar</strong> (la teoría y lo que te ayuda a aprenderla), <strong>Practicar</strong> (comprobar lo que sabes y entrenar) y <strong>PAU</strong> (el examen, los textos y la escritura). Tras una línea vienen las complementarias: <strong>Historia</strong> (el contexto de los filósofos, con los Pilares y los Étimos) y <strong>Juegos</strong>. El <strong>Rincón de lógica</strong> no tiene pestaña en esta web: lo abren los enlaces de los temas que lo usan.", solo: "hf" },
-    { type: "p", x: "Las primeras pestañas del menú son las imprescindibles: <strong>Estudiar</strong> (la teoría y lo que te ayuda a aprenderla), <strong>Practicar</strong> (comprobar lo que sabes y entrenar), <strong>Lógica</strong> (el Rincón de lógica, con sus ejercicios y su laboratorio) y <strong>Escribir y leer</strong> (la disertación y los textos). Tras una línea vienen las complementarias: <strong>Historia</strong> (el contexto de los filósofos, con los Pilares y los Étimos) y <strong>Juegos</strong>.", solo: "fil" },
+    { type: "p", x: "Las primeras pestañas del menú son las imprescindibles: <strong>Estudiar</strong> (la teoría y lo que te ayuda a aprenderla), <strong>Practicar</strong> (comprobar lo que sabes y entrenar) y <strong>Razonar y escribir</strong> (el Rincón de lógica, la disertación y los textos). Tras una línea vienen las complementarias: <strong>Historia</strong> (el contexto de los filósofos, con los Pilares y los Étimos) y <strong>Juegos</strong>.", solo: "fil" },
     { type: "p", x: "Algunas secciones reúnen varias cosas del mismo tipo: arriba tienen una <strong>fila de botones</strong> para pasar de una a otra. Por ejemplo, en Cuestionarios puedes cambiar a <strong>Retos</strong>, y en Biografías, a <strong>Perseguidos</strong> o <strong>Comunidades</strong>." },
 
     { type: "h", x: "La pantalla principal" },
-    { type: "p", x: "Al abrir la web llegas a la <strong>página de la materia</strong>: el título, una breve presentación y la <strong>lista de temas</strong>. Pulsa un tema para abrir su teoría. Desde cualquier sitio vuelves aquí con <strong>Estudiar › Teoría</strong> o pulsando «Aula de Filosofía», arriba a la izquierda." },
+    { type: "p", x: "Al abrir la web llegas a la <strong>página de la materia</strong>: el título y la <strong>lista de temas</strong>. Pulsa un tema para abrir su teoría. Desde cualquier sitio vuelves aquí con <strong>Estudiar › Teoría</strong> o pulsando «Aula de Filosofía», arriba a la izquierda." },
     { type: "img", src: "01_ficha.webp", cap: "La página de la materia: arriba, el menú; debajo, los temas, en bloques que se despliegan (aquí, uno abierto)." },
     { type: "p", x: "Los temas están agrupados en <strong>bloques</strong> por épocas («Bloque 1 · Antigua», «Bloque 2 · Medieval»… hasta la Contemporánea), cada uno con su color y, entre paréntesis, cuántos temas tiene. Pulsa la cabecera de un bloque para desplegarlo y verás sus temas; vuelve a pulsarla para plegarlo. Los temas 1 y 2, de introducción a la materia, van al final, en el grupo <strong>Introducción</strong>, en gris. El color de cada época te acompaña por toda la web: en los filtros, las tarjetas y los cuestionarios.", solo: "hf" },
     { type: "p", x: "Si ya has usado la web, arriba aparece <strong>Continuar donde lo dejaste</strong>, con lo último que abriste." },
@@ -90,7 +90,7 @@ const GUIA = {
 
     // (22-10, opción A del profesor) en HF el Rincón de lógica no está en el menú: este bloque, solo en 1.º
     { type: "h", x: "Lógica", solo: "fil" },
-    { type: "p", solo: "fil", x: "El <strong>Rincón de lógica</strong> tiene ahora su propia pestaña. Reúne tablas de verdad, argumentos válidos, silogismos con diagramas de Venn, paradojas y ejercicios para entrenar el razonamiento, y un <strong>itinerario de cero a experto</strong> para recorrerlo en orden." },
+    { type: "p", solo: "fil", x: "El <strong>Rincón de lógica</strong> está en el grupo <strong>Razonar y escribir</strong>, junto a la disertación y las lecturas. Reúne tablas de verdad, argumentos válidos, silogismos con diagramas de Venn, paradojas y ejercicios para entrenar el razonamiento, y un <strong>itinerario de cero a experto</strong> para recorrerlo en orden." },
     { type: "p", solo: "fil", x: "Arriba está el <strong>Laboratorio</strong>, con varias mesas para trabajar paso a paso: árboles de verdad, un mundo de figuras, relaciones, demostraciones guiadas, deducción natural, inducción y abducción, «Hablamos», los juicios de Kant y «Mundos posibles», que todavía está en desarrollo." },
 
     { type: "h", x: "PAU", solo: "hf" },
@@ -102,8 +102,8 @@ const GUIA = {
       { nombre: "Lecturas", texto: "Los cinco textos de la PAU con su guía de lectura, los fragmentos, modelos de respuesta y diccionario.", view: "lecturas" },
     ] },
     { type: "tip", solo: "hf", x: "Empieza por Prepara PAU para saber qué te van a pedir. Recorre los 6 grupos en orden con <strong>Anterior</strong> y <strong>Siguiente</strong>, y sigue el Itinerario PAU de la página de la materia: te lleva en orden por cada ejercicio. Cuando tengas dudas, mira las <strong>Respuestas resueltas</strong>." },
-    { type: "h", x: "Escribir y leer", solo: "fil" },
-    { type: "img", src: "04_menu_tercera.webp", cap: "El menú «Escribir y leer».", w: "menu", solo: "fil" },
+    { type: "h", x: "Razonar y escribir", solo: "fil" },
+    { type: "img", src: "04_menu_tercera.webp", cap: "El menú «Razonar y escribir».", w: "menu", solo: "fil" },
     { type: "list", solo: "fil", rows: [
       { nombre: "Disertaciones", texto: "La disertación breve: el método paso a paso, modelos resueltos y preguntas para practicar.", view: "disertaciones" },
       { nombre: "Lecturas", texto: "Textos breves de autores clásicos y actuales, uno o dos por tema, para leer en clase y preparar la disertación.", view: "lecturas" }
@@ -147,7 +147,7 @@ const GUIA = {
       { titulo: "Comprueba lo que sabes", texto: "Practicar › Cuestionarios, filtrando por el tema. Lee la explicación de los fallos.", view: "cuestionarios" },
       { titulo: "Explícalo con tus palabras", texto: "Practicar › Pistas te hace las preguntas clave y te ayuda poco a poco.", view: "pistas" },
       { titulo: "Prepara el examen", texto: "PAU: lecturas, comentarios y disertaciones.", view: "prepara_PAU", solo: "hf" },
-      { titulo: "Prepara el examen", texto: "Escribir y leer: disertaciones y lecturas.", view: "disertaciones", solo: "fil" },
+      { titulo: "Prepara el examen", texto: "Razonar y escribir: lógica, disertaciones y lecturas.", view: "disertaciones", solo: "fil" },
       { titulo: "Si quieres más", texto: "Las pestañas Historia y Juegos, Practicar › Debatir y el bloque «Ampliar» de la caja del tema: contexto, juegos, debates y vídeos para ir más allá." }
     ] },
     /* (02-11, P-107: ideas de Dislegi, aprobadas el 26-10) para toda la clase */
