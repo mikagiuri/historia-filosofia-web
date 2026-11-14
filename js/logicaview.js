@@ -18,7 +18,7 @@ const LOG_TXT = {
   argTitulo: "¿Es válido este argumento?", premisas: "Premisas (separadas por punto y coma)", conclusion: "Conclusión",
   comprobar: "Comprobar", premisa: "Premisa {n}",
   valido: "Válido: en todas las filas en que las premisas son verdaderas, la conclusión también lo es.",
-  noValido: "No válido: hay al menos una fila con las premisas verdaderas y la conclusión falsa (marcada en rojo). Es un contraejemplo.",
+  noValido: "No válido: hay al menos una fila con las premisas verdaderas y la conclusión falsa (marcada con ✗). Es un contraejemplo.",
   filasPremisas: "Las filas resaltadas son aquellas en que todas las premisas son verdaderas.",
   mp: "Modus ponens", mt: "Modus tollens", ac: "Afirmar el consecuente (falacia)", sd: "Silogismo disyuntivo", sh: "Silogismo hipotético",
   demorgan: "Ley de De Morgan", tercero: "Tercero excluido", nocontra: "Contradicción",
