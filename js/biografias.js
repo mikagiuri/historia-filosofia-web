@@ -2633,8 +2633,8 @@ const BIOGRAFIAS = {
   "tradicion": false,
   "vida": [
    {
-    "a": 1604,
-    "b": 1612,
+    "a": 1607,
+    "b": 1615,
     "t": "Estudia en el colegio jesuita de La Flèche"
    },
    {
