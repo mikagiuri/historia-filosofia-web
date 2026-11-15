@@ -12,7 +12,11 @@
      detalle               … con «internos»: true, el recuadro traza además los estados de dentro (Prusia, Sajonia…)
      rotulos               los nombres del mapa, con el nombre DE LA ÉPOCA («Imperio alemán», no «Alemania»); el texto no
                            va en la imagen: lo pone lugaresview.js. tipo: "pais", "menor" (país pequeño, letra menor),
-                           "interno" (estado de dentro de otro) o "mar"; det: true si va en el recuadro ampliado
+                           "interno" (estado de dentro de otro) o "mar"; det: true si va en el recuadro ampliado;
+                           partir: true si el nombre es largo y va en dos líneas
+     internos              true: el mapa general traza también los estados de dentro (en línea de puntos)
+     ruta                  solo si volvió a algún sitio: los números de las paradas en el orden real del viaje, con
+                           repeticiones ([1, 2, 3, 2, 4]). Sin «ruta», la línea une las paradas por su orden
      paradas               en orden de llegada; el número es su posición. lugar, fechas, t (qué hizo o escribió allí),
                            lon, lat reales; det: true si se dibuja en el recuadro ampliado
    Los textos de «t» pueden llevar <em> para los títulos de obras. */
@@ -60,6 +64,49 @@ const LUGARES = {
      "t": "Pasa aquí la primavera y el otoño de 1888, su último año de trabajo: escribe <em>El caso Wagner</em> y <em>Ecce homo</em>, y termina <em>El Anticristo</em>. En los primeros días de enero de 1889 sufre el colapso mental del que ya no se recuperará." },
    { "lugar": "Weimar", "fechas": "1897-1900", "lon": 11.329, "lat": 50.979, "det": true,
      "t": "Tras el colapso es internado en una clínica de Basilea y después en la de Jena (1889-1890); luego vive al cuidado de su madre en Naumburg. Muerta ella, en 1897 su hermana Elisabeth lo lleva a Weimar, a la sede del Archivo Nietzsche. Muere el 25 de agosto de 1900." }
+  ]
+ },
+ "marx": {
+  "titulo": "Los lugares de Marx",
+  "intro": "Marx nació prusiano y murió apátrida. La censura y las expulsiones lo llevaron de Prusia a París, de París a Bruselas y, tras la revolución de 1848, a Londres, donde pasó exiliado la segunda mitad de su vida.",
+  "nota": "La línea sigue el orden del viaje. A Colonia y a París volvió: en 1848 fue de Bruselas a Colonia, tras unas semanas en París, y en 1849, de Colonia a París y de allí a Londres.",
+  "notaFronteras": "Las fronteras son las de 1849. Alemania no existía como Estado: había una Confederación Germánica, una liga de unos cuarenta estados soberanos encabezada por Austria y Prusia. Tréveris, Bonn y Colonia pertenecían desde 1815 al reino de Prusia, cuyo territorio estaba partido en dos. Los demás estados alemanes (Hannover, Sajonia, Baviera, Wurtemberg…) van aquí en un mismo color, separados por líneas de puntos.",
+  "marco": [-1.1, 47.9, 15.6, 54.5],
+  "fronteras": 1849,
+  "internos": true,
+  "detalle": { "marco": [6.4, 50.58, 7.3, 51.08], "en": [0.21, 0.03], "ancho": 0.17 },
+  "ruta": [1, 2, 3, 4, 5, 6, 4, 5, 7],
+  "rotulos": [
+   { "t": "Reino de Prusia", "tipo": "pais", "lon": 12.3, "lat": 53.15, "partir": true },
+   { "t": "Prusia", "tipo": "pais", "lon": 8.0, "lat": 51.75 },
+   { "t": "Francia", "tipo": "pais", "lon": 4.6, "lat": 48.5 },
+   { "t": "Reino Unido", "tipo": "pais", "lon": 0.35, "lat": 52.75, "partir": true },
+   { "t": "Bélgica", "tipo": "pais", "lon": 4.6, "lat": 50.4 },
+   { "t": "Países Bajos", "tipo": "pais", "lon": 5.65, "lat": 52.4, "partir": true },
+   { "t": "Luxemburgo", "tipo": "menor", "lon": 5.6, "lat": 49.26 },
+   { "t": "Imperio austriaco", "tipo": "pais", "lon": 13.9, "lat": 49.6, "partir": true },
+   { "t": "Hannover", "tipo": "interno", "lon": 9.5, "lat": 52.8 },
+   { "t": "Sajonia", "tipo": "interno", "lon": 13.2, "lat": 51.0 },
+   { "t": "Baviera", "tipo": "interno", "lon": 11.5, "lat": 49.0 },
+   { "t": "Wurtemberg", "tipo": "interno", "lon": 9.2, "lat": 48.5 },
+   { "t": "Mar del Norte", "tipo": "mar", "lon": 6.7, "lat": 54.1 },
+   { "t": "Canal de la Mancha", "tipo": "mar", "lon": 0.1, "lat": 50.45, "partir": true }
+  ],
+  "paradas": [
+   { "lugar": "Tréveris", "fechas": "1818-1835", "lon": 6.641, "lat": 49.757,
+     "t": "Nace el 5 de mayo de 1818, hijo de un abogado de origen judío convertido al protestantismo. Estudia en el instituto de la ciudad hasta 1835. Aquí conoce a Jenny von Westphalen, con quien se casará en 1843." },
+   { "lugar": "Bonn", "fechas": "1835-1836", "lon": 7.099, "lat": 50.734, "det": true,
+     "t": "Empieza Derecho en la universidad. Pasa un año de vida estudiantil más que de estudio, y su padre lo manda a continuar la carrera en Berlín." },
+   { "lugar": "Berlín", "fechas": "1836-1841", "lon": 13.405, "lat": 52.520,
+     "t": "Deja el Derecho por la Filosofía y se une a los jóvenes hegelianos. En 1841 se doctora con una tesis sobre Demócrito y Epicuro: la presenta en la Universidad de Jena, sin pasar por ella." },
+   { "lugar": "Colonia", "fechas": "1842-1843 y 1848-1849", "lon": 6.958, "lat": 50.938, "det": true,
+     "t": "Dirige la <em>Gaceta Renana</em> (<em>Rheinische Zeitung</em>), un diario liberal que el Gobierno prusiano prohíbe en 1843. Vuelve con la revolución de 1848 y funda la <em>Nueva Gaceta Renana</em>; en mayo de 1849 lo expulsan de Prusia, y el último número sale impreso en tinta roja." },
+   { "lugar": "París", "fechas": "1843-1845 y 1849", "lon": 2.352, "lat": 48.857,
+     "t": "Recién casado, llega para publicar una revista con Arnold Ruge. Escribe los <em>Manuscritos económico-filosóficos</em> (1844) y, ese mismo año, comienza su amistad con Friedrich Engels. Francia lo expulsa en 1845, a petición de Prusia; en 1849 vuelve unos meses, camino de Londres." },
+   { "lugar": "Bruselas", "fechas": "1845-1848", "lon": 4.352, "lat": 50.847,
+     "t": "Aquí escribe las <em>Tesis sobre Feuerbach</em> (1845) y, con Engels, <em>La ideología alemana</em> y el <em>Manifiesto comunista</em>, que se publica en Londres en febrero de 1848. Días después estalla la revolución en París, y Bélgica lo expulsa." },
+   { "lugar": "Londres", "fechas": "1849-1883", "lon": -0.128, "lat": 51.507,
+     "t": "Su exilio definitivo: más de treinta años, muchos de ellos en la pobreza y con la ayuda económica de Engels. Estudia economía en la biblioteca del Museo Británico y publica el primer libro de <em>El capital</em> (1867). Muere el 14 de marzo de 1883 y está enterrado en el cementerio de Highgate." }
   ]
  }
 };
