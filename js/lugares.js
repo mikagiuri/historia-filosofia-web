@@ -31,6 +31,18 @@
                            { "1>2": -0.25 } (de la parada 1 a la 2; la de siempre es 0.1; negativo: hacia el otro lado)
      paradas               en orden de llegada; el número es su posición. lugar, fechas, t (qué hizo o escribió allí),
                            lon, lat reales; det: true si se dibuja en el recuadro ampliado
+     sinRuta, sinFronteras (15-11) para un mapa de VARIOS pensadores (los presocráticos): sin línea de viaje y sin
+                           fronteras (ni de época ni de hoy: solo tierra, mar y rótulos de tipo "region")
+     biografia             (en cada parada de un mapa de varios) las claves de BIOGRAFIAS de quienes nacieron o enseñaron
+                           allí: en su ficha sale este mapa con esa ciudad elegida. Se llama así porque ese campo no se traduce
+     grupos                (opcional) botones por escuela bajo el mapa: { t: nombre, paradas: [números], d: una frase };
+                           al pulsar uno, solo quedan a la vista sus ciudades
+     zonas                 (opcional) regiones rayadas: { tipo: "h" (horizontal) o "d" (diagonal), poly: [[lon, lat]…] }
+     grupos[].viajes       flechas en granate que salen al pulsar el grupo: { de, a: número de parada o [lon, lat], dudoso, comba }
+     anio (en una parada)  su año (negativo: antes de Cristo), para la línea del tiempo de un mapa con «grupos»;
+                           anioGrupo: { "índice del grupo": año } si con ese grupo pulsado cuenta otro año (Samos: Pitágoras
+                           hacia el 570, Meliso hacia el 440)
+   Un mapa se pone también en la teoría con <div class="lg-teoria" data-lug="clave"></div> (lugaresEn, en lugaresview.js).
    Los textos de «t» pueden llevar <em> para los títulos de obras. */
 const LUGARES = {
  "nietzsche": {
@@ -309,6 +321,68 @@ const LUGARES = {
      "t": "Filipo II lo llama a la corte de Macedonia, en Pela, para que eduque a su hijo Alejandro, que tiene trece años. Según Plutarco, las lecciones se daban en Mieza, un lugar retirado a unos treinta kilómetros de la capital. Duran unos tres años: en el 340 Alejandro empieza a gobernar en ausencia de su padre. De lo que le enseñó no sabemos casi nada." },
    { "lugar": "Calcis (Eubea)", "fechas": "323-322 a. C.", "lon": 23.595, "lat": 38.463,
      "t": "Al morir Alejandro, en el 323, Atenas se levanta contra Macedonia, y Aristóteles, amigo de los macedonios, es acusado de impiedad. Deja el Liceo a Teofrasto y se retira a Calcis, en la isla de Eubea, donde la familia de su madre tenía una casa. Allí muere al año siguiente, de una enfermedad, a los sesenta y dos años." }
+  ]
+ },
+ "presocraticos": {
+  "titulo": "Los lugares de los presocráticos",
+  "intro": "La filosofía griega no nació en Atenas, sino en las ciudades de la periferia: primero en Jonia, en la costa de Asia Menor, y después en la Magna Grecia, el sur de Italia y Sicilia, adonde llegaron muchos jonios huyendo de los persas. Eran puertos y colonias, abiertos al comercio y a otras culturas. El mapa sigue a los presocráticos ciudad a ciudad, más o menos por orden de aparición.",
+  "nota": "Cada número es una ciudad: la de nacimiento de un pensador o aquella en la que enseñó. Las fechas son aproximadas, y buena parte de lo que se sabe de sus vidas lo cuentan biógrafos muy posteriores, como Diógenes Laercio.",
+  "notaFronteras": "El mapa no dibuja fronteras: entre los siglos VI y V a. C. el mundo griego eran cientos de ciudades independientes, repartidas por las costas del Mediterráneo, y desde el 546 a. C. las de Jonia estaban bajo el rey persa. Solo se nombran las regiones.",
+  "marco": [11.6, 33.4, 29.6, 42.3],
+  "sinRuta": true,
+  "sinFronteras": true,
+  "detalle": { "marco": [26.2, 37.35, 27.75, 38.55], "en": [0.25, 0.52], "ancho": 0.3 },
+  "zonas": [
+   { "tipo": "h", "poly": [[26.15, 38.85], [27.15, 38.85], [27.75, 38.55], [28.0, 38.1], [27.95, 37.6], [27.6, 37.3], [27.1, 37.28], [26.5, 37.55], [25.8, 38.1], [25.8, 38.65]] },
+   { "tipo": "d", "poly": [[14.75, 40.72], [15.6, 40.95], [16.6, 40.85], [17.5, 40.75], [18.7, 40.45], [18.7, 39.6], [17.6, 37.7], [15.66, 37.7], [15.66, 38.32], [15.4, 38.9], [15.25, 39.55], [14.55, 39.95]] },
+   { "tipo": "d", "poly": [[13.1, 38.4], [15.75, 38.4], [15.75, 36.5], [12.9, 36.9]] }
+  ],
+  "grupos": [
+   { "t": "Milesios", "paradas": [1],
+     "d": "Tales, Anaximandro y Anaxímenes, de Mileto, buscan el <em>arjé</em>, el principio del que está hecho todo." },
+   { "t": "Pitagóricos", "paradas": [2, 4], "viajes": [{ "de": 2, "a": 4 }],
+     "d": "Pitágoras nace en Samos y funda su comunidad en Crotona; sus seguidores, como Filolao, ven en los números la clave del universo." },
+   { "t": "Heráclito", "paradas": [5],
+     "d": "Heráclito de Éfeso no tuvo escuela: todo cambia, pero según una ley, el <em>logos</em>." },
+   { "t": "Eléatas", "paradas": [3, 6, 2], "viajes": [{ "de": 3, "a": [15.08, 37.5] }, { "de": [15.08, 37.5], "a": 6, "dudoso": true }],
+     "d": "Parménides y Zenón, de Elea, y Meliso, de Samos: el ser no puede cambiar y los sentidos engañan. La tradición hace de Jenófanes, de Colofón, su precursor." },
+   { "t": "Pluralistas", "paradas": [7, 8, 9], "viajes": [{ "de": 7, "a": 9 }],
+     "d": "Empédocles, de Acragas, y Anaxágoras, de Clazómenas, que enseñó en Atenas: todo está hecho de muchos elementos que se mezclan y se separan." },
+   { "t": "Atomistas", "paradas": [10], "viajes": [{ "de": 1, "a": 10, "dudoso": true }, { "de": 6, "a": 10, "dudoso": true, "comba": -0.12 }],
+     "d": "Leucipo y Demócrito, en Abdera: todo está hecho de átomos que se mueven en el vacío." }
+  ],
+  "rotulos": [
+   { "t": "Magna Grecia", "tipo": "region", "lon": 16.55, "lat": 40.55, "partir": true },
+   { "t": "Sicilia", "tipo": "region", "lon": 14.35, "lat": 37.85 },
+   { "t": "Grecia", "tipo": "region", "lon": 21.9, "lat": 39.45 },
+   { "t": "Tracia", "tipo": "region", "lon": 25.6, "lat": 41.55 },
+   { "t": "Asia Menor", "tipo": "region", "lon": 28.9, "lat": 39.35, "partir": true },
+   { "t": "Mar Egeo", "tipo": "mar", "lon": 25.0, "lat": 38.95 },
+   { "t": "Mar Jónico", "tipo": "mar", "lon": 19.0, "lat": 38.95 },
+   { "t": "Mar Tirreno", "tipo": "mar", "lon": 13.2, "lat": 39.9 },
+   { "t": "Jonia", "tipo": "region", "lon": 27.45, "lat": 38.3, "det": true }
+  ],
+  "paradas": [
+   { "lugar": "Mileto", "anio": -585, "fechas": "s. VI a. C.", "lon": 27.28, "lat": 37.53, "det": true, "biografia": ["tales", "anaximandro", "anaximenes"],
+     "t": "La ciudad más rica de Jonia, un puerto abierto a Egipto, Fenicia y Babilonia. Aquí empiezan la filosofía y la ciencia griegas con tres pensadores que buscan el <em>arjé</em>, el principio de todas las cosas: Tales (el agua), Anaximandro (el <em>ápeiron</em>, lo ilimitado) y Anaxímenes (el aire). Los persas arrasaron Mileto en el 494 a. C. Hoy sus ruinas quedan a unos ocho kilómetros del mar: los sedimentos del río Meandro cegaron la bahía." },
+   { "lugar": "Samos", "anio": -570, "anioGrupo": { "3": -440 }, "fechas": "h. 570-530 a. C. y s. V a. C.", "lon": 26.94, "lat": 37.69, "det": true, "biografia": ["pitagoras", "meliso"],
+     "t": "En esta isla, frente a Mileto, nace Pitágoras hacia el 570 a. C. Hacia el 530 se marcha a Italia, según se cuenta, huyendo del tirano Polícrates. En el siglo siguiente es de Samos Meliso, seguidor de Parménides, que además mandó la flota de la isla contra Atenas." },
+   { "lugar": "Colofón", "anio": -546, "fechas": "h. 570-546 a. C.", "lon": 27.14, "lat": 38.12, "det": true, "biografia": ["jenofanes"],
+     "t": "Patria de Jenófanes. Cuando los persas conquistan Jonia, en el 546 a. C., la deja con unos veinticinco años y pasa el resto de su larga vida viajando por las ciudades griegas, sobre todo de Sicilia, recitando sus versos. En ellos se burla de los dioses con forma humana: si los bueyes supieran pintar, pintarían dioses con forma de buey." },
+   { "lugar": "Crotona", "anio": -530, "fechas": "desde h. 530 a. C.", "lon": 17.12, "lat": 39.08, "biografia": ["pitagoras", "filolao"],
+     "t": "En esta colonia del sur de Italia funda Pitágoras una comunidad de vida en común, con reglas sobre la comida y el silencio, que estudia los números como clave del universo y llega a gobernar la ciudad. Una revuelta acaba con su poder y Pitágoras muere en la vecina Metaponto. De Crotona es también Filolao (s. V a. C.), el primer pitagórico que escribió un libro." },
+   { "lugar": "Éfeso", "anio": -500, "fechas": "h. 540-480 a. C.", "lon": 27.34, "lat": 37.94, "det": true, "biografia": ["heraclito"],
+     "t": "Heráclito, de familia noble, vive aquí apartado de la política y de la gente. Dice que todo cambia, como un río en el que no podemos bañarnos dos veces, pero que el cambio sigue una ley, el <em>logos</em>. Lo llamaban «el Oscuro» por su estilo, y según la tradición dejó su libro en el templo de Ártemis." },
+   { "lugar": "Elea", "anio": -480, "fechas": "s. V a. C.", "lon": 15.15, "lat": 40.16, "biografia": ["parmenides", "zenon_elea"],
+     "t": "Colonia fundada hacia el 540 a. C. en el sur de Italia por jonios de Focea que huían de los persas. Aquí Parménides escribe un poema sobre el ser: lo que es, es, y no puede cambiar ni dejar de ser; los sentidos engañan. Según la tradición dio leyes a la ciudad. Su discípulo Zenón lo defiende con paradojas como la de Aquiles y la tortuga." },
+   { "lugar": "Clazómenas", "anio": -500, "fechas": "h. 500 a. C.", "lon": 26.77, "lat": 38.36, "det": true, "biografia": ["anaxagoras"],
+     "t": "Ciudad jonia en la que nace Anaxágoras, de familia rica. Según se cuenta, deja sus bienes a sus parientes para dedicarse a estudiar la naturaleza. Para él, todo está en todo, mezclado en partes diminutas, y lo ordena una inteligencia, el <em>noûs</em>." },
+   { "lugar": "Acragas (Agrigento)", "anio": -465, "fechas": "h. 495-435 a. C.", "lon": 13.58, "lat": 37.31, "biografia": ["empedocles"],
+     "t": "Rica ciudad griega del sur de Sicilia. Empédocles, de familia noble, defiende aquí la democracia y, según la tradición, rechaza ser rey. Enseña que todo está hecho de cuatro raíces (tierra, agua, aire y fuego), que unen el Amor y separan el Odio. La leyenda dice que murió arrojándose al Etna." },
+   { "lugar": "Atenas", "anio": -455, "fechas": "h. 460-430 a. C.", "lon": 23.73, "lat": 37.98, "biografia": ["anaxagoras"],
+     "t": "Anaxágoras trae la filosofía de Jonia a Atenas, donde vive unos treinta años y es amigo de Pericles. Acusado de impiedad por decir que el Sol es una piedra incandescente, se va a Lámpsaco, donde muere hacia el 428 a. C. Según Platón, hacia el 450 visitaron Atenas Parménides y Zenón; Demócrito, en cambio, contaba que estuvo allí y nadie lo conoció." },
+   { "lugar": "Abdera", "anio": -430, "fechas": "s. V a. C.", "lon": 24.98, "lat": 40.94, "biografia": ["leucipo", "democrito"],
+     "t": "Colonia jonia en la costa de Tracia. Aquí enseña Demócrito (h. 460-370 a. C.): todo está hecho de átomos, partículas indivisibles que se mueven en el vacío. Aprendió la idea de Leucipo, de quien se sabe muy poco; la tradición lo sitúa en Abdera, aunque otros lo hacen de Mileto o de Elea. También era de Abdera el sofista Protágoras." }
   ]
  }
 };
